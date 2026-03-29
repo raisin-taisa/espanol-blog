@@ -1,0 +1,194 @@
+{
+  "grammar": [
+    {
+      "level": "a1",
+      "count": 5,
+      "slugs": [
+        "ser-estar",
+        "presente-indicativo",
+        "articulos",
+        "genero-numero",
+        "pronombres-personales"
+      ]
+    },
+    {
+      "level": "a2",
+      "count": 5,
+      "slugs": [
+        "verbos-irregulares-presente",
+        "preterito-indefinido",
+        "verbos-reflexivos",
+        "gustar-verbos-similares",
+        "comparativos-superlativos"
+      ]
+    },
+    {
+      "level": "b1",
+      "count": 5,
+      "slugs": [
+        "subjuntivo-presente",
+        "preterito-vs-imperfecto",
+        "condicional-si-clauses",
+        "por-vs-para",
+        "imperativo"
+      ]
+    },
+    {
+      "level": "b2",
+      "count": 8,
+      "slugs": [
+        "subjuntivo-imperfecto",
+        "condicional-compuesto",
+        "oraciones-condicionales",
+        "estilo-indirecto",
+        "voz-pasiva",
+        "subjuntivo-perfecto",
+        "perifrasis-verbales",
+        "conectores-discursivos"
+      ]
+    },
+    {
+      "level": "c1",
+      "count": 8,
+      "slugs": [
+        "subjuntivo-avanzado",
+        "oraciones-concesivas",
+        "oraciones-temporales-avanzadas",
+        "nominalizacion",
+        "registro-formal",
+        "clausulas-relativas-avanzadas",
+        "verbos-de-cambio",
+        "expresiones-idiomaticas-gramaticales"
+      ]
+    },
+    {
+      "level": "c2",
+      "count": 8,
+      "slugs": [
+        "matices-subjuntivo",
+        "leismo-laismo-loismo",
+        "perifrasis-avanzadas",
+        "estilistica-literaria",
+        "regionalismos-gramaticales",
+        "registro-academico",
+        "pragmatica-discursiva",
+        "errores-nativos"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "level": "a1",
+      "totalWords": 500
+    },
+    {
+      "level": "a2",
+      "totalWords": 500
+    },
+    {
+      "level": "b1",
+      "totalWords": 600
+    },
+    {
+      "level": "b2",
+      "totalWords": 700
+    },
+    {
+      "level": "c1",
+      "totalWords": 400
+    },
+    {
+      "level": "c2",
+      "totalWords": 400
+    }
+  ],
+  "phrases": [
+    {
+      "scenario": "business",
+      "totalPhrases": 20
+    },
+    {
+      "scenario": "business_advanced",
+      "totalPhrases": 40
+    },
+    {
+      "scenario": "daily_life",
+      "totalPhrases": 20
+    },
+    {
+      "scenario": "emergency",
+      "totalPhrases": 20
+    },
+    {
+      "scenario": "japan-intro-culture",
+      "totalPhrases": 60
+    },
+    {
+      "scenario": "japan-intro-society",
+      "totalPhrases": 70
+    },
+    {
+      "scenario": "medical",
+      "totalPhrases": 20
+    },
+    {
+      "scenario": "restaurant",
+      "totalPhrases": 20
+    },
+    {
+      "scenario": "romance",
+      "totalPhrases": 40
+    },
+    {
+      "scenario": "shopping",
+      "totalPhrases": 20
+    },
+    {
+      "scenario": "sports",
+      "totalPhrases": 20
+    },
+    {
+      "scenario": "study_abroad",
+      "totalPhrases": 40
+    },
+    {
+      "scenario": "travel",
+      "totalPhrases": 20
+    }
+  ],
+  "constructions": [
+    {
+      "category": "義務・必要",
+      "count": 10
+    },
+    {
+      "category": "習慣・慣れ",
+      "count": 10
+    },
+    {
+      "category": "開始・終了",
+      "count": 10
+    },
+    {
+      "category": "継続・進行",
+      "count": 10
+    },
+    {
+      "category": "意図・可能",
+      "count": 10
+    },
+    {
+      "category": "推測・確率",
+      "count": 10
+    },
+    {
+      "category": "状態変化",
+      "count": 10
+    },
+    {
+      "category": "結果・条件",
+      "count": 10
+    }
+  ],
+  "totalArticles": 66
+}
