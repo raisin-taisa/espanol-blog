@@ -1,0 +1,499 @@
+{
+  "id": "c1-grammar-007",
+  "slug": "verbos-de-cambio",
+  "titleJa": "変化動詞（ponerse, volverse, hacerse, quedarse, convertirse en）",
+  "titleEs": "Verbos de cambio",
+  "level": "c1",
+  "sortOrder": 7,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "変化動詞とは？「〜になる」の多様な表現",
+        "bodyJa": "日本語では「〜になる」の一語で済むところが、スペイン語では変化の種類によって異なる動詞を使い分けます。\n\nこれはスペイン語学習者にとって最も混乱しやすいポイントの一つです。\n\n主な変化動詞は6つ：\n1. ponerse：一時的な感情・状態の変化\n2. volverse：性格・本質の変化（不可逆的）\n3. hacerse：意図的・漸進的な変化\n4. quedarse：結果として「〜のままになる」\n5. convertirse en：完全な変身・変換\n6. llegar a ser：長い努力の末に「〜になる」\n\n英語の become は一語ですが、スペイン語には6つの選択肢があるのです。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "ponerse：一時的な感情・身体状態の変化",
+        "bodyJa": "ponerse は一時的で瞬間的な変化を表します。\n特に感情や身体的状態の変化に使います。\n\nponerse + 形容詞\n\n感情の変化：\n・ponerse nervioso/a（緊張する）\n・ponerse contento/a（嬉しくなる）\n・ponerse triste（悲しくなる）\n・ponerse furioso/a（激怒する）\n・ponerse celoso/a（嫉妬する）\n\n身体の変化：\n・ponerse rojo/a（赤くなる＝恥ずかしい・怒り）\n・ponerse pálido/a（青ざめる）\n・ponerse enfermo/a（病気になる）\n・ponerse gordo/a（太る）← 一時的な変化として\n\n例文：\n・Se puso rojo cuando la vio.（彼女を見たとき赤くなった）\n・Mi madre se pone nerviosa cuando viajo.（僕が旅行すると母は心配になる）\n\nポイント：ponerse は「パッと変わる」イメージ。元に戻れる一時的な変化です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "volverse：性格・本質的な変化（通常は不可逆的）",
+        "bodyJa": "volverse は性格や本質が根本的に変わることを表します。\n元には戻りにくい変化で、しばしばネガティブなニュアンスがあります。\n\nvolverse + 形容詞\n\n・volverse loco/a（おかしくなる・狂う）\n・volverse egoísta（利己的になる）\n・volverse antipático/a（感じ悪くなる）\n・volverse desconfiado/a（疑い深くなる）\n・volverse introvertido/a（内向的になる）\n\n例文：\n・Desde que tiene dinero, se ha vuelto muy arrogante.（金持ちになってから、とても傲慢になった）\n・Con los años, se volvió más paciente.（年とともに、より忍耐強くなった）\n\nponerse との違い：\n・Se puso triste.（悲しくなった）← 一時的\n・Se volvió triste.（悲しい人になった）← 性格が変わった\n\nvolverse は「人が根本的に変わってしまった」というニュアンスです。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "hacerse：意図的・漸進的な変化、宗教・思想",
+        "bodyJa": "hacerse は自分の意志や努力による変化、または徐々に起こる変化を表します。\n\nhacerse + 形容詞/名詞\n\n意図的な変化（職業・宗教・思想）：\n・hacerse médico/a（医者になる）\n・hacerse cristiano/a（キリスト教徒になる）\n・hacerse vegano/a（ヴィーガンになる）\n・hacerse famoso/a（有名になる）\n・hacerse rico/a（金持ちになる）\n\n漸進的な変化：\n・hacerse mayor（年をとる）\n・hacerse tarde（遅くなる）← 非人称\n・hacerse de noche（夜になる）← 非人称\n\n例文：\n・Se hizo abogada después de 6 años de estudio.（6年間の勉強の末、弁護士になった）\n・Se está haciendo tarde, vámonos.（遅くなってきた、行こう）\n\nhacerse は「自分で努力して〜になる」または「徐々に〜になる」イメージです。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "quedarse：結果として「〜の状態になる」",
+        "bodyJa": "quedarse は何かの結果として「〜の状態になる・〜のままでいる」を表します。\n受動的なニュアンスがあり、予期しない結果を表すことが多いです。\n\nquedarse + 形容詞/過去分詞\n\n・quedarse sorprendido/a（驚いた状態になる）\n・quedarse callado/a（黙り込む）\n・quedarse dormido/a（寝てしまう）\n・quedarse sin trabajo（失業する）← quedarse sin + 名詞\n・quedarse en blanco（頭が真っ白になる）\n・quedarse embarazada（妊娠する）\n・quedarse viudo/a（未亡人になる）\n・quedarse ciego/a（失明する）\n\n例文：\n・Me quedé dormido en el tren y pasé mi estación.（電車で寝てしまい、駅を通り過ぎた）\n・Se quedó sin palabras cuando lo supo.（それを知ったとき言葉を失った）\n\nquedarse は「〜してしまった」「〜の結果になった」という受動的・偶発的な変化です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "convertirse en / llegar a ser：劇的な変化と達成",
+        "bodyJa": "convertirse en は完全な変身・変換を表します。名詞と一緒に使います。\n\nconvertirse en + 名詞\n\n・El agua se convirtió en hielo.（水が氷になった）\n・La empresa se convirtió en líder del mercado.（その企業は市場のリーダーになった）\n・Se convirtió en una persona completamente diferente.（完全に別人になった）\n\nllegar a ser は長い過程や努力の末に「〜になる」ことを表します。\n\nllegar a ser + 名詞/形容詞\n\n・Llegó a ser presidente de la empresa.（会社の社長にまでなった）\n・Con esfuerzo, puedes llegar a ser lo que quieras.（努力すれば何にでもなれる）\n・Llegó a ser muy conocida en su campo.（彼女はその分野で非常に有名になった）\n\n違い：\n・convertirse en → 変身のイメージ（劇的・完全な変化）\n・llegar a ser → 到達のイメージ（長い過程を経て）"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Se puso rojo cuando le hicieron la pregunta.",
+            "ja": "質問されたとき赤くなった。",
+            "noteJa": "ponerse + 形容詞。一時的な身体反応。恥ずかしさによる変化。"
+          },
+          {
+            "es": "Desde que vive solo, se ha vuelto muy independiente.",
+            "ja": "一人暮らしを始めてから、とても自立的になった。",
+            "noteJa": "volverse + 形容詞。性格の根本的変化。"
+          },
+          {
+            "es": "Mi vecino se hizo vegano el año pasado.",
+            "ja": "隣人は去年ヴィーガンになった。",
+            "noteJa": "hacerse + 名詞。意図的な変化（ライフスタイルの選択）。"
+          },
+          {
+            "es": "Me quedé dormido durante la película.",
+            "ja": "映画の途中で寝てしまった。",
+            "noteJa": "quedarse + 過去分詞。意図しない結果。"
+          },
+          {
+            "es": "La oruga se convierte en mariposa.",
+            "ja": "芋虫は蝶になる。",
+            "noteJa": "convertirse en + 名詞。完全な変身。"
+          },
+          {
+            "es": "Llegó a ser la mejor cirujana del país.",
+            "ja": "国で最高の外科医にまでなった。",
+            "noteJa": "llegar a ser + 名詞。長い努力の末の達成。"
+          },
+          {
+            "es": "Se está haciendo de noche, deberíamos volver.",
+            "ja": "暗くなってきた、帰った方がいい。",
+            "noteJa": "hacerse de noche。非人称の漸進的変化。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Se volvió rojo.（一時的に顔が赤くなった場合）",
+            "correct": "Se puso rojo.",
+            "whyJa": "一時的な身体変化は ponerse。volverse は性格の根本的変化。「赤い人になった」ではなく「一時的に赤くなった」なら ponerse。"
+          },
+          {
+            "wrong": "Se puso loco.（性格が根本的に変わった場合）",
+            "correct": "Se volvió loco.",
+            "whyJa": "性格の根本的変化は volverse。ponerse loco は「一時的にキレた」の意味になる。「狂ってしまった」なら volverse。"
+          },
+          {
+            "wrong": "Se hizo sorprendido.（驚いた結果として）",
+            "correct": "Se quedó sorprendido.",
+            "whyJa": "予期しない結果として「驚いた状態になった」は quedarse。hacerse は意図的な変化に使う。"
+          },
+          {
+            "wrong": "Se convirtió famoso.",
+            "correct": "Se hizo famoso. / Llegó a ser famoso.",
+            "whyJa": "convertirse は en + 名詞と使う（convertirse en + 名詞）。形容詞と直接は使えない。「有名になった」は hacerse famoso。"
+          },
+          {
+            "wrong": "Se quedó médico.",
+            "correct": "Se hizo médico. / Llegó a ser médico.",
+            "whyJa": "職業に就くのは意図的な変化なので hacerse、または長い努力の末なら llegar a ser。quedarse は受動的な結果。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "Me puse tan nervioso en la entrevista que se me olvidó todo 😰",
+            "ja": "面接で緊張しすぎて全部忘れた😰",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "ponerse nervioso。一時的な感情の変化。面接あるある。"
+          },
+          {
+            "es": "Desde que se casó, se ha vuelto súper responsable. ¿Quién lo diría? 😂",
+            "ja": "結婚してからめちゃくちゃ責任感が出てきた。誰が想像した？😂",
+            "source": "conversation",
+            "sourceLabel": "友達との会話",
+            "noteJa": "volverse + 形容詞。性格の根本的変化。¿Quién lo diría? = 「誰が想像した？」"
+          },
+          {
+            "es": "Me quedé en blanco en el examen oral. Quiero llorar 😭",
+            "ja": "口頭試験で頭が真っ白になった。泣きたい😭",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "quedarse en blanco = 頭が真っ白になる。試験あるある。"
+          },
+          {
+            "es": "Mi amiga dejó su trabajo de oficina y se convirtió en nómada digital.",
+            "ja": "友達がオフィスワークを辞めてデジタルノマドになった。",
+            "source": "conversation",
+            "sourceLabel": "友達の話",
+            "noteJa": "convertirse en + 名詞。ライフスタイルの劇的な変化。"
+          },
+          {
+            "es": "Se está haciendo tarde y todavía no he empezado a estudiar... 📚",
+            "ja": "遅くなってきたのにまだ勉強始めてない…📚",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "hacerse tarde。非人称の漸進的変化。学生あるある。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "Cuando supo la noticia, se ___ muy triste. (一時的な感情変化)",
+            "options": [
+              "puso",
+              "quedó",
+              "volvió",
+              "hizo"
+            ],
+            "answer": 0,
+            "explanationJa": "一時的な感情の変化は ponerse。ニュースを聞いて「悲しくなった」瞬間の変化。"
+          },
+          {
+            "prompt": "Con los años, se ___ más tolerante. (性格の変化)",
+            "options": [
+              "quedó",
+              "volvió",
+              "hizo",
+              "puso"
+            ],
+            "answer": 1,
+            "explanationJa": "性格の根本的変化は volverse。「年とともに寛容になった」= 性格が変わった。"
+          },
+          {
+            "prompt": "Mi hermana se ___ abogada después de muchos años de estudio.",
+            "options": [
+              "volvió",
+              "puso",
+              "hizo",
+              "quedó"
+            ],
+            "answer": 2,
+            "explanationJa": "意図的な努力による変化（職業に就く）は hacerse。llegar a ser も可。"
+          },
+          {
+            "prompt": "Me ___ dormido en clase. ¡Qué vergüenza!",
+            "options": [
+              "hice",
+              "quedé",
+              "volví",
+              "puse"
+            ],
+            "answer": 1,
+            "explanationJa": "意図しない結果は quedarse。「授業中に寝てしまった」= 予期しない状態。"
+          },
+          {
+            "prompt": "El agua se ___ en vapor cuando se calienta.",
+            "options": [
+              "convierte",
+              "queda",
+              "pone",
+              "vuelve"
+            ],
+            "answer": 0,
+            "explanationJa": "物質の完全な変換は convertirse en。「水が蒸気になる」= 完全な変身。"
+          },
+          {
+            "prompt": "「彼女はついに社長になった（長い努力の末）」の正しい表現は？",
+            "options": [
+              "Se quedó presidenta.",
+              "Se volvió presidenta.",
+              "Se puso presidenta.",
+              "Llegó a ser presidenta."
+            ],
+            "answer": 3,
+            "explanationJa": "長い過程を経て達成する変化は llegar a ser。hacerse も可だが、llegar a ser は特に「ついに〜になった」の達成感がある。"
+          },
+          {
+            "prompt": "Se está ___ de noche, vamos a casa. (hacerse)",
+            "options": [
+              "poniendo",
+              "quedando",
+              "volviendo",
+              "haciendo"
+            ],
+            "answer": 3,
+            "explanationJa": "hacerse de noche = 夜になる。非人称の漸進的変化。se está haciendo で進行形。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Cuando vio al perro enorme, se ___ pálida. (一時的な身体変化)",
+            "answer": "puso",
+            "options": [
+              "puso",
+              "quedó",
+              "hizo",
+              "volvió"
+            ],
+            "explanationJa": "一時的な身体変化は ponerse。顔が青ざめた = se puso pálida。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Desde que perdió el trabajo, se ha ___ muy pesimista. (性格の変化)",
+            "answer": "vuelto",
+            "options": [
+              "puesto",
+              "vuelto",
+              "hecho",
+              "quedado"
+            ],
+            "explanationJa": "性格の根本的変化は volverse。「悲観的になった」= 性格が変わった。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Mi amigo se ___ vegetariano el año pasado. (意図的な変化)",
+            "answer": "hizo",
+            "options": [
+              "puso",
+              "hizo",
+              "quedó",
+              "volvió"
+            ],
+            "explanationJa": "意図的なライフスタイルの選択は hacerse。「ベジタリアンになった」= 自分の意志。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Me ___ dormido en el sofá viendo la tele. (意図しない結果)",
+            "answer": "quedé",
+            "options": [
+              "hice",
+              "volví",
+              "quedé",
+              "puse"
+            ],
+            "explanationJa": "意図しない結果は quedarse。「テレビを見ていたら寝てしまった」。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "La oruga se ___ en mariposa. (完全な変身)",
+            "answer": "convierte",
+            "options": [
+              "vuelve",
+              "convierte",
+              "hace",
+              "pone"
+            ],
+            "explanationJa": "完全な変身・変換は convertirse en。「芋虫が蝶になる」。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Con mucho esfuerzo, ___ a ser directora de la empresa. (長い努力の末)",
+            "answer": "llegó",
+            "options": [
+              "se puso",
+              "se quedó",
+              "llegó",
+              "se hizo"
+            ],
+            "explanationJa": "長い過程の末に達成する変化は llegar a ser。「ついに取締役になった」。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Se está ___ de noche, deberíamos volver. (hacerse)",
+            "answer": "haciendo",
+            "options": [
+              "poniendo",
+              "volviendo",
+              "quedando",
+              "haciendo"
+            ],
+            "explanationJa": "hacerse de noche = 夜になる。非人称の漸進的変化。進行形で haciendo。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Cuando le dije la verdad, se ___ sin palabras. (結果として)",
+            "answer": "quedó",
+            "options": [
+              "puso",
+              "hizo",
+              "volvió",
+              "quedó"
+            ],
+            "explanationJa": "quedarse sin palabras = 言葉を失う。予期しない結果として。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Se ___ rojo cuando la profesora le hizo una pregunta.",
+            "answer": "puso",
+            "options": [
+              "hizo",
+              "volvió",
+              "puso",
+              "quedó"
+            ],
+            "explanationJa": "一時的な身体変化（恥ずかしさで赤くなる）は ponerse。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "La pequeña empresa se ___ en una multinacional. (劇的な変化)",
+            "answer": "convirtió",
+            "options": [
+              "volvió",
+              "puso",
+              "quedó",
+              "convirtió"
+            ],
+            "explanationJa": "convertirse en + 名詞。完全な変換。小さな会社が多国籍企業に変わった。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Se volvió rojo de vergüenza. (一時的な身体反応)",
+            "answer": "Se puso rojo de vergüenza.",
+            "explanationJa": "一時的な身体変化は ponerse。volverse は性格の根本的変化。「赤くなった」は ponerse。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Se puso loco después del accidente. (性格が根本的に変わった場合)",
+            "answer": "Se volvió loco después del accidente.",
+            "explanationJa": "性格の根本的変化は volverse。ponerse loco は「一時的にキレた」の意味。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Se convirtió famoso gracias a esa película.",
+            "answer": "Se hizo famoso gracias a esa película.",
+            "explanationJa": "convertirse は en + 名詞と使う。形容詞と直接は使えない。famoso は形容詞なので hacerse。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Se quedó médico después de estudiar seis años.",
+            "answer": "Se hizo médico después de estudiar seis años.",
+            "explanationJa": "職業に就くのは意図的な変化なので hacerse。quedarse は受動的な結果に使う。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Se hizo sorprendido cuando oyó la noticia.",
+            "answer": "Se quedó sorprendido cuando oyó la noticia.",
+            "explanationJa": "予期しない結果として「驚いた状態になった」は quedarse。hacerse は意図的変化。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "ponerse と volverse の主な違いは？",
+            "options": [
+              "ponerse は過去、volverse は現在",
+              "ponerse はフォーマル、volverse はカジュアル",
+              "ponerse は一時的、volverse は根本的・不可逆的",
+              "意味は同じ"
+            ],
+            "answer": 2,
+            "explanationJa": "ponerse = パッと変わる一時的な変化。volverse = 性格や本質が根本的に変わる（戻りにくい）。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "hacerse が使われるのはどんな変化？",
+            "options": [
+              "意図的な変化や漸進的な変化",
+              "一時的な感情変化",
+              "意図しない結果",
+              "完全な物質の変換"
+            ],
+            "answer": 0,
+            "explanationJa": "hacerse = 自分の意志による変化（職業、宗教）や徐々に起こる変化（hacerse tarde）。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「頭が真っ白になった」の正しい表現は？",
+            "options": [
+              "Se quedó en blanco.",
+              "Se puso en blanco.",
+              "Se hizo en blanco.",
+              "Se volvió en blanco."
+            ],
+            "answer": 0,
+            "explanationJa": "quedarse en blanco = 頭が真っ白になる。予期しない結果として。慣用表現。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "convertirse en の特徴は？",
+            "options": [
+              "形容詞と使う",
+              "一時的な変化を表す",
+              "名詞と使い、完全な変身を表す",
+              "意図的な努力を表す"
+            ],
+            "answer": 2,
+            "explanationJa": "convertirse en + 名詞で完全な変身・変換。形容詞とは直接使えない。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "llegar a ser と hacerse の違いは？",
+            "options": [
+              "llegar a ser はカジュアル、hacerse はフォーマル",
+              "llegar a ser は否定的、hacerse は肯定的",
+              "意味は同じ",
+              "llegar a ser は長い過程を経た達成、hacerse は意図的な変化"
+            ],
+            "answer": 3,
+            "explanationJa": "llegar a ser = 長い努力の末の到達。hacerse = 意図的に〜になる。llegar a ser にはより大きな達成感がある。"
+          },
+          {
+            "type": "translation",
+            "prompt": "面接で緊張しすぎて全部忘れた。",
+            "answer": "Me puse tan nervioso en la entrevista que se me olvidó todo.",
+            "acceptableAnswers": [
+              "Me puse muy nervioso en la entrevista y se me olvidó todo."
+            ],
+            "explanationJa": "ponerse nervioso = 緊張する。一時的な感情変化。"
+          },
+          {
+            "type": "translation",
+            "prompt": "結婚してからとても責任感が出てきた。",
+            "answer": "Desde que se casó, se ha vuelto muy responsable.",
+            "acceptableAnswers": [
+              "Se ha vuelto muy responsable desde que se casó."
+            ],
+            "explanationJa": "volverse + 形容詞。性格の根本的変化。"
+          },
+          {
+            "type": "translation",
+            "prompt": "彼女は6年間の勉強の末に弁護士になった。",
+            "answer": "Se hizo abogada después de seis años de estudio.",
+            "acceptableAnswers": [
+              "Llegó a ser abogada después de seis años de estudio."
+            ],
+            "explanationJa": "hacerse + 職業名。意図的な努力による変化。llegar a ser も可。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "Estaba contento, pero después de la noticia estaba triste.（ponerse を使って書き換えなさい）",
+            "answer": "Estaba contento, pero después de la noticia se puso triste.",
+            "explanationJa": "ponerse triste = 悲しくなった。一時的な感情変化。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "Antes era simpático, pero ahora es muy antipático.（volverse を使って書き換えなさい）",
+            "answer": "Se ha vuelto muy antipático.",
+            "explanationJa": "volverse antipático = 感じ悪くなった。性格の根本的な変化。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "ponerse：一時的な感情・身体の変化（ponerse nervioso, rojo, enfermo）",
+      "volverse：性格・本質の根本的変化（volverse loco, egoísta）。通常は不可逆的",
+      "hacerse：意図的な変化や漸進的変化（hacerse médico, famoso, tarde）",
+      "quedarse：予期しない結果としての状態変化（quedarse dormido, sin trabajo, en blanco）",
+      "convertirse en + 名詞：完全な変身・変換（形容詞とは直接使えない）",
+      "llegar a ser：長い努力や過程の末の達成（llegar a ser presidente）"
+    ]
+  }
+}

@@ -1,0 +1,499 @@
+{
+  "id": "b2-grammar-007",
+  "slug": "perifrasis-verbales",
+  "titleJa": "動詞句（ペリフラシス）：スペイン語の句動詞",
+  "titleEs": "Perífrasis Verbales",
+  "level": "b2",
+  "sortOrder": 7,
+  "hasRegionalVariants": true,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "ペリフラシスとは？動詞の組み合わせで微妙なニュアンスを出す",
+        "bodyJa": "スペイン語のペリフラシス（perífrasis verbales）とは、「補助動詞 + 不定詞 / 現在分詞 / 過去分詞」の組み合わせで、単独の動詞では表せないニュアンスを出す表現です。\n\n日本語の「〜し始める」「〜し続ける」「〜してしまう」に近い概念です。\n\n例えば：\nestudiar（勉強する）だけでは「勉強の開始」「勉強の継続」「勉強をやめた」などの情報が入りません。\n\nempezar a estudiar → 勉強し始める\nseguir estudiando → 勉強し続ける\ndejar de estudiar → 勉強をやめる\nacabar de estudiar → 勉強し終えたところ\n\nネイティブはこれらを日常的に多用します。\n単純時制だけでは不自然な場面が多いので、B2レベルではペリフラシスの習得が必須です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "開始のペリフラシス：「〜し始める」",
+        "bodyJa": "動作の開始を表すペリフラシスには3つのバリエーションがあります。\n\n1. empezar a + 不定詞（最も一般的）\n   Empecé a estudiar español hace dos años.\n   （2年前にスペイン語を勉強し始めた）\n\n2. ponerse a + 不定詞（突然・急に始める）\n   De repente se puso a llover.\n   （突然雨が降り出した）\n   ¡No te pongas a llorar!\n   （泣き出さないで！）\n\n3. comenzar a + 不定詞（empezar よりフォーマル）\n   La empresa comenzó a operar en 2010.\n   （会社は2010年に営業を開始した）\n\n使い分けのコツ：\n・普通に「始める」→ empezar a\n・突然・予期せず始まる → ponerse a\n・フォーマル・書き言葉 → comenzar a\n\nponerse a は日本語の「〜し出す」に近い感覚です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "継続のペリフラシス：「〜し続ける」「〜してからどれくらい」",
+        "bodyJa": "動作の継続を表すペリフラシスは2つが特に重要です。\n\n1. seguir + 現在分詞（〜し続ける）\n   Sigo estudiando español.\n   （スペイン語を勉強し続けている）\n   ¿Sigues viviendo en Tokio?\n   （まだ東京に住んでいるの？）\n\n2. llevar + 時間 + 現在分詞（〜してから○○経つ）\n   Llevo tres años estudiando español.\n   （スペイン語を勉強して3年になる）\n   Llevamos dos horas esperando.\n   （2時間待っている）\n\nllevar + 時間 + 現在分詞 は英語の \"I have been ~ing for...\" に相当します。\nこれは日本語話者がなかなか使えない表現ですが、ネイティブは毎日のように使います。\n\n注意：llevar のこの使い方では、llevar 自体は現在形で使います。「3年前から今まで」という現在完了的なニュアンスですが、スペイン語では現在形です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "終了・中断のペリフラシス：「〜し終える」「〜をやめる」",
+        "bodyJa": "動作の終了や中断を表すペリフラシスです。\n\n1. acabar de + 不定詞（〜したばかり）\n   Acabo de llegar.\n   （今着いたばかりです）\n   Acabamos de comer.\n   （食べたばかりです）\n\n2. dejar de + 不定詞（〜するのをやめる）\n   Dejé de fumar hace un año.\n   （1年前にタバコをやめた）\n   No dejo de pensar en ti.\n   （君のことを考えずにいられない）\n\n3. terminar de + 不定詞（〜し終える）\n   ¿Has terminado de comer?\n   （食べ終わった？）\n\n4. acabar + 現在分詞（結局〜することになる）\n   Acabé comprando el más caro.\n   （結局一番高いのを買ってしまった）\n\nacabar de と acabar + 現在分詞は意味がまったく違うので注意してください。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "その他の重要なペリフラシス",
+        "bodyJa": "B2で覚えておくべきその他のペリフラシスです。\n\n1. volver a + 不定詞（もう一度〜する）\n   Volvió a llamarme.\n   （また電話してきた）\n   No vuelvas a hacer eso.\n   （二度とそんなことするな）\n\n2. ir + 現在分詞（だんだん〜していく）\n   El español va mejorando poco a poco.\n   （スペイン語は少しずつ良くなっていっている）\n\n3. tener que + 不定詞（〜しなければならない）※B1復習\n   Tengo que irme ya.\n   （もう行かなきゃ）\n\n4. deber de + 不定詞（〜に違いない）※推量\n   Debe de estar en casa.\n   （家にいるに違いない）\n   注意：deber + 不定詞（de なし）= 義務、deber de + 不定詞 = 推量\n\n5. soler + 不定詞（普段〜する）\n   Suelo desayunar a las 7.\n   （普段7時に朝食を食べる）"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Llevo cinco años viviendo en Madrid.",
+            "ja": "マドリードに住んで5年になる。",
+            "noteJa": "llevar + 時間 + 現在分詞。英語の \"I have been living in Madrid for 5 years\" に相当。"
+          },
+          {
+            "es": "Acabo de hablar con mi madre por teléfono.",
+            "ja": "さっき母と電話で話したばかりだ。",
+            "noteJa": "acabar de + 不定詞 = 「〜したばかり」。直近の完了。"
+          },
+          {
+            "es": "Se puso a llover justo cuando salimos de casa.",
+            "ja": "家を出たちょうどそのとき、雨が降り出した。",
+            "noteJa": "ponerse a + 不定詞 = 突然始まる。justo cuando は「ちょうど〜したとき」。"
+          },
+          {
+            "es": "Mi abuelo dejó de conducir a los 80 años.",
+            "ja": "祖父は80歳で運転をやめた。",
+            "noteJa": "dejar de + 不定詞 = 「〜するのをやめる」。"
+          },
+          {
+            "es": "¿Sigues saliendo con Ana?",
+            "ja": "まだアナと付き合ってるの？",
+            "noteJa": "seguir + 現在分詞 = 「まだ〜し続けている」。salir con = 「付き合う」。"
+          },
+          {
+            "es": "Acabé aceptando su propuesta después de pensarlo mucho.",
+            "ja": "よく考えた末、結局彼の提案を受け入れてしまった。",
+            "noteJa": "acabar + 現在分詞 = 「結局〜することになる」。acabar de とは意味が違うので注意。"
+          },
+          {
+            "es": "Volvió a suspender el examen de conducir.",
+            "ja": "また運転免許の試験に落ちた。",
+            "noteJa": "volver a + 不定詞 = 「もう一度〜する」。suspender = 「（試験に）落ちる」。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Llevo tres años que estudio español.",
+            "correct": "Llevo tres años estudiando español.",
+            "whyJa": "llevar + 時間 + 現在分詞の形。que + 直説法ではありません。日本語話者は「3年間スペイン語を勉強している」から直訳しようとして、que 節を使いがちです。"
+          },
+          {
+            "wrong": "Acabé de comprar el más caro.",
+            "correct": "Acabé comprando el más caro.",
+            "whyJa": "「結局〜した」は acabar + 現在分詞。acabar de + 不定詞は「〜したばかり」という別の意味になります。"
+          },
+          {
+            "wrong": "Dejé fumar.",
+            "correct": "Dejé de fumar.",
+            "whyJa": "「〜するのをやめる」は dejar de + 不定詞。de を忘れると「タバコを置いた」のような意味になってしまいます。前置詞を忘れないように。"
+          },
+          {
+            "wrong": "Ella puso a llorar.",
+            "correct": "Ella se puso a llorar.",
+            "whyJa": "ponerse a の ponerse は再帰動詞。se を忘れると意味が変わります。「自分が〜し始める」なので再帰形が必要。"
+          },
+          {
+            "wrong": "Debe estar en casa. (推量の意味で)",
+            "correct": "Debe de estar en casa.",
+            "whyJa": "推量（〜に違いない）は deber de + 不定詞。de なしの deber + 不定詞は義務（〜しなければならない）。ただし実際の会話では混同して使われることも多いです。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！ペリフラシスの日常会話",
+        "items": [
+          {
+            "es": "Llevo una hora esperando el autobús y todavía no llega 🤬🚌",
+            "ja": "バスを1時間も待っているのにまだ来ない🤬🚌",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "llevar + 時間 + 現在分詞。不満を表す定番パターン。SNSの愚痴でよく見ます。"
+          },
+          {
+            "es": "Acabo de enterarme de que me han subido el sueldo. ¡No me lo puedo creer!",
+            "ja": "給料が上がったって今知った。信じられない！",
+            "source": "conversation",
+            "sourceLabel": "同僚との会話",
+            "context": "嬉しいニュースを報告する場面",
+            "noteJa": "acabar de + 不定詞。enterarse de = 「〜を知る」。直近のニュース。"
+          },
+          {
+            "es": "Sigo sin entender cómo funciona el subjuntivo 😵",
+            "ja": "接続法がどう使うかまだわからない😵",
+            "source": "sns",
+            "sourceLabel": "語学学習者のSNS投稿",
+            "noteJa": "seguir sin + 不定詞 = 「まだ〜できていない」。seguir + 現在分詞の否定バージョン。"
+          },
+          {
+            "es": "Al final acabamos yendo al restaurante de siempre.",
+            "ja": "結局いつものレストランに行くことになった。",
+            "source": "conversation",
+            "sourceLabel": "友人との会話",
+            "context": "食事の場所を決める場面",
+            "noteJa": "acabar + 現在分詞 = 「結局〜する」。al final と組み合わせて使うことが多い。"
+          },
+          {
+            "es": "¡No vuelvas a dejar la puerta abierta!",
+            "ja": "もうドアを開けっぱなしにしないで！",
+            "source": "conversation",
+            "sourceLabel": "家族の叱り場面",
+            "noteJa": "volver a + 不定詞の否定命令。「二度と〜するな」のニュアンス。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "___ tres años estudiando japonés. (llevar, yo)",
+            "options": [
+              "Llevé",
+              "Llevo",
+              "He llevado",
+              "Llevaba"
+            ],
+            "answer": 1,
+            "explanationJa": "llevar + 時間 + 現在分詞は現在形で使います。「3年勉強し続けている」。"
+          },
+          {
+            "prompt": "___ de hablar con el jefe. (acabar, yo)",
+            "options": [
+              "Acabé",
+              "He acabado",
+              "Acababa",
+              "Acabo"
+            ],
+            "answer": 3,
+            "explanationJa": "acabar de + 不定詞 = 「〜したばかり」。現在形で直近の完了を表します。"
+          },
+          {
+            "prompt": "De repente, el bebé se ___ a llorar. (poner)",
+            "options": [
+              "ponía",
+              "pone",
+              "ha puesto",
+              "puso"
+            ],
+            "answer": 3,
+            "explanationJa": "ponerse a + 不定詞 = 「突然〜し始める」。de repente（突然）と相性が良い。"
+          },
+          {
+            "prompt": "Mi hermano ___ de fumar el mes pasado. (dejar)",
+            "options": [
+              "dejaba",
+              "ha dejado",
+              "dejó",
+              "deja"
+            ],
+            "answer": 2,
+            "explanationJa": "dejar de + 不定詞 = 「〜するのをやめる」。el mes pasado は点過去。"
+          },
+          {
+            "prompt": "¿ ___ saliendo con Pedro? (seguir, tú)",
+            "options": [
+              "Sigues",
+              "Has seguido",
+              "Seguías",
+              "Siguiste"
+            ],
+            "answer": 0,
+            "explanationJa": "seguir + 現在分詞 = 「まだ〜し続けている」。現在の状況を聞いている。"
+          },
+          {
+            "prompt": "Al final acabamos ___ una pizza. (pedir)",
+            "options": [
+              "pedido",
+              "pedir",
+              "pidiendo",
+              "a pedir"
+            ],
+            "answer": 2,
+            "explanationJa": "acabar + 現在分詞 = 「結局〜する」。acabar de pedir は「頼んだばかり」で意味が違います。"
+          },
+          {
+            "prompt": "「もう一度それをするな」を正しくスペイン語で言うと？",
+            "options": [
+              "No dejes de hacer eso.",
+              "No sigas a hacer eso.",
+              "No vuelvas a hacer eso.",
+              "No acabes de hacer eso."
+            ],
+            "answer": 2,
+            "explanationJa": "volver a + 不定詞 = 「もう一度〜する」。その否定命令形。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "___ tres años estudiando español. (llevar, yo)",
+            "answer": "Llevo",
+            "options": [
+              "Llevo",
+              "He llevado",
+              "Llevaba",
+              "Llevé"
+            ],
+            "explanationJa": "llevar + 時間 + 現在分詞は現在形で使う。「3年間勉強し続けている」。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ de llegar a casa. Todavía tengo el abrigo puesto. (acabar, yo)",
+            "answer": "Acabo",
+            "options": [
+              "Acababa",
+              "Acabo",
+              "Acabé",
+              "He acabado"
+            ],
+            "explanationJa": "acabar de + 不定詞 = 「〜したばかり」。現在形で直近の完了を表す。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "De repente, el niño se ___ a llorar en el supermercado. (poner)",
+            "answer": "puso",
+            "options": [
+              "ha puesto",
+              "puso",
+              "ponía",
+              "pone"
+            ],
+            "explanationJa": "ponerse a + 不定詞 = 「突然〜し始める」。de repente と相性抜群。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Mi padre ___ de fumar hace cinco años. (dejar)",
+            "answer": "dejó",
+            "options": [
+              "dejaba",
+              "ha dejado",
+              "deja",
+              "dejó"
+            ],
+            "explanationJa": "dejar de + 不定詞 = 「〜するのをやめる」。hace cinco años は点過去。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¿___ viviendo en Osaka? (seguir, tú)",
+            "answer": "Sigues",
+            "options": [
+              "Sigues",
+              "Has seguido",
+              "Seguiste",
+              "Seguías"
+            ],
+            "explanationJa": "seguir + 現在分詞 = 「まだ〜し続けている」。現在の状況を聞く。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ a llamarme a las tres de la mañana. (volver, él)",
+            "answer": "Volvió",
+            "options": [
+              "Ha vuelto",
+              "Volvía",
+              "Volvió",
+              "Vuelve"
+            ],
+            "explanationJa": "volver a + 不定詞 = 「もう一度〜する」。「また朝3時に電話してきた」。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Al final acabamos ___ una pizza. (pedir)",
+            "answer": "pidiendo",
+            "options": [
+              "pedido",
+              "pedir",
+              "pidiendo",
+              "a pedir"
+            ],
+            "explanationJa": "acabar + 現在分詞 = 「結局〜する」。acabar de pedir は「頼んだばかり」で別の意味。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ a estudiar japonés cuando tenía 20 años. (empezar, yo)",
+            "answer": "Empecé",
+            "options": [
+              "Empezaba",
+              "Empecé",
+              "Empiezo",
+              "He empezado"
+            ],
+            "explanationJa": "empezar a + 不定詞 = 「〜し始める」。cuando tenía 20 años → 点過去。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ de estar en casa. No contesta al teléfono. (deber, él)",
+            "answer": "Debe",
+            "options": [
+              "Debería",
+              "Debía",
+              "Debe",
+              "Debiera"
+            ],
+            "explanationJa": "deber de + 不定詞 = 推量「〜に違いない」。de なしの deber は義務。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ desayunar a las siete de la mañana. (soler, yo)",
+            "answer": "Suelo",
+            "options": [
+              "Solía",
+              "Suelo",
+              "He solido",
+              "Suelto"
+            ],
+            "explanationJa": "soler + 不定詞 = 「普段〜する」。習慣を表す定番ペリフラシス。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Llevo tres años que estudio español.",
+            "answer": "Llevo tres años estudiando español.",
+            "explanationJa": "llevar + 時間 + 現在分詞の形。que + 直説法ではない。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Acabé de comprar el más caro.",
+            "answer": "Acabé comprando el más caro.",
+            "explanationJa": "「結局買った」= acabar + 現在分詞。acabar de は「〜したばかり」で別の意味。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Dejé fumar el año pasado.",
+            "answer": "Dejé de fumar el año pasado.",
+            "explanationJa": "「やめる」= dejar de + 不定詞。de を忘れると意味が変わる。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Ella puso a cantar en medio de la calle.",
+            "answer": "Ella se puso a cantar en medio de la calle.",
+            "explanationJa": "ponerse a は再帰動詞。se を忘れると意味が成立しない。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "No vuelvas hacer eso.",
+            "answer": "No vuelvas a hacer eso.",
+            "explanationJa": "volver a + 不定詞。前置詞 a を忘れない。「二度とするな」。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「acabar de + 不定詞」と「acabar + 現在分詞」の違いは？",
+            "options": [
+              "de=〜したばかり、現在分詞=結局〜する",
+              "de=〜し始める、現在分詞=〜し終える",
+              "同じ意味",
+              "de=結局〜する、現在分詞=〜したばかり"
+            ],
+            "answer": 0,
+            "explanationJa": "acabar de llegar = 「着いたばかり」、acabar llegando = 「結局着いた」。意味が全く違う。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Llevo dos horas esperando」を英語に訳すと？",
+            "options": [
+              "I used to wait for two hours",
+              "I waited for two hours",
+              "I will wait for two hours",
+              "I have been waiting for two hours"
+            ],
+            "answer": 3,
+            "explanationJa": "llevar + 時間 + 現在分詞 = 英語の現在完了進行形に相当。「2時間待っている」。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "突然始まるニュアンスの「〜し始める」はどれ？",
+            "options": [
+              "comenzar a + 不定詞",
+              "empezar a + 不定詞",
+              "ponerse a + 不定詞",
+              "seguir + 現在分詞"
+            ],
+            "answer": 2,
+            "explanationJa": "ponerse a = 突然・予期せず始まる。empezar a は一般的な「始める」。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「deber + 不定詞」と「deber de + 不定詞」の違いは？",
+            "options": [
+              "deber de=過去の義務",
+              "deber=推量、deber de=義務",
+              "同じ意味",
+              "deber=義務、deber de=推量"
+            ],
+            "answer": 3,
+            "explanationJa": "deber + 不定詞 = 義務（〜すべき）。deber de + 不定詞 = 推量（〜に違いない）。de の有無で意味が変わる。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「seguir sin + 不定詞」はどんな意味？",
+            "options": [
+              "〜し始める",
+              "〜し続けている",
+              "まだ〜していない",
+              "〜するのをやめる"
+            ],
+            "answer": 2,
+            "explanationJa": "seguir sin + 不定詞 = 「まだ〜できていない」。seguir + 現在分詞の否定バージョン。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「マドリードに住んで5年になる」",
+            "answer": "Llevo cinco años viviendo en Madrid.",
+            "acceptableAnswers": [
+              "Llevo 5 años viviendo en Madrid.",
+              "Llevo cinco años en Madrid."
+            ],
+            "explanationJa": "llevar + 時間 + 現在分詞。ネイティブが毎日使う超重要表現。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「接続法がまだわからない」",
+            "answer": "Sigo sin entender el subjuntivo.",
+            "acceptableAnswers": [
+              "Sigo sin comprender el subjuntivo.",
+              "Todavía sigo sin entender el subjuntivo."
+            ],
+            "explanationJa": "seguir sin + 不定詞 = 「まだ〜していない/できていない」。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「二度とそんなことをするな」",
+            "answer": "No vuelvas a hacer eso.",
+            "acceptableAnswers": [
+              "No lo vuelvas a hacer.",
+              "No vuelvas a hacerlo."
+            ],
+            "explanationJa": "volver a + 不定詞の否定命令形。「二度と〜するな」の強い禁止。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "言い換え: Hace tres años que estudio español. → ___ tres años ___.",
+            "answer": "Llevo tres años estudiando español.",
+            "explanationJa": "「hace + 時間 + que + 現在形」= 「llevar + 時間 + 現在分詞」。同じ意味の言い換え。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "言い換え: Todavía no comprendo la gramática. → ___ sin ___ la gramática.",
+            "answer": "Sigo sin comprender la gramática.",
+            "explanationJa": "「todavía no + 動詞」= 「seguir sin + 不定詞」。まだ〜していない。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "llevar + 時間 + 現在分詞 = 「〜して○○経つ」。ネイティブが毎日使う超重要表現",
+      "acabar de + 不定詞 = 「〜したばかり」。acabar + 現在分詞 = 「結局〜する」。意味が全く違う",
+      "ponerse a + 不定詞 = 「突然〜し始める」。empezar a より突然性がある",
+      "dejar de + 不定詞 = 「〜するのをやめる」。de を忘れない",
+      "seguir + 現在分詞 = 「まだ〜し続けている」。seguir sin + 不定詞 = 「まだ〜していない」",
+      "deber + 不定詞 = 義務、deber de + 不定詞 = 推量。de の有無で意味が変わる"
+    ]
+  }
+}

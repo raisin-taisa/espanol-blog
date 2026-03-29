@@ -1,0 +1,481 @@
+{
+  "id": "c2-grammar-003",
+  "slug": "perifrasis-avanzadas",
+  "titleJa": "高度な句動詞構文 — venir/ir/andar/tener + 動詞で表すアスペクト",
+  "titleEs": "Perífrasis verbales avanzadas: aspecto progresivo, resultativo y frecuentativo",
+  "level": "c2",
+  "sortOrder": 3,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "perífrasis verbales とは何か？",
+        "bodyJa": "perífrasis verbal（句動詞構文）は、助動詞 + 不定詞/現在分詞/過去分詞の組み合わせで、単純時制では表せないニュアンスを加える構文です。\n\nB2までで学んだ基本的なもの：\n・estar + 現在分詞（進行形）\n・ir a + 不定詞（近未来）\n・tener que + 不定詞（義務）\n\nC2では、アスペクト（動作の様態・進行度・繰り返し）を精密に表現する高度な perífrasis を使いこなす必要があります。\n\n日本語話者にとっての利点：日本語も「〜ていく」「〜てくる」「〜てある」などでアスペクトを表すので、概念的には理解しやすいでしょう。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "ir + 現在分詞：徐々に進行する変化",
+        "bodyJa": "ir + gerundio は「だんだん〜していく」「次第に〜する」という漸進的な変化を表します。\n\nLa situación va mejorando.（状況は徐々に良くなっている）\nLos precios van subiendo cada año.（物価は年々上がっていく）\nVoy entendiendo lo que quieres decir.（言いたいことがだんだんわかってきた）\n\nestar + gerundio との違い：\n・Está mejorando. → 今まさに改善中（瞬間のスナップショット）\n・Va mejorando. → 徐々に、段階的に改善している（プロセスの方向性）\n\n日本語の「〜ていく」に近い感覚です。\n「だんだん」「少しずつ」「次第に」のニュアンスを含みます。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "venir + 現在分詞：過去から今まで続いている動作",
+        "bodyJa": "venir + gerundio は「以前から〜し続けてきている」という、過去から現在への継続的な動作を表します。\n\nVengo diciendo esto desde hace años.（何年も前からこのことを言い続けている）\nLos científicos vienen advirtiendo sobre el cambio climático.（科学者たちは気候変動について警告し続けてきた）\nEste problema viene arrastrándose desde el gobierno anterior.（この問題は前政権から引きずられてきている）\n\nestar + gerundio との違い：\n・Estoy estudiando.（今勉強している）→ 現在の動作\n・Vengo estudiando desde las 6.（6時からずっと勉強している）→ 過去から今まで\n\n日本語の「〜てきている」「〜し続けてきた」に近い表現です。\n\n特に新聞・ニュース・学術論文でよく使われます。\n累積的な経験や、蓄積された状況を強調するときに効果的です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "andar + 現在分詞：あちこちで〜している（散漫・反復）",
+        "bodyJa": "andar + gerundio は「あちこちで〜している」「しょっちゅう〜している」という、散漫な・繰り返しの動作を表します。\n\nAnda buscando trabajo.（仕事を探し回っている）\nAnda diciendo por ahí que va a renunciar.（あちこちで辞めるって言って回っている）\n¿Qué andas haciendo?（何やってるの？≒何をウロウロしてるの？）\n\nestar + gerundio との違い：\n・Está buscando trabajo. → 客観的に仕事を探している\n・Anda buscando trabajo. → あちこち探し回っている（少しネガティブ/カジュアルなニュアンス）\n\nポイント：andar + gerundio にはしばしば話者の「いら立ち」「呆れ」「軽い批判」のニュアンスが含まれます。\n\nAnda contando mentiras.（嘘をついて回っている）→ 批判的\nAnda enamorándose de todos.（誰にでも惚れている）→ 呆れ"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "tener + 過去分詞：結果の状態を強調",
+        "bodyJa": "tener + participio は「〜してある」「〜した状態だ」という、完了した動作の結果を強調する構文です。\n\nhaber + participio（完了形）との重要な違い：\n\n・He leído el libro.（その本を読んだ）→ 完了の事実\n・Tengo leído el libro.（その本を読んである）→ 結果の状態が今ある\n\n・He preparado la cena.（夕食を準備した）→ 完了\n・Tengo preparada la cena.（夕食が準備してある）→ 準備済みの状態\n\n重要な文法ポイント：tener + participio の場合、過去分詞は直接目的語に性数一致します。\n\n・Tengo escritas tres cartas.（手紙を3通書いてある）→ escritas は cartas に一致\n・Tengo estudiados los temas.（テーマを勉強してある）→ estudiados は temas に一致\n\nこれが haber + participio との最大の違いです。\nhaber の場合、過去分詞は常に男性単数形で不変です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "llevar + 現在分詞 / llevar + 過去分詞：蓄積を数値化する",
+        "bodyJa": "llevar + gerundio は「〜してきた期間」を、llevar + participio は「これまでに〜した数量」を表します。\n\nllevar + gerundio：\nLlevo tres horas esperando.（3時間待ち続けている）\nLleva dos años viviendo en Tokio.（東京に住んで2年になる）\nLlevamos meses trabajando en este proyecto.（このプロジェクトに何ヶ月も取り組んでいる）\n\nllevar + participio：\nLlevo leídas 50 páginas.（50ページ読んだところだ）\nLleva escritos tres capítulos.（3章書き終えた）\nLlevamos visitados cinco países.（5カ国訪問した）\n\n日本語話者の注意：llevar + participio でも過去分詞は目的語に性数一致します。\nleídas（feminine plural = páginas に一致）、escritos（masculine plural = capítulos に一致）"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "La desigualdad viene aumentando de manera alarmante en las últimas décadas.",
+            "ja": "格差はここ数十年で憂慮すべき形で増大し続けてきている。",
+            "noteJa": "venir + gerundio：過去から現在への累積的な変化。学術・報道文でよく使われるフォーマルな表現。"
+          },
+          {
+            "es": "Las temperaturas van bajando a medida que nos acercamos al invierno.",
+            "ja": "冬が近づくにつれて気温が徐々に下がっていく。",
+            "noteJa": "ir + gerundio：漸進的な変化。a medida que（〜につれて）との組み合わせが自然。"
+          },
+          {
+            "es": "Anda contando por ahí que le van a ascender, pero no es cierto.",
+            "ja": "昇進するって言って回っているが、本当じゃない。",
+            "noteJa": "andar + gerundio：批判的なニュアンス。「あちこちで言いふらしている」感。por ahí がさらにカジュアルさを追加。"
+          },
+          {
+            "es": "Tengo preparados todos los documentos para la reunión.",
+            "ja": "会議のための書類はすべて準備してある。",
+            "noteJa": "tener + participio：結果の状態。preparados は documentos（男性複数）に一致。「準備完了」のニュアンス。"
+          },
+          {
+            "es": "Llevo escritas más de doscientas páginas y todavía no he terminado.",
+            "ja": "200ページ以上書いたが、まだ終わっていない。",
+            "noteJa": "llevar + participio：蓄積した数量。escritas は páginas（女性複数）に一致。"
+          },
+          {
+            "es": "Los vecinos llevan quejándose del ruido desde que abrieron esa discoteca.",
+            "ja": "あのディスコがオープンして以来、近隣住民は騒音について苦情を言い続けている。",
+            "noteJa": "llevar + gerundio：期間の累積。desde que との組み合わせで起点を明示。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Tengo leído el libro. (過去分詞が不変)",
+            "correct": "Tengo leído el libro. (本が男性単数なのでleído で正しい)",
+            "whyJa": "この場合は el libro が男性単数なので leído で正しい。しかし Tengo leída la novela. / Tengo leídos los informes. のように、女性名詞・複数名詞の場合は一致が必要。haber + participio の感覚で不変にしがち。"
+          },
+          {
+            "wrong": "Estoy diciendo esto desde hace años.",
+            "correct": "Vengo diciendo esto desde hace años.",
+            "whyJa": "「以前からずっと〜し続けている」は venir + gerundio が適切。estar + gerundio は「今この瞬間の動作」を表すので、desde hace años との組み合わせは不自然。"
+          },
+          {
+            "wrong": "Va mejorando desde ayer.",
+            "correct": "Está mejorando desde ayer. / Va mejorando poco a poco.",
+            "whyJa": "ir + gerundio は「徐々に」「段階的に」の漸進性を表すので、具体的な起点（desde ayer）との組み合わせは不自然。期間・過程を強調するならpoco a poco等の表現と。"
+          },
+          {
+            "wrong": "Anda trabajando en la oficina.",
+            "correct": "Está trabajando en la oficina.",
+            "whyJa": "特定の場所で落ち着いて仕事をしている場合は estar + gerundio。andar + gerundio は「あちこちで」「落ち着きなく」のニュアンスがあるので、オフィスでの通常業務には不自然。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "新聞・学術論文・日常での使用例",
+        "items": [
+          {
+            "es": "La inteligencia artificial viene transformando el mercado laboral de maneras que apenas estamos empezando a comprender.",
+            "ja": "AIは、我々がようやく理解し始めたばかりの形で労働市場を変革し続けてきている。",
+            "source": "journalism",
+            "sourceLabel": "新聞社説風",
+            "noteJa": "venir + gerundio の報道的用法。過去から現在への変化の累積を強調。フォーマルで知的な印象。"
+          },
+          {
+            "es": "Llevamos dos horas dando vueltas y no encontramos aparcamiento.",
+            "ja": "2時間もぐるぐる回ってるのに駐車場が見つからない。",
+            "source": "conversation",
+            "sourceLabel": "日常会話",
+            "noteJa": "llevar + gerundio で経過時間を強調。苛立ちの感情が伝わる。dar vueltas = ぐるぐる回る。"
+          },
+          {
+            "es": "Ya tengo hechas las maletas. Nos vamos mañana a primera hora.",
+            "ja": "もうスーツケースは詰めてある。明日一番に出発だ。",
+            "source": "conversation",
+            "sourceLabel": "家族との会話",
+            "noteJa": "tener + participio で準備完了を強調。hechas は maletas（女性複数）に一致。"
+          },
+          {
+            "es": "Los precios de la vivienda van alcanzando niveles insostenibles para la mayoría de los jóvenes.",
+            "ja": "住宅価格は、大多数の若者にとって維持不可能なレベルに徐々に達しつつある。",
+            "source": "journalism",
+            "sourceLabel": "経済記事",
+            "noteJa": "ir + gerundio で漸進的な変化を描写。ジャーナリスティックな文体。"
+          },
+          {
+            "es": "¿Qué andas buscando a estas horas? ¡Vete a dormir!",
+            "ja": "こんな時間に何を探し回ってるの！寝なさい！",
+            "source": "conversation",
+            "sourceLabel": "親子の会話",
+            "noteJa": "andar + gerundio で「うろうろしている」ニュアンス。a estas horas（こんな時間に）が批判的トーンを強化。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "「彼女は何年もこの問題について研究し続けてきている」に最適な構文は？",
+            "options": [
+              "Está investigando este problema desde hace años.",
+              "Viene investigando este problema desde hace años.",
+              "Va investigando este problema desde hace años.",
+              "Anda investigando este problema desde hace años."
+            ],
+            "answer": 1,
+            "explanationJa": "過去から現在への継続的な動作には venir + gerundio。desde hace años との相性が最も良い。"
+          },
+          {
+            "prompt": "Tengo ___ tres informes para la reunión. (preparar)",
+            "options": [
+              "preparados",
+              "preparar",
+              "preparando",
+              "preparado"
+            ],
+            "answer": 0,
+            "explanationJa": "tener + participio で過去分詞は目的語に性数一致。informes は男性複数なので preparados。"
+          },
+          {
+            "prompt": "ir + gerundio が表すニュアンスとして最も適切なのは？",
+            "options": [
+              "あちこちで繰り返している",
+              "過去からずっと続いている",
+              "徐々に・段階的に変化していく",
+              "結果が今ある状態"
+            ],
+            "answer": 2,
+            "explanationJa": "ir + gerundio は漸進的な変化・プロセスの方向性を表します。「だんだん」「少しずつ」のニュアンス。"
+          },
+          {
+            "prompt": "andar + gerundio に含まれやすいニュアンスは？",
+            "options": [
+              "フォーマルな丁寧さ",
+              "厳密な学術的描写",
+              "確実な予定",
+              "散漫さ・話者の軽い批判や呆れ"
+            ],
+            "answer": 3,
+            "explanationJa": "andar + gerundio は「あちこちで〜している」という散漫さや、話者の批判・呆れのニュアンスを含みやすい。"
+          },
+          {
+            "prompt": "Llevo ___ cincuenta páginas de esta novela. (leer)",
+            "options": [
+              "leer",
+              "leídas",
+              "leído",
+              "leyendo"
+            ],
+            "answer": 1,
+            "explanationJa": "llevar + participio で蓄積数量。páginas は女性複数なので leídas。数値を伴う蓄積表現。"
+          },
+          {
+            "prompt": "次のうち、venir + gerundio が最も自然な文脈はどれ？",
+            "options": [
+              "だんだん暖かくなってきている",
+              "あちこちで噂を広めている",
+              "今まさに料理をしている最中だ",
+              "科学者たちが何年も前から気候変動について警告してきた"
+            ],
+            "answer": 3,
+            "explanationJa": "venir + gerundio は「以前からずっと〜し続けてきた」という累積的な継続。科学者の長年の警告にぴったり。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "La inflación ___ aumentando desde hace varios meses. (venir)",
+            "answer": "viene",
+            "options": [
+              "anda",
+              "va",
+              "viene",
+              "está"
+            ],
+            "explanationJa": "venir + gerundio で「以前からずっと増加し続けている」。desde hace varios meses との組み合わせは venir が最適。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Los alumnos ___ mejorando poco a poco su pronunciación. (ir)",
+            "answer": "van",
+            "options": [
+              "vienen",
+              "van",
+              "están",
+              "andan"
+            ],
+            "explanationJa": "ir + gerundio で「徐々に改善していく」漸進的変化。poco a poco との相性が自然。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Mi vecino ___ diciendo por ahí que se va a mudar. (andar)",
+            "answer": "anda",
+            "options": [
+              "va",
+              "anda",
+              "está",
+              "viene"
+            ],
+            "explanationJa": "andar + gerundio で「あちこちで言いふらしている」。por ahí と組み合わせて散漫さ・批判のニュアンス。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Ya ___ preparada la presentación para mañana. (tener, yo)",
+            "answer": "tengo",
+            "options": [
+              "estoy",
+              "soy",
+              "he",
+              "tengo"
+            ],
+            "explanationJa": "tener + participio で「準備してある」結果の状態。preparada は presentación（女性単数）に性数一致。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ tres horas esperando el autobús. (llevar, nosotros)",
+            "answer": "Llevamos",
+            "options": [
+              "Estamos",
+              "Vamos",
+              "Llevamos",
+              "Tenemos"
+            ],
+            "explanationJa": "llevar + gerundio で「3時間待ち続けている」。経過時間の累積を数値化する構文。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "La empresa ___ perdiendo clientes desde que subió los precios. (venir)",
+            "answer": "viene",
+            "options": [
+              "lleva",
+              "viene",
+              "anda",
+              "va"
+            ],
+            "explanationJa": "venir + gerundio：過去（値上げ以降）から現在まで客を失い続けている。desde que との組み合わせで累積的継続。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ leídas más de cien páginas de la novela. (llevar, yo)",
+            "answer": "Llevo",
+            "options": [
+              "Llevo",
+              "Estoy",
+              "He",
+              "Tengo"
+            ],
+            "explanationJa": "llevar + participio で蓄積した数量を表す。leídas は páginas（女性複数）に性数一致。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "La situación política ___ complicándose cada vez más. (ir)",
+            "answer": "va",
+            "options": [
+              "anda",
+              "va",
+              "está",
+              "viene"
+            ],
+            "explanationJa": "ir + gerundio：「ますます複雑になっていく」漸進的な悪化。cada vez más が方向性を強調。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Ya ___ escritos cinco capítulos del libro. (tener, ella)",
+            "answer": "tiene",
+            "options": [
+              "está",
+              "ha",
+              "tiene",
+              "lleva"
+            ],
+            "explanationJa": "tener + participio で結果の状態。escritos は capítulos（男性複数）に一致。ha escrito との違いは結果状態の強調。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¿Qué ___ haciendo a estas horas por aquí? (andar, tú)",
+            "answer": "andas",
+            "options": [
+              "vienes",
+              "estás",
+              "vas",
+              "andas"
+            ],
+            "explanationJa": "andar + gerundio：「こんな時間にここで何をうろうろしている？」軽い批判・呆れのニュアンス。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Estoy diciendo esto desde hace años y nadie me escucha.",
+            "answer": "Vengo diciendo esto desde hace años y nadie me escucha.",
+            "explanationJa": "「以前からずっと言い続けている」は venir + gerundio が適切。estar + gerundio は「今この瞬間」の動作で、desde hace años との組み合わせは不自然。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Tengo leído los informes para la reunión.",
+            "answer": "Tengo leídos los informes para la reunión.",
+            "explanationJa": "tener + participio では過去分詞が目的語に性数一致する。informes は男性複数なので leídos。haber + participio と違い過去分詞は不変ではない。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Va mejorando desde ayer por la tarde.",
+            "answer": "Está mejorando desde ayer por la tarde.",
+            "explanationJa": "ir + gerundio は漸進的変化を表し、具体的な起点（desde ayer）との組み合わせは不自然。特定の起点にはestar + gerundio が適切。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Anda trabajando tranquilamente en su despacho.",
+            "answer": "Está trabajando tranquilamente en su despacho.",
+            "explanationJa": "andar + gerundio は「あちこちで」「落ち着きなく」のニュアンス。特定の場所で落ち着いて仕事をしている場合は estar + gerundio が自然。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Llevo escritas tres capítulos de mi tesis.",
+            "answer": "Llevo escritos tres capítulos de mi tesis.",
+            "explanationJa": "llevar + participio でも過去分詞は目的語に性数一致。capítulos は男性複数なので escritos（escritas は女性形で不一致）。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次の文の perífrasis の意味として最も適切なのはどれか？\n「Los precios van subiendo año tras año.」",
+            "options": [
+              "物価があちこちで上がっている（散漫な反復）",
+              "物価が上がった結果の状態にある",
+              "物価が年々徐々に上がっていく（漸進的変化）",
+              "物価が以前からずっと上がり続けてきた（過去からの継続）"
+            ],
+            "answer": 2,
+            "explanationJa": "ir + gerundio は漸進的な変化を表す。「だんだん」「少しずつ」のニュアンス。año tras año が段階性を強調。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "tener + participio と haber + participio の最大の違いは何か？",
+            "options": [
+              "意味は同じだが地域差がある",
+              "tener + participio は口語でのみ使われる",
+              "haber + participio の方がフォーマルである",
+              "tener + participio は結果の状態を強調し、過去分詞が目的語に性数一致する"
+            ],
+            "answer": 3,
+            "explanationJa": "tener + participio は完了の「結果状態」を強調（tengo preparada la cena = 準備してある）。haber + participio は「完了の事実」（he preparado la cena = 準備した）。過去分詞の一致も異なる。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Anda contando mentiras por ahí」に含まれるニュアンスとして最も適切なのは？",
+            "options": [
+              "学術的で格式の高い表現",
+              "客観的な事実の描写",
+              "話者の批判・呆れ（あちこちで嘘を言い回っている）",
+              "動作が徐々に進行している"
+            ],
+            "answer": 2,
+            "explanationJa": "andar + gerundio は散漫さ・反復に加え、話者の「批判」「呆れ」のニュアンスを含む。por ahí がさらにカジュアルさを追加。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次のうち、venir + gerundio が最も自然なのはどれか？",
+            "options": [
+              "Vengo llegando al trabajo ahora mismo.",
+              "Los expertos vienen advirtiendo sobre esta crisis desde hace décadas.",
+              "Vengo comiendo una manzana.",
+              "La temperatura viene bajando desde las tres."
+            ],
+            "answer": 1,
+            "explanationJa": "venir + gerundio は長期間にわたる累積的継続に適する。「何十年も前から警告し続けてきた」が最も自然。瞬間的な動作や短い期間には不向き。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Llevo leídas 200 páginas」と「He leído 200 páginas」の違いは？",
+            "options": [
+              "意味は完全に同じ",
+              "llevar は過去、haber は現在の出来事",
+              "llevar はフォーマル、haber はカジュアル",
+              "llevar は「今まさに200ページ目の時点にいる」蓄積の途中を強調、haber は完了の事実を述べる"
+            ],
+            "answer": 3,
+            "explanationJa": "llevar + participio は蓄積の「途中経過」を数値化する（まだ続く含み）。haber + participio は「読んだ」事実を述べるのみ。"
+          },
+          {
+            "type": "translation",
+            "prompt": "科学者たちは何年も前から環境汚染の危険性について警告し続けてきている。",
+            "answer": "Los científicos vienen advirtiendo sobre los peligros de la contaminación ambiental desde hace años.",
+            "acceptableAnswers": [
+              "Los científicos vienen alertando sobre los peligros de la contaminación ambiental desde hace años.",
+              "Desde hace años, los científicos vienen advirtiendo sobre los peligros de la contaminación."
+            ],
+            "explanationJa": "venir + gerundio で過去からの累積的継続。学術・報道文で頻出する格式の高い表現。"
+          },
+          {
+            "type": "translation",
+            "prompt": "状況は日に日に悪化していく。",
+            "answer": "La situación va empeorando día a día.",
+            "acceptableAnswers": [
+              "La situación va empeorando cada día.",
+              "Día a día la situación va empeorando."
+            ],
+            "explanationJa": "ir + gerundio で漸進的な変化。「だんだん悪くなっていく」方向性を表す。día a día が段階性を強調。"
+          },
+          {
+            "type": "translation",
+            "prompt": "5時間もこのレポートに取り組み続けている。",
+            "answer": "Llevo cinco horas trabajando en este informe.",
+            "acceptableAnswers": [
+              "Llevo trabajando en este informe cinco horas.",
+              "Llevo cinco horas trabajando en este reporte."
+            ],
+            "explanationJa": "llevar + gerundio で経過時間の累積。「5時間」という具体的な数値と組み合わせる典型パターン。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文を tener + participio を使って書き換えよ：\nHe corregido todos los exámenes.",
+            "answer": "Tengo corregidos todos los exámenes.",
+            "explanationJa": "haber + participio（完了の事実）→ tener + participio（結果の状態）。corregidos は exámenes（男性複数）に性数一致。「全部採点してある状態だ」のニュアンス。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の estar + gerundio を、より適切な perífrasis に書き換えよ：\nEstamos trabajando en este proyecto desde enero.",
+            "answer": "Venimos trabajando en este proyecto desde enero.",
+            "explanationJa": "「1月から」という過去からの継続には venir + gerundio が適切。estar + gerundio は「今この瞬間」のスナップショットで、desde enero との組み合わせは不自然。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "ir + gerundio は「徐々に〜していく」漸進的変化。日本語の「〜ていく」に近い",
+      "venir + gerundio は「以前から〜し続けている」過去からの継続。報道・学術で頻出",
+      "andar + gerundio は「あちこちで〜している」散漫・反復。話者の批判・呆れのニュアンスを含む",
+      "tener + participio は「〜してある」結果の状態。過去分詞は目的語に性数一致する（haber と異なる）",
+      "llevar + gerundio は期間の累積、llevar + participio は数量の蓄積を表す",
+      "これらの perífrasis は単純時制や estar + gerundio では表せないアスペクトの微妙な違いを表現する"
+    ]
+  }
+}

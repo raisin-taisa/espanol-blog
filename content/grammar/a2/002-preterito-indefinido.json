@@ -1,0 +1,797 @@
+{
+  "id": "a2-002",
+  "slug": "preterito-indefinido",
+  "titleJa": "点過去（不定過去）",
+  "titleEs": "Pretérito indefinido",
+  "level": "a2",
+  "sortOrder": 2,
+  "hasRegionalVariants": true,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "点過去（pretérito indefinido）とは？",
+        "bodyJa": "点過去（pretérito indefinido）は、過去に完了した動作を表す時制です。\n\n「昨日〜した」「先週〜した」「去年〜した」のように、もう終わった出来事を語るときに使います。\n\n日本語の「〜した」に最も近い時制で、スペイン語の過去形の中で最も基本的なものです。\n\nポイント：英語の simple past（I talked, I ate）とほぼ同じ感覚で使えます。日本語話者にとっては、「〜した」＝点過去、と覚えるのがシンプルです。",
+        "bodyEs": "El pretérito indefinido se usa para hablar de acciones completadas en el pasado. Es equivalente al 'simple past' en inglés."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "規則動詞 -ar の活用（hablar）",
+        "bodyJa": "語幹（habl-）に以下の語尾をつけます：\n\n-é, -aste, -ó, -amos, -asteis, -aron\n\n注目ポイント：nosotros の形（hablamos）は現在形とまったく同じです！文脈で現在か過去かを判断します。\n\nよく使う -ar 動詞の点過去：\n・estudiar（勉強する）→ estudié, estudiaste, estudió...\n・trabajar（働く）→ trabajé, trabajaste, trabajó...\n・comprar（買う）→ compré, compraste, compró...\n・viajar（旅行する）→ viajé, viajaste, viajó...\n・cocinar（料理する）→ cociné, cocinaste, cocinó...",
+        "bodyEs": "Para conjugar verbos regulares en -ar en pretérito indefinido, se quita -ar y se añaden: -é, -aste, -ó, -amos, -asteis, -aron."
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "hablar（話す）",
+        "tense": "Pretérito Indefinido",
+        "forms": {
+          "yo": "hablé",
+          "tú": "hablaste",
+          "él/ella/usted": "habló",
+          "nosotros/as": "hablamos",
+          "vosotros/as": "hablasteis",
+          "ellos/ellas/ustedes": "hablaron"
+        },
+        "latamNote": "中南米では vosotros/as は使いません。「あなたたち」は ustedes + hablaron で表します。また、中南米ではスペインより点過去を多用します。「今日〜した」も点過去で言うことが多いです。",
+        "spainNote": "スペイン（特にマドリード周辺）では「今日〜した」「今週〜した」など、まだ終わっていない時間枠の出来事には現在完了（pretérito perfecto）を使う傾向があります。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "規則動詞 -er / -ir の活用（comer, vivir）",
+        "bodyJa": "-er 動詞と -ir 動詞の点過去は、活用語尾がまったく同じです！現在形では nosotros と vosotros の形が違いましたが、点過去では区別がなくなります。\n\n語幹に以下の語尾をつけます：\n\n-í, -iste, -ió, -imos, -isteis, -ieron\n\nよく使う -er/-ir 動詞の点過去：\n・comer（食べる）→ comí, comiste, comió...\n・beber（飲む）→ bebí, bebiste, bebió...\n・vivir（住む）→ viví, viviste, vivió...\n・escribir（書く）→ escribí, escribiste, escribió...\n・salir（出かける）→ salí, saliste, salió...",
+        "bodyEs": "Los verbos regulares en -er e -ir comparten las mismas terminaciones en pretérito indefinido: -í, -iste, -ió, -imos, -isteis, -ieron."
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "comer（食べる）",
+        "tense": "Pretérito Indefinido",
+        "forms": {
+          "yo": "comí",
+          "tú": "comiste",
+          "él/ella/usted": "comió",
+          "nosotros/as": "comimos",
+          "vosotros/as": "comisteis",
+          "ellos/ellas/ustedes": "comieron"
+        },
+        "latamNote": "中南米では vosotros/as は使いません。ustedes + comieron を使います。",
+        "spainNote": null
+      },
+      {
+        "type": "explanation",
+        "headingJa": "超重要！不規則動詞の点過去",
+        "bodyJa": "点過去には非常に多くの不規則動詞があります。しかも日常会話で頻出するものばかりです。\n\n不規則動詞の特徴：\n1. 語幹が変わる（tener → tuv-, hacer → hic-）\n2. 語尾も規則動詞とは少し違う（-e, -iste, -o, -imos, -isteis, -ieron）\n3. yo と él/ella の形にはアクセント記号がつかない\n\n特に重要な不規則動詞：\n\n・ir / ser → fui, fuiste, fue, fuimos, fuisteis, fueron\n　※ ir（行く）と ser（〜である）の点過去は完全に同じ形！文脈で判断します。\n\n・hacer（する・作る）→ hice, hiciste, hizo, hicimos, hicisteis, hicieron\n　※三人称単数は hizo（c → z に変化）\n\n・tener（持つ）→ tuve, tuviste, tuvo, tuvimos, tuvisteis, tuvieron\n\n・estar（いる・ある）→ estuve, estuviste, estuvo, estuvimos, estuvisteis, estuvieron\n\n・poder（できる）→ pude, pudiste, pudo, pudimos, pudisteis, pudieron\n\n・poner（置く）→ puse, pusiste, puso, pusimos, pusisteis, pusieron\n\n・decir（言う）→ dije, dijiste, dijo, dijimos, dijisteis, dijeron\n　※三人称複数は dijeron（-ieron ではなく -eron）\n\n・venir（来る）→ vine, viniste, vino, vinimos, vinisteis, vinieron",
+        "bodyEs": "El pretérito indefinido tiene muchos verbos irregulares importantes. Los más comunes son: ir/ser (fui), hacer (hice), tener (tuve), estar (estuve), poder (pude), poner (puse), decir (dije), venir (vine)."
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "ir / ser（行く / 〜である）",
+        "tense": "Pretérito Indefinido",
+        "forms": {
+          "yo": "fui",
+          "tú": "fuiste",
+          "él/ella/usted": "fue",
+          "nosotros/as": "fuimos",
+          "vosotros/as": "fuisteis",
+          "ellos/ellas/ustedes": "fueron"
+        },
+        "latamNote": "ir と ser の点過去が同じ形なのは世界中どこでも同じです。中南米でも「Fui al cine（映画館に行った）」のように日常的に使います。",
+        "spainNote": "スペインでも同じ活用です。「Ayer fui al cine」はスペインでもよく使います（昨日のことなので、スペインでも点過去を使います）。"
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "hacer（する・作る）",
+        "tense": "Pretérito Indefinido",
+        "forms": {
+          "yo": "hice",
+          "tú": "hiciste",
+          "él/ella/usted": "hizo",
+          "nosotros/as": "hicimos",
+          "vosotros/as": "hicisteis",
+          "ellos/ellas/ustedes": "hicieron"
+        },
+        "latamNote": "「¿Qué hiciste?（何したの？）」は中南米で毎日使うフレーズです。",
+        "spainNote": "三人称単数の hizo は、発音上の理由で c が z に変わります（ci → zi で発音が変わらないようにするため）。"
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "tener（持つ・ある）",
+        "tense": "Pretérito Indefinido",
+        "forms": {
+          "yo": "tuve",
+          "tú": "tuviste",
+          "él/ella/usted": "tuvo",
+          "nosotros/as": "tuvimos",
+          "vosotros/as": "tuvisteis",
+          "ellos/ellas/ustedes": "tuvieron"
+        },
+        "latamNote": "「Tuve un problema（問題があった）」は中南米でもスペインでも同じように使います。",
+        "spainNote": null
+      },
+      {
+        "type": "explanation",
+        "headingJa": "点過去でよく使う時間表現",
+        "bodyJa": "点過去は「いつ起きたか」が明確な過去の出来事に使います。以下の時間表現と一緒に覚えましょう：\n\n・ayer（昨日）\n・anoche（昨夜）\n・la semana pasada（先週）\n・el mes pasado（先月）\n・el año pasado（去年）\n・hace dos días（2日前）\n・hace una semana（1週間前）\n・en 2020（2020年に）\n・el lunes（この前の月曜日に）\n\nこれらの表現が出てきたら「点過去を使うサイン」だと思ってください。",
+        "bodyEs": "Marcadores temporales del pretérito indefinido: ayer, anoche, la semana pasada, el año pasado, hace + tiempo, en + año."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "中南米とスペインで使い方が違う！",
+        "bodyJa": "点過去の使い方には、中南米とスペインで大きな違いがあります。\n\n【中南米】\n「今日」のことでも点過去を使うことが多い：\n・Hoy desayuné a las 8.（今日8時に朝食を食べた）\n・Esta mañana hablé con mi jefe.（今朝上司と話した）\n\n【スペイン（特にマドリード周辺）】\n「今日」「今週」など、まだ終わっていない時間枠では現在完了（he + 過去分詞）を好む：\n・Hoy he desayunado a las 8.（今日8時に朝食を食べた）\n・Esta mañana he hablado con mi jefe.（今朝上司と話した）\n\nただし、スペインでも「昨日」「去年」など明確に終わった時間枠では点過去を使います。\n\n日本語話者へのアドバイス：まずは点過去をしっかり覚えましょう。中南米の友達と話すなら、ほぼ点過去だけで大丈夫です。",
+        "bodyEs": "En Latinoamérica se prefiere el pretérito indefinido incluso para acciones recientes ('Hoy comí...'), mientras que en España (especialmente Madrid) se usa más el pretérito perfecto para el mismo contexto ('Hoy he comido...')."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Ayer comí ramen en Shibuya.",
+            "ja": "昨日渋谷でラーメンを食べた。",
+            "noteJa": "comí は comer の点過去（yo）。ayer（昨日）は点過去のサイン。"
+          },
+          {
+            "es": "¿Qué hiciste el fin de semana?",
+            "ja": "週末何したの？",
+            "noteJa": "hiciste は hacer の不規則点過去（tú）。週末の過ごし方を聞く定番フレーズ。"
+          },
+          {
+            "es": "Fui a España el año pasado.",
+            "ja": "去年スペインに行った。",
+            "noteJa": "fui は ir の点過去（yo）。el año pasado（去年）＝点過去のサイン。"
+          },
+          {
+            "es": "Mi amiga me dijo algo interesante.",
+            "ja": "友達が面白いことを言ってくれた。",
+            "noteJa": "dijo は decir の不規則点過去（三人称単数）。me は「私に」。"
+          },
+          {
+            "es": "No pude dormir anoche.",
+            "ja": "昨夜眠れなかった。",
+            "noteJa": "pude は poder の不規則点過去（yo）。anoche（昨夜）＝点過去のサイン。"
+          },
+          {
+            "es": "Estudiamos japonés durante tres años.",
+            "ja": "3年間日本語を勉強した。",
+            "noteJa": "estudiamos は -ar 動詞の点過去（nosotros）。現在形と同じ形なので、durante tres años（3年間）という文脈で過去だとわかる。"
+          },
+          {
+            "es": "Ella puso las llaves en la mesa.",
+            "ja": "彼女はテーブルの上に鍵を置いた。",
+            "noteJa": "puso は poner の不規則点過去（三人称単数）。語幹が pon- → pus- に変化。"
+          },
+          {
+            "es": "Vinieron a Japón hace dos semanas.",
+            "ja": "2週間前に日本に来た。",
+            "noteJa": "vinieron は venir の不規則点過去（三人称複数）。hace dos semanas（2週間前）＝点過去のサイン。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Ayer he comido sushi.",
+            "correct": "Ayer comí sushi.",
+            "whyJa": "「昨日」は完全に終わった時間枠なので、現在完了（he comido）ではなく点過去（comí）を使います。これはスペインでも中南米でも同じです。日本語話者は英語の現在完了の感覚で混同しがちです。"
+          },
+          {
+            "wrong": "Ella hació la tarea.",
+            "correct": "Ella hizo la tarea.",
+            "whyJa": "hacer の点過去は不規則です。規則的に hac- + -ió = hació とはなりません。hizo が正解。不規則動詞は丸暗記が必要です。"
+          },
+          {
+            "wrong": "Yo tuví un examen ayer.",
+            "correct": "Yo tuve un examen ayer.",
+            "whyJa": "tener の不規則点過去の語幹は tuv- で、yo の語尾は -e（アクセント記号なし）です。規則動詞の -í と混同しないように。不規則動詞の yo 形は -e で終わります。"
+          },
+          {
+            "wrong": "Ellos dijieron la verdad.",
+            "correct": "Ellos dijeron la verdad.",
+            "whyJa": "decir の点過去の三人称複数は dijeron です。dij- の後は -ieron ではなく -eron になります。j の後の i が落ちるルールがあります。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "¿Qué hiciste ayer? — Nada especial, vi una serie en Netflix y dormí temprano.",
+            "ja": "昨日何した？ — 別に、Netflixでドラマ見て早く寝た。",
+            "source": "conversation",
+            "sourceLabel": "友達同士の会話",
+            "context": "昨日の過ごし方を聞く日常会話",
+            "noteJa": "hiciste（hacer）、vi（ver）、dormí（dormir）すべて点過去。「Nada especial（別に・特に何も）」は超便利フレーズ。"
+          },
+          {
+            "es": "Ayer fui al gym por primera vez en meses 💪 Me dolió todo hoy jaja",
+            "ja": "昨日何ヶ月ぶりにジム行った💪 今日全身筋肉痛わろた",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "fui（ir の点過去）、dolió（doler の点過去）。SNSでは点過去がたくさん出てきます。自分のしたことを報告するのに最適な時制。",
+            "region": "latam"
+          },
+          {
+            "es": "Anoche conocí a una chica muy maja en la fiesta.",
+            "ja": "昨夜パーティーですごくいい感じの女の子に会った。",
+            "source": "conversation",
+            "sourceLabel": "スペインの友達の話",
+            "context": "パーティーの翌日の報告",
+            "noteJa": "conocí（conocer の点過去）。「maja」はスペイン特有の表現で「感じがいい・素敵な」という意味。中南米では「simpática」と言います。",
+            "region": "spain"
+          },
+          {
+            "es": "El protagonista descubrió la verdad y todo cambió.",
+            "ja": "主人公が真実を知って、すべてが変わった。",
+            "source": "drama",
+            "sourceLabel": "ドラマの感想",
+            "context": "ドラマのネタバレ・感想を話す場面",
+            "noteJa": "descubrió（descubrir の点過去）、cambió（cambiar の点過去）。ストーリーを語るときは点過去が基本。"
+          },
+          {
+            "es": "¿Ya comiste? — Todavía no, ¿vamos a comer algo?",
+            "ja": "もうご飯食べた？ — まだ、なんか食べに行く？",
+            "source": "conversation",
+            "sourceLabel": "メキシコの日常会話",
+            "context": "昼食時に友達を誘う場面",
+            "noteJa": "「¿Ya comiste?」は中南米で超頻出フレーズ。スペインなら「¿Ya has comido?」（現在完了）と言うことが多いです。この違いが地域差の典型例。",
+            "region": "latam"
+          },
+          {
+            "es": "Le dije que no, pero insistió y al final fui.",
+            "ja": "断ったんだけど、しつこくて結局行った。",
+            "source": "conversation",
+            "sourceLabel": "友達への愚痴",
+            "context": "誘いを断りきれなかった話",
+            "noteJa": "dije（decir）、insistió（insistir）、fui（ir）すべて点過去。過去の出来事を時系列で語るときは点過去を連続して使います。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "Ayer yo ___ con mi madre. (hablar)",
+            "options": [
+              "hablé",
+              "hablo",
+              "hablaron",
+              "habló"
+            ],
+            "answer": 0,
+            "explanationJa": "主語が yo で過去の話（ayer）なので、-ar 動詞の点過去一人称単数形 -é をつけて hablé になります。"
+          },
+          {
+            "prompt": "María ___ una pizza anoche. (comer)",
+            "options": [
+              "comieron",
+              "comiste",
+              "comí",
+              "comió"
+            ],
+            "answer": 3,
+            "explanationJa": "主語が María（三人称単数）なので、-er 動詞の点過去三人称単数形 -ió をつけて comió になります。"
+          },
+          {
+            "prompt": "¿Tú ___ la película ayer? (ver)",
+            "options": [
+              "vio",
+              "vieron",
+              "viste",
+              "vi"
+            ],
+            "answer": 2,
+            "explanationJa": "主語が tú なので、ver の点過去二人称単数形 viste になります。ver の点過去は vi, viste, vio, vimos, visteis, vieron です。"
+          },
+          {
+            "prompt": "Nosotros ___ al parque el domingo. (ir)",
+            "options": [
+              "fueron",
+              "fuiste",
+              "fui",
+              "fuimos"
+            ],
+            "answer": 3,
+            "explanationJa": "主語が nosotros なので、ir の点過去一人称複数形 fuimos になります。ir の点過去は ser と同じ形です。"
+          },
+          {
+            "prompt": "Ellos ___ una carta. (escribir)",
+            "options": [
+              "escribiste",
+              "escribí",
+              "escribió",
+              "escribieron"
+            ],
+            "answer": 3,
+            "explanationJa": "主語が ellos（三人称複数）なので、-ir 動詞の点過去三人称複数形 -ieron をつけて escribieron になります。"
+          },
+          {
+            "prompt": "Yo ___ café esta mañana. (beber)",
+            "options": [
+              "bebieron",
+              "bebí",
+              "bebió",
+              "bebiste"
+            ],
+            "answer": 1,
+            "explanationJa": "主語が yo なので、-er 動詞の点過去一人称単数形 -í をつけて bebí になります。"
+          },
+          {
+            "prompt": "¿Usted ___ en Tokio el año pasado? (vivir)",
+            "options": [
+              "viviste",
+              "vivió",
+              "viví",
+              "vivieron"
+            ],
+            "answer": 1,
+            "explanationJa": "usted は三人称単数と同じ活用をするので、-ir 動詞の点過去三人称単数形 -ió をつけて vivió になります。"
+          },
+          {
+            "prompt": "Mi hermano ___ mucho ayer. (estudiar)",
+            "options": [
+              "estudiaste",
+              "estudié",
+              "estudió",
+              "estudiaron"
+            ],
+            "answer": 2,
+            "explanationJa": "主語が mi hermano（三人称単数）なので、-ar 動詞の点過去三人称単数形 -ó をつけて estudió になります。"
+          },
+          {
+            "prompt": "Ana y yo ___ en un restaurante. (comer)",
+            "options": [
+              "comió",
+              "comimos",
+              "comí",
+              "comieron"
+            ],
+            "answer": 1,
+            "explanationJa": "「Ana y yo」は nosotros と同じなので、-er 動詞の点過去一人称複数形 -imos をつけて comimos になります。"
+          },
+          {
+            "prompt": "Los niños ___ en el parque. (jugar)",
+            "options": [
+              "jugó",
+              "jugué",
+              "jugaron",
+              "jugaste"
+            ],
+            "answer": 2,
+            "explanationJa": "主語が los niños（三人称複数）なので、-ar 動詞の点過去三人称複数形 -aron をつけて jugaron になります。jugué の gué はスペリングルール（gue で「ゲ」の音を保つため）。"
+          },
+          {
+            "prompt": "Yo ___ a la fiesta anoche. (ir)",
+            "options": [
+              "fuiste",
+              "fui",
+              "fueron",
+              "fue"
+            ],
+            "answer": 1,
+            "explanationJa": "主語が yo なので、ir の不規則点過去一人称単数形 fui になります。"
+          },
+          {
+            "prompt": "¿Qué ___ tú ayer? (hacer)",
+            "options": [
+              "hiciste",
+              "hizo",
+              "hice",
+              "hicieron"
+            ],
+            "answer": 0,
+            "explanationJa": "主語が tú なので、hacer の不規則点過去二人称単数形 hiciste になります。語幹が hac- → hic- に変化。"
+          },
+          {
+            "prompt": "Ella ___ un examen muy difícil. (tener)",
+            "options": [
+              "tuvieron",
+              "tuviste",
+              "tuvo",
+              "tuve"
+            ],
+            "answer": 2,
+            "explanationJa": "主語が ella（三人称単数）なので、tener の不規則点過去三人称単数形 tuvo になります。語幹が ten- → tuv- に変化。"
+          },
+          {
+            "prompt": "Nosotros no ___ ir a la reunión. (poder)",
+            "options": [
+              "pude",
+              "pudieron",
+              "pudiste",
+              "pudimos"
+            ],
+            "answer": 3,
+            "explanationJa": "主語が nosotros なので、poder の不規則点過去一人称複数形 pudimos になります。語幹が pod- → pud- に変化。"
+          },
+          {
+            "prompt": "Mi madre ___ la comida en la mesa. (poner)",
+            "options": [
+              "pusiste",
+              "pusieron",
+              "puse",
+              "puso"
+            ],
+            "answer": 3,
+            "explanationJa": "主語が mi madre（三人称単数）なので、poner の不規則点過去三人称単数形 puso になります。語幹が pon- → pus- に変化。"
+          },
+          {
+            "prompt": "¿Qué te ___ el profesor? (decir)",
+            "options": [
+              "dijo",
+              "dijeron",
+              "dijiste",
+              "dije"
+            ],
+            "answer": 0,
+            "explanationJa": "主語が el profesor（三人称単数）なので、decir の不規則点過去三人称単数形 dijo になります。語幹が dec- → dij- に変化。"
+          },
+          {
+            "prompt": "Mis amigos ___ a Japón el verano pasado. (venir)",
+            "options": [
+              "vine",
+              "vinieron",
+              "vino",
+              "viniste"
+            ],
+            "answer": 1,
+            "explanationJa": "主語が mis amigos（三人称複数）なので、venir の不規則点過去三人称複数形 vinieron になります。語幹が ven- → vin- に変化。"
+          },
+          {
+            "prompt": "Yo ___ enfermo toda la semana pasada. (estar)",
+            "options": [
+              "estuviste",
+              "estuvieron",
+              "estuvo",
+              "estuve"
+            ],
+            "answer": 3,
+            "explanationJa": "主語が yo なので、estar の不規則点過去一人称単数形 estuve になります。語幹が est- → estuv- に変化。"
+          },
+          {
+            "prompt": "Ella ___ la verdad pero nadie le creyó. (decir)",
+            "options": [
+              "dijiste",
+              "dijeron",
+              "dijo",
+              "dije"
+            ],
+            "answer": 2,
+            "explanationJa": "主語が ella（三人称単数）なので、decir の不規則点過去三人称単数形 dijo。creyó は creer の点過去（三人称で i → y に変化）。"
+          },
+          {
+            "prompt": "El chef ___ un plato espectacular para la cena. (preparar)",
+            "options": [
+              "prepararon",
+              "preparé",
+              "preparaste",
+              "preparó"
+            ],
+            "answer": 3,
+            "explanationJa": "主語が el chef（三人称単数）なので、-ar 動詞の点過去三人称単数形 -ó をつけて preparó になります。plato espectacular = 見事な料理。"
+          },
+          {
+            "prompt": "Los investigadores ___ un descubrimiento importante. (hacer)",
+            "options": [
+              "hice",
+              "hicieron",
+              "hiciste",
+              "hizo"
+            ],
+            "answer": 1,
+            "explanationJa": "主語が los investigadores（研究者たち＝三人称複数）なので、hacer の不規則点過去三人称複数形 hicieron になります。descubrimiento = 発見。"
+          },
+          {
+            "prompt": "El embajador ___ un discurso en la ceremonia. (pronunciar＝述べる)",
+            "options": [
+              "pronuncié",
+              "pronunciaste",
+              "pronunció",
+              "pronunciaron"
+            ],
+            "answer": 2,
+            "explanationJa": "主語が el embajador（大使＝三人称単数）なので、-ar 動詞の点過去三人称単数形 -ó をつけて pronunció になります。discurso = スピーチ、ceremonia = 式典。"
+          },
+          {
+            "prompt": "Ellos ___ las consecuencias de su decisión. (asumir＝引き受ける)",
+            "options": [
+              "asumió",
+              "asumiste",
+              "asumieron",
+              "asumí"
+            ],
+            "answer": 2,
+            "explanationJa": "主語が ellos（三人称複数）なので、-ir 動詞の点過去三人称複数形 -ieron をつけて asumieron になります。consecuencias = 結果・代償、decisión = 決定。"
+          },
+          {
+            "prompt": "La empresa ___ una estrategia innovadora el trimestre pasado. (implementar＝実施する)",
+            "options": [
+              "implementaste",
+              "implementaron",
+              "implementó",
+              "implementé"
+            ],
+            "answer": 2,
+            "explanationJa": "主語が la empresa（企業＝三人称単数）なので、-ar 動詞の点過去三人称単数形 -ó をつけて implementó になります。estrategia innovadora = 革新的な戦略、trimestre = 四半期。"
+          },
+          {
+            "prompt": "Los científicos ___ los resultados del experimento a la comunidad académica. (transmitir＝伝える)",
+            "options": [
+              "transmitió",
+              "transmitiste",
+              "transmitieron",
+              "transmití"
+            ],
+            "answer": 2,
+            "explanationJa": "主語が los científicos（科学者たち＝三人称複数）なので、-ir 動詞の点過去三人称複数形 -ieron をつけて transmitieron になります。resultados = 結果、experimento = 実験、comunidad académica = 学術界。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Ayer yo ___ con mi madre. (hablar)",
+            "answer": "hablé",
+            "options": [
+              "hablé",
+              "hablo",
+              "hablaron",
+              "habló"
+            ],
+            "explanationJa": "yo + -ar動詞の点過去 → 語尾は-é。hablé が正解。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "María ___ sushi anoche. (comer)",
+            "answer": "comió",
+            "options": [
+              "comiste",
+              "comió",
+              "comieron",
+              "comí"
+            ],
+            "explanationJa": "María = 三人称単数。-er動詞の点過去語尾は-ió。comióが正解。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Nosotros ___ al parque el domingo. (ir)",
+            "answer": "fuimos",
+            "options": [
+              "fueron",
+              "fuiste",
+              "fui",
+              "fuimos"
+            ],
+            "explanationJa": "irの点過去、nosotros形はfuimos。irは完全不規則動詞です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¿Qué ___ tú ayer? (hacer)",
+            "answer": "hiciste",
+            "options": [
+              "hiciste",
+              "hizo",
+              "hice",
+              "hicieron"
+            ],
+            "explanationJa": "hacerの点過去、tú形はhiciste。語幹がhac- → hic-に変化。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Ella ___ un examen muy difícil. (tener)",
+            "answer": "tuvo",
+            "options": [
+              "tuvieron",
+              "tuviste",
+              "tuvo",
+              "tuve"
+            ],
+            "explanationJa": "tenerの点過去、三人称単数はtuvo。語幹がten- → tuv-に変化。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "No ___ dormir anoche. (poder, yo)",
+            "answer": "pude",
+            "options": [
+              "pudiste",
+              "pudimos",
+              "pudo",
+              "pude"
+            ],
+            "explanationJa": "poderの点過去、yo形はpude。語幹がpod- → pud-に変化。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Mis amigos ___ a Japón el verano pasado. (venir)",
+            "answer": "vinieron",
+            "options": [
+              "vine",
+              "vinieron",
+              "vino",
+              "viniste"
+            ],
+            "explanationJa": "venirの点過去、三人称複数はvinieron。語幹がven- → vin-に変化。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Yo ___ enfermo toda la semana. (estar)",
+            "answer": "estuve",
+            "options": [
+              "estuvieron",
+              "estuviste",
+              "estuvo",
+              "estuve"
+            ],
+            "explanationJa": "estarの点過去、yo形はestuve。語幹がest- → estuv-に変化。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Mi amiga me ___ algo interesante. (decir)",
+            "answer": "dijo",
+            "options": [
+              "dijeron",
+              "dije",
+              "dijiste",
+              "dijo"
+            ],
+            "explanationJa": "decirの点過去、三人称単数はdijo。語幹がdec- → dij-に変化。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Ella ___ las llaves en la mesa. (poner)",
+            "answer": "puso",
+            "options": [
+              "puso",
+              "pusieron",
+              "pusiste",
+              "puse"
+            ],
+            "explanationJa": "ponerの点過去、三人称単数はpuso。語幹がpon- → pus-に変化。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Ayer he comido sushi.",
+            "answer": "Ayer comí sushi.",
+            "explanationJa": "「昨日」は完了した時間枠なので点過去（comí）を使います。現在完了（he comido）は不適切。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Ella hació la tarea.",
+            "answer": "Ella hizo la tarea.",
+            "explanationJa": "hacerの点過去は不規則。hació ではなくhizoが正解。三人称単数はc→zの変化もあります。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Yo tuví un examen ayer.",
+            "answer": "Yo tuve un examen ayer.",
+            "explanationJa": "tenerの不規則点過去のyo形はtuve（アクセント記号なし）。tuví は間違いです。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Ellos dijieron la verdad.",
+            "answer": "Ellos dijeron la verdad.",
+            "explanationJa": "decirの三人称複数はdijeron。jの後のiが落ちるルールがあります。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Nosotros fuemos al cine.",
+            "answer": "Nosotros fuimos al cine.",
+            "explanationJa": "irの点過去nosotros形はfuimos。fuemosは存在しない形です。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "irとserの点過去について正しいのは？",
+            "options": [
+              "nosotros形だけ違う",
+              "完全に同じ形",
+              "形が違う",
+              "yo形だけ同じ"
+            ],
+            "answer": 1,
+            "explanationJa": "irとserの点過去は完全に同じ形（fui, fuiste, fue, fuimos, fuisteis, fueron）。文脈で判断します。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「¿Ya comiste?」はどの地域でよく使う表現？",
+            "options": [
+              "中南米でよく使う",
+              "スペインのみ",
+              "書き言葉のみ",
+              "どこでも使わない"
+            ],
+            "answer": 0,
+            "explanationJa": "中南米では「今日のこと」にも点過去を使います。スペインなら「¿Ya has comido?」が多い。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「週末何したの？」の正しいスペイン語は？",
+            "options": [
+              "¿Qué haces el fin de semana?",
+              "¿Qué hiciste el fin de semana?",
+              "¿Qué haciste el fin de semana?",
+              "¿Qué hicieron el fin de semana?"
+            ],
+            "answer": 1,
+            "explanationJa": "hacerの点過去tú形はhiciste。語幹がhac- → hic-に変化。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "点過去でよく使う時間表現でないのは？",
+            "options": [
+              "la semana pasada",
+              "hace dos días",
+              "ahora",
+              "ayer"
+            ],
+            "answer": 2,
+            "explanationJa": "ahora（今）は現在。ayer、la semana pasada、hace dos díasは全て点過去のサインです。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "-ar動詞のnosotros形の点過去が現在形と同じなのはなぜ？",
+            "options": [
+              "過去形がないから",
+              "活用語尾が同じ（-amos）だから",
+              "両方とも不規則だから",
+              "間違いだから"
+            ],
+            "answer": 1,
+            "explanationJa": "-ar動詞のnosotros形は現在形も点過去も-amos。文脈で判断します（例：hablamos）。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「昨日渋谷でラーメンを食べた」をスペイン語に訳しなさい。",
+            "answer": "Ayer comí ramen en Shibuya.",
+            "acceptableAnswers": [
+              "Ayer comí ramen en Shibuya."
+            ],
+            "explanationJa": "comerの点過去yo形はcomí。ayer（昨日）は点過去のサイン。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「去年スペインに行った」をスペイン語に訳しなさい。",
+            "answer": "Fui a España el año pasado.",
+            "acceptableAnswers": [
+              "Fui a España el año pasado.",
+              "El año pasado fui a España."
+            ],
+            "explanationJa": "irの点過去yo形はfui。el año pasado = 去年。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「昨夜眠れなかった」をスペイン語に訳しなさい。",
+            "answer": "No pude dormir anoche.",
+            "acceptableAnswers": [
+              "No pude dormir anoche.",
+              "Anoche no pude dormir."
+            ],
+            "explanationJa": "poderの点過去yo形はpude。anoche = 昨夜。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文を点過去にしなさい: Hablo con mi madre. (ayer)",
+            "answer": "Ayer hablé con mi madre.",
+            "explanationJa": "hablarの点過去yo形はhablé。現在形hablo → 点過去hablé。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文を否定文にしなさい: Fui a la fiesta.",
+            "answer": "No fui a la fiesta.",
+            "explanationJa": "否定文は動詞の前にnoを置きます。「パーティーに行かなかった」。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "点過去は「過去に完了した動作」を表す。日本語の「〜した」に相当",
+      "-ar 動詞の語尾：-é, -aste, -ó, -amos, -asteis, -aron",
+      "-er/-ir 動詞の語尾は同じ：-í, -iste, -ió, -imos, -isteis, -ieron",
+      "ir と ser の点過去は同じ形（fui, fuiste, fue, fuimos, fuisteis, fueron）",
+      "不規則動詞は語幹が変わる：hacer→hic-, tener→tuv-, estar→estuv-, poder→pud-, poner→pus-, decir→dij-, venir→vin-",
+      "時間表現（ayer, anoche, la semana pasada, hace + 期間）が点過去のサイン",
+      "中南米では「今日のこと」も点過去で言う。スペインでは現在完了を好む傾向がある",
+      "nosotros の -ar 動詞の点過去（hablamos）は現在形と同じ形。文脈で判断する"
+    ]
+  }
+}

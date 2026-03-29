@@ -1,0 +1,228 @@
+{
+  "scenario": "travel",
+  "titleJa": "旅行で使えるスペイン語フレーズ",
+  "titleEs": "Frases útiles para viajar",
+  "totalPhrases": 20,
+  "phrases": [
+    {
+      "id": "travel-001",
+      "spanishText": "¡Buenos días! ¿Cómo está usted?",
+      "japaneseTranslation": "おはようございます！お元気ですか？",
+      "pronunciationHint": "ブエノス ディアス！コモ エスタ ウステッ？",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "朝の丁寧な挨拶。ホテルのフロントや初対面の人に。午後は Buenas tardes、夜は Buenas noches を使います。",
+      "category": "greetings"
+    },
+    {
+      "id": "travel-002",
+      "spanishText": "¡Hola! ¿Qué tal?",
+      "japaneseTranslation": "やあ！調子はどう？",
+      "pronunciationHint": "オラ！ケ タル？",
+      "formality": "informal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "カジュアルな挨拶。時間帯を問わず使えます。友人や若い人同士に。",
+      "category": "greetings"
+    },
+    {
+      "id": "travel-003",
+      "spanishText": "Mucho gusto. Me llamo Tanaka.",
+      "japaneseTranslation": "はじめまして。田中と申します。",
+      "pronunciationHint": "ムチョ グスト。メ ジャモ タナカ。",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "自己紹介の基本表現。Mucho gusto は「お会いできて嬉しいです」の意味。",
+      "category": "greetings"
+    },
+    {
+      "id": "travel-004",
+      "spanishText": "¿Puede hablar más despacio, por favor?",
+      "japaneseTranslation": "もっとゆっくり話していただけますか？",
+      "pronunciationHint": "プエデ アブラール マス デスパシオ、ポル ファボール？",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "スペイン語学習者にとって最重要フレーズの一つ。ネイティブの話すスピードは速いので遠慮なく使いましょう。",
+      "category": "greetings"
+    },
+    {
+      "id": "travel-005",
+      "spanishText": "¿Dónde está el aeropuerto?",
+      "japaneseTranslation": "空港はどこですか？",
+      "pronunciationHint": "ドンデ エスタ エル アエロプエルト？",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "場所を尋ねる基本表現。¿Dónde está...?（〜はどこですか？）を覚えましょう。",
+      "category": "directions"
+    },
+    {
+      "id": "travel-006",
+      "spanishText": "¿Cómo llego a la estación de tren?",
+      "japaneseTranslation": "電車の駅にはどうやって行けますか？",
+      "pronunciationHint": "コモ ジェゴ ア ラ エスタシオン デ トレン？",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "道を聞くときの表現。¿Cómo llego a...?（〜にはどう行けますか？）。",
+      "category": "directions"
+    },
+    {
+      "id": "travel-007",
+      "spanishText": "Gire a la derecha en la segunda calle.",
+      "japaneseTranslation": "2つ目の通りを右に曲がってください。",
+      "pronunciationHint": "ヒレ ア ラ デレチャ エン ラ セグンダ カジェ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "Doble a la derecha...（中南米では doble も一般的）",
+      "contextNoteJa": "道案内でよく聞く表現。derecha = 右、izquierda = 左。gire / doble = 曲がってください。",
+      "category": "directions"
+    },
+    {
+      "id": "travel-008",
+      "spanishText": "Siga todo recto dos manzanas.",
+      "japaneseTranslation": "2ブロックまっすぐ進んでください。",
+      "pronunciationHint": "シガ トド レクト ドス マンサナス",
+      "formality": "neutral",
+      "spainVariant": "todo recto（スペイン）",
+      "latamVariant": "derecho / todo derecho（中南米）; cuadras（中南米では manzanas より cuadras が一般的）",
+      "contextNoteJa": "道案内の基本表現。manzana / cuadra = ブロック（区画）。",
+      "category": "directions"
+    },
+    {
+      "id": "travel-009",
+      "spanishText": "Un billete de ida y vuelta a Barcelona, por favor.",
+      "japaneseTranslation": "バルセロナまでの往復切符を1枚お願いします。",
+      "pronunciationHint": "ウン ビジェテ デ イダ イ ブエルタ ア バルセロナ、ポル ファボール",
+      "formality": "neutral",
+      "spainVariant": "billete（スペイン）",
+      "latamVariant": "boleto（中南米の多くの国）",
+      "contextNoteJa": "切符を買うときの表現。ida = 行き、vuelta = 帰り。片道は solo ida。",
+      "category": "transportation"
+    },
+    {
+      "id": "travel-010",
+      "spanishText": "¿A qué hora sale el próximo autobús?",
+      "japaneseTranslation": "次のバスは何時に出ますか？",
+      "pronunciationHint": "ア ケ オラ サレ エル プロキシモ アウトブス？",
+      "formality": "neutral",
+      "spainVariant": "autobús（スペイン）",
+      "latamVariant": "camión（メキシコ）、colectivo（アルゼンチン）、guagua（キューバ・カナリア諸島）",
+      "contextNoteJa": "交通機関の時刻を聞く基本表現。バスの呼び方は国によって大きく異なります。",
+      "category": "transportation"
+    },
+    {
+      "id": "travel-011",
+      "spanishText": "Quiero tomar un taxi al centro.",
+      "japaneseTranslation": "中心街までタクシーに乗りたいです。",
+      "pronunciationHint": "キエロ トマール ウン タクシ アル セントロ",
+      "formality": "neutral",
+      "spainVariant": "coger un taxi（スペイン）",
+      "latamVariant": "tomar un taxi（中南米）※中南米では coger は避けましょう！",
+      "contextNoteJa": "重要な地域差！スペインでは coger =「乗る」ですが、中南米では下品な意味になります。中南米では必ず tomar を使いましょう。",
+      "category": "transportation"
+    },
+    {
+      "id": "travel-012",
+      "spanishText": "¿Me puede llevar a esta dirección?",
+      "japaneseTranslation": "この住所まで連れて行ってもらえますか？",
+      "pronunciationHint": "メ プエデ ジェバール ア エスタ ディレクシオン？",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "タクシーに乗るときに便利。住所やスマホの画面を見せながら使いましょう。",
+      "category": "transportation"
+    },
+    {
+      "id": "travel-013",
+      "spanishText": "Tengo una reserva a nombre de Tanaka.",
+      "japaneseTranslation": "田中の名前で予約があります。",
+      "pronunciationHint": "テンゴ ウナ レセルバ ア ノンブレ デ タナカ",
+      "formality": "formal",
+      "spainVariant": "reserva（スペイン）",
+      "latamVariant": "reservación（中南米では reservación も一般的）",
+      "contextNoteJa": "ホテルのチェックインで使う表現。a nombre de... =「〜の名前で」。",
+      "category": "hotel"
+    },
+    {
+      "id": "travel-014",
+      "spanishText": "¿Tiene habitaciones disponibles?",
+      "japaneseTranslation": "空いている部屋はありますか？",
+      "pronunciationHint": "ティエネ アビタシオネス ディスポニブレス？",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": "cuartos disponibles（中南米では cuarto も使う）",
+      "contextNoteJa": "予約なしでホテルを探すときに使います。habitación / cuarto = 部屋。",
+      "category": "hotel"
+    },
+    {
+      "id": "travel-015",
+      "spanishText": "¿A qué hora es el desayuno?",
+      "japaneseTranslation": "朝食は何時ですか？",
+      "pronunciationHint": "ア ケ オラ エス エル デサユノ？",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "ホテルで朝食の時間を聞くとき。desayuno = 朝食。",
+      "category": "hotel"
+    },
+    {
+      "id": "travel-016",
+      "spanishText": "¿Tiene wifi? ¿Cuál es la contraseña?",
+      "japaneseTranslation": "Wi-Fiはありますか？パスワードは何ですか？",
+      "pronunciationHint": "ティエネ ウィフィ？クアル エス ラ コントラセニャ？",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "clave（中南米では clave = パスワード、も使う）",
+      "contextNoteJa": "ホテルやカフェで必須の質問。",
+      "category": "hotel"
+    },
+    {
+      "id": "travel-017",
+      "spanishText": "Una mesa para dos, por favor.",
+      "japaneseTranslation": "2人用のテーブルをお願いします。",
+      "pronunciationHint": "ウナ メサ パラ ドス、ポル ファボール",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "レストランに入るときの基本表現。数字を変えて応用できます。",
+      "category": "restaurant"
+    },
+    {
+      "id": "travel-018",
+      "spanishText": "¿Me trae la carta, por favor?",
+      "japaneseTranslation": "メニューを持ってきていただけますか？",
+      "pronunciationHint": "メ トラエ ラ カルタ、ポル ファボール？",
+      "formality": "neutral",
+      "spainVariant": "la carta（スペイン）",
+      "latamVariant": "el menú（中南米では menú が一般的）",
+      "contextNoteJa": "スペインでは carta = メニュー。menú はランチセットを指すことも。中南米では menú が一般的。",
+      "category": "restaurant"
+    },
+    {
+      "id": "travel-019",
+      "spanishText": "La cuenta, por favor.",
+      "japaneseTranslation": "お会計をお願いします。",
+      "pronunciationHint": "ラ クエンタ、ポル ファボール",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "レストランで会計を頼むときの定番表現。la cuenta = お勘定。",
+      "category": "restaurant"
+    },
+    {
+      "id": "travel-020",
+      "spanishText": "Soy alérgico/a a los mariscos.",
+      "japaneseTranslation": "海鮮アレルギーがあります。",
+      "pronunciationHint": "ソイ アレルヒコ/ア ア ロス マリスコス",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "アレルギーを伝える重要表現。男性は alérgico、女性は alérgica。mariscos を nueces（ナッツ）、gluten（グルテン）、huevos（卵）に変えて応用できます。",
+      "category": "restaurant"
+    }
+  ]
+}

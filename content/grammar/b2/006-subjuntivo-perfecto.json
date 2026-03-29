@@ -1,0 +1,503 @@
+{
+  "id": "b2-grammar-006",
+  "slug": "subjuntivo-perfecto",
+  "titleJa": "接続法現在完了・過去完了",
+  "titleEs": "Subjuntivo Perfecto y Pluscuamperfecto",
+  "level": "b2",
+  "sortOrder": 6,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "接続法の完了形：「〜したこと」を主観的に述べる",
+        "bodyJa": "B1で接続法現在を学び、B2で接続法過去を学びました。\nここでは接続法の完了形を2つまとめて学びます。\n\n1. 接続法現在完了（Pretérito perfecto de subjuntivo）\n   haya + 過去分詞\n   「〜したことを」願う・疑う・嬉しい等（完了のニュアンス）\n\n2. 接続法過去完了（Pretérito pluscuamperfecto de subjuntivo）\n   hubiera + 過去分詞\n   「〜していたことを」願う・仮定する等（過去の完了）\n\n覚え方：\nhaya + pp = 接続法の現在完了（he + pp の接続法バージョン）\nhubiera + pp = 接続法の過去完了（había + pp の接続法バージョン）\n\nこの2つが使えると、時制の表現力が飛躍的に上がります。"
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "hablar（話す）",
+        "tense": "Pretérito perfecto de subjuntivo（接続法現在完了）",
+        "forms": {
+          "yo": "haya hablado",
+          "tú": "hayas hablado",
+          "él/ella/usted": "haya hablado",
+          "nosotros/as": "hayamos hablado",
+          "vosotros/as": "hayáis hablado",
+          "ellos/ellas/ustedes": "hayan hablado"
+        },
+        "latamNote": null,
+        "spainNote": null
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "hablar（話す）",
+        "tense": "Pretérito pluscuamperfecto de subjuntivo（接続法過去完了）",
+        "forms": {
+          "yo": "hubiera hablado",
+          "tú": "hubieras hablado",
+          "él/ella/usted": "hubiera hablado",
+          "nosotros/as": "hubiéramos hablado",
+          "vosotros/as": "hubierais hablado",
+          "ellos/ellas/ustedes": "hubieran hablado"
+        },
+        "latamNote": null,
+        "spainNote": "スペインでは hubiese hablado（-se形）も使われることがありますが、意味は同じです。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "接続法現在完了の使い方",
+        "bodyJa": "接続法現在完了は「すでに完了した行為」について、現在の視点から主観的に述べるときに使います。\n\n使用場面：\n\n1. 感情：完了した出来事への反応\n   Me alegro de que hayas aprobado el examen.\n   （試験に受かったことが嬉しい）\n\n2. 疑い：完了した出来事への疑い\n   Dudo que hayan llegado ya.\n   （もう着いたとは思えない）\n\n3. 希望：完了であることを望む\n   Espero que haya ido bien la entrevista.\n   （面接がうまくいったことを願う）\n\n4. 否定の意見\n   No creo que haya sido un error.\n   （間違いだったとは思わない）\n\nポイント：主節が現在形で、que以下の出来事が「もう起きた」とき、接続法現在完了を使います。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "接続法過去完了の使い方",
+        "bodyJa": "接続法過去完了は、過去の完了した行為について、過去の視点から主観的に述べるとき、または過去の非現実の仮定に使います。\n\n使用場面：\n\n1. 過去の感情・願望\n   Me alegré de que hubieran venido a mi fiesta.\n   （パーティーに来てくれたことが嬉しかった）\n\n2. 過去の非現実の仮定（Si節：第3条件文）\n   Si hubiera estudiado más, habría aprobado.\n   （もっと勉強していたら、受かっていたのに）\n\n3. ojalá + 接続法過去完了（過去の後悔）\n   Ojalá hubiera viajado más cuando era joven.\n   （若いときにもっと旅行しておけばよかった）\n\n4. como si + 接続法過去完了（過去の事実に反する比喩）\n   Hablaba como si hubiera estado allí.\n   （まるでそこにいたかのように話していた）\n\nSi節の第3条件文は DELE B2 で最も重要な構文の1つです。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Me alegro de que hayas conseguido el trabajo.",
+            "ja": "仕事が決まってよかったね。",
+            "noteJa": "接続法現在完了。現在の感情（me alegro）+ 完了した出来事（hayas conseguido）。"
+          },
+          {
+            "es": "No creo que hayan terminado todavía.",
+            "ja": "まだ終わったとは思えない。",
+            "noteJa": "接続法現在完了。否定の意見 + 完了の疑い。"
+          },
+          {
+            "es": "Ojalá hubiera aceptado esa oferta de trabajo.",
+            "ja": "あの仕事のオファーを受けておけばよかった。",
+            "noteJa": "接続法過去完了。ojalá + 過去完了 = 過去の後悔。もう取り返しがつかない。"
+          },
+          {
+            "es": "Si hubiéramos reservado antes, habríamos tenido mejores asientos.",
+            "ja": "もっと早く予約していたら、もっといい席が取れたのに。",
+            "noteJa": "第3条件文。Si + 接続法過去完了 + 条件法複合。"
+          },
+          {
+            "es": "Es posible que haya habido un malentendido.",
+            "ja": "誤解があったのかもしれない。",
+            "noteJa": "接続法現在完了。es posible que + 完了の可能性。"
+          },
+          {
+            "es": "Sentía que no hubiera podido despedirme.",
+            "ja": "お別れを言えなかったことが残念だった。",
+            "noteJa": "接続法過去完了。過去の感情 + 過去の完了した出来事。"
+          },
+          {
+            "es": "Actuaba como si nunca hubiera roto un plato.",
+            "ja": "まるで何も悪いことをしたことがないかのようにふるまっていた。",
+            "noteJa": "como si + 接続法過去完了。「皿を割ったことがない」= 「潔白」の慣用表現。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Me alegro de que has aprobado.",
+            "correct": "Me alegro de que hayas aprobado.",
+            "whyJa": "感情（me alegro de que）の後は接続法。has は直説法の現在完了。hayas が接続法現在完了です。日本語には接続法がないため、直説法を使いがちです。"
+          },
+          {
+            "wrong": "Ojalá habría viajado más.",
+            "correct": "Ojalá hubiera viajado más.",
+            "whyJa": "ojalá の後は接続法。habría は条件法複合であり接続法ではありません。hubiera が接続法過去完了です。"
+          },
+          {
+            "wrong": "Si hubiera sabido, habría iba.",
+            "correct": "Si hubiera sabido, habría ido.",
+            "whyJa": "habría + 過去分詞の形。iba は線過去であり過去分詞ではありません。ir の過去分詞は ido。"
+          },
+          {
+            "wrong": "No creo que ha terminado.",
+            "correct": "No creo que haya terminado.",
+            "whyJa": "no creo que の後は接続法。ha は直説法現在完了。haya が接続法現在完了の正しい形。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！接続法完了形の日常",
+        "items": [
+          {
+            "es": "Ojalá hubiera empezado a estudiar español antes... Ahora estaría hablando con fluidez 😭",
+            "ja": "もっと早くスペイン語を始めていたらよかった...今頃ペラペラだったのに😭",
+            "source": "sns",
+            "sourceLabel": "語学学習者のSNS投稿",
+            "noteJa": "ojalá + 接続法過去完了（後悔）+ 混合条件文の帰結。学習者の「あるある」。"
+          },
+          {
+            "es": "¡Me alegro mucho de que hayáis podido venir!",
+            "ja": "来てくれて本当に嬉しい！",
+            "source": "conversation",
+            "sourceLabel": "パーティーでの挨拶",
+            "context": "友人をパーティーで迎える場面",
+            "noteJa": "接続法現在完了。hayáis は vosotros 形（スペイン）。中南米では hayan podido。"
+          },
+          {
+            "es": "Es raro que no haya llamado todavía. ¿Le habrá pasado algo?",
+            "ja": "まだ電話してこないなんておかしい。何かあったのかな？",
+            "source": "conversation",
+            "sourceLabel": "家族との会話",
+            "context": "連絡がない人を心配する場面",
+            "noteJa": "es raro que + 接続法現在完了。「まだ〜していないのは変だ」。"
+          },
+          {
+            "es": "Si hubiera sabido que ibas a estar aquí, habría traído algo de comer.",
+            "ja": "ここにいるって知っていたら、何か食べ物を持ってきたのに。",
+            "source": "conversation",
+            "sourceLabel": "友人との偶然の再会",
+            "noteJa": "第3条件文。日常的な後悔・残念の表現。"
+          },
+          {
+            "es": "Espero que te haya gustado el regalo 🎁",
+            "ja": "プレゼント気に入ってくれたかな🎁",
+            "source": "sns",
+            "sourceLabel": "メッセージ",
+            "noteJa": "espero que + 接続法現在完了。プレゼントを渡した後の定番フレーズ。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "Me alegro de que ___ el examen. (aprobar, tú)",
+            "options": [
+              "hayas aprobado",
+              "hubieras aprobado",
+              "aprobaste",
+              "has aprobado"
+            ],
+            "answer": 0,
+            "explanationJa": "現在の感情（me alegro）+ 完了した出来事 = 接続法現在完了。hayas aprobado。"
+          },
+          {
+            "prompt": "Ojalá ___ más cuando era joven. (viajar, yo)",
+            "options": [
+              "hubiera viajado",
+              "haya viajado",
+              "viajé",
+              "habría viajado"
+            ],
+            "answer": 0,
+            "explanationJa": "過去の後悔 = ojalá + 接続法過去完了。hubiera viajado。"
+          },
+          {
+            "prompt": "Si ___ antes, habríamos encontrado asiento. (llegar, nosotros)",
+            "options": [
+              "hubiéramos llegado",
+              "llegaríamos",
+              "hayamos llegado",
+              "llegamos"
+            ],
+            "answer": 0,
+            "explanationJa": "第3条件文。Si + 接続法過去完了。hubiéramos llegado。"
+          },
+          {
+            "prompt": "No creo que ___ todavía. (terminar, ellos)",
+            "options": [
+              "terminaron",
+              "hubieran terminado",
+              "hayan terminado",
+              "han terminado"
+            ],
+            "answer": 2,
+            "explanationJa": "no creo que + 接続法現在完了。「まだ終わったとは思えない」。hayan terminado。"
+          },
+          {
+            "prompt": "Hablaba como si nunca ___ nada malo. (hacer, él)",
+            "options": [
+              "hiciera",
+              "haya hecho",
+              "ha hecho",
+              "hubiera hecho"
+            ],
+            "answer": 3,
+            "explanationJa": "como si + 接続法過去完了。「まるで悪いことをしたことがないかのように」。"
+          },
+          {
+            "prompt": "Espero que te ___ bien la entrevista. (ir)",
+            "options": [
+              "ha ido",
+              "fue",
+              "hubiera ido",
+              "haya ido"
+            ],
+            "answer": 3,
+            "explanationJa": "espero que + 接続法現在完了。「面接がうまくいったことを願う」。完了した出来事。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Me alegro de que ___ el examen. (aprobar, tú)",
+            "answer": "hayas aprobado",
+            "options": [
+              "hayas aprobado",
+              "hubieras aprobado",
+              "aprobaste",
+              "has aprobado"
+            ],
+            "explanationJa": "現在の感情（me alegro）+ 完了した出来事 = 接続法現在完了 hayas aprobado。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Ojalá ___ más cuando era joven. (estudiar, yo)",
+            "answer": "hubiera estudiado",
+            "options": [
+              "haya estudiado",
+              "estudié",
+              "hubiera estudiado",
+              "habría estudiado"
+            ],
+            "explanationJa": "過去の後悔 → ojalá + 接続法過去完了 hubiera estudiado。もう変えられない。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "No creo que ___ todavía. (llegar, ellos)",
+            "answer": "hayan llegado",
+            "options": [
+              "hubieran llegado",
+              "hayan llegado",
+              "llegaron",
+              "han llegado"
+            ],
+            "explanationJa": "否定の意見（no creo que）+ 完了の疑い = 接続法現在完了 hayan llegado。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si ___ antes, habríamos conseguido entradas. (reservar, nosotros)",
+            "answer": "hubiéramos reservado",
+            "options": [
+              "hubiéramos reservado",
+              "reservaríamos",
+              "hayamos reservado",
+              "reservamos"
+            ],
+            "explanationJa": "第3条件文。Si + 接続法過去完了 hubiéramos reservado。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Espero que te ___ bien la entrevista. (ir)",
+            "answer": "haya ido",
+            "options": [
+              "ha ido",
+              "fue",
+              "hubiera ido",
+              "haya ido"
+            ],
+            "explanationJa": "espero que + 接続法現在完了。完了した出来事への希望。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Actuaba como si nunca ___ un error. (cometer, él)",
+            "answer": "hubiera cometido",
+            "options": [
+              "ha cometido",
+              "cometiera",
+              "hubiera cometido",
+              "haya cometido"
+            ],
+            "explanationJa": "como si + 接続法過去完了。「まるで間違いを犯したことがないかのように」。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Es posible que ___ un malentendido. (haber)",
+            "answer": "haya habido",
+            "options": [
+              "hubo",
+              "haya habido",
+              "hubiera habido",
+              "ha habido"
+            ],
+            "explanationJa": "es posible que + 接続法現在完了。完了した可能性を述べる。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Me sorprende que no ___ nada sobre el tema. (decir, ellos)",
+            "answer": "hayan dicho",
+            "options": [
+              "dijeran",
+              "han dicho",
+              "hayan dicho",
+              "dijeron"
+            ],
+            "explanationJa": "感情（me sorprende que）+ 接続法現在完了。decir の過去分詞は dicho。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Ojalá no ___ ese comentario tan estúpido. (hacer, yo)",
+            "answer": "hubiera hecho",
+            "options": [
+              "habría hecho",
+              "hubiera hecho",
+              "hice",
+              "haya hecho"
+            ],
+            "explanationJa": "ojalá + 接続法過去完了 = 過去の後悔。hacer → hecho（不規則過去分詞）。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Sentía mucho que su padre ___ tan joven. (morir)",
+            "answer": "hubiera muerto",
+            "options": [
+              "hubiera muerto",
+              "haya muerto",
+              "moría",
+              "murió"
+            ],
+            "explanationJa": "過去の感情（sentía que）+ 接続法過去完了。morir の過去分詞は muerto。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Me alegro de que has conseguido el trabajo.",
+            "answer": "Me alegro de que hayas conseguido el trabajo.",
+            "explanationJa": "感情表現（me alegro de que）の後は接続法。has → hayas。直説法は使えない。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Ojalá habría viajado más de joven.",
+            "answer": "Ojalá hubiera viajado más de joven.",
+            "explanationJa": "ojalá の後は接続法。habría は条件法複合であり接続法ではない。hubiera が正しい。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "No creo que ha terminado el trabajo todavía.",
+            "answer": "No creo que haya terminado el trabajo todavía.",
+            "explanationJa": "no creo que の後は接続法。ha → haya。直説法の現在完了は使えない。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Si hubiera sabido, habría iba a tu fiesta.",
+            "answer": "Si hubiera sabido, habría ido a tu fiesta.",
+            "explanationJa": "habría + 過去分詞。iba は線過去であり過去分詞ではない。ir → ido。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Es raro que no ha llamado todavía.",
+            "answer": "Es raro que no haya llamado todavía.",
+            "explanationJa": "es raro que の後は接続法。ha → haya。感情・判断の que 節は接続法。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "接続法現在完了の構造はどれ？",
+            "options": [
+              "hubiera + 過去分詞",
+              "había + 過去分詞",
+              "haya + 過去分詞",
+              "habría + 過去分詞"
+            ],
+            "answer": 2,
+            "explanationJa": "接続法現在完了 = haya + 過去分詞。hubiera は接続法過去完了、habría は条件法複合、había は直説法過去完了。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "ojalá + 接続法過去完了はどんな意味？",
+            "options": [
+              "現在の願望",
+              "過去の後悔（もう変えられない）",
+              "命令",
+              "未来の予測"
+            ],
+            "answer": 1,
+            "explanationJa": "ojalá + 接続法過去完了 = 「〜していたらよかったのに」。過去の後悔。取り返しがつかない。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「como si + 接続法過去完了」はどんな意味？",
+            "options": [
+              "まるで〜したかのように（過去の事実に反する比喩）",
+              "〜した後で",
+              "〜する前に",
+              "〜するために"
+            ],
+            "answer": 0,
+            "explanationJa": "como si + 接続法過去完了 = 「まるで〜したかのように」。過去の非現実の比喩。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Me alegro de que hayas venido.」と「Me alegré de que hubieras venido.」の違いは？",
+            "options": [
+              "前者は今の感情、後者は過去の感情",
+              "前者は疑い、後者は確信",
+              "意味は同じ",
+              "前者は丁寧、後者はカジュアル"
+            ],
+            "answer": 0,
+            "explanationJa": "me alegro（現在の感情）→ 接続法現在完了。me alegré（過去の感情）→ 接続法過去完了。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "第3条件文のSi節で使う時制はどれ？",
+            "options": [
+              "条件法複合（habría + pp）",
+              "接続法現在完了（haya + pp）",
+              "直説法過去完了（había + pp）",
+              "接続法過去完了（hubiera + pp）"
+            ],
+            "answer": 3,
+            "explanationJa": "Si + 接続法過去完了（hubiera + pp）+ 条件法複合（habría + pp）が第3条件文。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「試験に受かったことが嬉しい」",
+            "answer": "Me alegro de que hayas aprobado el examen.",
+            "acceptableAnswers": [
+              "Me alegro de que hayas aprobado.",
+              "Me alegra que hayas aprobado el examen."
+            ],
+            "explanationJa": "現在の感情 + 完了した出来事 = me alegro de que + 接続法現在完了。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「もっと早く日本語を勉強し始めていればよかった」",
+            "answer": "Ojalá hubiera empezado a estudiar japonés antes.",
+            "acceptableAnswers": [
+              "Ojalá hubiese empezado a estudiar japonés más pronto.",
+              "Ojalá hubiera comenzado a estudiar japonés antes."
+            ],
+            "explanationJa": "ojalá + 接続法過去完了 = 過去の後悔。取り返しのつかない願望。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「プレゼントを気に入ってくれたかな」",
+            "answer": "Espero que te haya gustado el regalo.",
+            "acceptableAnswers": [
+              "Ojalá te haya gustado el regalo.",
+              "Espero que le haya gustado el regalo."
+            ],
+            "explanationJa": "espero que + 接続法現在完了。プレゼントを渡した後の定番表現。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "接続法現在完了→接続法過去完了: Me alegro de que hayas venido. → Me alegré de que ___.",
+            "answer": "Me alegré de que hubieras venido.",
+            "explanationJa": "主節が過去になると接続法も過去完了に。hayas → hubieras。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "直説法→接続法: Ha terminado el trabajo. → No creo que ___.",
+            "answer": "No creo que haya terminado el trabajo.",
+            "explanationJa": "否定の意見（no creo que）+ 接続法現在完了。ha → haya。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "接続法現在完了 = haya + 過去分詞：現在の視点から完了した出来事を主観的に述べる",
+      "接続法過去完了 = hubiera + 過去分詞：過去の完了した出来事、または過去の非現実の仮定",
+      "ojalá + 接続法過去完了 = 過去の後悔（もう変えられない）",
+      "Si + 接続法過去完了 + 条件法複合 = 第3条件文（過去の「たら・れば」）",
+      "como si + 接続法過去完了 = 「まるで〜したかのように」",
+      "直説法の現在完了（ha + pp）と接続法現在完了（haya + pp）を混同しない"
+    ]
+  }
+}

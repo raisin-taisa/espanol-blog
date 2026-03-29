@@ -1,0 +1,479 @@
+{
+  "id": "c2-grammar-004",
+  "slug": "estilistica-literaria",
+  "titleJa": "文学的修辞法 — スペイン語文学が文法を壊すとき",
+  "titleEs": "Estilística literaria: hipérbaton, anacoluto, elipsis y zeugma",
+  "level": "c2",
+  "sortOrder": 4,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "文法を「壊す」のも文法力のうち",
+        "bodyJa": "C2レベルのリーディングで最も困るのは、文学作品で文法規則が意図的に破られることです。\n\nこれは間違いではなく、修辞法（figuras retóricas）と呼ばれる技法です。\n\n文法規則を完全に理解しているからこそ、それを効果的に逸脱できる。\nつまり「ルールを破る方法を知る」こともC2の実力です。\n\nここでは、DELE C2のリーディングや文学作品で出会いやすい4つの修辞法を詳しく見ていきます。\n\n1. hipérbaton（語順転倒）\n2. anacoluto（構文の破綻）\n3. elipsis（省略）\n4. zeugma（共用法）"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "hipérbaton（イペルバトン）：語順転倒",
+        "bodyJa": "hipérbaton は、通常の語順（SVO）を意図的に崩す修辞法です。\n\n通常語順：El poeta cantó una canción triste.\n（詩人は悲しい歌を歌った）\n\nhipérbaton：Una canción triste cantó el poeta.\n（悲しい歌を歌った、詩人は）\n\nより極端な例：\nDel salón en el ángulo oscuro, de su dueño tal vez olvidada, silenciosa y cubierta de polvo, veíase el arpa.\n（サロンの暗い隅に、主人に忘れられ、静かに埃をかぶって、竪琴が見えた）\n— ベッケル『リマス』より\n\nこの文を普通の語順に戻すと：\nEl arpa se veía en el ángulo oscuro del salón, tal vez olvidada de su dueño, silenciosa y cubierta de polvo.\n\nhipérbaton を使う効果：\n1. 韻律・リズムを整える（詩で特に重要）\n2. 特定の要素を強調する（文頭に置かれた語が強調される）\n3. 文学的・格調高い印象を与える\n\n現代の散文では少ないですが、詩や演説では今でも使われます。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "anacoluto（アナコルト）：構文の破綻",
+        "bodyJa": "anacoluto は、文を始めたときの構文と終わるときの構文が一致しない修辞法です。\n\n日常会話でも無意識に起こりますが、文学ではそれを意図的に使います。\n\n例：Yo, que siempre he sido una persona honesta, me parece que no es justo.\n\n文法的に分析すると：\n・主語は yo → 動詞は me parece（3人称）に切り替わっている\n・正しくは：Yo, que siempre he sido una persona honesta, creo que no es justo.\n  または：A mí, que siempre he sido..., me parece que...\n\nもう一つの例：\nEl presidente, después de considerar todas las opciones, se tomó la decisión de aplazar las elecciones.\n→ se tomó la decisión（非人称）が el presidente（主語）と構文的に矛盾。\n\n文学での効果：\n1. 登場人物の思考の混乱・感情の高ぶりを表現\n2. 口語的なリアリズムを文章に持ち込む\n3. 読者に「不安定さ」の感覚を与える\n\nDELE C2では、anacoluto を「間違い」と判断せず、修辞効果として認識できることが重要です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "elipsis（エリプシス）：省略",
+        "bodyJa": "elipsis は、文脈から推測可能な要素を意図的に省略する修辞法です。\n\nスペイン語は主語の省略が普通ですが、文学的elipsis はそれ以上に大胆です。\n\n動詞の省略：\nJuan estudia medicina; María, derecho.\n（フアンは医学を学び、マリアは法学を[学ぶ]）\n→ estudia の省略。コンマが省略の目印。\n\n名詞の省略：\n¿Prefieres el vestido rojo o el azul?\n（赤いドレスと青い[ドレス]、どちらがいい？）\n→ vestido の省略。\n\n節の省略：\n— ¿Vienes mañana? — Si puedo.\n（明日来る？ — できたら[行く]）\n→ vengo の省略。\n\n文学的な大胆な省略：\nPor una mirada, un mundo;\npor una sonrisa, un cielo;\npor un beso... ¡yo no sé\nqué te diera por un beso!\n— ベッケル\n\n→ daría を省略して、最後に形を変えて登場させる。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "zeugma（セウグマ）：共用法",
+        "bodyJa": "zeugma は、1つの動詞が複数の目的語にかかるが、意味的にはそのうち1つにしか自然に合わない修辞法です。\n\n例：Vestía un traje negro y una sonrisa amable.\n（黒いスーツと優しい微笑みを身につけていた）\n→ vestir は traje には自然だが、sonrisa を「着る」のは比喩的。\n\nQuevedo の有名な例：\nÉrase un hombre a una nariz pegado.\n（鼻にくっついた男がいた）\n→ 通常は「男に鼻がくっついている」が、逆にすることで鼻の巨大さを強調。\n\nzeugma の種類：\n1. prozeugma：動詞が最初に来て、後の要素に適用\n   Robar el sueño y la tranquilidad.（眠りと安らぎを奪った）\n\n2. mesozeugma：動詞が中間にある\n   Su madre, lloraba; su padre, callaba.（母は泣き、父は黙った）\n\n3. hipozeugma：動詞が最後に来る\n   La lluvia, el viento, la oscuridad, todo contribuía al desastre.（雨、風、暗闇、すべてが災害に加担した）\n\nzeugma は「少ない語で多くを表現する」効率性と、意外な組み合わせによる驚きを生む修辞法です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "その他の重要な修辞法",
+        "bodyJa": "C2で知っておくべきその他の修辞法もいくつか紹介します。\n\nasíndeton（接続詞の省略）：\nVine, vi, vencí.（来た、見た、勝った）\n→ y を省略。テンポとリズムを生む。\n\npolisíndeton（接続詞の過剰使用）：\nY reía y lloraba y gritaba y cantaba.\n（そして笑い、そして泣き、そして叫び、そして歌った）\n→ y の反復で感情の波を表現。\n\nanáfora（文頭反復）：\nNo perdono la muerte enamorada, no perdono la vida desatenta, no perdono la tierra ni la nada.\n— ミゲル・エルナンデス\n→ no perdono の反復が怒り・悲しみを強調。\n\nquiasmo（交差法）：\nNi son todos los que están, ni están todos los que son.\n（いる者が全員そうではなく、そうである者が全員いるわけでもない）\n→ AB-BA の構造反転。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Del monte en la ladera, por mi mano plantado, tengo un huerto.",
+            "ja": "山の斜面に、私の手で植えた、果樹園がある。",
+            "noteJa": "hipérbaton：通常語順は Tengo un huerto plantado por mi mano en la ladera del monte。フライ・ルイス・デ・レオンの詩的語順転倒。"
+          },
+          {
+            "es": "Yo, la verdad, si te digo la verdad, pues no sé qué decirte.",
+            "ja": "私は、正直に言うと、本当のことを言えば、何と言えばいいかわからない。",
+            "noteJa": "anacoluto：口語的な構文破綻。Yo で始まったが、no sé に主語が移行。話者の迷いや混乱をリアルに表現。"
+          },
+          {
+            "es": "Unos iban a pie; otros, a caballo.",
+            "ja": "ある者は徒歩で、他の者は馬で[行った]。",
+            "noteJa": "elipsis：2つ目の iban を省略。コンマが動詞省略の印。簡潔で対比が際立つ。"
+          },
+          {
+            "es": "Perdió la batalla, la esperanza y la razón.",
+            "ja": "戦い、希望、そして理性を失った。",
+            "noteJa": "zeugma：perdió が3つの目的語にかかるが、それぞれ意味合いが異なる（物理的敗北 → 心理的喪失 → 精神的崩壊）。"
+          },
+          {
+            "es": "Llegué, vi, vencí.",
+            "ja": "来た、見た、勝った。",
+            "noteJa": "asíndeton：y を省略してテンポを速くする。カエサルの名言のスペイン語訳。簡潔さが力強さを生む。"
+          },
+          {
+            "es": "Ni son todos los que están, ni están todos los que son.",
+            "ja": "いる者が全員そうではなく、そうである者が全員いるわけでもない。",
+            "noteJa": "quiasmo：ser/estar が交差する構造。精神病院について使われることわざで、AB-BAの美しい対称性を持つ。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "hipérbaton を文法的間違いと判断してしまう",
+            "correct": "文学作品における意図的な語順転倒と認識する",
+            "whyJa": "C2のリーディングで最も多いミス。語順が変でも、修辞法の可能性を考えましょう。通常語順に戻してみて意味が通れば hipérbaton です。"
+          },
+          {
+            "wrong": "anacoluto を筆者のミスだと思って混乱する",
+            "correct": "登場人物の感情的混乱や口語的リアリズムの表現手法と理解する",
+            "whyJa": "特に小説の会話文で頻出。文学作品では「完璧な文法」が常に目的ではないことを理解しましょう。"
+          },
+          {
+            "wrong": "elipsis で省略された要素を補えず、文意を取り違える",
+            "correct": "コンマやセミコロンの後に動詞がない場合、前文の動詞が省略されていると判断する",
+            "whyJa": "Unos...; otros, ... のパターンでコンマが省略の目印になります。並列構造を意識すれば省略箇所が見えてきます。"
+          },
+          {
+            "wrong": "zeugma の比喩的要素を文字通りに解釈してしまう",
+            "correct": "1つの動詞が複数の対象に異なる意味レベルで適用されていることを認識する",
+            "whyJa": "vestir una sonrisa を「微笑みを着る」と文字通りに解釈せず、比喩的拡張として理解する。動詞が最初の目的語に合い、後続は比喩的。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "スペイン語文学の名作から",
+        "items": [
+          {
+            "es": "Volverán las oscuras golondrinas / en tu balcón sus nidos a colgar.",
+            "ja": "暗い色のツバメたちは / 君のバルコニーに巣を掛けに戻ってくるだろう。",
+            "source": "literature",
+            "sourceLabel": "ベッケル『リマス VII』",
+            "noteJa": "hipérbaton：通常語順は Las oscuras golondrinas volverán a colgar sus nidos en tu balcón。韻律のための語順転倒。"
+          },
+          {
+            "es": "En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero.",
+            "ja": "ラ・マンチャのある村に、その名を思い出したくないが、槍掛けに槍を持つ下級貴族が住んでいた。",
+            "source": "literature",
+            "sourceLabel": "セルバンテス『ドン・キホーテ』冒頭",
+            "noteJa": "hipérbaton + 挿入節の組み合わせ。de cuyo nombre no quiero acordarme は見事な挿入で、語り手の態度を示す。"
+          },
+          {
+            "es": "Cerrar podrá mis ojos la postrera / sombra que me llevare el blanco día.",
+            "ja": "最後の影が私から白い日を奪い去るとき / 私の目を閉じることができるだろう。",
+            "source": "literature",
+            "sourceLabel": "ケベード",
+            "noteJa": "極端なhipérbaton。通常語順：La postrera sombra que me llevare el blanco día podrá cerrar mis ojos。接続法未来 llevare も使用。"
+          },
+          {
+            "es": "Y el viejo, con la mano temblorosa, que apenas podía sostener el vaso, bebió en silencio.",
+            "ja": "そして老人は、グラスをかろうじて支える震える手で、黙って飲んだ。",
+            "source": "literature",
+            "sourceLabel": "文学的描写",
+            "noteJa": "挿入節による elipsis 的効果。主語と動詞が大きく分離し、間の描写が緊張感を生む。"
+          },
+          {
+            "es": "No perdono la muerte enamorada, / no perdono la vida desatenta, / no perdono la tierra ni la nada.",
+            "ja": "恋する死を許さない、/ 不注意な命を許さない、/ 大地も虚無も許さない。",
+            "source": "literature",
+            "sourceLabel": "ミゲル・エルナンデス『Elegía』",
+            "noteJa": "anáfora（文頭反復）。no perdono の3回の反復が、友を失った怒りと悲しみの激しさを増幅する。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "「Del salón en el ángulo oscuro, veíase el arpa.」はどの修辞法の例？",
+            "options": [
+              "hipérbaton（語順転倒）",
+              "zeugma（共用法）",
+              "elipsis（省略）",
+              "anacoluto（構文の破綻）"
+            ],
+            "answer": 0,
+            "explanationJa": "通常語順は El arpa se veía en el ángulo oscuro del salón。場所を文頭に置くことで雰囲気を強調する hipérbaton です。"
+          },
+          {
+            "prompt": "「Unos iban a pie; otros, a caballo.」のコンマの役割は？",
+            "options": [
+              "接続詞の代わり",
+              "呼びかけの区切り",
+              "同格の表示",
+              "省略された動詞（iban）の存在を示す"
+            ],
+            "answer": 3,
+            "explanationJa": "elipsis（省略法）において、コンマは省略された動詞の位置を示します。iban が省略されています。"
+          },
+          {
+            "prompt": "anacoluto が文学で使われる主な効果は？",
+            "options": [
+              "登場人物の感情的混乱や思考の流れをリアルに表現する",
+              "詩のリズムを整える",
+              "格調高い古典的な印象を与える",
+              "簡潔さを追求する"
+            ],
+            "answer": 0,
+            "explanationJa": "anacoluto は構文の途中で文の構造が変わること。これにより話者の動揺や思考の混乱をリアルに表現できます。"
+          },
+          {
+            "prompt": "「Vestía un traje negro y una sonrisa amable.」がzeugma である理由は？",
+            "options": [
+              "vestir が traje には自然に合うが sonrisa には比喩的にしか合わないから",
+              "動詞が省略されているから",
+              "構文が途中で変わっているから",
+              "語順が逆転しているから"
+            ],
+            "answer": 0,
+            "explanationJa": "zeugma は1つの動詞が複数の対象に異なる意味レベルで適用される修辞法。vestir は服には文字通り、微笑みには比喩的に適用。"
+          },
+          {
+            "prompt": "asíndeton とpolisíndeton の違いは？",
+            "options": [
+              "asíndeton は接続詞を省略し、polisíndeton は接続詞を過剰に使用する",
+              "asíndeton は語順転倒で、polisíndeton は構文破綻",
+              "asíndeton は韻文専用で、polisíndeton は散文専用",
+              "どちらも同じ意味の修辞法"
+            ],
+            "answer": 0,
+            "explanationJa": "asíndeton（接続詞省略）はテンポと簡潔さを、polisíndeton（接続詞過剰）は感情の波と累積感を生みます。対照的な修辞法です。"
+          },
+          {
+            "prompt": "hipérbaton が現代スペイン語で最もよく見られる場面は？",
+            "options": [
+              "ビジネスメール・報告書",
+              "新聞の見出し・広告",
+              "詩・演説・格式高い文章",
+              "日常会話・チャット"
+            ],
+            "answer": 2,
+            "explanationJa": "現代の散文では hipérbaton は少ないですが、詩や演説、文学的な文章では効果的に使われ続けています。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "「Volverán las oscuras golondrinas en tu balcón sus nidos a colgar」はどの修辞法か？ → ___",
+            "answer": "hipérbaton",
+            "options": [
+              "elipsis",
+              "anacoluto",
+              "hipérbaton",
+              "zeugma"
+            ],
+            "explanationJa": "通常語順は Las oscuras golondrinas volverán a colgar sus nidos en tu balcón。韻律のための語順転倒 = hipérbaton。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "「Unos corrían; otros, ___ .」省略されている動詞は？",
+            "answer": "corrían",
+            "options": [
+              "corrían",
+              "estaban",
+              "caminaban",
+              "iban"
+            ],
+            "explanationJa": "elipsis（省略法）。セミコロンとコンマの後に動詞がない場合、前文の動詞が省略されている。corrían が省略。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "「Vestía un uniforme impecable y una determinación inquebrantable」で使われている修辞法は ___ 。",
+            "answer": "zeugma",
+            "options": [
+              "hipérbaton",
+              "elipsis",
+              "anacoluto",
+              "zeugma"
+            ],
+            "explanationJa": "vestir は uniforme には自然に合うが、determinación（決意）を「着る」のは比喩的。1つの動詞が異なる意味レベルで適用 = zeugma。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "「Vine, vi, vencí」で使われている修辞法は ___ 。",
+            "answer": "asíndeton",
+            "options": [
+              "asíndeton",
+              "polisíndeton",
+              "anáfora",
+              "quiasmo"
+            ],
+            "explanationJa": "接続詞 y を省略してテンポを速くする修辞法 = asíndeton。簡潔さが力強さを生む。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "「Y lloraba y gritaba y cantaba y reía」で使われている修辞法は ___ 。",
+            "answer": "polisíndeton",
+            "options": [
+              "asíndeton",
+              "polisíndeton",
+              "anáfora",
+              "elipsis"
+            ],
+            "explanationJa": "接続詞 y の過剰使用 = polisíndeton。感情の波と累積感を表現する。asíndeton の反対。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "「No perdono la muerte, no perdono la vida, no perdono la nada」で使われている修辞法は ___ 。",
+            "answer": "anáfora",
+            "options": [
+              "zeugma",
+              "quiasmo",
+              "anáfora",
+              "hipérbaton"
+            ],
+            "explanationJa": "文頭の no perdono が3回反復 = anáfora。感情の強さを増幅する効果。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "「Yo, después de pensarlo mucho, bueno, es que no sé cómo decirlo, se tomó una decisión」は ___ の例。",
+            "answer": "anacoluto",
+            "options": [
+              "hipérbaton",
+              "elipsis",
+              "anacoluto",
+              "zeugma"
+            ],
+            "explanationJa": "Yo で始まった文が se tomó una decisión（非人称）に切り替わる構文破綻 = anacoluto。話者の迷いを表現。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "「Ni son todos los que están, ni están todos los que son」で使われている修辞法は ___ 。",
+            "answer": "quiasmo",
+            "options": [
+              "anáfora",
+              "zeugma",
+              "hipérbaton",
+              "quiasmo"
+            ],
+            "explanationJa": "ser/estar が AB-BA の交差構造で配置 = quiasmo（交差法）。対称性の美しさを生む。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "「Juan estudia filosofía; María, ___ .」コンマの後に省略されているものは？",
+            "answer": "estudia + 学科名",
+            "options": [
+              "estudia + 学科名",
+              "主語名詞",
+              "接続詞 y",
+              "形容詞"
+            ],
+            "explanationJa": "elipsis：コンマが動詞 estudia の省略位置を示す。María, (estudia) derecho. のような並列構造。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "「Del salón en el ángulo oscuro, veíase el arpa」を普通の語順に戻すと「El arpa se veía en el ángulo oscuro ___ salón」。",
+            "answer": "del",
+            "options": [
+              "por el",
+              "del",
+              "al",
+              "en el"
+            ],
+            "explanationJa": "hipérbaton を普通の語順に戻す。del salón → en el ángulo oscuro del salón。場所の前置詞関係を正確に復元。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "次の文は文法的間違いか修辞法か判断し、修辞法なら名称を答えよ：\n「Una canción triste cantó el viejo poeta en la plaza desierta.」",
+            "answer": "hipérbaton（語順転倒）。通常語順：El viejo poeta cantó una canción triste en la plaza desierta.",
+            "explanationJa": "目的語が文頭に来ている意図的な語順転倒。詩的効果や「悲しい歌」の強調を狙っている。文法ミスではない。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "次の文の修辞法を特定し、通常の語順に書き換えよ：\n「De la guerra, solo el hambre y el frío nos quedaron.」",
+            "answer": "通常語順：Solo el hambre y el frío nos quedaron de la guerra.（hipérbaton）",
+            "explanationJa": "de la guerra が文頭に置かれ、戦争の悲惨さを強調する hipérbaton。前置詞句を先頭に出す詩的転倒。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "次の文の elipsis で省略された要素を補い、完全な文にせよ：\n「Algunos prefieren el café; otros, el té.」",
+            "answer": "Algunos prefieren el café; otros prefieren el té.",
+            "explanationJa": "2つ目の節で prefieren が省略されている。コンマが省略の目印。並列構造で同じ動詞の反復を避ける elipsis。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "次の文は anacoluto を含む。文法的に整合した文に書き換えよ：\n「El director, después de la reunión, se decidió que el proyecto se cancelaría.」",
+            "answer": "El director, después de la reunión, decidió que el proyecto se cancelaría. / Después de la reunión, se decidió que el proyecto se cancelaría.",
+            "explanationJa": "El director（主語）と se decidió（非人称）が矛盾する anacoluto。主語に合わせるか、非人称に統一して修正。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "次の文の zeugma を解消し、2つの独立した表現に書き換えよ：\n「Perdió el partido, la confianza y la paciencia.」",
+            "answer": "Perdió el partido, y con él perdió también la confianza y la paciencia.",
+            "explanationJa": "perder は partido（試合）には物理的敗北、confianza/paciencia には心理的喪失で意味が異なる。zeugma を解消すると冗長だが明確になる。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "文学作品で hipérbaton が主に使われる目的は？",
+            "options": [
+              "口語的な親しみやすさを出すこと",
+              "韻律の調整、特定要素の強調、格調高い印象の付与",
+              "読者を混乱させること",
+              "文法知識の不足を隠すこと"
+            ],
+            "answer": 1,
+            "explanationJa": "hipérbaton は詩の韻律調整、強調したい語の前置、文学的格調の3つの効果を狙う意図的な技法。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "anacoluto が文学で使われるのはどのような効果を狙っているか？",
+            "options": [
+              "登場人物の思考の混乱・感情の高ぶりをリアルに表現する",
+              "韻を踏むため",
+              "読者に文法規則を教える",
+              "文章を短くするため"
+            ],
+            "answer": 0,
+            "explanationJa": "anacoluto は構文の途中で構造が変わること。小説では人物の動揺や思考の流れをリアルに描く手法として意図的に使われる。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Por una mirada, un mundo; por una sonrisa, un cielo; por un beso... ¡yo no sé qué te diera por un beso!」で使われている修辞法の組み合わせは？",
+            "options": [
+              "zeugma + anacoluto",
+              "polisíndeton + quiasmo",
+              "anáfora（por の反復）+ elipsis（daría の省略）+ clímax（漸層法）",
+              "hipérbaton のみ"
+            ],
+            "answer": 2,
+            "explanationJa": "por una の反復（anáfora）、daría の省略（elipsis）、一瞥→微笑み→キスと段階を上げる（clímax）の複合。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "asíndeton と polisíndeton はどのような関係にあるか？",
+            "options": [
+              "両方とも語順に関する修辞法",
+              "asíndeton は詩専用、polisíndeton は散文専用",
+              "同じ修辞法の別名",
+              "対照的な修辞法。asíndeton は接続詞を省略しテンポを速め、polisíndeton は接続詞を過剰に使い累積感を出す"
+            ],
+            "answer": 3,
+            "explanationJa": "接続詞の扱いが正反対。asíndeton（省略）→ 簡潔さ・テンポ。polisíndeton（過剰）→ 累積感・感情の波。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "DELE C2 のリーディングで文学テキストに出会ったとき、語順が通常と違う場合の最善の対処法は？",
+            "options": [
+              "辞書で語順のルールを調べる",
+              "文法ミスだと判断して無視する",
+              "次の問題に進む",
+              "hipérbaton の可能性を考え、通常語順に戻して意味を確認する"
+            ],
+            "answer": 3,
+            "explanationJa": "語順が異常な場合、まず hipérbaton を疑い、通常語順（SVO）に再構成して意味を把握する。C2では修辞法の認識力が問われる。"
+          },
+          {
+            "type": "translation",
+            "prompt": "暗い夜の中で、一人の旅人が道を歩いていた。（hipérbaton を使って語順を転倒させよ）",
+            "answer": "En la oscura noche, por el camino, caminaba un viajero solitario.",
+            "acceptableAnswers": [
+              "Por el camino, en la oscura noche, caminaba solitario un viajero.",
+              "En lo oscuro de la noche, un viajero solitario caminaba por el sendero."
+            ],
+            "explanationJa": "通常語順 Un viajero solitario caminaba por el camino en la oscura noche を転倒させ、場所・状況を前に出して文学的効果を出す。"
+          },
+          {
+            "type": "translation",
+            "prompt": "ある者は歌い、ある者は踊り、ある者は静かに見つめていた。（elipsis を使って）",
+            "answer": "Unos cantaban; otros, bailaban; otros, miraban en silencio.",
+            "acceptableAnswers": [
+              "Algunos cantaban; otros, bailaban; los demás, observaban en silencio."
+            ],
+            "explanationJa": "並列構造で動詞の反復を避ける elipsis。セミコロンとコンマで省略を示す典型パターン。"
+          },
+          {
+            "type": "translation",
+            "prompt": "彼は勇気と、微笑みと、自分の運命を身につけて戦場に向かった。（zeugma を使って）",
+            "answer": "Vestía el valor, una sonrisa y su propio destino cuando marchó al campo de batalla.",
+            "acceptableAnswers": [
+              "Con el valor, una sonrisa y su destino a cuestas, partió al campo de batalla."
+            ],
+            "explanationJa": "vestir が valor/sonrisa/destino に異なる意味レベルで適用される zeugma。物理的→心理的→哲学的と拡張。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の asíndeton を polisíndeton に変換せよ：\nLlegó, miró, suspiró, se marchó.",
+            "answer": "Y llegó, y miró, y suspiró, y se marchó.",
+            "explanationJa": "asíndeton（接続詞省略）→ polisíndeton（接続詞過剰）。y を各動詞の前に追加。テンポの速さから感情の累積感へ変化。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の通常語順の文を hipérbaton に変換して詩的に表現せよ：\nLa luna brillaba sobre el mar en calma.",
+            "answer": "Sobre el mar en calma, la luna brillaba. / Sobre el mar en calma brillaba la luna.",
+            "explanationJa": "場所（sobre el mar en calma）を文頭に移動し、月よりも海の静けさを強調する hipérbaton。詩的な雰囲気を演出。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "hipérbaton（語順転倒）は韻律の調整や特定要素の強調のために使われる。文頭の要素が強調される",
+      "anacoluto（構文破綻）は文学では話者の感情的混乱を表現する意図的技法。文法ミスと混同しない",
+      "elipsis（省略）ではコンマやセミコロンが省略された動詞の目印になる。並列構造を意識する",
+      "zeugma（共用法）は1つの動詞を異なる意味レベルで複数の対象に適用する。比喩的な拡張に注目",
+      "C2では「文法的に正しい」だけでなく「修辞効果として意図的に逸脱している」を見分ける力が必要",
+      "asíndeton（接続詞省略）とpolisíndeton（過剰使用）、anáfora（文頭反復）なども認識できるようにする"
+    ]
+  }
+}

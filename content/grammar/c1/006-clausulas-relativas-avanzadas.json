@@ -1,0 +1,479 @@
+{
+  "id": "c1-grammar-006",
+  "slug": "clausulas-relativas-avanzadas",
+  "titleJa": "高度な関係節（cuyo, el cual, indicativo vs subjuntivo）",
+  "titleEs": "Cláusulas relativas avanzadas",
+  "level": "c1",
+  "sortOrder": 6,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "関係節のレベルアップ：que だけでは足りない",
+        "bodyJa": "B1・B2では que を中心に関係節を学びました。\nしかしC1レベルでは、より多様な関係代名詞を使い分ける必要があります。\n\n・que：最も基本的な関係代名詞\n・quien / quienes：人に対して使用\n・el cual / la cual / los cuales / las cuales：フォーマル\n・cuyo / cuya / cuyos / cuyas：所有を表す\n・donde：場所を表す\n・como：方法を表す\n・cuando：時間を表す\n\nさらに重要なのが、関係節内の直説法 vs 接続法の使い分けです。\nこれによって「特定のもの」と「不特定のもの」を区別します。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "cuyo：「〜の（所有）」を表す関係形容詞",
+        "bodyJa": "cuyo は英語の whose に相当し、「〜の」という所有関係を表す関係形容詞です。\n\ncuyo は後に続く名詞の性・数に合わせて変化します（先行詞ではなく）。\n\ncuyo（男性単数）/ cuya（女性単数）/ cuyos（男性複数）/ cuyas（女性複数）\n\n・El autor cuyo libro ganó el premio...（本が賞を取った著者）\n  → libro は男性単数なので cuyo\n・La empresa cuya sede está en Madrid...（本社がマドリードにある会社）\n  → sede は女性単数なので cuya\n・Los estudiantes cuyos padres vinieron...（親が来た学生たち）\n  → padres は男性複数なので cuyos\n\n日本語話者のポイント：cuyo は「先行詞」ではなく「後続の名詞」に合わせて変化します。これが最大の注意点です。\n\n口語では cuyo はほとんど使われず、que の構文で代用されます。\n・El chico cuyo padre es médico → El chico que su padre es médico（口語）\nただし正式な文章では cuyo を使うべきです。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "el cual / la cual：フォーマルな関係代名詞",
+        "bodyJa": "el cual / la cual / los cuales / las cuales は、que の代わりに使えるフォーマルな関係代名詞です。\n\n特に以下の場面で el cual を使います。\n\n1. 前置詞の後（特に複合前置詞）：\n・La razón por la cual lo hice...（それをした理由）\n・El edificio detrás del cual hay un parque...（その後ろに公園がある建物）\n\n2. 先行詞から距離がある場合（曖昧さを避ける）：\n・La hermana de mi amigo, la cual vive en Tokio...（友達の姉で、東京に住んでいる人）\n  → que だと mi amigo と la hermana のどちらを指すか曖昧になる\n\n3. 非制限関係節（カンマ付き）でフォーマルにしたいとき：\n・El proyecto, el cual fue aprobado ayer, empezará en mayo.（昨日承認されたそのプロジェクトは5月に始まる）\n\nel cual は性・数が変化するため、先行詞が明確になる利点があります。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "quien / quienes：人に対する関係代名詞",
+        "bodyJa": "quien（単数）/ quienes（複数）は人を先行詞とする関係代名詞です。\n\n主な使い方：\n\n1. 前置詞 + quien：\n・La persona con quien hablé...（話した相手）\n・Las personas a quienes invité...（招待した人たち）\n\n2. 非制限関係節（カンマ付き）：\n・Mi profesora, quien lleva 20 años enseñando, dice que...（20年教えている僕の先生が言うには…）\n\n3. 先行詞なしで「〜する人」：\n・Quien bien te quiere te hará llorar.（あなたのことを本当に思う人はあなたを泣かせる）← ことわざ\n\n注意：制限関係節（カンマなし）では、口語も書き言葉も que が一般的です。\n・La chica que conocí ayer...（○ 一般的）\n・La chica a quien conocí ayer...（○ フォーマル）"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "関係節の核心：直説法 vs 接続法",
+        "bodyJa": "関係節で直説法と接続法を使い分けることで、「特定」と「不特定」を区別します。\n\n直説法 = 「確実に存在する特定のもの」\n接続法 = 「存在するかわからない不特定のもの」\n\n比較：\n・Busco un apartamento que tiene terraza.（テラスのあるアパートを探している）← 特定の物件を知っている\n・Busco un apartamento que tenga terraza.（テラスのあるアパートを探している）← まだ見つかっていない\n\n・Necesito a alguien que sabe japonés.（日本語ができる人が必要だ）← 特定の人を念頭に置いている\n・Necesito a alguien que sepa japonés.（日本語ができる人が必要だ）← 誰でもいい、まだ見つかっていない\n\n否定文では接続法を使うことが多い：\n・No hay nadie que sepa la respuesta.（答えを知っている人はいない）\n・No conozco a nadie que hable ruso.（ロシア語を話す人を知らない）\n\nこの使い分けはDELE C1で必ず出題される重要ポイントです。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "donde, como, cuando：場所・方法・時間の関係副詞",
+        "bodyJa": "関係副詞も重要な関係節の要素です。\n\ndonde（場所）：\n・La ciudad donde nací...（生まれた街）\n・前置詞と組み合わせ：de donde, a donde, por donde, en donde\n・El restaurante en donde cenamos ayer...（昨日夕食を食べたレストラン）\n\ncomo（方法）：\n・La forma como lo hizo...（彼がそれをした方法）\n・Me gusta como cocinas.（君の料理の仕方が好きだ）\n\ncuando（時間）：\n・El día cuando nos conocimos...（出会った日）\n・ただし en que の方が一般的：El día en que nos conocimos...\n\nこれらも接続法の使い分けが適用されます。\n・Busco un lugar donde pueda estudiar tranquilo.（静かに勉強できる場所を探している）← 接続法＝不特定"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "El escritor cuya novela fue traducida a 30 idiomas recibió el premio.",
+            "ja": "小説が30言語に翻訳された作家が賞を受けた。",
+            "noteJa": "cuya は novela（女性単数）に合わせて変化。先行詞 el escritor ではなく後続名詞に一致。"
+          },
+          {
+            "es": "La razón por la cual no vine fue que estaba enfermo.",
+            "ja": "来なかった理由は、病気だったからです。",
+            "noteJa": "por la cual = por que のフォーマル版。la cual は razón（女性単数）に一致。"
+          },
+          {
+            "es": "Busco a alguien que hable japonés y español.",
+            "ja": "日本語とスペイン語を話す人を探している。",
+            "noteJa": "関係節内が接続法（hable）= まだ見つかっていない不特定の人。"
+          },
+          {
+            "es": "No hay nada que pueda hacer para cambiar la situación.",
+            "ja": "状況を変えるためにできることは何もない。",
+            "noteJa": "否定 + 関係節 → 接続法。pueda は poder の接続法。"
+          },
+          {
+            "es": "Mi hermano, quien vive en Barcelona, viene a visitarnos.",
+            "ja": "バルセロナに住んでいる兄が、私たちを訪ねてくる。",
+            "noteJa": "非制限関係節で quien を使用。カンマで区切る。追加情報を提供している。"
+          },
+          {
+            "es": "Necesito un lugar donde pueda concentrarme.",
+            "ja": "集中できる場所が必要だ。",
+            "noteJa": "donde + 接続法（pueda）= まだ見つかっていない不特定の場所。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "El autor cuyo novela ganó el premio...（novela は女性名詞）",
+            "correct": "El autor cuya novela ganó el premio...",
+            "whyJa": "cuyo は後続の名詞に合わせて変化する。novela は女性名詞なので cuya が正しい。先行詞 autor の性ではない。"
+          },
+          {
+            "wrong": "Busco un apartamento que tiene piscina.（まだ見つかっていない場合）",
+            "correct": "Busco un apartamento que tenga piscina.",
+            "whyJa": "まだ見つかっていない不特定のものを探しているなら接続法 tenga。直説法 tiene は特定の物件が存在する場合。"
+          },
+          {
+            "wrong": "La razón por que no vine...",
+            "correct": "La razón por la que / por la cual no vine...",
+            "whyJa": "por que（前置詞 + que）は正しいですが、フォーマルには por la que または por la cual を使う方が明確。"
+          },
+          {
+            "wrong": "No conozco a nadie que habla ruso.",
+            "correct": "No conozco a nadie que hable ruso.",
+            "whyJa": "否定文 + 関係節は接続法。「ロシア語を話す人」が存在しない（不特定）ので接続法 hable。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "Busco a alguien que me entienda sin tener que explicar todo 😅",
+            "ja": "全部説明しなくてもわかってくれる人を探してる😅",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "不特定の人を探しているので接続法 entienda。恋愛あるあるのつぶやき。"
+          },
+          {
+            "es": "No existe un método que funcione para todos.",
+            "ja": "すべての人に効く方法は存在しない。",
+            "source": "conversation",
+            "sourceLabel": "教育関連の議論",
+            "noteJa": "否定（no existe）+ 関係節 → 接続法 funcione。"
+          },
+          {
+            "es": "La empresa cuyo CEO renunció ayer está en crisis.",
+            "ja": "昨日CEOが辞任した会社が危機に陥っている。",
+            "source": "news",
+            "sourceLabel": "ニュース風",
+            "noteJa": "cuyo は CEO（男性単数）に一致。フォーマルなニュース文体。"
+          },
+          {
+            "es": "Quien mucho abarca, poco aprieta.",
+            "ja": "欲張りすぎると何も手に入らない。",
+            "source": "proverb",
+            "sourceLabel": "ことわざ",
+            "noteJa": "quien を先行詞なしで使い「〜する人は」の意味。有名なスペインのことわざ。"
+          },
+          {
+            "es": "Necesito un café que me devuelva a la vida ☕💀",
+            "ja": "生き返らせてくれるコーヒーが必要☕💀",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "不特定のコーヒー（どんなものでも）→ 接続法 devuelva。月曜朝の定番ツイート。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "El profesor ___ clase es muy popular recibió un premio. (所有の関係形容詞)",
+            "options": [
+              "cuya",
+              "que su",
+              "cuyo",
+              "quien"
+            ],
+            "answer": 0,
+            "explanationJa": "clase は女性名詞なので cuya。cuyo は後続名詞の性に合わせる。"
+          },
+          {
+            "prompt": "Busco un restaurante que ___ comida japonesa. (servir) ← まだ見つかっていない",
+            "options": [
+              "sirvió",
+              "sirve",
+              "sirva",
+              "servirá"
+            ],
+            "answer": 2,
+            "explanationJa": "不特定のレストラン（まだ見つかっていない）なので接続法 sirva。"
+          },
+          {
+            "prompt": "Conozco un restaurante que ___ comida japonesa. (servir) ← 知っている特定の店",
+            "options": [
+              "sirve",
+              "sirva",
+              "servirá",
+              "sirvió"
+            ],
+            "answer": 0,
+            "explanationJa": "特定のレストラン（存在を知っている）なので直説法 sirve。"
+          },
+          {
+            "prompt": "La razón por ___ no asistí fue personal.",
+            "options": [
+              "el cual",
+              "la cual",
+              "cual",
+              "cuyo"
+            ],
+            "answer": 1,
+            "explanationJa": "razón は女性名詞なので por la cual。フォーマルな表現。por la que も可。"
+          },
+          {
+            "prompt": "No hay nadie que ___ resolver este problema. (poder)",
+            "options": [
+              "puede",
+              "podrá",
+              "podría",
+              "pueda"
+            ],
+            "answer": 3,
+            "explanationJa": "否定文（no hay nadie）+ 関係節 → 接続法 pueda。"
+          },
+          {
+            "prompt": "Mi hermana, ___ vive en Madrid, es doctora. (人に対する関係代名詞)",
+            "options": [
+              "la cual",
+              "quien",
+              "cuya",
+              "que"
+            ],
+            "answer": 1,
+            "explanationJa": "非制限関係節で人を指す場合、quien が使える。que も正しいが quien がよりフォーマル。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "La empresa ___ productos se venden en todo el mundo es japonesa. (所有の関係形容詞)",
+            "answer": "cuyos",
+            "options": [
+              "cuyo",
+              "cuyos",
+              "cuya",
+              "cuyas"
+            ],
+            "explanationJa": "productos は男性複数なので cuyos。後続名詞の性数に合わせる。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Busco a alguien que ___ chino y japonés. (hablar) ← まだ見つかっていない",
+            "answer": "hable",
+            "options": [
+              "hable",
+              "habla",
+              "hablará",
+              "habló"
+            ],
+            "explanationJa": "不特定の人（まだ見つかっていない）を探しているので接続法 hable。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "La razón por ___ cual no asistí fue personal.",
+            "answer": "la",
+            "options": [
+              "las",
+              "el",
+              "la",
+              "lo"
+            ],
+            "explanationJa": "razón は女性名詞なので por la cual。el cual は先行詞の性に一致する。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "No hay nadie que ___ la respuesta a esta pregunta. (saber)",
+            "answer": "sepa",
+            "options": [
+              "sepa",
+              "sabe",
+              "sabrá",
+              "sabía"
+            ],
+            "explanationJa": "否定文（no hay nadie）+ 関係節 → 接続法 sepa。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Mi hermana, ___ vive en Barcelona, es médica.",
+            "answer": "quien",
+            "options": [
+              "la cuyo",
+              "cuya",
+              "que su",
+              "quien"
+            ],
+            "explanationJa": "非制限関係節で人を指す場合 quien を使える。que も正しいが quien がフォーマル。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "El autor ___ novela ganó el premio viajó a Estocolmo.",
+            "answer": "cuya",
+            "options": [
+              "cuyos",
+              "cuyo",
+              "cuyas",
+              "cuya"
+            ],
+            "explanationJa": "novela は女性単数なので cuya。先行詞 autor ではなく後続名詞に合わせる。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Conozco un restaurante que ___ una paella excelente. (servir) ← 特定の店",
+            "answer": "sirve",
+            "options": [
+              "sirve",
+              "sirviera",
+              "sirva",
+              "servirá"
+            ],
+            "explanationJa": "特定のレストラン（存在を知っている）なので直説法 sirve。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Necesito un lugar donde ___ trabajar tranquilo. (poder, yo)",
+            "answer": "pueda",
+            "options": [
+              "puedo",
+              "podré",
+              "podía",
+              "pueda"
+            ],
+            "explanationJa": "不特定の場所（まだ見つかっていない）なので donde + 接続法 pueda。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Las personas a ___ invité no vinieron.",
+            "answer": "quienes",
+            "options": [
+              "quien",
+              "que",
+              "cuales",
+              "quienes"
+            ],
+            "explanationJa": "前置詞 a + quienes（複数の人）。フォーマルな関係代名詞。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "El edificio detrás ___ cual hay un parque es muy antiguo.",
+            "answer": "del",
+            "options": [
+              "de",
+              "de la",
+              "de los",
+              "del"
+            ],
+            "explanationJa": "detrás de + el cual → detrás del cual。edificio は男性単数。前置詞と冠詞が縮約。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "El profesor cuyo clase es popular recibió un premio.",
+            "answer": "El profesor cuya clase es popular recibió un premio.",
+            "explanationJa": "clase は女性名詞なので cuya。cuyo は後続名詞の性に合わせる。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Busco un apartamento que tiene piscina. (まだ見つかっていない場合)",
+            "answer": "Busco un apartamento que tenga piscina.",
+            "explanationJa": "まだ見つかっていない不特定のものなので接続法 tenga。直説法は特定の物件の場合。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "No conozco a nadie que habla ruso.",
+            "answer": "No conozco a nadie que hable ruso.",
+            "explanationJa": "否定文 + 関係節は接続法。habla（直説法）→ hable（接続法）に修正。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "El chico cuyo padre es médico vive aquí. (口語的に書き換えるとどうなる？)",
+            "answer": "El chico que su padre es médico vive aquí.（口語）",
+            "explanationJa": "口語では cuyo の代わりに que + su で代用される。ただし正式な文章では cuyo を使うべき。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "La ciudad que nací es pequeña.",
+            "answer": "La ciudad donde nací es pequeña.",
+            "explanationJa": "場所を表す場合は donde を使う。「生まれた街」は la ciudad donde nací。en la que も可。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "cuyo が変化するのは何に合わせて？",
+            "options": [
+              "先行詞の性・数",
+              "後続の名詞の性・数",
+              "文脈による",
+              "動詞の主語"
+            ],
+            "answer": 1,
+            "explanationJa": "cuyo は後続名詞に合わせて変化する（先行詞ではなく）。これが最大の注意点。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "関係節で接続法を使うのはどんなとき？",
+            "options": [
+              "存在が不確実な不特定のものを指すとき",
+              "フォーマルな場面だけ",
+              "常に接続法",
+              "過去のことを述べるとき"
+            ],
+            "answer": 0,
+            "explanationJa": "直説法 = 特定のもの、接続法 = 不特定のもの（存在するかわからない）。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "el cual を使う主な場面は？",
+            "options": [
+              "口語のみ",
+              "前置詞の後や先行詞が曖昧な場合",
+              "常に que の代わり",
+              "人にしか使えない"
+            ],
+            "answer": 1,
+            "explanationJa": "el cual は前置詞の後（特に複合前置詞）や先行詞の曖昧さを避ける場合に使う。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「答えを知っている人はいない」の正しい訳は？",
+            "options": [
+              "No hay nadie que sabrá la respuesta.",
+              "No hay nadie que sepa la respuesta.",
+              "No hay nadie que sabía la respuesta.",
+              "No hay nadie que sabe la respuesta."
+            ],
+            "answer": 1,
+            "explanationJa": "否定（no hay nadie）+ 関係節 → 接続法 sepa。存在しないものを指すので接続法。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "quien を先行詞なしで使うとどんな意味？",
+            "options": [
+              "〜すること",
+              "〜する人は（一般論）",
+              "〜する場所",
+              "〜する方法"
+            ],
+            "answer": 1,
+            "explanationJa": "quien + 動詞で「〜する人は」。ことわざなどで使う一般論的表現。"
+          },
+          {
+            "type": "translation",
+            "prompt": "静かに勉強できる場所が必要だ。（donde + 接続法を使って）",
+            "answer": "Necesito un lugar donde pueda estudiar tranquilo.",
+            "acceptableAnswers": [
+              "Necesito un sitio donde pueda estudiar en silencio."
+            ],
+            "explanationJa": "不特定の場所なので donde + 接続法 pueda。"
+          },
+          {
+            "type": "translation",
+            "prompt": "CEOが辞任した会社は危機に陥っている。（cuyo を使って）",
+            "answer": "La empresa cuyo CEO renunció está en crisis.",
+            "acceptableAnswers": [
+              "La compañía cuyo CEO dimitió está en crisis."
+            ],
+            "explanationJa": "CEO は男性単数なので cuyo。「CEOの」という所有関係を表す。"
+          },
+          {
+            "type": "translation",
+            "prompt": "それをした理由は個人的なものです。（por la cual を使って）",
+            "answer": "La razón por la cual lo hice fue personal.",
+            "acceptableAnswers": [
+              "La razón por la cual lo hice es personal.",
+              "El motivo por el cual lo hice fue personal."
+            ],
+            "explanationJa": "por la cual = フォーマルな「〜の理由」。razón は女性名詞なので la cual。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "Hay un estudiante. Ese estudiante habla cinco idiomas.（cuyo を使って一文にしなさい）",
+            "answer": "Hay un estudiante cuyos idiomas son cinco. → 不自然。正しくは: Hay un estudiante que habla cinco idiomas.",
+            "explanationJa": "この場合は cuyo より que が自然。cuyo は所有関係に使う。「5言語を話す学生がいる」。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "Busco un trabajo. El trabajo me permite viajar.（関係節で一文にし、接続法を使いなさい）",
+            "answer": "Busco un trabajo que me permita viajar.",
+            "explanationJa": "まだ見つかっていない不特定のものなので接続法 permita。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "cuyo/cuya/cuyos/cuyas は後続の名詞に合わせて変化する（先行詞ではなく）",
+      "el cual / la cual はフォーマルな文脈や先行詞が曖昧な場合に使う",
+      "関係節の直説法 = 特定のもの、接続法 = 不特定のもの（存在が不確実）",
+      "否定文 + 関係節は接続法を使うことが多い",
+      "quien は人に対する関係代名詞。前置詞 + quien や非制限関係節で使う",
+      "donde + 接続法で「〜できるような場所」（不特定）を表す"
+    ]
+  }
+}

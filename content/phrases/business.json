@@ -1,0 +1,228 @@
+{
+  "scenario": "business",
+  "titleJa": "ビジネスで使えるスペイン語フレーズ",
+  "titleEs": "Frases útiles para negocios",
+  "totalPhrases": 20,
+  "phrases": [
+    {
+      "id": "biz-001",
+      "spanishText": "Mucho gusto en conocerle.",
+      "japaneseTranslation": "お会いできて光栄です。",
+      "pronunciationHint": "ムチョ グスト エン コノセルレ",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": "Mucho gusto en conocerlo.",
+      "contextNoteJa": "ビジネスの初対面で使う定番表現。スペインでは le、中南米では lo を使うことが多いです。",
+      "category": "greetings"
+    },
+    {
+      "id": "biz-002",
+      "spanishText": "Le presento a mi colega.",
+      "japaneseTranslation": "同僚をご紹介します。",
+      "pronunciationHint": "レ プレセント ア ミ コレガ",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "第三者を紹介する時のフォーマルな表現。カジュアルには Te presento a... を使います。",
+      "category": "introductions"
+    },
+    {
+      "id": "biz-003",
+      "spanishText": "¿Podríamos programar una reunión?",
+      "japaneseTranslation": "会議を設定できますか？",
+      "pronunciationHint": "ポドリアモス プログラマル ウナ レウニオン",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "条件法 podríamos を使うことで丁寧さが増します。直接的に言う場合は ¿Podemos...? でもOK。",
+      "category": "meetings"
+    },
+    {
+      "id": "biz-004",
+      "spanishText": "Estoy de acuerdo con su propuesta.",
+      "japaneseTranslation": "ご提案に同意します。",
+      "pronunciationHint": "エストイ デ アクエルド コン ス プロプエスタ",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "estar de acuerdo は「同意する」の定番表現。con の後に同意する対象を置きます。",
+      "category": "meetings"
+    },
+    {
+      "id": "biz-005",
+      "spanishText": "¿Cuál es el plazo de entrega?",
+      "japaneseTranslation": "納期はいつですか？",
+      "pronunciationHint": "クアル エス エル プラソ デ エントレガ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "plazo de entrega は「納期」。ビジネスでは fecha límite（締め切り）もよく使います。",
+      "category": "negotiations"
+    },
+    {
+      "id": "biz-006",
+      "spanishText": "Necesito revisar los números antes de decidir.",
+      "japaneseTranslation": "決定する前に数字を確認する必要があります。",
+      "pronunciationHint": "ネセシト レビサル ロス ヌメロス アンテス デ デシディル",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "antes de + 不定詞で「〜する前に」。商談で即答を避ける時に使える便利な表現。",
+      "category": "negotiations"
+    },
+    {
+      "id": "biz-007",
+      "spanishText": "Le enviaré el informe por correo electrónico.",
+      "japaneseTranslation": "レポートをメールでお送りします。",
+      "pronunciationHint": "レ エンビアレ エル インフォルメ ポル コレオ エレクトロニコ",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "未来形 enviaré で「送ります」。correo electrónico はメール。略して correo や email とも言います。",
+      "category": "communication"
+    },
+    {
+      "id": "biz-008",
+      "spanishText": "¿Tiene alguna pregunta?",
+      "japaneseTranslation": "何かご質問はありますか？",
+      "pronunciationHint": "ティエネ アルグナ プレグンタ",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "プレゼンや説明の後に使う定番フレーズ。複数形で preguntas としても自然です。",
+      "category": "presentations"
+    },
+    {
+      "id": "biz-009",
+      "spanishText": "Permítame explicarle los detalles.",
+      "japaneseTranslation": "詳細をご説明させてください。",
+      "pronunciationHint": "ペルミタメ エスプリカルレ ロス デタジェス",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "Permítame は「お許しください」。丁寧に何かを始める時に使います。",
+      "category": "presentations"
+    },
+    {
+      "id": "biz-010",
+      "spanishText": "Vamos a hacer una pausa de diez minutos.",
+      "japaneseTranslation": "10分間休憩しましょう。",
+      "pronunciationHint": "バモス ア アセル ウナ パウサ デ ディエス ミヌトス",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "Vamos a tomar un receso de diez minutos.",
+      "contextNoteJa": "スペインでは pausa、中南米では receso を使うことが多いです。会議の休憩提案に。",
+      "category": "meetings"
+    },
+    {
+      "id": "biz-011",
+      "spanishText": "El presupuesto está aprobado.",
+      "japaneseTranslation": "予算は承認されました。",
+      "pronunciationHint": "エル プレスプエスト エスタ アプロバド",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "presupuesto は「予算」。aprobar は「承認する」。ビジネスの必須語彙です。",
+      "category": "finance"
+    },
+    {
+      "id": "biz-012",
+      "spanishText": "¿Podría enviarme una cotización?",
+      "japaneseTranslation": "見積書を送っていただけますか？",
+      "pronunciationHint": "ポドリア エンビアルメ ウナ コティサシオン",
+      "formality": "formal",
+      "spainVariant": "¿Podría enviarme un presupuesto?",
+      "latamVariant": null,
+      "contextNoteJa": "スペインでは presupuesto、中南米では cotización を「見積もり」の意味で使います。",
+      "category": "negotiations"
+    },
+    {
+      "id": "biz-013",
+      "spanishText": "Tenemos que cumplir con la fecha límite.",
+      "japaneseTranslation": "締め切りに間に合わなければなりません。",
+      "pronunciationHint": "テネモス ケ クンプリル コン ラ フェチャ リミテ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "tener que + 不定詞で「〜しなければならない」。cumplir con は「満たす、守る」。",
+      "category": "deadlines"
+    },
+    {
+      "id": "biz-014",
+      "spanishText": "Adjunto el documento para su revisión.",
+      "japaneseTranslation": "ご確認用に書類を添付します。",
+      "pronunciationHint": "アドフント エル ドクメント パラ ス レビシオン",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "メールで添付ファイルを送る時の定番表現。adjunto は「添付の」。",
+      "category": "communication"
+    },
+    {
+      "id": "biz-015",
+      "spanishText": "Quedo a su disposición para cualquier consulta.",
+      "japaneseTranslation": "ご質問がありましたらいつでもどうぞ。",
+      "pronunciationHint": "ケド ア ス ディスポシシオン パラ クアルキエル コンスルタ",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "メールの締めくくりに使う丁寧な定型表現。ビジネスメールの必須フレーズ。",
+      "category": "communication"
+    },
+    {
+      "id": "biz-016",
+      "spanishText": "Me gustaría proponer una alternativa.",
+      "japaneseTranslation": "代替案を提案したいのですが。",
+      "pronunciationHint": "メ グスタリア プロポネル ウナ アルテルナティバ",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "Me gustaría + 不定詞は「〜したいのですが」。条件法で柔らかい提案になります。",
+      "category": "negotiations"
+    },
+    {
+      "id": "biz-017",
+      "spanishText": "Disculpe la demora en responder.",
+      "japaneseTranslation": "返信が遅れまして申し訳ございません。",
+      "pronunciationHint": "ディスクルペ ラ デモラ エン レスポンデル",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "ビジネスメールでの謝罪表現。demora は「遅れ」。retraso も同義で使えます。",
+      "category": "communication"
+    },
+    {
+      "id": "biz-018",
+      "spanishText": "¿Cuándo sería un buen momento para hablar?",
+      "japaneseTranslation": "いつお話しするのがよろしいですか？",
+      "pronunciationHint": "クアンド セリア ウン ブエン モメント パラ アブラル",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "条件法 sería を使った丁寧な時間調整の表現。電話やミーティングの約束に。",
+      "category": "scheduling"
+    },
+    {
+      "id": "biz-019",
+      "spanishText": "Firmaremos el contrato la próxima semana.",
+      "japaneseTranslation": "来週契約書にサインします。",
+      "pronunciationHint": "フィルマレモス エル コントラト ラ プロクシマ セマナ",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "firmar は「署名する」。contrato は「契約」。未来形で予定を述べています。",
+      "category": "contracts"
+    },
+    {
+      "id": "biz-020",
+      "spanishText": "Ha sido un placer hacer negocios con ustedes.",
+      "japaneseTranslation": "お取引できて光栄でした。",
+      "pronunciationHint": "ア シド ウン プラセル アセル ネゴシオス コン ウステデス",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "商談の締めくくりに使う定番表現。現在完了 ha sido で「〜でした」。",
+      "category": "closing"
+    }
+  ]
+}

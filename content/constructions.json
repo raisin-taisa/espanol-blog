@@ -1,0 +1,3743 @@
+{
+  "title": "スペイン語構文パターン集",
+  "titleEs": "Patrones y construcciones del español",
+  "totalConstructions": 80,
+  "categories": [
+    {
+      "id": "cat-obligation",
+      "nameJa": "義務・必要",
+      "nameEs": "Obligación y necesidad",
+      "constructions": [
+        {
+          "id": "con-001",
+          "pattern": "tener que + infinitivo",
+          "meaningJa": "〜しなければならない",
+          "level": "a1",
+          "explanation": "最も一般的な義務表現。英語のhave toに相当する。主語に応じてtenerを活用し、個人的な義務・必要性を表す。日常会話で最も頻出する義務表現なので最優先で覚えたい。",
+          "examples": [
+            {
+              "es": "Tengo que estudiar para el examen.",
+              "ja": "試験のために勉強しなければならない。"
+            },
+            {
+              "es": "Tuvimos que cancelar el viaje.",
+              "ja": "旅行をキャンセルしなければならなかった。"
+            },
+            {
+              "es": "Vas a tener que esperar un poco.",
+              "ja": "少し待たなきゃいけなくなるよ。"
+            }
+          ],
+          "commonMistakeJa": "hay queとの混同に注意。tener que=特定の人の義務、hay que=一般的・誰でもの義務。「（私が）行かなきゃ」はTengo que ir。",
+          "relatedPatterns": [
+            "hay que + infinitivo",
+            "deber + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Nosotros ___ ___ salir temprano. (tener que)",
+              "answer": "tenemos que",
+              "options": [
+                "debemos de",
+                "hay que",
+                "tenemos que",
+                "tiene que"
+              ],
+              "explanationJa": "主語がnosotrosなのでtenemos que。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼女は医者に行かなければならない」",
+              "answer": "Ella tiene que ir al médico.",
+              "explanationJa": "三人称単数なのでtiene que。ir al médicoで「医者に行く」。"
+            }
+          ]
+        },
+        {
+          "id": "con-002",
+          "pattern": "hay que + infinitivo",
+          "meaningJa": "〜しなければならない（一般的）",
+          "level": "a1",
+          "explanation": "主語を特定しない一般的な義務表現。「誰でも〜すべきだ」というニュアンス。hayは不変化で、主語に合わせた活用は不要。過去形はhubo que、未来形はhabrá queとなる。",
+          "examples": [
+            {
+              "es": "Hay que respetar las normas.",
+              "ja": "ルールを守らなければならない。"
+            },
+            {
+              "es": "Hubo que llamar a la policía.",
+              "ja": "警察を呼ばなければならなかった。"
+            },
+            {
+              "es": "Hay que tener paciencia.",
+              "ja": "忍耐が必要だ。"
+            }
+          ],
+          "commonMistakeJa": "hay queの後に人称代名詞を付けてしまう誤り。×Hay que yo estudiar → ○Hay que estudiar。個人を指す場合はtener queを使う。",
+          "relatedPatterns": [
+            "tener que + infinitivo",
+            "es necesario que + subjuntivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "___ ___ ser puntual en el trabajo.",
+              "answer": "Hay que",
+              "options": [
+                "Tiene que",
+                "Hay que",
+                "Tengo que",
+                "Debe que"
+              ],
+              "explanationJa": "一般論なのでhay que。「仕事では時間厳守すべきだ」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「もっと野菜を食べなければならない（一般論）」",
+              "answer": "Hay que comer más verduras.",
+              "explanationJa": "一般的な義務なのでhay que。特定の誰かではない。"
+            }
+          ]
+        },
+        {
+          "id": "con-003",
+          "pattern": "deber + infinitivo",
+          "meaningJa": "〜すべきだ、〜しなければならない",
+          "level": "a2",
+          "explanation": "道徳的・倫理的な義務を表す。tener queより堅く、フォーマルな響き。shouldに近いニュアンスで、助言や忠告にも使われる。deber de+不定詞と混同しないよう注意。",
+          "examples": [
+            {
+              "es": "Debes decir la verdad.",
+              "ja": "真実を言うべきだ。"
+            },
+            {
+              "es": "Los ciudadanos deben pagar impuestos.",
+              "ja": "市民は税金を払わなければならない。"
+            },
+            {
+              "es": "No deberías fumar tanto.",
+              "ja": "そんなにタバコを吸うべきじゃないよ。"
+            }
+          ],
+          "commonMistakeJa": "deber+不定詞（義務）とdeber de+不定詞（推量）の区別が重要。ただし実際の会話ではスペイン人もよく混同する。文法的にはdeを入れると推量になる。",
+          "relatedPatterns": [
+            "deber de + infinitivo",
+            "tener que + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Tú ___ estudiar más si quieres aprobar.",
+              "answer": "debes",
+              "options": [
+                "hay",
+                "debes",
+                "tienes",
+                "debes de"
+              ],
+              "explanationJa": "義務なのでdeber+不定詞。deを入れると推量の意味になってしまう。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「私たちは環境を守るべきだ」",
+              "answer": "Debemos proteger el medio ambiente.",
+              "explanationJa": "道徳的義務なのでdeber。nosotros→debemos。"
+            }
+          ]
+        },
+        {
+          "id": "con-004",
+          "pattern": "deber de + infinitivo",
+          "meaningJa": "〜に違いない、〜だろう（推量）",
+          "level": "b1",
+          "explanation": "推量・推測を表す表現で、義務のdeberとは異なる。「de」を入れることで「〜のはずだ」という意味になる。実際の会話ではdeが省略されることも多いが、文法的にはdeの有無で義務と推量を区別する。",
+          "examples": [
+            {
+              "es": "Debe de ser muy tarde.",
+              "ja": "もうかなり遅いに違いない。"
+            },
+            {
+              "es": "Debe de tener unos cuarenta años.",
+              "ja": "40歳くらいだろう。"
+            },
+            {
+              "es": "No debe de ser fácil vivir solo.",
+              "ja": "一人暮らしは簡単ではないだろう。"
+            }
+          ],
+          "commonMistakeJa": "義務のdeber（deなし）と推量のdeber de（deあり）を混同しがち。試験では厳密に区別を問われるので注意。口語ではネイティブも混同する。",
+          "relatedPatterns": [
+            "deber + infinitivo",
+            "puede que + subjuntivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "María no ha llegado. ___ ___ ___ en un atasco.",
+              "answer": "Debe de estar",
+              "options": [
+                "Hay que estar",
+                "Tiene que estar",
+                "Debe de estar",
+                "Debe estar"
+              ],
+              "explanationJa": "推量なのでdebe de+不定詞。「渋滞にはまっているに違いない」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼は金持ちに違いない」",
+              "answer": "Debe de ser rico.",
+              "explanationJa": "推量のdeber de。「〜に違いない」=debe de+不定詞。"
+            }
+          ]
+        },
+        {
+          "id": "con-005",
+          "pattern": "es necesario que + subjuntivo",
+          "meaningJa": "〜する必要がある",
+          "level": "b1",
+          "explanation": "接続法を伴うフォーマルな必要性表現。主節と従属節の主語が異なる場合に使う。同じ主語なら「es necesario + 不定詞」でOK。書き言葉やスピーチで多用される。",
+          "examples": [
+            {
+              "es": "Es necesario que llegues a tiempo.",
+              "ja": "君が時間通りに着く必要がある。"
+            },
+            {
+              "es": "Es necesario que todos participen.",
+              "ja": "全員が参加する必要がある。"
+            },
+            {
+              "es": "No es necesario que vengas.",
+              "ja": "君が来る必要はない。"
+            }
+          ],
+          "commonMistakeJa": "接続法を忘れて直説法を使ってしまう誤り。×Es necesario que vienes → ○Es necesario que vengas。que以下は必ず接続法。",
+          "relatedPatterns": [
+            "hay que + infinitivo",
+            "hace falta que + subjuntivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Es necesario que tú ___ más ejercicio. (hacer)",
+              "answer": "hagas",
+              "options": [
+                "hacas",
+                "hagas",
+                "haces",
+                "hacer"
+              ],
+              "explanationJa": "es necesario que+接続法。hacerの接続法現在はhaga, hagas...。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼らが同意する必要がある」",
+              "answer": "Es necesario que ellos estén de acuerdo.",
+              "explanationJa": "接続法現在。estar de acuerdo=同意する。estén（接続法）。"
+            }
+          ]
+        },
+        {
+          "id": "con-006",
+          "pattern": "hace falta + infinitivo / que + subjuntivo",
+          "meaningJa": "〜する必要がある、〜が足りない",
+          "level": "b1",
+          "explanation": "「必要だ」「足りない」を表す表現。名詞と使う場合は「Hace falta + 名詞」、動詞と使う場合は「Hace falta + 不定詞」または「Hace falta que + 接続法」。スペインで特に頻繁に使われる。",
+          "examples": [
+            {
+              "es": "Hace falta estudiar más.",
+              "ja": "もっと勉強する必要がある。"
+            },
+            {
+              "es": "Hace falta que compres pan.",
+              "ja": "パンを買う必要がある。"
+            },
+            {
+              "es": "No hace falta que te preocupes.",
+              "ja": "心配する必要はないよ。"
+            }
+          ],
+          "commonMistakeJa": "中南米ではhace faltaより se necesitaが好まれる。地域差を意識しよう。また、物が主語の場合は「Me hace falta dinero」（お金が足りない）のように間接目的語を使う。",
+          "relatedPatterns": [
+            "es necesario que + subjuntivo",
+            "hay que + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "No ___ ___ que ___ tan temprano. (hace falta / levantarse, tú)",
+              "answer": "hace falta que te levantes",
+              "options": [
+                "hacen falta que te levantas",
+                "hace falta que te levantas",
+                "hace falta levantarte",
+                "hace falta que te levantes"
+              ],
+              "explanationJa": "que+接続法。levantarse→te levantes（接続法現在）。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「もっと時間が必要だ」",
+              "answer": "Hace falta más tiempo.",
+              "explanationJa": "名詞と使う場合はhace falta+名詞。不定詞もqueも不要。"
+            }
+          ]
+        },
+        {
+          "id": "con-007",
+          "pattern": "verse obligado a + infinitivo",
+          "meaningJa": "〜せざるを得ない",
+          "level": "b2",
+          "explanation": "外部の事情により「仕方なく〜する」というニュアンス。verseは再帰動詞で、状況に強いられるという受動的な意味合いがある。フォーマルな文脈やニュース記事で多用される。",
+          "examples": [
+            {
+              "es": "Se vio obligado a dimitir.",
+              "ja": "辞任せざるを得なかった。"
+            },
+            {
+              "es": "Nos vimos obligados a cambiar de plan.",
+              "ja": "計画を変更せざるを得なかった。"
+            },
+            {
+              "es": "Me veo obligada a rechazar su oferta.",
+              "ja": "あなたの申し出をお断りせざるを得ません。"
+            }
+          ],
+          "commonMistakeJa": "verseの活用を忘れがち。me veo, te ves, se ve, nos vemos, se ven。また、obligadoは主語の性数に一致する（obligada/obligados/obligadas）。",
+          "relatedPatterns": [
+            "tener que + infinitivo",
+            "no queda más remedio que + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "La empresa ___ ___ ___ ___ cerrar la fábrica.",
+              "answer": "se vio obligada a",
+              "options": [
+                "se vio obligado a",
+                "se vio obligada a",
+                "se ve obligada de",
+                "fue obligada a"
+              ],
+              "explanationJa": "empresaは女性名詞なのでobligada。過去形なのでse vio。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「私たちは予約をキャンセルせざるを得なかった」",
+              "answer": "Nos vimos obligados a cancelar la reserva.",
+              "explanationJa": "nosotros→nos vimos obligados a。reserva=予約。"
+            }
+          ]
+        },
+        {
+          "id": "con-008",
+          "pattern": "no queda más remedio que + infinitivo",
+          "meaningJa": "〜するしかない",
+          "level": "b2",
+          "explanation": "他に選択肢がないことを強調する表現。「remedio（解決策）が残っていない」という直訳から来ている。quedar以外にhaber（no hay más remedio que）も使える。日常会話でもよく使われる。",
+          "examples": [
+            {
+              "es": "No queda más remedio que aceptar.",
+              "ja": "受け入れるしかない。"
+            },
+            {
+              "es": "No me quedó más remedio que pedir un préstamo.",
+              "ja": "ローンを組むしかなかった。"
+            },
+            {
+              "es": "Si no funciona, no queda más remedio que empezar de cero.",
+              "ja": "うまくいかなければ、ゼロから始めるしかない。"
+            }
+          ],
+          "commonMistakeJa": "間接目的語（me, te, leなど）を付けると「誰にとって」を明示できる。No me queda más remedio=私には〜するしかない。忘れがちだが重要。",
+          "relatedPatterns": [
+            "verse obligado a + infinitivo",
+            "no tener más opción que + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "No nos ___ más ___ que mudarnos.",
+              "answer": "queda remedio",
+              "options": [
+                "queda remedio",
+                "quedan remedios",
+                "quedó remedio",
+                "quedo remedio"
+              ],
+              "explanationJa": "固定表現。queda+más remedio+que。nosは間接目的語。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼は謝るしかなかった」",
+              "answer": "No le quedó más remedio que disculparse.",
+              "explanationJa": "過去→quedó。le=彼に。disculparse=謝る。"
+            }
+          ]
+        },
+        {
+          "id": "con-009",
+          "pattern": "estar obligado a + infinitivo",
+          "meaningJa": "〜する義務がある",
+          "level": "b1",
+          "explanation": "法的・制度的な義務を表す。verse obligado aが「状況に強いられる」のに対し、estar obligado aは「義務として課されている」という意味。契約書や法律文書でよく見かける。",
+          "examples": [
+            {
+              "es": "Los empleados están obligados a llevar uniforme.",
+              "ja": "従業員は制服を着用する義務がある。"
+            },
+            {
+              "es": "Estás obligado a declarar tus ingresos.",
+              "ja": "収入を申告する義務がある。"
+            },
+            {
+              "es": "No estamos obligados a responder.",
+              "ja": "私たちには回答する義務はない。"
+            }
+          ],
+          "commonMistakeJa": "estar obligado a（義務がある状態）とverse obligado a（やむを得ず〜する）の使い分けに注意。法的義務にはestar、状況的にはverse。",
+          "relatedPatterns": [
+            "verse obligado a + infinitivo",
+            "deber + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Los conductores ___ ___ a respetar el límite de velocidad.",
+              "answer": "están obligados",
+              "options": [
+                "son obligados",
+                "están obligados",
+                "estamos obligados",
+                "están obligadas"
+              ],
+              "explanationJa": "conductoresは男性複数→obligados。estar+obligado+a。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「学生は出席する義務がある」",
+              "answer": "Los estudiantes están obligados a asistir.",
+              "explanationJa": "制度的義務→estar obligado a。asistir=出席する。"
+            }
+          ]
+        },
+        {
+          "id": "con-010",
+          "pattern": "ser imprescindible + infinitivo / que + subjuntivo",
+          "meaningJa": "〜が不可欠だ",
+          "level": "b2",
+          "explanation": "最も強い必要性を表す表現。「絶対に欠かせない」というニュアンス。es necesarioより強く、フォーマルな場面で使われる。同義語にser indispensableがある。",
+          "examples": [
+            {
+              "es": "Es imprescindible reservar con antelación.",
+              "ja": "事前予約が不可欠だ。"
+            },
+            {
+              "es": "Es imprescindible que todos colaboren.",
+              "ja": "全員が協力することが不可欠だ。"
+            },
+            {
+              "es": "Llevar pasaporte es imprescindible.",
+              "ja": "パスポート携帯は不可欠だ。"
+            }
+          ],
+          "commonMistakeJa": "imprescindibleのスペルミスに注意（prescindirから派生）。また、que節を使う場合は接続法が必須。同義語のindispensableと併せて覚えると語彙が広がる。",
+          "relatedPatterns": [
+            "es necesario que + subjuntivo",
+            "hace falta + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Es ___ que ___ un acuerdo. (imprescindible / alcanzar, nosotros)",
+              "answer": "imprescindible que alcancemos",
+              "options": [
+                "imprescindible que alcanzamos",
+                "imprescindible alcanzamos",
+                "imprescindible que alcancemos",
+                "imprescindible de alcanzar"
+              ],
+              "explanationJa": "que+接続法。alcanzar→alcancemos（接続法現在）。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「この書類にサインすることが不可欠です」",
+              "answer": "Es imprescindible firmar este documento.",
+              "explanationJa": "同一主語なので不定詞でOK。firmar=サインする。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-habit",
+      "nameJa": "習慣・慣れ",
+      "nameEs": "Hábitos y costumbres",
+      "constructions": [
+        {
+          "id": "con-011",
+          "pattern": "soler + infinitivo",
+          "meaningJa": "普通〜する、〜するのが常だ",
+          "level": "a2",
+          "explanation": "習慣的な行為を表す最も基本的な表現。英語のusually/tend toに相当。現在形と線過去形でよく使われるが、点過去・未来形ではほぼ使わない。活用はo→ue型の不規則（suelo, sueles, suele...）。",
+          "examples": [
+            {
+              "es": "Suelo desayunar a las siete.",
+              "ja": "普段7時に朝食を取る。"
+            },
+            {
+              "es": "Solíamos ir a la playa en verano.",
+              "ja": "夏はよくビーチに行ったものだ。"
+            },
+            {
+              "es": "No suele llover en esta época.",
+              "ja": "この時期は普通雨は降らない。"
+            }
+          ],
+          "commonMistakeJa": "点過去（solí）はほぼ使わない。「昔〜したものだ」はsolía（線過去）。また、solerの後は必ず不定詞で、動名詞は使えない。×Suelo estudiando。",
+          "relatedPatterns": [
+            "acostumbrar a + infinitivo",
+            "tener costumbre de + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Mi abuela ___ contarnos historias antes de dormir.",
+              "answer": "solía",
+              "options": [
+                "suela",
+                "solió",
+                "soló",
+                "solía"
+              ],
+              "explanationJa": "過去の習慣→線過去solía。「祖母はよく寝る前に話をしてくれた」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「私は普段コーヒーを飲まない」",
+              "answer": "No suelo tomar café.",
+              "explanationJa": "現在の習慣→suelo。否定文でも語順は変わらない。"
+            }
+          ]
+        },
+        {
+          "id": "con-012",
+          "pattern": "estar acostumbrado a + infinitivo/nombre",
+          "meaningJa": "〜に慣れている",
+          "level": "b1",
+          "explanation": "「すでに慣れている」という状態を表す。aの後には不定詞または名詞が来る。acostumbradoは主語の性数に一致する。estarを使うのは状態を表すため。",
+          "examples": [
+            {
+              "es": "Estoy acostumbrado a madrugar.",
+              "ja": "早起きに慣れている。"
+            },
+            {
+              "es": "No está acostumbrada al calor.",
+              "ja": "彼女は暑さに慣れていない。"
+            },
+            {
+              "es": "Ya estamos acostumbrados a este ritmo.",
+              "ja": "もうこのペースに慣れている。"
+            }
+          ],
+          "commonMistakeJa": "前置詞aを忘れがち。×Estoy acostumbrado madrugar → ○Estoy acostumbrado a madrugar。また、「慣れる」（変化）はacostumbrarse a。",
+          "relatedPatterns": [
+            "acostumbrarse a + infinitivo",
+            "soler + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Ella no ___ ___ a comer picante.",
+              "answer": "está acostumbrada",
+              "options": [
+                "está acostumbrada",
+                "es acostumbrada",
+                "ha acostumbrado",
+                "está acostumbrado"
+              ],
+              "explanationJa": "ellaなのでacostumbrada（女性形）。状態→estar。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼らはもう寒さに慣れている」",
+              "answer": "Ya están acostumbrados al frío.",
+              "explanationJa": "al=a+el。frío=寒さ。acostumbrados（男性複数）。"
+            }
+          ]
+        },
+        {
+          "id": "con-013",
+          "pattern": "acostumbrarse a + infinitivo/nombre",
+          "meaningJa": "〜に慣れる",
+          "level": "b1",
+          "explanation": "「慣れていく」という変化のプロセスを表す再帰動詞。estar acostumbradoが状態なのに対し、こちらは動作・過程。新しい環境への適応を語る時によく使う。",
+          "examples": [
+            {
+              "es": "Me costó acostumbrarme a la comida japonesa.",
+              "ja": "日本食に慣れるのは大変だった。"
+            },
+            {
+              "es": "Ya me acostumbré a vivir solo.",
+              "ja": "もう一人暮らしに慣れた。"
+            },
+            {
+              "es": "Nunca me acostumbraré a este frío.",
+              "ja": "この寒さには絶対慣れない。"
+            }
+          ],
+          "commonMistakeJa": "再帰代名詞（me, te, se...）を忘れがち。また、前置詞はaで固定。×acostumbrarse de → ○acostumbrarse a。",
+          "relatedPatterns": [
+            "estar acostumbrado a",
+            "adaptarse a"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "¿Ya ___ ___ al nuevo horario?（tú）",
+              "answer": "te acostumbraste",
+              "options": [
+                "te acostumbras",
+                "se acostumbró",
+                "acostumbraste",
+                "te acostumbraste"
+              ],
+              "explanationJa": "過去の完了→点過去。tú→te acostumbraste。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「私たちは新しい生活に慣れつつある」",
+              "answer": "Nos estamos acostumbrando a la nueva vida.",
+              "explanationJa": "進行中→estar+現在分詞。nos=私たち（再帰代名詞）。"
+            }
+          ]
+        },
+        {
+          "id": "con-014",
+          "pattern": "tener costumbre de + infinitivo",
+          "meaningJa": "〜する習慣がある",
+          "level": "b1",
+          "explanation": "習慣を名詞costumbreで表す構文。solerより少しフォーマルな響き。否定形「no tener costumbre de」は「〜する習慣がない」。文化や国の習慣を語る時にも便利。",
+          "examples": [
+            {
+              "es": "Tengo costumbre de leer antes de dormir.",
+              "ja": "寝る前に読書する習慣がある。"
+            },
+            {
+              "es": "En España tienen costumbre de cenar tarde.",
+              "ja": "スペインでは遅い夕食の習慣がある。"
+            },
+            {
+              "es": "No tengo costumbre de beber alcohol.",
+              "ja": "お酒を飲む習慣がない。"
+            }
+          ],
+          "commonMistakeJa": "冠詞の有無に注意。tener costumbre de（無冠詞）が一般的。tener la costumbre deだと「その特定の習慣」というニュアンスが加わる。",
+          "relatedPatterns": [
+            "soler + infinitivo",
+            "tener por costumbre + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "En Japón ___ ___ de quitarse los zapatos en casa.",
+              "answer": "tienen costumbre",
+              "options": [
+                "hay costumbre",
+                "tienen costumbre",
+                "son costumbres",
+                "tienen la costumbre"
+              ],
+              "explanationJa": "一般的な習慣→tienen costumbre de。主語は「日本では（人々が）」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「私は毎朝散歩する習慣がある」",
+              "answer": "Tengo costumbre de pasear todas las mañanas.",
+              "explanationJa": "tener costumbre de+不定詞。pasear=散歩する。"
+            }
+          ]
+        },
+        {
+          "id": "con-015",
+          "pattern": "tener la manía de + infinitivo",
+          "meaningJa": "〜する癖がある（ネガティブ）",
+          "level": "b2",
+          "explanation": "困った癖・悪い習慣を指す表現。「manía」は本来「躁病」だが、日常会話では「困った癖」の意味。ネガティブなニュアンスが強いので、良い習慣には使わない。",
+          "examples": [
+            {
+              "es": "Tiene la manía de morderse las uñas.",
+              "ja": "爪を噛む癖がある。"
+            },
+            {
+              "es": "Mi jefe tiene la manía de llamar los domingos.",
+              "ja": "上司は日曜に電話する困った癖がある。"
+            },
+            {
+              "es": "Tengo la manía de dejar todo para mañana.",
+              "ja": "何でも明日に回す癖がある。"
+            }
+          ],
+          "commonMistakeJa": "良い習慣にmaníaは使わない。×Tiene la manía de hacer ejercicio（運動する癖がある）→ △不自然。良い習慣にはcostumbreを使う。",
+          "relatedPatterns": [
+            "tener costumbre de + infinitivo",
+            "soler + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Mi hermano tiene la ___ de hablar en voz alta por teléfono.",
+              "answer": "manía",
+              "options": [
+                "mania",
+                "manía",
+                "costumbre",
+                "costumbra"
+              ],
+              "explanationJa": "困った癖→manía。アクセント記号（í）を忘れずに。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼女は何でも確認する癖がある」",
+              "answer": "Tiene la manía de comprobarlo todo.",
+              "explanationJa": "la manía de+不定詞。comprobar=確認する。todoはloで代名詞化。"
+            }
+          ]
+        },
+        {
+          "id": "con-016",
+          "pattern": "ser de los que + indicativo",
+          "meaningJa": "〜するタイプだ",
+          "level": "b2",
+          "explanation": "「〜する人間だ」「〜するタイプだ」と人の性質を表す表現。de los queの後は直説法。日常会話で人を描写する時に非常に便利。性別に合わせてde las queも使える。",
+          "examples": [
+            {
+              "es": "Soy de los que prefieren quedarse en casa.",
+              "ja": "家にいるのが好きなタイプだ。"
+            },
+            {
+              "es": "Ella es de las que siempre llegan tarde.",
+              "ja": "彼女はいつも遅刻するタイプだ。"
+            },
+            {
+              "es": "No soy de los que se rinden fácilmente.",
+              "ja": "簡単に諦めるタイプじゃない。"
+            }
+          ],
+          "commonMistakeJa": "los/lasの性数一致と動詞の三人称複数を忘れがち。主語がyoでも、que以下の動詞はlos que=ellosに合わせて三人称複数。Soy de los que prefieren（×prefiero）。",
+          "relatedPatterns": [
+            "soler + infinitivo",
+            "acostumbrar + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Mi padre es de los que ___ temprano. (levantarse)",
+              "answer": "se levantan",
+              "options": [
+                "me levanto",
+                "se levanta",
+                "se levante",
+                "se levantan"
+              ],
+              "explanationJa": "los que=三人称複数→se levantan。主語がmi padreでも関係ない。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「私は計画を立てるタイプだ」",
+              "answer": "Soy de los que hacen planes.",
+              "explanationJa": "de los que+三人称複数。hacer planes=計画を立てる。"
+            }
+          ]
+        },
+        {
+          "id": "con-017",
+          "pattern": "no acostumbrar a + infinitivo",
+          "meaningJa": "普段〜しない",
+          "level": "b2",
+          "explanation": "solerの否定と同じニュアンスだが、よりフォーマルな響き。スペインでは再帰形acostumbrarse aと混同されやすいが、ここでは非再帰のacostumbrar。中南米ではsolerより使われる地域もある。",
+          "examples": [
+            {
+              "es": "No acostumbro a quejarme.",
+              "ja": "普段は文句を言わない。"
+            },
+            {
+              "es": "No acostumbramos a salir entre semana.",
+              "ja": "平日は外出しないのが普通だ。"
+            },
+            {
+              "es": "No acostumbra a hablar de su vida privada.",
+              "ja": "彼はプライベートのことは普段話さない。"
+            }
+          ],
+          "commonMistakeJa": "acostumbrar a（習慣的に〜する）とacostumbrarse a（〜に慣れる）は全く違う意味。再帰のseがあるかないかで意味が変わるので要注意。",
+          "relatedPatterns": [
+            "soler + infinitivo",
+            "tener costumbre de + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "No ___ a comer tanto. (yo, acostumbrar)",
+              "answer": "acostumbro",
+              "options": [
+                "acostumbro",
+                "acostumbre",
+                "me acostumbro",
+                "acostumbré"
+              ],
+              "explanationJa": "現在の習慣→現在形。再帰ではないのでmeは不要。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼女は普段甘いものを食べない」",
+              "answer": "No acostumbra a comer dulces.",
+              "explanationJa": "三人称単数→acostumbra。dulces=甘いもの。"
+            }
+          ]
+        },
+        {
+          "id": "con-018",
+          "pattern": "como de costumbre",
+          "meaningJa": "いつものように",
+          "level": "b1",
+          "explanation": "副詞的に使う固定表現で「いつも通り」を意味する。文頭・文中・文末どこにでも置ける。同義表現にcomo siempreがあるが、como de costumbreの方がやや文語的。",
+          "examples": [
+            {
+              "es": "Como de costumbre, llegó tarde.",
+              "ja": "いつものように、遅れて来た。"
+            },
+            {
+              "es": "Desayuné como de costumbre.",
+              "ja": "いつも通り朝食を取った。"
+            },
+            {
+              "es": "Todo sigue como de costumbre.",
+              "ja": "すべていつも通りだ。"
+            }
+          ],
+          "commonMistakeJa": "como siempreとの違いは微妙。como de costumbreは「習慣通りに」、como siempreは「いつも」。como de costumbreの方がフォーマルで書き言葉向き。",
+          "relatedPatterns": [
+            "como siempre",
+            "de siempre"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "___ ___ ___, el tren llegó con retraso.",
+              "answer": "Como de costumbre",
+              "options": [
+                "Como de costumbre",
+                "De costumbre como",
+                "Como costumbre",
+                "Por costumbre"
+              ],
+              "explanationJa": "固定表現。como+de+costumbre。「いつものように電車が遅延した」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「いつものように彼はコーヒーを注文した」",
+              "answer": "Como de costumbre, pidió un café.",
+              "explanationJa": "文頭に置くのが自然。pedir→pidió（点過去）。"
+            }
+          ]
+        },
+        {
+          "id": "con-019",
+          "pattern": "tener por costumbre + infinitivo",
+          "meaningJa": "〜することを習慣にしている",
+          "level": "b2",
+          "explanation": "tener costumbre deのより洗練されたバリエーション。porを使うことで「〜を自分の習慣として持っている」という意図的なニュアンスが加わる。フォーマルな文章や教養ある会話で使われる。",
+          "examples": [
+            {
+              "es": "Tengo por costumbre dar un paseo después de comer.",
+              "ja": "食後に散歩することを習慣にしている。"
+            },
+            {
+              "es": "Tiene por costumbre revisar las cuentas cada mes.",
+              "ja": "毎月帳簿を確認することを習慣にしている。"
+            },
+            {
+              "es": "Tenemos por costumbre reunirnos los viernes.",
+              "ja": "金曜に集まることを習慣にしている。"
+            }
+          ],
+          "commonMistakeJa": "tener costumbre deとtener por costumbreの違い。porの方がより意識的・意図的な習慣。deの方がより自然にしている習慣。ニュアンスの差は微妙だが試験に出る。",
+          "relatedPatterns": [
+            "tener costumbre de + infinitivo",
+            "soler + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Mi profesora tiene ___ ___ explicar cada palabra nueva.",
+              "answer": "por costumbre",
+              "options": [
+                "de costumbre",
+                "la costumbre",
+                "costumbre de",
+                "por costumbre"
+              ],
+              "explanationJa": "tener por costumbre+不定詞。意図的な習慣を表す。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「私は毎晩日記を書くことを習慣にしている」",
+              "answer": "Tengo por costumbre escribir un diario cada noche.",
+              "explanationJa": "tener por costumbre+不定詞。diario=日記。"
+            }
+          ]
+        },
+        {
+          "id": "con-020",
+          "pattern": "venir + gerundio",
+          "meaningJa": "ずっと〜してきている",
+          "level": "b2",
+          "explanation": "過去から現在まで継続している習慣的行為を表す。「ずっと前から〜し続けている」というニュアンス。llevar+現在分詞と似ているが、venirは行為の反復・蓄積に焦点がある。",
+          "examples": [
+            {
+              "es": "Vengo diciendo esto desde hace años.",
+              "ja": "何年も前からずっとこう言っている。"
+            },
+            {
+              "es": "Los precios vienen subiendo desde enero.",
+              "ja": "1月からずっと物価が上がり続けている。"
+            },
+            {
+              "es": "La situación viene empeorando.",
+              "ja": "状況はずっと悪化し続けている。"
+            }
+          ],
+          "commonMistakeJa": "ir+現在分詞（徐々に進行）との違いに注意。venir+現在分詞は「過去から今まで」の蓄積、ir+現在分詞は「今から先へ」の進行。方向性が逆。",
+          "relatedPatterns": [
+            "llevar + gerundio + tiempo",
+            "ir + gerundio"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Este problema ___ ___ desde el año pasado.",
+              "answer": "viene ocurriendo",
+              "options": [
+                "va ocurriendo",
+                "está ocurriendo",
+                "sigue ocurriendo",
+                "viene ocurriendo"
+              ],
+              "explanationJa": "過去からの蓄積→venir+現在分詞。desde el año pasado=去年から。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼はずっと警告し続けてきた」",
+              "answer": "Viene advirtiendo desde hace tiempo.",
+              "explanationJa": "venir+現在分詞。advertir→advirtiendo（e→i変化）。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-start-end",
+      "nameJa": "開始・終了",
+      "nameEs": "Inicio y finalización",
+      "constructions": [
+        {
+          "id": "con-021",
+          "pattern": "empezar a + infinitivo",
+          "meaningJa": "〜し始める",
+          "level": "a2",
+          "explanation": "最も基本的な「開始」表現。comenzar aと完全に同義だが、empezarの方が口語的。活用はe→ie型不規則（empiezo, empiezas...）。前置詞aを忘れないこと。",
+          "examples": [
+            {
+              "es": "Empecé a estudiar español el año pasado.",
+              "ja": "去年スペイン語を勉強し始めた。"
+            },
+            {
+              "es": "Está empezando a llover.",
+              "ja": "雨が降り始めている。"
+            },
+            {
+              "es": "Empezamos a entender la situación.",
+              "ja": "状況が分かり始めた。"
+            }
+          ],
+          "commonMistakeJa": "前置詞aを忘れる誤り。×Empecé estudiar → ○Empecé a estudiar。comenzar aも同じくaが必要。",
+          "relatedPatterns": [
+            "comenzar a + infinitivo",
+            "ponerse a + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Los niños ___ a jugar en el parque. (empezar, pretérito)",
+              "answer": "empezaron",
+              "options": [
+                "empiezan",
+                "empezaron",
+                "empiecen",
+                "empezaran"
+              ],
+              "explanationJa": "点過去三人称複数→empezaron。aの前にzが変化してcにはならない。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼女はピアノを弾き始めた」",
+              "answer": "Empezó a tocar el piano.",
+              "explanationJa": "点過去三人称単数→empezó。tocar el piano=ピアノを弾く。"
+            }
+          ]
+        },
+        {
+          "id": "con-022",
+          "pattern": "ponerse a + infinitivo",
+          "meaningJa": "〜し始める（突然・決意）",
+          "level": "b1",
+          "explanation": "突然何かを始める、または決意して始めるニュアンス。empezar aより急で勢いがある。再帰動詞ponerseを使い、感情や状況の変化を含意する。",
+          "examples": [
+            {
+              "es": "Se puso a llorar de repente.",
+              "ja": "突然泣き出した。"
+            },
+            {
+              "es": "Me puse a limpiar la casa.",
+              "ja": "家の掃除を始めた（やる気になって）。"
+            },
+            {
+              "es": "No te pongas a gritar.",
+              "ja": "叫び出さないで。"
+            }
+          ],
+          "commonMistakeJa": "empezar a（普通の開始）とponerse a（突然・決意の開始）のニュアンスの違い。「急に雨が降り出した」はSe puso a lloverの方が自然。",
+          "relatedPatterns": [
+            "empezar a + infinitivo",
+            "echar a + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "El bebé ___ ___ a llorar en medio de la noche.",
+              "answer": "se puso",
+              "options": [
+                "se puso",
+                "empezó",
+                "se ha puesto",
+                "se ponió"
+              ],
+              "explanationJa": "点過去→se puso（ponerの不規則変化）。×ponió。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼は突然走り始めた」",
+              "answer": "Se puso a correr de repente.",
+              "explanationJa": "突然の開始→ponerse a。de repente=突然。"
+            }
+          ]
+        },
+        {
+          "id": "con-023",
+          "pattern": "echar a + infinitivo",
+          "meaningJa": "〜し始める（突然の動作）",
+          "level": "b2",
+          "explanation": "突然の動作の開始を表す。主にechar a correr（走り出す）、echar a andar（歩き出す）、echar a volar（飛び立つ）など移動動詞と使うことが多い。echarse a+不定詞で「〜し出す」（特にllorar, reír）。",
+          "examples": [
+            {
+              "es": "Echó a correr cuando vio al perro.",
+              "ja": "犬を見て走り出した。"
+            },
+            {
+              "es": "Se echó a reír sin parar.",
+              "ja": "止まらないほど笑い出した。"
+            },
+            {
+              "es": "El avión echó a volar.",
+              "ja": "飛行機が飛び立った。"
+            }
+          ],
+          "commonMistakeJa": "echar a（主に移動動詞）とecharse a（笑う・泣くなど感情表現）の使い分け。再帰のseがあるかないかで用法が異なる。",
+          "relatedPatterns": [
+            "ponerse a + infinitivo",
+            "romper a + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Los pájaros ___ a ___ al amanecer.",
+              "answer": "echaron a volar",
+              "options": [
+                "se echaron a volar",
+                "pusieron a volar",
+                "echaron de volar",
+                "echaron a volar"
+              ],
+              "explanationJa": "移動動詞→echar a（再帰なし）。volar=飛ぶ。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「子供たちは笑い出した」",
+              "answer": "Los niños se echaron a reír.",
+              "explanationJa": "感情表現→echarse a（再帰あり）。reír=笑う。"
+            }
+          ]
+        },
+        {
+          "id": "con-024",
+          "pattern": "romper a + infinitivo",
+          "meaningJa": "突然〜し出す（感情的）",
+          "level": "b2",
+          "explanation": "感情が爆発するように突然何かを始める表現。主にllorar（泣く）やreír（笑う）と使う。「感情を抑えきれずに〜し出す」というニュアンスが強い。文学的で劇的な表現。",
+          "examples": [
+            {
+              "es": "Rompió a llorar al oír la noticia.",
+              "ja": "その知らせを聞いて泣き出した。"
+            },
+            {
+              "es": "De pronto rompió a reír a carcajadas.",
+              "ja": "突然大笑いし出した。"
+            },
+            {
+              "es": "El público rompió a aplaudir.",
+              "ja": "観客が拍手し出した。"
+            }
+          ],
+          "commonMistakeJa": "romper a（突然の感情的開始）はponerse aやechar aより強烈。感情的な爆発のニュアンス。日常会話ではponerse aの方が一般的で、romper aは文学的。",
+          "relatedPatterns": [
+            "echarse a + infinitivo",
+            "ponerse a + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "La niña ___ a ___ cuando se cayó. (romper, llorar, pretérito)",
+              "answer": "rompió a llorar",
+              "options": [
+                "se rompió a llorar",
+                "rompía a llorar",
+                "rompió de llorar",
+                "rompió a llorar"
+              ],
+              "explanationJa": "点過去→rompió。前置詞はa。再帰動詞ではない。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼は突然歌い出した」",
+              "answer": "Rompió a cantar de repente.",
+              "explanationJa": "感情的な突発→romper a。cantar=歌う。"
+            }
+          ]
+        },
+        {
+          "id": "con-025",
+          "pattern": "lanzarse a + infinitivo",
+          "meaningJa": "思い切って〜し始める",
+          "level": "b2",
+          "explanation": "勇気を出して飛び込むように何かを始める表現。lanzar（投げる）の再帰形で、「自分を投げ出す」という比喩。ビジネスや人生の決断の文脈で多用。",
+          "examples": [
+            {
+              "es": "Se lanzó a montar su propio negocio.",
+              "ja": "思い切って自分の事業を始めた。"
+            },
+            {
+              "es": "Me lancé a hablar en público.",
+              "ja": "思い切って人前で話し始めた。"
+            },
+            {
+              "es": "Se lanzaron a conquistar nuevos mercados.",
+              "ja": "新市場の開拓に乗り出した。"
+            }
+          ],
+          "commonMistakeJa": "lanzarse a（思い切って始める）とponerse a（突然始める）の違い。lanzarseには「勇気・決意」の含意があるが、ponerseにはない。",
+          "relatedPatterns": [
+            "ponerse a + infinitivo",
+            "atreverse a + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Después de pensarlo mucho, ___ ___ a escribir su novela.",
+              "answer": "se lanzó",
+              "options": [
+                "se lanzó",
+                "lanzó",
+                "se lanzaba",
+                "se puso"
+              ],
+              "explanationJa": "決意→se lanzó。「熟考した後」→点過去が自然。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼女は思い切ってフリーランスになった」",
+              "answer": "Se lanzó a trabajar como freelance.",
+              "explanationJa": "決意→lanzarse a。trabajar como=〜として働く。"
+            }
+          ]
+        },
+        {
+          "id": "con-026",
+          "pattern": "dejar de + infinitivo",
+          "meaningJa": "〜するのをやめる",
+          "level": "a2",
+          "explanation": "行為の中断・停止を表す最も基本的な表現。否定形「no dejar de」は「〜し続ける」「必ず〜する」の意味になる。日常会話で非常によく使う。",
+          "examples": [
+            {
+              "es": "Dejé de fumar hace dos años.",
+              "ja": "2年前にタバコをやめた。"
+            },
+            {
+              "es": "No dejes de estudiar.",
+              "ja": "勉強をやめないで。"
+            },
+            {
+              "es": "Ha dejado de llover.",
+              "ja": "雨がやんだ。"
+            }
+          ],
+          "commonMistakeJa": "「No dejes de + 不定詞」は「必ず〜して」という肯定的な勧誘になる点に注意。No dejes de visitar Toledo=絶対トレドを訪れて。二重否定で肯定。",
+          "relatedPatterns": [
+            "parar de + infinitivo",
+            "cesar de + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "¿Cuándo ___ de llover? (dejar, pretérito)",
+              "answer": "dejó",
+              "options": [
+                "ha dejado",
+                "deja",
+                "dejaba",
+                "dejó"
+              ],
+              "explanationJa": "「いつ雨が止んだ？」→点過去dejó。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「必ずその映画を見てね」",
+              "answer": "No dejes de ver esa película.",
+              "explanationJa": "No dejes de=必ず〜して。二重否定で勧誘の意味。"
+            }
+          ]
+        },
+        {
+          "id": "con-027",
+          "pattern": "acabar de + infinitivo",
+          "meaningJa": "〜したばかりだ",
+          "level": "a2",
+          "explanation": "直近の過去を表す重要表現。現在形で「今〜したばかり」、線過去形で「〜したところだった」。英語のjust did/have justに相当。非常によく使うので確実に覚えたい。",
+          "examples": [
+            {
+              "es": "Acabo de llegar.",
+              "ja": "今着いたばかりだ。"
+            },
+            {
+              "es": "Acabamos de comer.",
+              "ja": "食べたばかりだ。"
+            },
+            {
+              "es": "Acababa de salir cuando me llamaste.",
+              "ja": "君が電話した時、出たばかりだった。"
+            }
+          ],
+          "commonMistakeJa": "現在形で直近過去、線過去形で大過去相当。点過去や未来形では使わない。×Acabé de llegar → ○Acabo de llegar（今着いたばかり）。",
+          "relatedPatterns": [
+            "terminar de + infinitivo",
+            "empezar a + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "No tengo hambre, ___ ___ almorzar.",
+              "answer": "acabo de",
+              "options": [
+                "acababa de",
+                "acabé de",
+                "he acabado de",
+                "acabo de"
+              ],
+              "explanationJa": "今の状態→現在形acabo de。「昼食を取ったばかり」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼がちょうど出発したところだった」",
+              "answer": "Acababa de salir.",
+              "explanationJa": "過去の直近過去→線過去acababa de。"
+            }
+          ]
+        },
+        {
+          "id": "con-028",
+          "pattern": "terminar de + infinitivo",
+          "meaningJa": "〜し終える",
+          "level": "a2",
+          "explanation": "行為の完了を表す。acabar deと似ているが、terminar deは純粋に「終了」を意味し、「〜したばかり」の用法はない。フォーマル度はacabarと同程度。",
+          "examples": [
+            {
+              "es": "Ya terminé de leer el libro.",
+              "ja": "もう本を読み終えた。"
+            },
+            {
+              "es": "Terminamos de pintar la casa.",
+              "ja": "家の塗装を終えた。"
+            },
+            {
+              "es": "¿Has terminado de comer?",
+              "ja": "食べ終わった？"
+            }
+          ],
+          "commonMistakeJa": "acabar de（〜したばかり）とterminar de（〜し終える）を混同しない。terminar deには「直近の過去」の意味はない。Termino de comer=食べ終える。Acabo de comer=食べたばかり。",
+          "relatedPatterns": [
+            "acabar de + infinitivo",
+            "dejar de + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "¿Ya ___ de hacer la tarea? (terminar, pretérito, tú)",
+              "answer": "terminaste",
+              "options": [
+                "terminas",
+                "terminaste",
+                "terminarás",
+                "terminabas"
+              ],
+              "explanationJa": "完了を尋ねる→点過去terminaste。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「私はレポートを書き終えたところだ」",
+              "answer": "Acabo de terminar de escribir el informe.",
+              "explanationJa": "acabar de+terminar deの組み合わせ。「書き終えたばかり」。"
+            }
+          ]
+        },
+        {
+          "id": "con-029",
+          "pattern": "parar de + infinitivo",
+          "meaningJa": "〜するのを止める（一時的）",
+          "level": "b1",
+          "explanation": "一時的な中断を表す。dejar de（完全にやめる）と異なり、pararは一時停止のニュアンス。否定形「no parar de」は「ひっきりなしに〜する」の意味でよく使う。",
+          "examples": [
+            {
+              "es": "Para de hacer ruido, por favor.",
+              "ja": "騒ぐのをやめてください。"
+            },
+            {
+              "es": "No para de hablar.",
+              "ja": "ひっきりなしに喋っている。"
+            },
+            {
+              "es": "No paraba de nevar.",
+              "ja": "雪が止まなかった。"
+            }
+          ],
+          "commonMistakeJa": "dejar de（永続的停止）とparar de（一時的停止）の違い。Dejé de fumar=禁煙した（永久に）。Paré de fumar=タバコを吸うのを中断した（またいつか吸うかも）。",
+          "relatedPatterns": [
+            "dejar de + infinitivo",
+            "cesar de + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "El niño no ___ de llorar en toda la noche.",
+              "answer": "paró",
+              "options": [
+                "cesó",
+                "paraba",
+                "paró",
+                "dejó"
+              ],
+              "explanationJa": "一晩中→点過去paró。「泣き止まなかった」。no parar deで継続を強調。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「雨が止まない」",
+              "answer": "No para de llover.",
+              "explanationJa": "no parar de=ひっきりなしに。現在形para。"
+            }
+          ]
+        },
+        {
+          "id": "con-030",
+          "pattern": "cesar de + infinitivo",
+          "meaningJa": "〜するのをやめる（フォーマル）",
+          "level": "b2",
+          "explanation": "dejar deやparar deのフォーマルな同義表現。ニュース、文学、公式文書で多用される。日常会話ではあまり使わないが、理解できることが重要。否定形「no cesar de」も「絶え間なく」の意味で使われる。",
+          "examples": [
+            {
+              "es": "El viento no cesaba de soplar.",
+              "ja": "風が止むことがなかった。"
+            },
+            {
+              "es": "No cesa de llover desde ayer.",
+              "ja": "昨日から雨が止まない。"
+            },
+            {
+              "es": "Cesaron de producir este modelo.",
+              "ja": "このモデルの生産をやめた。"
+            }
+          ],
+          "commonMistakeJa": "日常会話でcesar deを使うとやや堅すぎる。会話ではdejar deやparar deを使い、書き言葉やフォーマル場面でcesar deを使い分けると自然。",
+          "relatedPatterns": [
+            "dejar de + infinitivo",
+            "parar de + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "La empresa ___ de operar en 2020. (cesar, pretérito)",
+              "answer": "cesó",
+              "options": [
+                "cesó",
+                "cesaba",
+                "cesará",
+                "ha cesado"
+              ],
+              "explanationJa": "完了した出来事→点過去cesó。フォーマルな文脈。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼女は微笑むのをやめなかった」",
+              "answer": "No cesó de sonreír.",
+              "explanationJa": "文学的表現→cesar de。sonreír=微笑む。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-continuation",
+      "nameJa": "継続・進行",
+      "nameEs": "Continuidad y progresión",
+      "constructions": [
+        {
+          "id": "con-031",
+          "pattern": "seguir + gerundio",
+          "meaningJa": "〜し続ける",
+          "level": "a2",
+          "explanation": "行為の継続を表す最も基本的な表現。英語のkeep doingに相当。seguirはe→i型不規則変化（sigo, sigues, sigue...）。日常会話で非常に頻繁に使う。",
+          "examples": [
+            {
+              "es": "Sigue lloviendo.",
+              "ja": "まだ雨が降り続いている。"
+            },
+            {
+              "es": "Seguimos trabajando hasta las diez.",
+              "ja": "10時まで働き続けた。"
+            },
+            {
+              "es": "¿Sigues viviendo en Madrid?",
+              "ja": "まだマドリードに住んでいるの？"
+            }
+          ],
+          "commonMistakeJa": "seguirの活用ミスに注意。yo→sigo（×seguo）。また、後ろは必ず現在分詞で不定詞は不可。×Sigue a trabajar → ○Sigue trabajando。",
+          "relatedPatterns": [
+            "continuar + gerundio",
+            "no dejar de + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "A pesar del frío, los niños ___ ___ en el parque.",
+              "answer": "siguen jugando",
+              "options": [
+                "seguir jugando",
+                "siguen jugando",
+                "siguen jugar",
+                "seguen jugando"
+              ],
+              "explanationJa": "三人称複数→siguen。後ろは現在分詞jugando。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼女はまだスペイン語を勉強し続けている」",
+              "answer": "Sigue estudiando español.",
+              "explanationJa": "三人称単数→sigue。estudiando（現在分詞）。"
+            }
+          ]
+        },
+        {
+          "id": "con-032",
+          "pattern": "continuar + gerundio",
+          "meaningJa": "〜し続ける（フォーマル）",
+          "level": "b1",
+          "explanation": "seguir+現在分詞のフォーマル版。意味はほぼ同じだが、ニュース・報告書・スピーチでよく使われる。活用はcontinúo, continúas...とアクセント記号に注意。",
+          "examples": [
+            {
+              "es": "La economía continúa creciendo.",
+              "ja": "経済は成長し続けている。"
+            },
+            {
+              "es": "Continuaremos luchando por nuestros derechos.",
+              "ja": "私たちの権利のために闘い続ける。"
+            },
+            {
+              "es": "El paciente continúa mejorando.",
+              "ja": "患者は回復し続けている。"
+            }
+          ],
+          "commonMistakeJa": "アクセント記号を忘れがち。continúo（私は）、continúas（君は）。ただしcontinuamos（私たちは）にはアクセント記号は不要。",
+          "relatedPatterns": [
+            "seguir + gerundio",
+            "mantenerse + gerundio"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Las negociaciones ___ ___ sin avances. (continuar, presente)",
+              "answer": "continúan desarrollándose",
+              "options": [
+                "continuán desarrollándose",
+                "continuan desarrollando",
+                "continúa desarrollándose",
+                "continúan desarrollándose"
+              ],
+              "explanationJa": "三人称複数→continúan。アクセント記号に注意。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「私たちは努力し続ける」",
+              "answer": "Continuaremos esforzándonos.",
+              "explanationJa": "未来形→continuaremos。esforzarse→esforzándonos。"
+            }
+          ]
+        },
+        {
+          "id": "con-033",
+          "pattern": "llevar + gerundio + tiempo",
+          "meaningJa": "〜して（期間）になる",
+          "level": "b1",
+          "explanation": "動作の継続期間を表す非常に重要な構文。英語のhave been doing for...に相当。現在完了進行形を使わないスペイン語ならではの表現。会話で頻出。",
+          "examples": [
+            {
+              "es": "Llevo dos años estudiando japonés.",
+              "ja": "日本語を2年間勉強している。"
+            },
+            {
+              "es": "Llevamos esperando una hora.",
+              "ja": "1時間待っている。"
+            },
+            {
+              "es": "¿Cuánto tiempo llevas viviendo aquí?",
+              "ja": "ここに住んでどのくらい？"
+            }
+          ],
+          "commonMistakeJa": "日本語学習者は「2年間勉強している」をHe estudiado...と訳しがち。スペイン語ではllevar+現在分詞+時間が最も自然。期間の長さを強調する構文。",
+          "relatedPatterns": [
+            "hacer + tiempo + que",
+            "desde hace + tiempo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "¿Cuánto tiempo ___ ___ aquí? (llevar, trabajar, tú)",
+              "answer": "llevas trabajando",
+              "options": [
+                "has trabajando",
+                "estás trabajando",
+                "llevas trabajando",
+                "llevas a trabajar"
+              ],
+              "explanationJa": "llevar+現在分詞。tú→llevas。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼女は3時間電話している」",
+              "answer": "Lleva tres horas hablando por teléfono.",
+              "explanationJa": "llevar+時間+現在分詞。hablar por teléfono=電話する。"
+            }
+          ]
+        },
+        {
+          "id": "con-034",
+          "pattern": "ir + gerundio",
+          "meaningJa": "だんだん〜していく",
+          "level": "b1",
+          "explanation": "徐々に進行する変化を表す。「少しずつ〜になっていく」というニュアンス。venir+現在分詞が「過去→今」なら、ir+現在分詞は「今→先」の方向性。プレゼンや説明で多用。",
+          "examples": [
+            {
+              "es": "Vamos mejorando poco a poco.",
+              "ja": "少しずつ良くなっていっている。"
+            },
+            {
+              "es": "Iré contando los resultados.",
+              "ja": "結果を順に伝えていきますね。"
+            },
+            {
+              "es": "Los días van haciéndose más cortos.",
+              "ja": "日が徐々に短くなっていく。"
+            }
+          ],
+          "commonMistakeJa": "estar+現在分詞（今まさに進行中）とir+現在分詞（徐々に変化）の違い。Estoy aprendiendo=今学んでいる。Voy aprendiendo=徐々に学んでいる。",
+          "relatedPatterns": [
+            "venir + gerundio",
+            "estar + gerundio"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "La situación ___ ___ más complicada.",
+              "answer": "va haciéndose",
+              "options": [
+                "sigue haciéndose",
+                "viene haciéndose",
+                "está haciéndose",
+                "va haciéndose"
+              ],
+              "explanationJa": "徐々に変化→ir+現在分詞。「状況が徐々に複雑になっていく」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「だんだん理解できてきた」",
+              "answer": "Voy entendiendo poco a poco.",
+              "explanationJa": "徐々に→ir+現在分詞。poco a poco=少しずつ。"
+            }
+          ]
+        },
+        {
+          "id": "con-035",
+          "pattern": "andar + gerundio",
+          "meaningJa": "〜して回っている",
+          "level": "b2",
+          "explanation": "ある行為を繰り返しながら動き回っているニュアンス。しばしば軽い非難や呆れを含む。「何やってるんだ」的なトーンで使うことが多い。口語的な表現。",
+          "examples": [
+            {
+              "es": "Anda buscando trabajo.",
+              "ja": "仕事を探して回っている。"
+            },
+            {
+              "es": "¿Qué andas haciendo por aquí?",
+              "ja": "こんなところで何してるの？"
+            },
+            {
+              "es": "Andan diciendo que van a cerrar la empresa.",
+              "ja": "会社が閉まるとか言って回っている。"
+            }
+          ],
+          "commonMistakeJa": "andar+現在分詞は中立〜やや否定的なニュアンス。褒め言葉には使わない。×Anda estudiando mucho（頑張って勉強している）→ △不自然。estar estudiandoが適切。",
+          "relatedPatterns": [
+            "ir + gerundio",
+            "estar + gerundio"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "No ___ ___ mentiras por ahí. (andar, contar, tú, imperativo negativo)",
+              "answer": "andes contando",
+              "options": [
+                "andes contando",
+                "anda contando",
+                "ande contando",
+                "andas contando"
+              ],
+              "explanationJa": "否定命令→接続法andes。「嘘をつき回るな」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼は何かを隠している」",
+              "answer": "Anda escondiendo algo.",
+              "explanationJa": "何か怪しいニュアンス→andar+現在分詞。esconder=隠す。"
+            }
+          ]
+        },
+        {
+          "id": "con-036",
+          "pattern": "no dejar de + infinitivo",
+          "meaningJa": "〜し続ける、必ず〜する",
+          "level": "b1",
+          "explanation": "dejar deの否定形。文脈により「止めずに続ける」と「忘れずに必ずする」の二つの意味がある。命令形で使うと「必ず〜してね」という勧誘になる。",
+          "examples": [
+            {
+              "es": "No deja de sorprenderme.",
+              "ja": "驚かされ続ける（いつも驚く）。"
+            },
+            {
+              "es": "No dejes de visitar la Alhambra.",
+              "ja": "アルハンブラは絶対訪れてね。"
+            },
+            {
+              "es": "No dejó de intentarlo hasta conseguirlo.",
+              "ja": "達成するまで試み続けた。"
+            }
+          ],
+          "commonMistakeJa": "「No dejes de+不定詞」が勧誘の意味になることを覚える。直訳「〜をやめないで」→「必ず〜して」。旅行ガイドや友人の会話でよく使う。",
+          "relatedPatterns": [
+            "seguir + gerundio",
+            "no parar de + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Si vas a Barcelona, no ___ ___ probar las tapas.",
+              "answer": "dejes de",
+              "options": [
+                "dejas de",
+                "dejes de",
+                "deje de",
+                "dejéis de"
+              ],
+              "explanationJa": "tú向けの命令→no dejes de。「必ずタパスを試して」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼は笑い続けた」",
+              "answer": "No dejó de reír.",
+              "explanationJa": "「笑うのをやめなかった」→「笑い続けた」。点過去dejó。"
+            }
+          ]
+        },
+        {
+          "id": "con-037",
+          "pattern": "no parar de + infinitivo",
+          "meaningJa": "ひっきりなしに〜する",
+          "level": "b1",
+          "explanation": "「止まることなく〜し続ける」という意味で、しつこさや過剰さのニュアンスを含む。no dejar deより口語的で、不満や呆れを表すことが多い。",
+          "examples": [
+            {
+              "es": "No para de hablar.",
+              "ja": "ひっきりなしに喋っている。"
+            },
+            {
+              "es": "El teléfono no paraba de sonar.",
+              "ja": "電話が鳴り止まなかった。"
+            },
+            {
+              "es": "No paro de pensar en ti.",
+              "ja": "君のことばかり考えている。"
+            }
+          ],
+          "commonMistakeJa": "no parar de（うんざり・しつこさ）とno dejar de（継続・勧誘）のニュアンスの違い。不満を表す時はno parar deの方が自然。",
+          "relatedPatterns": [
+            "no dejar de + infinitivo",
+            "seguir + gerundio"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Los vecinos no ___ de hacer fiestas.",
+              "answer": "paran",
+              "options": [
+                "paran",
+                "cesan",
+                "dejan",
+                "siguen"
+              ],
+              "explanationJa": "不満のニュアンス→no paran de。「近所がパーティーばかりしている」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「赤ちゃんが泣き止まない」",
+              "answer": "El bebé no para de llorar.",
+              "explanationJa": "ひっきりなし→no para de。llorar=泣く。"
+            }
+          ]
+        },
+        {
+          "id": "con-038",
+          "pattern": "quedarse + gerundio",
+          "meaningJa": "〜したままでいる",
+          "level": "b2",
+          "explanation": "ある場所や状態にとどまって何かをし続ける表現。quedarseの「留まる」のニュアンスに、現在分詞で行為を追加。予定の変更や居残りの文脈で使うことが多い。",
+          "examples": [
+            {
+              "es": "Me quedé estudiando hasta tarde.",
+              "ja": "遅くまで勉強していた。"
+            },
+            {
+              "es": "Se quedaron charlando en el bar.",
+              "ja": "バーでおしゃべりし続けた。"
+            },
+            {
+              "es": "¿Te quedas esperando?",
+              "ja": "待ってるの？"
+            }
+          ],
+          "commonMistakeJa": "quedarse+現在分詞（とどまって〜する）とseguir+現在分詞（〜し続ける）の違い。quedarseは「場所に残って」のニュアンスが加わる。",
+          "relatedPatterns": [
+            "seguir + gerundio",
+            "permanecer + gerundio"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Nosotros nos ___ ___ después de la clase.",
+              "answer": "quedamos practicando",
+              "options": [
+                "quedemos practicando",
+                "quedamos practiquen",
+                "quedamos a practicar",
+                "quedamos practicando"
+              ],
+              "explanationJa": "「授業後に残って練習した」。quedar+現在分詞。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼は一人で本を読み続けていた」",
+              "answer": "Se quedó leyendo solo.",
+              "explanationJa": "se quedó+現在分詞。leer→leyendo。"
+            }
+          ]
+        },
+        {
+          "id": "con-039",
+          "pattern": "mantenerse + gerundio",
+          "meaningJa": "〜し続ける（意志的に維持）",
+          "level": "b2",
+          "explanation": "意志を持って状態や行為を維持する表現。seguirが中立的な継続なら、mantenerse は努力して維持するニュアンス。スポーツ、ビジネス、健康の文脈で多用。",
+          "examples": [
+            {
+              "es": "Se mantiene compitiendo a los 40 años.",
+              "ja": "40歳で競技し続けている。"
+            },
+            {
+              "es": "La empresa se mantiene creciendo.",
+              "ja": "その企業は成長を維持している。"
+            },
+            {
+              "es": "Hay que mantenerse aprendiendo siempre.",
+              "ja": "常に学び続ける必要がある。"
+            }
+          ],
+          "commonMistakeJa": "mantenerse+現在分詞は「努力して維持」。一方、seguir+現在分詞は単なる継続。Sigue trabajando=働き続けている。Se mantiene trabajando=頑張って働き続けている。",
+          "relatedPatterns": [
+            "seguir + gerundio",
+            "continuar + gerundio"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "A pesar de las dificultades, ___ ___ luchando.",
+              "answer": "se mantiene",
+              "options": [
+                "continúa",
+                "va",
+                "sigue",
+                "se mantiene"
+              ],
+              "explanationJa": "困難にも関わらず→意志的維持→se mantiene。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼女は健康を維持するために運動し続けている」",
+              "answer": "Se mantiene haciendo ejercicio para mantenerse sana.",
+              "explanationJa": "意志的維持→mantenerse+現在分詞。sana=健康な。"
+            }
+          ]
+        },
+        {
+          "id": "con-040",
+          "pattern": "permanecer + gerundio",
+          "meaningJa": "〜したままでいる（フォーマル）",
+          "level": "c1",
+          "explanation": "quedarseのフォーマルな同義表現。ニュースや公式報告で「〜の状態が続いている」と伝える時に使う。日常会話ではほぼ使わないが、ニュースでは頻出。",
+          "examples": [
+            {
+              "es": "El sospechoso permanece detenido.",
+              "ja": "容疑者は拘留されたままだ。"
+            },
+            {
+              "es": "Permanecerán esperando instrucciones.",
+              "ja": "指示を待ち続けることになる。"
+            },
+            {
+              "es": "La carretera permanece cortada.",
+              "ja": "道路は引き続き通行止めだ。"
+            }
+          ],
+          "commonMistakeJa": "日常会話でpermanecerを使うと堅すぎる。会話ではquedarse、ニュースではpermanecer。Permanece hospitalizado=入院中のまま（ニュース）。Se queda en el hospital=病院にいる（会話）。",
+          "relatedPatterns": [
+            "quedarse + gerundio",
+            "continuar + gerundio"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "La frontera ___ ___ por motivos de seguridad.",
+              "answer": "permanece cerrada",
+              "options": [
+                "permanece cerrada",
+                "está cerrando",
+                "sigue cerrando",
+                "queda cerrada"
+              ],
+              "explanationJa": "ニュース文体→permanecer。cerrada=閉鎖された。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「住民は避難したままだ」",
+              "answer": "Los residentes permanecen evacuados.",
+              "explanationJa": "公式報告→permanecer。evacuados=避難した。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-intention",
+      "nameJa": "意図・可能",
+      "nameEs": "Intención y posibilidad",
+      "constructions": [
+        {
+          "id": "con-041",
+          "pattern": "ir a + infinitivo",
+          "meaningJa": "〜するつもりだ、〜する予定だ",
+          "level": "a1",
+          "explanation": "近い未来の予定や意図を表す最も基本的な表現。英語のbe going toに相当。未来形より口語的で日常会話では圧倒的に多く使われる。",
+          "examples": [
+            {
+              "es": "Voy a estudiar esta noche.",
+              "ja": "今夜勉強するつもりだ。"
+            },
+            {
+              "es": "¿Vas a venir a la fiesta?",
+              "ja": "パーティーに来る予定？"
+            },
+            {
+              "es": "Va a llover pronto.",
+              "ja": "もうすぐ雨が降りそうだ。"
+            }
+          ],
+          "commonMistakeJa": "未来形（estudiaré）との違い。ir a+不定詞は確定的な予定・意図。未来形は推測や意志。会話ではir a+不定詞が圧倒的に多い。",
+          "relatedPatterns": [
+            "pensar + infinitivo",
+            "futuro simple"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Nosotros ___ ___ ___ al cine mañana.",
+              "answer": "vamos a ir",
+              "options": [
+                "vamos ir",
+                "vamos a ir",
+                "vamos de ir",
+                "iremos"
+              ],
+              "explanationJa": "nosotros→vamos。前置詞aを忘れずに。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼らは引っ越すつもりだ」",
+              "answer": "Van a mudarse.",
+              "explanationJa": "三人称複数→van a。mudarse=引っ越す。"
+            }
+          ]
+        },
+        {
+          "id": "con-042",
+          "pattern": "pensar + infinitivo",
+          "meaningJa": "〜するつもりだ（意志）",
+          "level": "a2",
+          "explanation": "個人的な意志・計画を表す。ir aより主体的な意志のニュアンスが強い。「考えた結果そうするつもり」という含意がある。pensarはe→ie型不規則。",
+          "examples": [
+            {
+              "es": "Pienso viajar a Japón el próximo año.",
+              "ja": "来年日本に旅行するつもりだ。"
+            },
+            {
+              "es": "¿Piensas decirle la verdad?",
+              "ja": "彼に本当のことを言うつもり？"
+            },
+            {
+              "es": "No pienso rendirme.",
+              "ja": "諦めるつもりはない。"
+            }
+          ],
+          "commonMistakeJa": "pensar+不定詞（〜するつもり）とpensar en+不定詞/名詞（〜について考える）を混同しない。Pienso ir=行くつもり。Pienso en ir=行くことを考えている。",
+          "relatedPatterns": [
+            "ir a + infinitivo",
+            "tener intención de + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "¿___ quedarte o irte? (pensar, tú)",
+              "answer": "Piensas",
+              "options": [
+                "Pensar",
+                "Piensas",
+                "Pienses",
+                "Pensas"
+              ],
+              "explanationJa": "tú→piensas（e→ie変化）。「残るつもり？行くつもり？」"
+            },
+            {
+              "type": "translation",
+              "prompt": "「私たちは抗議するつもりだ」",
+              "answer": "Pensamos protestar.",
+              "explanationJa": "nosotros→pensamos（語幹変化なし）。protestar=抗議する。"
+            }
+          ]
+        },
+        {
+          "id": "con-043",
+          "pattern": "estar a punto de + infinitivo",
+          "meaningJa": "まさに〜しようとしている",
+          "level": "b1",
+          "explanation": "ある行為が発生する直前の状態を表す。英語のbe about toに相当。線過去と組み合わせて「〜しかけた（がしなかった）」という表現も頻出。",
+          "examples": [
+            {
+              "es": "Estoy a punto de salir.",
+              "ja": "まさに出かけるところだ。"
+            },
+            {
+              "es": "Estaba a punto de llamarte.",
+              "ja": "ちょうど君に電話しようとしていた。"
+            },
+            {
+              "es": "El tren está a punto de partir.",
+              "ja": "電車がまもなく出発する。"
+            }
+          ],
+          "commonMistakeJa": "ir a（予定）とestar a punto de（直前）の時間的距離の違い。Voy a salir=出かける予定。Estoy a punto de salir=今まさに出ようとしている。",
+          "relatedPatterns": [
+            "ir a + infinitivo",
+            "estar por + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "___ a ___ de empezar la película cuando llegamos.",
+              "answer": "Estaba a punto",
+              "options": [
+                "Era a punto",
+                "Estuvo a punto",
+                "Está a punto",
+                "Estaba a punto"
+              ],
+              "explanationJa": "過去の直前の状態→線過去estaba。「着いた時映画が始まるところだった」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「まさに諦めようとしていた」",
+              "answer": "Estaba a punto de rendirme.",
+              "explanationJa": "線過去estaba。rendirse→rendirme（再帰＋不定詞）。"
+            }
+          ]
+        },
+        {
+          "id": "con-044",
+          "pattern": "estar por + infinitivo",
+          "meaningJa": "まだ〜していない／〜する気がある",
+          "level": "b2",
+          "explanation": "二つの意味がある。1）「まだ〜されていない」（未完了）：La casa está por limpiar。2）「〜しようかと思っている」（意志・傾き）：Estoy por irme。地域によって意味が変わるので文脈で判断。",
+          "examples": [
+            {
+              "es": "El trabajo está por hacer.",
+              "ja": "仕事はまだやっていない。"
+            },
+            {
+              "es": "Estoy por irme ya.",
+              "ja": "もう帰ろうかと思っている。"
+            },
+            {
+              "es": "La comida está por servir.",
+              "ja": "食事はまだ出されていない。"
+            }
+          ],
+          "commonMistakeJa": "estar por（未完了・意図）とestar para（準備完了・直前）を混同しやすい。Está por hacer=まだしていない。Está para salir=出る準備ができている。",
+          "relatedPatterns": [
+            "estar a punto de + infinitivo",
+            "estar para + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "La habitación ___ ___ limpiar.",
+              "answer": "está por",
+              "options": [
+                "hay por",
+                "está para",
+                "es por",
+                "está por"
+              ],
+              "explanationJa": "未完了→estar por。「部屋はまだ掃除していない」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「まだ決めていない」",
+              "answer": "Está por decidir.",
+              "explanationJa": "未完了→estar por+不定詞。decidir=決める。"
+            }
+          ]
+        },
+        {
+          "id": "con-045",
+          "pattern": "proponerse + infinitivo",
+          "meaningJa": "〜しようと決意する",
+          "level": "b2",
+          "explanation": "強い決意・目標を表す再帰動詞。新年の抱負や個人的な目標を語る時に多用。proponer（提案する）の再帰形で「自分自身に提案する」→「決意する」。",
+          "examples": [
+            {
+              "es": "Me propuse aprender un idioma nuevo.",
+              "ja": "新しい言語を学ぶと決意した。"
+            },
+            {
+              "es": "Se ha propuesto correr un maratón.",
+              "ja": "マラソンを走ると決意した。"
+            },
+            {
+              "es": "Nos proponemos mejorar la calidad.",
+              "ja": "品質改善を目指す。"
+            }
+          ],
+          "commonMistakeJa": "proponerseの点過去は不規則：me propuse, te propusiste, se propuso...。proponer系の活用はponer型なので注意。",
+          "relatedPatterns": [
+            "pensar + infinitivo",
+            "decidir + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Este año me ___ adelgazar cinco kilos. (proponerse, pretérito)",
+              "answer": "propuse",
+              "options": [
+                "propone",
+                "propuso",
+                "proponí",
+                "propuse"
+              ],
+              "explanationJa": "yo+点過去→me propuse。poner型の不規則活用。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼女はもっと運動すると決意した」",
+              "answer": "Se propuso hacer más ejercicio.",
+              "explanationJa": "se propuso（三人称単数・点過去）。hacer ejercicio=運動する。"
+            }
+          ]
+        },
+        {
+          "id": "con-046",
+          "pattern": "poder + infinitivo",
+          "meaningJa": "〜できる、〜してもいい",
+          "level": "a1",
+          "explanation": "能力・可能性・許可を表す最も基本的な助動詞。o→ue型不規則変化（puedo, puedes, puede...）。文脈により「能力」「可能性」「許可」の三つの意味を使い分ける。",
+          "examples": [
+            {
+              "es": "¿Puedo sentarme aquí?",
+              "ja": "ここに座ってもいいですか？"
+            },
+            {
+              "es": "No puedo dormir.",
+              "ja": "眠れない。"
+            },
+            {
+              "es": "Puede llover esta tarde.",
+              "ja": "今日の午後雨が降るかもしれない。"
+            }
+          ],
+          "commonMistakeJa": "poderの点過去（pude）は「できた（一度の成功）」、線過去（podía）は「できる状態だった」。Pude abrir la puerta=ドアを開けられた。Podía abrir la puerta=開けられる状態だった。",
+          "relatedPatterns": [
+            "ser capaz de + infinitivo",
+            "lograr + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "¿___ ayudarme con esto? (poder, tú)",
+              "answer": "Puedes",
+              "options": [
+                "Puedes",
+                "Podéis",
+                "Podes",
+                "Puede"
+              ],
+              "explanationJa": "tú→puedes。「これ手伝ってくれる？」"
+            },
+            {
+              "type": "translation",
+              "prompt": "「昨日は来られなかった」",
+              "answer": "No pude venir ayer.",
+              "explanationJa": "一度の出来事→点過去pude。×podía（継続的能力）。"
+            }
+          ]
+        },
+        {
+          "id": "con-047",
+          "pattern": "ser capaz de + infinitivo",
+          "meaningJa": "〜する能力がある",
+          "level": "b1",
+          "explanation": "能力や度胸を強調する表現。poderより「能力がある」ことを明確に伝える。否定形は「能力不足」や「信じられない」を表す。人の能力を評価する文脈で使う。",
+          "examples": [
+            {
+              "es": "Es capaz de hablar cinco idiomas.",
+              "ja": "5カ国語を話す能力がある。"
+            },
+            {
+              "es": "No fui capaz de decírselo.",
+              "ja": "彼にそれを言えなかった。"
+            },
+            {
+              "es": "¿Serías capaz de mentirme?",
+              "ja": "私に嘘をつけるの？（信じられない）"
+            }
+          ],
+          "commonMistakeJa": "poder（一般的な可能）とser capaz de（能力・度胸の強調）の違い。「彼はスペイン語が話せる」→Puede hablar（一般）/ Es capaz de hablar（能力を強調）。",
+          "relatedPatterns": [
+            "poder + infinitivo",
+            "lograr + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "No ___ ___ de resolver el problema solo.",
+              "answer": "fui capaz",
+              "options": [
+                "fue capaz",
+                "era capaz",
+                "fui capaz",
+                "soy capaz"
+              ],
+              "explanationJa": "一度の出来事→点過去fui。「一人で解決できなかった」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「君はなんでもできる」",
+              "answer": "Eres capaz de hacer cualquier cosa.",
+              "explanationJa": "能力の強調→ser capaz de。cualquier cosa=なんでも。"
+            }
+          ]
+        },
+        {
+          "id": "con-048",
+          "pattern": "lograr + infinitivo",
+          "meaningJa": "〜することに成功する",
+          "level": "b1",
+          "explanation": "困難を乗り越えて何かを達成する表現。conseguirとほぼ同義だが、lograrの方がやや文語的。努力や試行の結果として使う。",
+          "examples": [
+            {
+              "es": "Logré aprobar el examen.",
+              "ja": "試験に受かることができた。"
+            },
+            {
+              "es": "No logro entender esta gramática.",
+              "ja": "この文法がどうしても理解できない。"
+            },
+            {
+              "es": "Lograron escapar a tiempo.",
+              "ja": "間に合って逃げることに成功した。"
+            }
+          ],
+          "commonMistakeJa": "lograr（達成する）とpoder（能力がある）の違い。lograrには「努力の末に」というニュアンスがある。No logro=頑張っているができない。No puedo=能力的にできない。",
+          "relatedPatterns": [
+            "conseguir + infinitivo",
+            "poder + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Después de muchos intentos, ___ encontrar la solución.",
+              "answer": "logré",
+              "options": [
+                "logré",
+                "logaba",
+                "pude",
+                "conseguía"
+              ],
+              "explanationJa": "多くの試みの後→努力の末の達成→logré（点過去）。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼らは合意に達することに成功した」",
+              "answer": "Lograron llegar a un acuerdo.",
+              "explanationJa": "三人称複数・点過去→lograron。llegar a un acuerdo=合意に達する。"
+            }
+          ]
+        },
+        {
+          "id": "con-049",
+          "pattern": "conseguir + infinitivo",
+          "meaningJa": "なんとか〜する",
+          "level": "b1",
+          "explanation": "努力の末に何かを達成する表現。lograrと同義だが、より口語的。「なんとかして〜する」のニュアンス。seguir型のe→i不規則変化（consigo, consigues...）。",
+          "examples": [
+            {
+              "es": "Conseguí un trabajo en Madrid.",
+              "ja": "マドリードで仕事を見つけた。"
+            },
+            {
+              "es": "No consigo dormir bien.",
+              "ja": "どうしてもよく眠れない。"
+            },
+            {
+              "es": "Conseguimos llegar a tiempo.",
+              "ja": "なんとか間に合った。"
+            }
+          ],
+          "commonMistakeJa": "conseguirの活用はe→i変化。consigo, consigues, consigue...。特にyo形のconsigoを忘れやすい。また前置詞は不要。×conseguir de → ○conseguir+不定詞。",
+          "relatedPatterns": [
+            "lograr + infinitivo",
+            "alcanzar a + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "¿___ hablar con el director? (conseguir, tú, pretérito)",
+              "answer": "Conseguiste",
+              "options": [
+                "Consiguió",
+                "Conseguiste",
+                "Consiguiste",
+                "Conseguí"
+              ],
+              "explanationJa": "tú+点過去→conseguiste。三人称ではconsiguió（e→i変化）。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼女はなんとかチケットを手に入れた」",
+              "answer": "Consiguió comprar las entradas.",
+              "explanationJa": "三人称単数・点過去→consiguió（e→i変化）。entradas=チケット。"
+            }
+          ]
+        },
+        {
+          "id": "con-050",
+          "pattern": "alcanzar a + infinitivo",
+          "meaningJa": "かろうじて〜できる",
+          "level": "b2",
+          "explanation": "「ぎりぎり〜できる」「やっと〜に手が届く」というニュアンス。物理的に届く意味と比喩的に達成する意味がある。中南米で特に多用される。否定形で「〜しきれない」。",
+          "examples": [
+            {
+              "es": "No alcanzo a ver desde aquí.",
+              "ja": "ここからは見えない。"
+            },
+            {
+              "es": "Alcancé a tomar el último tren.",
+              "ja": "ギリギリ最終電車に乗れた。"
+            },
+            {
+              "es": "No alcanzo a comprender su actitud.",
+              "ja": "彼の態度は理解しかねる。"
+            }
+          ],
+          "commonMistakeJa": "alcanzar a（かろうじて〜できる）とlograr/conseguir（努力して達成する）の違い。alcanzarは「ぎりぎり届く」のニュアンス。物理的距離の比喩から来ている。",
+          "relatedPatterns": [
+            "lograr + infinitivo",
+            "conseguir + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "No ___ a leer las letras pequeñas.",
+              "answer": "alcanzo",
+              "options": [
+                "logro",
+                "consigo",
+                "alcanzo",
+                "puedo"
+              ],
+              "explanationJa": "物理的に見えない→alcanzar a。「小さい文字が読めない」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「かろうじてバスに間に合った」",
+              "answer": "Alcancé a tomar el autobús.",
+              "explanationJa": "ぎりぎり→alcanzar a。tomar el autobús=バスに乗る。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-conjecture",
+      "nameJa": "推測・確率",
+      "nameEs": "Conjetura y probabilidad",
+      "constructions": [
+        {
+          "id": "con-051",
+          "pattern": "deber de + infinitivo",
+          "meaningJa": "〜に違いない",
+          "level": "b1",
+          "explanation": "推量を表す表現（cat-obligationのcon-004と同じ構文だが、推測カテゴリでも理解すべき重要構文）。確信度が高い推測に使う。deを入れることで義務のdeberと区別する。",
+          "examples": [
+            {
+              "es": "Debe de estar en casa.",
+              "ja": "家にいるに違いない。"
+            },
+            {
+              "es": "Deben de ser las diez.",
+              "ja": "10時に違いない。"
+            },
+            {
+              "es": "Debe de haber un error.",
+              "ja": "間違いがあるに違いない。"
+            }
+          ],
+          "commonMistakeJa": "推量の確信度：deber de（かなり確信）> seguramente（多分）> a lo mejor（ひょっとしたら）。deber deは80%以上の確信度で使う。",
+          "relatedPatterns": [
+            "puede que + subjuntivo",
+            "seguramente + indicativo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "No contesta el teléfono. ___ ___ estar dormido.",
+              "answer": "Debe de",
+              "options": [
+                "Quizás",
+                "Puede",
+                "A lo mejor",
+                "Debe de"
+              ],
+              "explanationJa": "高い確信→debe de。「電話に出ない。寝ているに違いない」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼女は疲れているに違いない」",
+              "answer": "Debe de estar cansada.",
+              "explanationJa": "高確信の推量→debe de。cansada（女性形）。"
+            }
+          ]
+        },
+        {
+          "id": "con-052",
+          "pattern": "puede que + subjuntivo",
+          "meaningJa": "〜かもしれない",
+          "level": "b1",
+          "explanation": "可能性を表す構文で接続法を伴う。確信度は50%前後。不変化のpuedeにqueを付けて使う。poderの三人称単数固定形で、主語に合わせた活用はしない。",
+          "examples": [
+            {
+              "es": "Puede que llueva mañana.",
+              "ja": "明日雨が降るかもしれない。"
+            },
+            {
+              "es": "Puede que tenga razón.",
+              "ja": "彼が正しいかもしれない。"
+            },
+            {
+              "es": "Puede que no venga.",
+              "ja": "来ないかもしれない。"
+            }
+          ],
+          "commonMistakeJa": "puede que+接続法であり、直説法は不可。×Puede que viene → ○Puede que venga。また、主語に合わせてpuedenとしない。常にpuede que固定。",
+          "relatedPatterns": [
+            "quizás + subjuntivo",
+            "tal vez + subjuntivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Puede que ___ buen tiempo el fin de semana. (hacer)",
+              "answer": "haga",
+              "options": [
+                "hacía",
+                "hará",
+                "hace",
+                "haga"
+              ],
+              "explanationJa": "puede que+接続法。hacer→haga（接続法現在）。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼は遅れるかもしれない」",
+              "answer": "Puede que llegue tarde.",
+              "explanationJa": "puede que+接続法。llegar→llegue。tarde=遅く。"
+            }
+          ]
+        },
+        {
+          "id": "con-053",
+          "pattern": "a lo mejor + indicativo",
+          "meaningJa": "ひょっとしたら〜かも",
+          "level": "b1",
+          "explanation": "口語的な推測表現で、直説法を使う点が特徴。quizásやtal vezが接続法を取るのに対し、a lo mejorは常に直説法。カジュアルな会話で非常に多用される。",
+          "examples": [
+            {
+              "es": "A lo mejor viene Juan.",
+              "ja": "ひょっとしたらフアンが来るかも。"
+            },
+            {
+              "es": "A lo mejor es verdad.",
+              "ja": "ひょっとしたら本当かもしれない。"
+            },
+            {
+              "es": "A lo mejor me equivoco.",
+              "ja": "ひょっとしたら私が間違っているかも。"
+            }
+          ],
+          "commonMistakeJa": "a lo mejor+直説法（口語的）とquizás/tal vez+接続法（文語的）の使い分け。友達との会話ではa lo mejor、フォーマルな場面ではquizásが自然。",
+          "relatedPatterns": [
+            "quizás + subjuntivo",
+            "puede que + subjuntivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "A lo mejor nos ___ el jefe un aumento. (dar)",
+              "answer": "da",
+              "options": [
+                "dé",
+                "dará",
+                "daría",
+                "da"
+              ],
+              "explanationJa": "a lo mejor+直説法。×接続法dé。現在形daが自然。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「ひょっとしたら彼女は知っているかも」",
+              "answer": "A lo mejor lo sabe.",
+              "explanationJa": "a lo mejor+直説法。sabe（直説法現在）。loは「それを」。"
+            }
+          ]
+        },
+        {
+          "id": "con-054",
+          "pattern": "quizás + subjuntivo/indicativo",
+          "meaningJa": "おそらく〜だろう",
+          "level": "b1",
+          "explanation": "推測を表す副詞。接続法なら不確実さを強調し、直説法なら確信度が高い。文頭に置くのが一般的。quizáとも書く（sなし）。書き言葉でも口語でも使える万能表現。",
+          "examples": [
+            {
+              "es": "Quizás tenga razón.",
+              "ja": "おそらく彼が正しいだろう。"
+            },
+            {
+              "es": "Quizás es mejor esperar.",
+              "ja": "待った方がいいかもしれない（かなり確信）。"
+            },
+            {
+              "es": "Quizás no lo sepa nadie.",
+              "ja": "おそらく誰も知らないだろう。"
+            }
+          ],
+          "commonMistakeJa": "接続法→不確実（50%程度）、直説法→ほぼ確信（80%程度）。quizás+接続法は「かもしれない」、quizás+直説法は「きっと」に近い。",
+          "relatedPatterns": [
+            "tal vez + subjuntivo",
+            "a lo mejor + indicativo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Quizás ___ la pena intentarlo. (merecer, subjuntivo)",
+              "answer": "merezca",
+              "options": [
+                "merecía",
+                "merecerá",
+                "merezca",
+                "merece"
+              ],
+              "explanationJa": "quizás+接続法。merecer→merezca（c→zcの変化）。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「おそらく彼は来ないだろう」",
+              "answer": "Quizás no venga.",
+              "explanationJa": "不確実→quizás+接続法。venir→venga。"
+            }
+          ]
+        },
+        {
+          "id": "con-055",
+          "pattern": "tal vez + subjuntivo/indicativo",
+          "meaningJa": "たぶん〜だろう",
+          "level": "b1",
+          "explanation": "quizásとほぼ同義の推測副詞。接続法と直説法の使い分けも同じ。中南米ではquizásよりtal vezが好まれる傾向がある。文語的にも口語的にも使える。",
+          "examples": [
+            {
+              "es": "Tal vez sea mejor así.",
+              "ja": "たぶんこの方がいいだろう。"
+            },
+            {
+              "es": "Tal vez cambie de opinión.",
+              "ja": "たぶん考えが変わるだろう。"
+            },
+            {
+              "es": "Tal vez es demasiado tarde.",
+              "ja": "たぶんもう遅い（確信）。"
+            }
+          ],
+          "commonMistakeJa": "tal vezとquizásの違いはほぼゼロ。強いて言えばtal vezの方がやや口語的で中南米寄り。どちらを使っても問題ない。",
+          "relatedPatterns": [
+            "quizás + subjuntivo",
+            "puede que + subjuntivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Tal vez ___ necesario hablar con ella. (ser, subjuntivo)",
+              "answer": "sea",
+              "options": [
+                "fue",
+                "es",
+                "será",
+                "sea"
+              ],
+              "explanationJa": "tal vez+接続法。ser→sea。「彼女と話す必要があるかもしれない」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「たぶん明日はもっといい日になるだろう」",
+              "answer": "Tal vez mañana sea un día mejor.",
+              "explanationJa": "tal vez+接続法sea。un día mejor=もっといい日。"
+            }
+          ]
+        },
+        {
+          "id": "con-056",
+          "pattern": "es probable que + subjuntivo",
+          "meaningJa": "〜する可能性が高い",
+          "level": "b1",
+          "explanation": "高い可能性を表す構文。「probable（ありそうな）」を使うため確信度は60-80%。常に接続法を伴う。ニュースや天気予報でも頻出する表現。",
+          "examples": [
+            {
+              "es": "Es probable que nieve mañana.",
+              "ja": "明日雪が降る可能性が高い。"
+            },
+            {
+              "es": "Es probable que el vuelo se retrase.",
+              "ja": "フライトが遅れる可能性が高い。"
+            },
+            {
+              "es": "Es poco probable que acepten.",
+              "ja": "彼らが受け入れる可能性は低い。"
+            }
+          ],
+          "commonMistakeJa": "es probable que（可能性高い）とes posible que（可能性ある）の確信度の違い。probable>posible。poco probableで「可能性が低い」。",
+          "relatedPatterns": [
+            "es posible que + subjuntivo",
+            "puede que + subjuntivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Es probable que ___ un terremoto pronto. (haber, subjuntivo)",
+              "answer": "haya",
+              "options": [
+                "habría",
+                "hay",
+                "habrá",
+                "haya"
+              ],
+              "explanationJa": "es probable que+接続法。haber→haya。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼が昇進する可能性が高い」",
+              "answer": "Es probable que lo asciendan.",
+              "explanationJa": "接続法三人称複数→asciendan。lo=彼を。"
+            }
+          ]
+        },
+        {
+          "id": "con-057",
+          "pattern": "es posible que + subjuntivo",
+          "meaningJa": "〜する可能性がある",
+          "level": "b1",
+          "explanation": "可能性を表す構文。es probable queより確信度は低い（40-60%）。「あり得る」というニュアンス。常に接続法を伴い、que以下は直説法にできない。",
+          "examples": [
+            {
+              "es": "Es posible que cambie de trabajo.",
+              "ja": "転職するかもしれない。"
+            },
+            {
+              "es": "Es posible que haya un malentendido.",
+              "ja": "誤解があるのかもしれない。"
+            },
+            {
+              "es": "¿Es posible que no lo sepa?",
+              "ja": "知らないなんてことがあり得る？"
+            }
+          ],
+          "commonMistakeJa": "es posible que+接続法は固定。直説法を使うとネイティブに違和感を与える。×Es posible que viene → ○Es posible que venga。",
+          "relatedPatterns": [
+            "es probable que + subjuntivo",
+            "puede que + subjuntivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Es posible que no ___ suficiente tiempo. (tener, nosotros)",
+              "answer": "tengamos",
+              "options": [
+                "tengamos",
+                "tuviéramos",
+                "tenemos",
+                "tendremos"
+              ],
+              "explanationJa": "es posible que+接続法現在。tener→tengamos。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「会議が中止になる可能性がある」",
+              "answer": "Es posible que cancelen la reunión.",
+              "explanationJa": "接続法三人称複数→cancelen。la reunión=会議。"
+            }
+          ]
+        },
+        {
+          "id": "con-058",
+          "pattern": "seguramente + indicativo/subjuntivo",
+          "meaningJa": "きっと〜だろう",
+          "level": "b1",
+          "explanation": "高い確信度の推測を表す副詞。直説法が一般的だが、接続法を使うと確信度がやや下がる。未来形との相性がよい。日常会話でもフォーマルな場面でも使える。",
+          "examples": [
+            {
+              "es": "Seguramente vendrá mañana.",
+              "ja": "きっと明日来るだろう。"
+            },
+            {
+              "es": "Seguramente está ocupado.",
+              "ja": "きっと忙しいのだろう。"
+            },
+            {
+              "es": "Seguramente ya lo sepa.",
+              "ja": "きっともう知っているだろう。"
+            }
+          ],
+          "commonMistakeJa": "seguramente（きっと〜だろう）とseguro que（絶対〜だ）を区別する。seguro queは100%確信。seguramenteは90%程度。",
+          "relatedPatterns": [
+            "probablemente + subjuntivo",
+            "seguro que + indicativo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Seguramente ___ en un atasco. (estar, él)",
+              "answer": "está",
+              "options": [
+                "estuviera",
+                "estará",
+                "esté",
+                "está"
+              ],
+              "explanationJa": "高い確信→直説法。está（現在）またはestará（未来）どちらも可。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「きっと彼女は気に入るだろう」",
+              "answer": "Seguramente le gustará.",
+              "explanationJa": "高確信→seguramente+直説法未来。gustar→gustará。leは間接目的語。"
+            }
+          ]
+        },
+        {
+          "id": "con-059",
+          "pattern": "lo más seguro es que + subjuntivo",
+          "meaningJa": "十中八九〜だ",
+          "level": "b2",
+          "explanation": "非常に高い可能性を表す口語的表現。「最も確かなのは」という直訳。接続法を伴う。seguramenteより会話的で、友人との会話で多用される。",
+          "examples": [
+            {
+              "es": "Lo más seguro es que no venga.",
+              "ja": "十中八九来ないだろう。"
+            },
+            {
+              "es": "Lo más seguro es que llueva.",
+              "ja": "十中八九雨が降る。"
+            },
+            {
+              "es": "Lo más seguro es que ya lo sepa.",
+              "ja": "十中八九もう知っている。"
+            }
+          ],
+          "commonMistakeJa": "lo más seguroの後にes que+接続法が続く。esを忘れたり、直説法を使ったりしがち。固定パターンとして覚える。",
+          "relatedPatterns": [
+            "seguramente + indicativo",
+            "es probable que + subjuntivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Lo más seguro es que ___ los vuelos por la tormenta. (cancelar, ellos)",
+              "answer": "cancelen",
+              "options": [
+                "cancelaban",
+                "cancelen",
+                "cancelarán",
+                "cancelan"
+              ],
+              "explanationJa": "lo más seguro es que+接続法。cancelar→cancelen。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「十中八九彼は忘れた」",
+              "answer": "Lo más seguro es que se haya olvidado.",
+              "explanationJa": "接続法現在完了→se haya olvidado。「忘れてしまった」。"
+            }
+          ]
+        },
+        {
+          "id": "con-060",
+          "pattern": "lo mismo + indicativo",
+          "meaningJa": "ひょっとしたら〜かも（口語）",
+          "level": "b2",
+          "explanation": "スペインの口語で「ひょっとしたら」を表す表現。直説法を使う。くだけた会話でのみ使い、書き言葉やフォーマルな場面では不適切。a lo mejorと同義だがさらにカジュアル。",
+          "examples": [
+            {
+              "es": "Lo mismo te llamo mañana.",
+              "ja": "ひょっとしたら明日電話するかも。"
+            },
+            {
+              "es": "Lo mismo nos toca la lotería.",
+              "ja": "ひょっとしたら宝くじが当たるかも。"
+            },
+            {
+              "es": "Lo mismo se enfada.",
+              "ja": "ひょっとしたら怒るかもね。"
+            }
+          ],
+          "commonMistakeJa": "lo mismoは非常にカジュアル。スペインの口語限定で、中南米ではあまり使わない。フォーマルな場面では使わないこと。作文では避ける。",
+          "relatedPatterns": [
+            "a lo mejor + indicativo",
+            "igual + indicativo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Lo mismo ___ el partido por la lluvia. (suspender, ellos)",
+              "answer": "suspenden",
+              "options": [
+                "suspenden",
+                "suspenderán",
+                "suspendan",
+                "suspendieran"
+              ],
+              "explanationJa": "lo mismo+直説法。suspender→suspenden。「試合が中止になるかも」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「ひょっとしたら遅くなるかも」",
+              "answer": "Lo mismo llego tarde.",
+              "explanationJa": "口語→lo mismo+直説法。llego（一人称単数現在）。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-change",
+      "nameJa": "状態変化",
+      "nameEs": "Cambios de estado",
+      "constructions": [
+        {
+          "id": "con-061",
+          "pattern": "ponerse + adjetivo",
+          "meaningJa": "（一時的に）〜になる",
+          "level": "b1",
+          "explanation": "一時的・感情的な状態変化を表す。色、感情、体調など非永続的な変化に使う。英語のget+形容詞に近い。最もよく使う状態変化動詞。",
+          "examples": [
+            {
+              "es": "Se puso rojo de vergüenza.",
+              "ja": "恥ずかしくて赤くなった。"
+            },
+            {
+              "es": "No te pongas nervioso.",
+              "ja": "緊張しないで。"
+            },
+            {
+              "es": "Me puse enfermo después de comer.",
+              "ja": "食べた後に具合が悪くなった。"
+            }
+          ],
+          "commonMistakeJa": "ponerse（一時的変化）とvolverse（永続的変化）の区別が重要。Se puso triste=悲しくなった（一時的）。Se volvió triste=悲しい人になった（性格が変わった）。",
+          "relatedPatterns": [
+            "volverse + adjetivo",
+            "quedarse + adjetivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Cuando le dije la verdad, ___ ___ muy contenta.",
+              "answer": "se puso",
+              "options": [
+                "se volvió",
+                "se quedó",
+                "se puso",
+                "se hizo"
+              ],
+              "explanationJa": "一時的な感情変化→ponerse。「真実を言ったら喜んだ」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼は怒った」",
+              "answer": "Se puso furioso.",
+              "explanationJa": "一時的な感情→ponerse。furioso=激怒した。"
+            }
+          ]
+        },
+        {
+          "id": "con-062",
+          "pattern": "volverse + adjetivo",
+          "meaningJa": "（永続的に）〜になる",
+          "level": "b1",
+          "explanation": "永続的で非意図的な性格・性質の変化を表す。本人の意志ではなく自然に変わるニュアンス。多くの場合ネガティブな変化に使われる。",
+          "examples": [
+            {
+              "es": "Se volvió muy egoísta.",
+              "ja": "とても自分勝手になった。"
+            },
+            {
+              "es": "Con los años se volvió más paciente.",
+              "ja": "年と共に辛抱強くなった。"
+            },
+            {
+              "es": "Se ha vuelto insoportable.",
+              "ja": "我慢できない人になった。"
+            }
+          ],
+          "commonMistakeJa": "volverseは主に性格や性質の永続的変化。職業やステータスの変化にはhacerseを使う。×Se volvió médico → ○Se hizo médico（医者になった）。",
+          "relatedPatterns": [
+            "ponerse + adjetivo",
+            "hacerse + adjetivo/nombre"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Después del accidente, ___ ___ más prudente.",
+              "answer": "se volvió",
+              "options": [
+                "se quedó",
+                "se hizo",
+                "se puso",
+                "se volvió"
+              ],
+              "explanationJa": "永続的な性格変化→volverse。「事故後、慎重になった」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼女は無口になった」",
+              "answer": "Se volvió callada.",
+              "explanationJa": "性格の変化→volverse。callada=無口な（女性形）。"
+            }
+          ]
+        },
+        {
+          "id": "con-063",
+          "pattern": "hacerse + adjetivo/nombre",
+          "meaningJa": "（努力・意志で）〜になる",
+          "level": "b1",
+          "explanation": "意志や努力による変化を表す。職業、宗教、思想など、本人が意識的に選んだ変化に使う。hacerse rico（金持ちになる）、hacerse famoso（有名になる）も頻出。",
+          "examples": [
+            {
+              "es": "Se hizo abogado.",
+              "ja": "弁護士になった。"
+            },
+            {
+              "es": "Se hicieron amigos rápidamente.",
+              "ja": "すぐに友達になった。"
+            },
+            {
+              "es": "Se está haciendo mayor.",
+              "ja": "年を取ってきている。"
+            }
+          ],
+          "commonMistakeJa": "hacerse（努力・意志の変化）とvolverse（自然な変化）の区別。Se hizo rico=努力して金持ちになった。Se volvió loco=おかしくなった（意志ではない）。",
+          "relatedPatterns": [
+            "volverse + adjetivo",
+            "convertirse en + nombre"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Mi hermana ___ ___ profesora de español.",
+              "answer": "se hizo",
+              "options": [
+                "se volvió",
+                "se hizo",
+                "se puso",
+                "se quedó"
+              ],
+              "explanationJa": "職業の変化→hacerse。「姉はスペイン語教師になった」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼らは有名になった」",
+              "answer": "Se hicieron famosos.",
+              "explanationJa": "努力の結果→hacerse。famosos（男性複数）。"
+            }
+          ]
+        },
+        {
+          "id": "con-064",
+          "pattern": "quedarse + adjetivo/participio",
+          "meaningJa": "〜の状態になる（結果として残る）",
+          "level": "b1",
+          "explanation": "変化の結果として残った状態を表す。「〜して（その結果）〜の状態になった」というニュアンス。多くの場合、喪失や驚きの結果を伝える。",
+          "examples": [
+            {
+              "es": "Se quedó sorprendido.",
+              "ja": "驚いた（驚いた状態になった）。"
+            },
+            {
+              "es": "Me quedé sin dinero.",
+              "ja": "お金がなくなった。"
+            },
+            {
+              "es": "Se quedó calvo muy joven.",
+              "ja": "若くして禿げた。"
+            }
+          ],
+          "commonMistakeJa": "quedarseは「失った結果」のニュアンスが多い。quedarse ciego（失明する）、quedarse viudo（やもめになる）、quedarse sin trabajo（失業する）。",
+          "relatedPatterns": [
+            "ponerse + adjetivo",
+            "volverse + adjetivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Cuando oyó la noticia, ___ ___ helada.",
+              "answer": "se quedó",
+              "options": [
+                "se volvió",
+                "se hizo",
+                "se quedó",
+                "se puso"
+              ],
+              "explanationJa": "驚きの結果→quedarse。helada=凍りついた（女性形）。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼は失業した」",
+              "answer": "Se quedó sin trabajo.",
+              "explanationJa": "喪失の結果→quedarse sin。sin trabajo=仕事なしで。"
+            }
+          ]
+        },
+        {
+          "id": "con-065",
+          "pattern": "convertirse en + nombre",
+          "meaningJa": "〜に変わる、〜になる",
+          "level": "b1",
+          "explanation": "大きな変容・転換を表す。名詞を伴い、本質的な変化を示す。hacerseより劇的で、完全な変化のニュアンス。比喩的にも使える。",
+          "examples": [
+            {
+              "es": "Se convirtió en un gran líder.",
+              "ja": "偉大なリーダーになった。"
+            },
+            {
+              "es": "La reunión se convirtió en una discusión.",
+              "ja": "会議が口論に変わった。"
+            },
+            {
+              "es": "Se ha convertido en un problema serio.",
+              "ja": "深刻な問題になっている。"
+            }
+          ],
+          "commonMistakeJa": "convertirse en+名詞（大きな変容）とhacerse+名詞（努力による変化）の違い。convertirseは変容の規模が大きい。「水が氷になった」→Se convirtió en hielo。",
+          "relatedPatterns": [
+            "hacerse + nombre",
+            "llegar a ser + nombre"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Esta ciudad ___ ___ ___ un destino turístico popular.",
+              "answer": "se convirtió en",
+              "options": [
+                "se volvió en",
+                "se puso en",
+                "se hizo",
+                "se convirtió en"
+              ],
+              "explanationJa": "大きな変容→convertirse en。前置詞enが必須。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「夢が現実になった」",
+              "answer": "El sueño se convirtió en realidad.",
+              "explanationJa": "本質的変化→convertirse en。realidad=現実。"
+            }
+          ]
+        },
+        {
+          "id": "con-066",
+          "pattern": "llegar a ser + nombre/adjetivo",
+          "meaningJa": "（最終的に）〜になる",
+          "level": "b2",
+          "explanation": "長い過程の末に到達する変化を表す。「最終的に〜になった」という達成のニュアンス。成功物語や経歴を語る時に多用。到達点を強調する表現。",
+          "examples": [
+            {
+              "es": "Llegó a ser presidente de la empresa.",
+              "ja": "最終的に会社の社長になった。"
+            },
+            {
+              "es": "Llegó a ser muy famosa.",
+              "ja": "最終的にとても有名になった。"
+            },
+            {
+              "es": "Nunca llegará a ser un buen músico.",
+              "ja": "彼は一生いいミュージシャンにはなれない。"
+            }
+          ],
+          "commonMistakeJa": "llegar a ser（長い過程の末に）とhacerse（努力で）の違い。llegar a serの方が「長い道のりを経て」のニュアンスが強い。偉人伝記に頻出。",
+          "relatedPatterns": [
+            "hacerse + nombre",
+            "convertirse en + nombre"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Con mucho esfuerzo, ___ a ___ directora del departamento.",
+              "answer": "llegó a ser",
+              "options": [
+                "se hizo",
+                "llegó a ser",
+                "se convirtió en",
+                "se volvió"
+              ],
+              "explanationJa": "長い努力の末→llegar a ser。「多大な努力で部長になった」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼はその分野の専門家になった」",
+              "answer": "Llegó a ser un experto en ese campo.",
+              "explanationJa": "到達→llegar a ser。experto en=〜の専門家。"
+            }
+          ]
+        },
+        {
+          "id": "con-067",
+          "pattern": "pasar a ser + nombre/adjetivo",
+          "meaningJa": "〜になる（移行・昇格）",
+          "level": "b2",
+          "explanation": "あるカテゴリから別のカテゴリへの移行を表す。組織内の昇格、制度の変更、ステータスの移行に使う。ビジネスやニュースで多用される。",
+          "examples": [
+            {
+              "es": "Pasó a ser el jefe del equipo.",
+              "ja": "チームの責任者になった。"
+            },
+            {
+              "es": "La calle pasó a ser peatonal.",
+              "ja": "その通りは歩行者専用になった。"
+            },
+            {
+              "es": "El tema pasó a ser prioritario.",
+              "ja": "そのテーマが優先事項になった。"
+            }
+          ],
+          "commonMistakeJa": "pasar a ser（制度的・組織的な移行）とhacerse（個人的な努力の変化）の違い。Pasó a ser director=（制度的に）取締役になった。Se hizo director=（努力で）取締役になった。",
+          "relatedPatterns": [
+            "llegar a ser + nombre",
+            "convertirse en + nombre"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "El producto ___ a ___ el más vendido del mercado.",
+              "answer": "pasó a ser",
+              "options": [
+                "llegó a ser",
+                "se hizo",
+                "pasó a ser",
+                "se convirtió"
+              ],
+              "explanationJa": "ステータスの移行→pasar a ser。「市場で最も売れる商品になった」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「その法律は義務になった」",
+              "answer": "La ley pasó a ser obligatoria.",
+              "explanationJa": "制度的変更→pasar a ser。obligatoria=義務の（女性形）。"
+            }
+          ]
+        },
+        {
+          "id": "con-068",
+          "pattern": "meterse a + nombre/infinitivo",
+          "meaningJa": "〜になる（突然・無謀に）",
+          "level": "b2",
+          "explanation": "無計画に、または突然ある職業や活動に飛び込む表現。やや否定的・皮肉なニュアンスを含むことが多い。「何の経験もないのに〜を始める」的な含意。",
+          "examples": [
+            {
+              "es": "Se metió a político sin experiencia.",
+              "ja": "経験もなく政治家になった。"
+            },
+            {
+              "es": "Se metió a cocinar y quemó todo.",
+              "ja": "料理を始めたら全部焦がした。"
+            },
+            {
+              "es": "¿Y ahora te metes a crítico?",
+              "ja": "今度は評論家にでもなるの？"
+            }
+          ],
+          "commonMistakeJa": "meterse a（無計画・唐突に始める）とhacerse（努力して〜になる）のニュアンスの違い。meterse aには「分不相応」「無謀」の含意がある。",
+          "relatedPatterns": [
+            "hacerse + nombre",
+            "dedicarse a + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Sin saber nada de negocios, ___ ___ a empresario.",
+              "answer": "se metió",
+              "options": [
+                "se volvió",
+                "se hizo",
+                "se convirtió",
+                "se metió"
+              ],
+              "explanationJa": "無謀に飛び込む→meterse a。「ビジネスの知識なしに起業家になった」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼は突然作家になった（皮肉）」",
+              "answer": "Se metió a escritor.",
+              "explanationJa": "皮肉→meterse a。escritor=作家。"
+            }
+          ]
+        },
+        {
+          "id": "con-069",
+          "pattern": "salir + participio",
+          "meaningJa": "〜した状態で終わる",
+          "level": "b2",
+          "explanation": "ある経験や出来事の結果として〜の状態で出てくる表現。salir+過去分詞で「〜した状態になる」。試験、面接、事故などの結果を語る時に便利。",
+          "examples": [
+            {
+              "es": "Salió herido del accidente.",
+              "ja": "事故で負傷した。"
+            },
+            {
+              "es": "Salí elegido presidente.",
+              "ja": "会長に選ばれた。"
+            },
+            {
+              "es": "Salieron muy contentos de la reunión.",
+              "ja": "会議からとても満足して出てきた。"
+            }
+          ],
+          "commonMistakeJa": "salir+過去分詞は「（何かを経て）〜の状態で出てくる」。quedarseとは異なり、salirには「そこから出る」という動きが含まれる。",
+          "relatedPatterns": [
+            "quedarse + participio",
+            "resultar + adjetivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Los alumnos ___ ___ del examen.",
+              "answer": "salieron agotados",
+              "options": [
+                "salieron agotados",
+                "resultaron agotados",
+                "quedaron agotados",
+                "se pusieron agotados"
+              ],
+              "explanationJa": "試験から出てくる→salir+過去分詞。agotados=疲れ果てた。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼女はインタビューがうまくいった」",
+              "answer": "Salió muy bien parada de la entrevista.",
+              "explanationJa": "salir bien parado=うまく切り抜ける。parada（女性形）。"
+            }
+          ]
+        },
+        {
+          "id": "con-070",
+          "pattern": "resultar + adjetivo/participio",
+          "meaningJa": "結局〜になる、〜と判明する",
+          "level": "b2",
+          "explanation": "「結果として〜だった」「〜と判明した」を表す。期待や予想に対する結果を伝える時に多用。フォーマルにもカジュアルにも使える便利な動詞。",
+          "examples": [
+            {
+              "es": "La película resultó aburrida.",
+              "ja": "映画は退屈だと分かった。"
+            },
+            {
+              "es": "Resultó ser un fraude.",
+              "ja": "詐欺だと判明した。"
+            },
+            {
+              "es": "El viaje resultó más caro de lo esperado.",
+              "ja": "旅行は予想より高くついた。"
+            }
+          ],
+          "commonMistakeJa": "resultar ser（〜であると判明する）とresultar+形容詞（結局〜だった）の使い分け。serを入れると「正体が判明する」ニュアンスが加わる。",
+          "relatedPatterns": [
+            "salir + participio",
+            "acabar siendo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "El ejercicio ___ más difícil de lo que pensaba.",
+              "answer": "resultó",
+              "options": [
+                "resulta",
+                "resultó",
+                "resultaba",
+                "se resultó"
+              ],
+              "explanationJa": "結果→点過去resultó。再帰動詞ではない。×se resultó。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼の話は嘘だと判明した」",
+              "answer": "Su historia resultó ser mentira.",
+              "explanationJa": "正体判明→resultar ser。mentira=嘘。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-result",
+      "nameJa": "結果・条件",
+      "nameEs": "Resultado y condiciones",
+      "constructions": [
+        {
+          "id": "con-071",
+          "pattern": "acabar + gerundio",
+          "meaningJa": "結局〜することになる",
+          "level": "b1",
+          "explanation": "最終的にある結果に至ることを表す。意図しなかった結果や予想外の展開を語る時に多用。terminar+現在分詞とほぼ同義だが、acabarの方が口語的。",
+          "examples": [
+            {
+              "es": "Acabé comprando el más caro.",
+              "ja": "結局一番高いのを買ってしまった。"
+            },
+            {
+              "es": "Siempre acabamos discutiendo.",
+              "ja": "いつも結局喧嘩になる。"
+            },
+            {
+              "es": "Acabarás arrepintiéndote.",
+              "ja": "結局後悔することになるよ。"
+            }
+          ],
+          "commonMistakeJa": "acabar+現在分詞（結局〜する）とacabar de+不定詞（〜したばかり）を混同しないこと。deの有無で意味が完全に変わる。",
+          "relatedPatterns": [
+            "terminar por + infinitivo",
+            "acabar de + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Después de mucho pensar, ___ ___ la oferta. (acabar, aceptar, pretérito, yo)",
+              "answer": "acabé aceptando",
+              "options": [
+                "acabé de aceptar",
+                "acabé aceptando",
+                "acabo aceptando",
+                "acabé a aceptar"
+              ],
+              "explanationJa": "結局→acabar+現在分詞。deを入れると「〜したばかり」になるので注意。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「結局みんなで映画を見ることになった」",
+              "answer": "Acabamos viendo una película todos juntos.",
+              "explanationJa": "acabar+現在分詞。todos juntos=みんなで。"
+            }
+          ]
+        },
+        {
+          "id": "con-072",
+          "pattern": "terminar por + infinitivo",
+          "meaningJa": "最終的に〜する",
+          "level": "b2",
+          "explanation": "長い過程の末に最終的にある行動に至る表現。acabar+現在分詞と似ているが、terminar porはプロセスの長さを強調する。porの代わりに現在分詞も使える。",
+          "examples": [
+            {
+              "es": "Terminó por aceptar mi propuesta.",
+              "ja": "最終的に私の提案を受け入れた。"
+            },
+            {
+              "es": "Terminarás por entenderlo.",
+              "ja": "最終的に分かるようになるよ。"
+            },
+            {
+              "es": "Terminamos por mudarnos a otra ciudad.",
+              "ja": "最終的に別の街に引っ越した。"
+            }
+          ],
+          "commonMistakeJa": "terminar por+不定詞（最終的に〜する）とterminar de+不定詞（〜し終える）を混同しないこと。前置詞がporかdeかで意味が全く異なる。",
+          "relatedPatterns": [
+            "acabar + gerundio",
+            "llegar a + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Después de años de negociación, ___ ___ llegar a un acuerdo.",
+              "answer": "terminaron por",
+              "options": [
+                "acabaron de",
+                "terminaron por",
+                "dejaron de",
+                "terminaron de"
+              ],
+              "explanationJa": "長い過程の末→terminar por。porが重要。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼女は結局すべてを告白した」",
+              "answer": "Terminó por confesarlo todo.",
+              "explanationJa": "最終的に→terminar por。confesar=告白する。lo todo=すべてを。"
+            }
+          ]
+        },
+        {
+          "id": "con-073",
+          "pattern": "venir a ser + nombre/adjetivo",
+          "meaningJa": "つまり〜ということだ、結局〜だ",
+          "level": "b2",
+          "explanation": "「結局のところ〜だ」「つまり〜に相当する」という意味。近似や要約を表す。数量の概算にも使える。説明や議論で便利な表現。",
+          "examples": [
+            {
+              "es": "Viene a ser lo mismo.",
+              "ja": "結局同じことだ。"
+            },
+            {
+              "es": "Viene a ser unos 500 euros al mes.",
+              "ja": "月に約500ユーロになる。"
+            },
+            {
+              "es": "Lo que dices viene a ser una excusa.",
+              "ja": "君の言うことは要するに言い訳だ。"
+            }
+          ],
+          "commonMistakeJa": "venir a ser（結局〜だ）とllegar a ser（最終的に〜になる）の違い。venir a serは要約・近似、llegar a serは到達・達成。",
+          "relatedPatterns": [
+            "resultar + adjetivo",
+            "acabar siendo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Las dos propuestas ___ a ___ lo mismo.",
+              "answer": "vienen a ser",
+              "options": [
+                "llegan a ser",
+                "van a ser",
+                "resultan ser",
+                "vienen a ser"
+              ],
+              "explanationJa": "要約→venir a ser。「二つの提案は結局同じことだ」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「それは結局約1万円だ」",
+              "answer": "Viene a ser unos diez mil yenes.",
+              "explanationJa": "概算→venir a ser。unos=約。"
+            }
+          ]
+        },
+        {
+          "id": "con-074",
+          "pattern": "llegar a + infinitivo",
+          "meaningJa": "〜するに至る、〜までする",
+          "level": "b1",
+          "explanation": "ある行為に至ることを表す。程度の大きさを強調する用法と、到達・達成の用法がある。「〜までする」「〜に至る」のニュアンスで、驚きや強調に使う。",
+          "examples": [
+            {
+              "es": "Llegó a ganar un millón de euros.",
+              "ja": "100万ユーロも稼ぐに至った。"
+            },
+            {
+              "es": "No llego a entender tu punto de vista.",
+              "ja": "君の意見が理解できない。"
+            },
+            {
+              "es": "Si llegas a saber la verdad, dime.",
+              "ja": "もし真実を知ることがあれば教えて。"
+            }
+          ],
+          "commonMistakeJa": "llegar a+不定詞の条件用法に注意。「Si llegas a+不定詞」で「もし〜するようなことがあれば」。この用法はスペインで多用される。",
+          "relatedPatterns": [
+            "terminar por + infinitivo",
+            "alcanzar a + infinitivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Si ___ a ver a María, dale recuerdos.",
+              "answer": "llegas",
+              "options": [
+                "llegaste",
+                "llegas",
+                "llegaras",
+                "llegues"
+              ],
+              "explanationJa": "Si+直説法現在→llegas。条件用法。「もし会うことがあれば」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「彼は怒って泣くまでした」",
+              "answer": "Llegó a llorar de rabia.",
+              "explanationJa": "程度の強調→llegar a。de rabia=怒りで。"
+            }
+          ]
+        },
+        {
+          "id": "con-075",
+          "pattern": "dar como resultado + nombre",
+          "meaningJa": "結果として〜を生む",
+          "level": "b2",
+          "explanation": "「〜という結果をもたらす」というフォーマルな表現。学術論文、ビジネスレポート、ニュースで多用。主語は出来事や行為。能動的に結果を示す。",
+          "examples": [
+            {
+              "es": "La investigación dio como resultado un descubrimiento importante.",
+              "ja": "研究は重要な発見という結果をもたらした。"
+            },
+            {
+              "es": "Las negociaciones dieron como resultado un acuerdo.",
+              "ja": "交渉は合意という結果を生んだ。"
+            },
+            {
+              "es": "Esto puede dar como resultado un problema grave.",
+              "ja": "これは深刻な問題を引き起こしかねない。"
+            }
+          ],
+          "commonMistakeJa": "dar como resultadoは固定表現。語順を変えない。×dar resultado como → ○dar como resultado。主語は物・出来事で人は使いにくい。",
+          "relatedPatterns": [
+            "resultar en + nombre",
+            "tener como consecuencia"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "El experimento ___ como ___ un avance significativo.",
+              "answer": "dio como resultado",
+              "options": [
+                "hizo como resultado",
+                "dio como resultado",
+                "daba como resultado",
+                "tuvo como resultado"
+              ],
+              "explanationJa": "dar+como resultado。過去→dio。「実験は重要な進展をもたらした」。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「その政策は経済成長をもたらした」",
+              "answer": "La política dio como resultado un crecimiento económico.",
+              "explanationJa": "固定表現dar como resultado。crecimiento económico=経済成長。"
+            }
+          ]
+        },
+        {
+          "id": "con-076",
+          "pattern": "en caso de que + subjuntivo",
+          "meaningJa": "〜の場合は",
+          "level": "b2",
+          "explanation": "仮定の条件を表す接続詞句。「もし〜の場合は」。接続法を伴う。siよりフォーマルで、契約書や規則文書でよく使われる。話し言葉でも注意事項を伝える時に使う。",
+          "examples": [
+            {
+              "es": "En caso de que llueva, la fiesta será dentro.",
+              "ja": "雨の場合は、パーティーは室内で行います。"
+            },
+            {
+              "es": "En caso de que necesites ayuda, llámame.",
+              "ja": "助けが必要な場合は、電話してね。"
+            },
+            {
+              "es": "En caso de incendio, use las escaleras.",
+              "ja": "火事の場合は階段を使用してください。"
+            }
+          ],
+          "commonMistakeJa": "en caso de que+接続法は固定。直説法は不可。ただしque節なしで名詞を続ける場合は「en caso de+名詞」でOK。en caso de emergencia=緊急の場合。",
+          "relatedPatterns": [
+            "siempre y cuando + subjuntivo",
+            "a menos que + subjuntivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "En caso de que ___ algún problema, avísame. (haber, subjuntivo)",
+              "answer": "haya",
+              "options": [
+                "hubiera",
+                "haya",
+                "habrá",
+                "hay"
+              ],
+              "explanationJa": "en caso de que+接続法現在。haber→haya。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「遅れる場合は連絡してください」",
+              "answer": "En caso de que te retrases, avisa.",
+              "explanationJa": "接続法→retrases。avisar=知らせる。"
+            }
+          ]
+        },
+        {
+          "id": "con-077",
+          "pattern": "con tal de que + subjuntivo",
+          "meaningJa": "〜さえすれば",
+          "level": "b2",
+          "explanation": "「〜しさえすれば（何でもする）」という条件を表す。譲歩のニュアンスを含み、「そのためならば」という意味合い。接続法を伴う。同一主語なら「con tal de+不定詞」。",
+          "examples": [
+            {
+              "es": "Con tal de que me avises, no hay problema.",
+              "ja": "知らせてくれさえすれば問題ない。"
+            },
+            {
+              "es": "Haré lo que sea con tal de que seas feliz.",
+              "ja": "君が幸せでさえあれば何でもする。"
+            },
+            {
+              "es": "Con tal de no trabajar, dice cualquier cosa.",
+              "ja": "仕事しなくて済むなら何でも言う。"
+            }
+          ],
+          "commonMistakeJa": "同一主語の場合はcon tal de+不定詞でqueは不要。Con tal de aprobar, estudiaré mucho=受かりさえすれば頑張って勉強する。",
+          "relatedPatterns": [
+            "siempre y cuando + subjuntivo",
+            "a condición de que + subjuntivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Con tal de que ___ a tiempo, puedes salir. (volver, tú)",
+              "answer": "vuelvas",
+              "options": [
+                "vuelvas",
+                "vuelves",
+                "volvías",
+                "volverás"
+              ],
+              "explanationJa": "con tal de que+接続法。volver→vuelvas。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「静かにしてくれさえすれば、ここにいていい」",
+              "answer": "Con tal de que estés callado, puedes quedarte aquí.",
+              "explanationJa": "接続法→estés。callado=静かな。"
+            }
+          ]
+        },
+        {
+          "id": "con-078",
+          "pattern": "siempre y cuando + subjuntivo",
+          "meaningJa": "〜する限り、〜であれば",
+          "level": "b2",
+          "explanation": "条件を明確にする表現。「〜という条件が満たされる限り」。フォーマルな文脈で多用。siempre queと同義だが、siempre y cuandoの方がやや強調的。接続法を伴う。",
+          "examples": [
+            {
+              "es": "Puedes ir, siempre y cuando termines la tarea.",
+              "ja": "宿題を終わらせるなら行っていいよ。"
+            },
+            {
+              "es": "Acepto, siempre y cuando respeten las condiciones.",
+              "ja": "条件を守ってくれる限り受け入れます。"
+            },
+            {
+              "es": "Lo haré, siempre y cuando me paguen bien.",
+              "ja": "いい報酬をもらえるならやる。"
+            }
+          ],
+          "commonMistakeJa": "siempre y cuandoはyを忘れやすい。×siempre cuando → ○siempre y cuando。また、接続法を使うこと。直説法は不可。",
+          "relatedPatterns": [
+            "con tal de que + subjuntivo",
+            "a condición de que + subjuntivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Te presto el coche, siempre y cuando lo ___ con cuidado. (conducir, tú)",
+              "answer": "conduzcas",
+              "options": [
+                "conducirás",
+                "conduzcas",
+                "conducías",
+                "conduces"
+              ],
+              "explanationJa": "siempre y cuando+接続法。conducir→conduzcas（c→zcの変化）。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「時間通りに到着する限り問題ない」",
+              "answer": "No hay problema, siempre y cuando llegues a tiempo.",
+              "explanationJa": "接続法→llegues。a tiempo=時間通りに。"
+            }
+          ]
+        },
+        {
+          "id": "con-079",
+          "pattern": "a menos que + subjuntivo",
+          "meaningJa": "〜しない限り",
+          "level": "b2",
+          "explanation": "否定的条件を表す。「〜しない限り〜だ」。英語のunlessに相当。接続法を伴う。条件が満たされなければ結果が変わらないことを示す。",
+          "examples": [
+            {
+              "es": "Iremos al parque, a menos que llueva.",
+              "ja": "雨が降らない限り、公園に行く。"
+            },
+            {
+              "es": "No lo sabrás a menos que preguntes.",
+              "ja": "聞かない限り分からないよ。"
+            },
+            {
+              "es": "A menos que cambies de actitud, no te ayudaré.",
+              "ja": "態度を変えない限り、手伝わないよ。"
+            }
+          ],
+          "commonMistakeJa": "a menos que+接続法は固定。直説法は不可。また、「a menos que no」とnoを付けると二重否定になるので注意。a menos que自体に否定の意味がある。",
+          "relatedPatterns": [
+            "a no ser que + subjuntivo",
+            "salvo que + subjuntivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "No iré a la fiesta, a menos que tú ___ también. (ir)",
+              "answer": "vayas",
+              "options": [
+                "vas",
+                "fueras",
+                "irás",
+                "vayas"
+              ],
+              "explanationJa": "a menos que+接続法現在。ir→vayas。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「許可をもらわない限り出発できない」",
+              "answer": "No podemos salir a menos que nos den permiso.",
+              "explanationJa": "接続法→den。nos=私たちに。permiso=許可。"
+            }
+          ]
+        },
+        {
+          "id": "con-080",
+          "pattern": "a no ser que + subjuntivo",
+          "meaningJa": "〜でない限り",
+          "level": "b2",
+          "explanation": "a menos queの同義表現。「〜でなければ」「〜しない限り」。使い方は全く同じだが、a no ser queの方がやや口語的。スペインで特に多用される。",
+          "examples": [
+            {
+              "es": "Saldremos a las ocho, a no ser que haya tráfico.",
+              "ja": "渋滞がない限り、8時に出発する。"
+            },
+            {
+              "es": "A no ser que me equivoque, hoy es martes.",
+              "ja": "私が間違っていなければ、今日は火曜日だ。"
+            },
+            {
+              "es": "No creo que venga, a no ser que le insistas.",
+              "ja": "しつこく言わない限り彼は来ないと思う。"
+            }
+          ],
+          "commonMistakeJa": "a no ser que（〜でない限り）とa menos que（〜しない限り）は完全に同義。どちらを使っても問題ないが、a no ser queの方がスペインの口語で好まれる。",
+          "relatedPatterns": [
+            "a menos que + subjuntivo",
+            "salvo que + subjuntivo"
+          ],
+          "practiceItems": [
+            {
+              "type": "fill_blank",
+              "prompt": "Llegaremos a tiempo, a no ser que el avión ___ retraso. (tener)",
+              "answer": "tenga",
+              "options": [
+                "tendrá",
+                "tenga",
+                "tuviera",
+                "tiene"
+              ],
+              "explanationJa": "a no ser que+接続法現在。tener→tenga。"
+            },
+            {
+              "type": "translation",
+              "prompt": "「天気が悪くない限りピクニックに行こう」",
+              "answer": "Vamos de pícnic, a no ser que haga mal tiempo.",
+              "explanationJa": "a no ser que+接続法。hacer mal tiempo=天気が悪い→haga。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

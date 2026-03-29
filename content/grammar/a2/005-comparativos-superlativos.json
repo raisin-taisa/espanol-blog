@@ -1,0 +1,710 @@
+{
+  "id": "a2-005",
+  "slug": "comparativos-superlativos",
+  "titleJa": "比較級と最上級",
+  "titleEs": "Comparativos y superlativos",
+  "level": "a2",
+  "sortOrder": 5,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "スペイン語の比較表現：más, menos, tan",
+        "bodyJa": "日本語では「〜より大きい」「〜と同じくらい」のように比較しますが、スペイン語にも決まった形があります。\n\n【優等比較（〜より…だ）】\nmás + 形容詞/副詞 + que\n・Este restaurante es más caro que aquel.（このレストランはあれより高い）\n\n【劣等比較（〜ほど…ではない）】\nmenos + 形容詞/副詞 + que\n・El tren es menos rápido que el avión.（電車は飛行機ほど速くない）\n\n【同等比較（〜と同じくらい…だ）】\ntan + 形容詞/副詞 + como\n・Mi hermano es tan alto como mi padre.（兄は父と同じくらい背が高い）\n\n【数量の同等比較】\ntanto/a/os/as + 名詞 + como\n・Ella tiene tantos amigos como yo.（彼女は私と同じくらい友達がいる）\ntanto は後ろの名詞の性・数に合わせて変化します（tanto → tanta → tantos → tantas）。",
+        "bodyEs": "Las comparaciones en español se forman con: más...que (superioridad), menos...que (inferioridad), tan...como (igualdad con adjetivos) y tanto/a/os/as...como (igualdad con sustantivos)."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "不規則な比較級：mejor, peor, mayor, menor",
+        "bodyJa": "英語の good → better のように、スペイン語にも不規則な比較級があります。\n\n・bueno（良い）→ mejor（より良い）\n・malo（悪い）→ peor（より悪い）\n・grande（大きい）→ mayor（より大きい・年上の）\n・pequeño（小さい）→ menor（より小さい・年下の）\n\nこれらは más をつけません。\n・✕ más bueno que → ○ mejor que\n・✕ más malo que → ○ peor que\n\nただし例外があります。\nmayor と menor は年齢や重要度に使います。物理的な大きさには más grande / más pequeño を使うことが多いです。\n・Mi hermano mayor（兄）← 年齢の比較\n・Una casa más grande（もっと大きい家）← 物理的サイズ\n\nまた、味や人柄の意味で「más bueno」を使うネイティブもいます。\n・Es más bueno que el pan.（パンより優しい＝めちゃくちゃいい人だ）\nこれは慣用表現で、文法的な比較級ではありません。",
+        "bodyEs": "Las formas comparativas irregulares son: mejor (bueno), peor (malo), mayor (grande, para edad), menor (pequeño, para edad). Para tamaño físico se usa más grande / más pequeño."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "最上級：el/la más...de、el/la menos...de",
+        "bodyJa": "「一番〜だ」を表すには、定冠詞（el/la/los/las）+ más/menos + 形容詞 + de の形を使います。\n\n・Tokio es la ciudad más grande de Japón.（東京は日本で一番大きい都市です）\n・Este es el restaurante menos caro del barrio.（これは地区で一番安いレストランです）\n\n不規則形も同じように使います。\n・Es el mejor jugador del equipo.（チームで一番いい選手だ）\n・Es la peor película del año.（今年最悪の映画だ）\n\n注意：英語の in にあたる部分はスペイン語では de を使います。\n・「日本で一番」= la más...de Japón（✕ en Japón）\n・ただし、del = de + el の縮約形です。del mundo（世界で）、del equipo（チームで）",
+        "bodyEs": "El superlativo relativo se forma con: el/la/los/las + más/menos + adjetivo + de. Las formas irregulares: el mejor, el peor, el mayor, el menor. Se usa 'de' (no 'en') para indicar el grupo."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "絶対最上級：-ísimo/a で「超〜」を表す",
+        "bodyJa": "スペイン語には「ものすごく〜」を一語で表す便利な形があります。形容詞の語尾を -ísimo/a に変えるだけです。\n\n・rico（おいしい）→ riquísimo（めちゃくちゃおいしい）\n・bueno（良い）→ buenísimo（すごく良い）\n・malo（悪い）→ malísimo（ひどく悪い）\n・grande（大きい）→ grandísimo（ものすごく大きい）\n・caro（高い）→ carísimo（超高い）\n\nスペルの変化に注意してください。\n・-co で終わる → c が qu に変わる：rico → riquísimo\n・-go で終わる → g が gu に変わる：largo → larguísimo\n・-ble で終わる → -bilísimo に変わる：amable → amabilísimo\n\nこの形は会話でもSNSでもよく使われます。muy bueno よりも感情がこもった表現です。\n・¡Esta paella está riquísima!（このパエリアめっちゃうまい！）\n・Estoy cansadísimo.（もう死ぬほど疲れた）",
+        "bodyEs": "El superlativo absoluto se forma añadiendo -ísimo/a al adjetivo: rico → riquísimo, bueno → buenísimo. Hay cambios ortográficos: -co → -quísimo, -go → -guísimo, -ble → -bilísimo."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "「mejor que」と「más bueno que」の使い分け",
+        "bodyJa": "日本語話者がよく混乱するポイントです。\n\n原則：「より良い」と言いたいときは mejor que を使います。\n・Este vino es mejor que aquel.（このワインはあれより良い）\n・Mi nota es mejor que la tuya.（私の成績は君のより良い）\n\nでは más bueno は完全に間違いなのでしょうか？実は、特定の文脈では使われます。\n\n1. 人柄を表すとき：Él es más bueno que el pan.（彼はパンより良い人だ＝とても善良な人だ）\n2. 食べ物の味をカジュアルに言うとき（地域による）：Esto está más bueno que aquello.\n\nただし、試験や正式な場面では mejor を使うのが安全です。\n\n同様に peor que が正式で、más malo que はカジュアル・限定的な使い方です。",
+        "bodyEs": "La forma estándar es 'mejor que' (no 'más bueno que'). Sin embargo, 'más bueno' se usa coloquialmente para describir el carácter de una persona o, en algunas regiones, el sabor de comida."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Madrid es más grande que Barcelona.",
+            "ja": "マドリードはバルセロナより大きい。",
+            "noteJa": "más + 形容詞 + que の基本形。都市の物理的な大きさの比較です。"
+          },
+          {
+            "es": "El fútbol es menos popular que el béisbol en Japón.",
+            "ja": "日本ではサッカーは野球ほど人気がない。",
+            "noteJa": "menos + 形容詞 + que で「〜ほど…ではない」。日本の話題で使える実用的な文です。"
+          },
+          {
+            "es": "Mi español es tan malo como mi inglés.",
+            "ja": "私のスペイン語は英語と同じくらいひどい。",
+            "noteJa": "tan + 形容詞 + como で同等比較。自虐ネタにも使えます。"
+          },
+          {
+            "es": "Este hotel tiene tantas habitaciones como aquel.",
+            "ja": "このホテルはあのホテルと同じくらい部屋数がある。",
+            "noteJa": "tantas（女性複数）+ 名詞 + como。habitaciones が女性複数なので tantas になります。"
+          },
+          {
+            "es": "La comida mexicana es mejor que la comida rápida.",
+            "ja": "メキシコ料理はファストフードよりおいしい。",
+            "noteJa": "不規則比較級 mejor を使います。más buena ではなく mejor が自然です。"
+          },
+          {
+            "es": "Tokio es la ciudad más segura del mundo.",
+            "ja": "東京は世界で一番安全な都市だ。",
+            "noteJa": "最上級の形：la ciudad más segura + de。del mundo は de + el mundo の縮約形です。"
+          },
+          {
+            "es": "Mi hermana menor es más alta que yo.",
+            "ja": "年下の妹は私より背が高い。",
+            "noteJa": "menor は年齢の比較（年下の）、más alta は身長の比較。1文に2種類の比較が入っています。"
+          },
+          {
+            "es": "¡Este ramen está buenísimo!",
+            "ja": "このラーメンめっちゃうまい！",
+            "noteJa": "絶対最上級 -ísimo。感想を強く表現するときに便利です。estar + 形容詞で今の状態（味の感想）を表しています。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Este restaurante es más bueno que aquel.",
+            "correct": "Este restaurante es mejor que aquel.",
+            "whyJa": "「より良い」は mejor を使います。más bueno は人柄を表すとき以外は避けましょう。「このレストランはあれより良い」= mejor que。"
+          },
+          {
+            "wrong": "Es la ciudad más grande en Japón.",
+            "correct": "Es la ciudad más grande de Japón.",
+            "whyJa": "最上級で「〜の中で」を表すときは de を使います。英語の in につられて en を使ってしまうのは日本語話者もよくやるミスです。"
+          },
+          {
+            "wrong": "Ella tiene tanto amigos como yo.",
+            "correct": "Ella tiene tantos amigos como yo.",
+            "whyJa": "tanto は後ろの名詞の性・数に一致させます。amigos は男性複数なので tantos が正しいです。tanta（女性単数）、tantas（女性複数）もあります。"
+          },
+          {
+            "wrong": "Mi padre es más mayor que mi madre.",
+            "correct": "Mi padre es mayor que mi madre.",
+            "whyJa": "mayor はそれ自体が比較級なので、más をつける必要はありません。más mejor、más peor も同じ理由で間違いです。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "Este sitio es mejor que el de la última vez. La comida está riquísima.",
+            "ja": "ここ前のところより良いね。料理めちゃくちゃうまい。",
+            "source": "conversation",
+            "sourceLabel": "レストランでの友達同士の会話",
+            "context": "友達と新しいレストランに来て感想を言い合っている場面",
+            "noteJa": "mejor que で比較、riquísima で絶対最上級。食事の感想でよく使う組み合わせです。"
+          },
+          {
+            "es": "Messi es el mejor jugador de la historia. No hay discusión.",
+            "ja": "メッシは歴史上最高の選手だ。議論の余地はない。",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "el mejor + de la historia で「歴史の中で最高の」。サッカーの話題はスペイン語圏では鉄板です。"
+          },
+          {
+            "es": "¿Qué es más barato, ir en tren o en autobús?",
+            "ja": "電車とバス、どっちが安い？",
+            "source": "conversation",
+            "sourceLabel": "旅行中の会話",
+            "context": "スペインで移動手段を相談している場面",
+            "noteJa": "「どちらが〜か？」= ¿Qué es más + 形容詞? 旅行で必須の比較フレーズです。"
+          },
+          {
+            "es": "Hace tanto calor como ayer. No aguanto más.",
+            "ja": "昨日と同じくらい暑い。もう耐えられない。",
+            "source": "conversation",
+            "sourceLabel": "同僚との雑談",
+            "context": "夏の暑い日に職場で話している場面",
+            "noteJa": "tanto + 名詞 + como で「〜と同じくらいの量」。calor は男性名詞なので tanto のまま。no aguanto más は「もう我慢できない」の定番表現。"
+          },
+          {
+            "es": "Sevilla es la ciudad más bonita de España, sin duda 🇪🇸",
+            "ja": "セビリアはスペインで一番美しい街、間違いない🇪🇸",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "la ciudad más bonita de España で最上級。sin duda は「疑いなく」。スペイン人の地元愛が出る定番の表現です。"
+          },
+          {
+            "es": "El invierno en Hokkaido es peor que en Tokio. Hace muchísimo frío.",
+            "ja": "北海道の冬は東京よりきつい。めちゃくちゃ寒い。",
+            "source": "conversation",
+            "sourceLabel": "日本の天気について話す場面",
+            "context": "外国人の友達に日本の天気を説明している",
+            "noteJa": "peor que で「〜より悪い・きつい」。muchísimo は mucho の絶対最上級で「ものすごく」。天気の比較は会話でよく出るトピックです。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "Este libro es ___ interesante ___ aquel. (この本はあれより面白い)",
+            "options": [
+              "menos...como",
+              "más...que",
+              "tan...que",
+              "más...de"
+            ],
+            "answer": 1,
+            "explanationJa": "「〜より…だ」は más + 形容詞 + que の形です。「この本はあの本より面白い」。"
+          },
+          {
+            "prompt": "El tren es ___ rápido ___ el avión. (電車は飛行機ほど速くない)",
+            "options": [
+              "tanto...como",
+              "tan...como",
+              "menos...que",
+              "más...que"
+            ],
+            "answer": 2,
+            "explanationJa": "「〜ほど…ではない」は menos + 形容詞 + que です。「電車は飛行機ほど速くない」。"
+          },
+          {
+            "prompt": "Mi casa es ___ grande ___ la tuya. (私の家は君の家と同じくらい大きい)",
+            "options": [
+              "menos...que",
+              "tan...como",
+              "más...que",
+              "tanto...como"
+            ],
+            "answer": 1,
+            "explanationJa": "「〜と同じくらい…だ」は tan + 形容詞 + como です。形容詞の比較なので tan を使います。"
+          },
+          {
+            "prompt": "Ella habla español ___ bien ___ un nativo. (彼女はネイティブと同じくらい上手にスペイン語を話す)",
+            "options": [
+              "tanto...como",
+              "menos...que",
+              "tan...como",
+              "más...que"
+            ],
+            "answer": 2,
+            "explanationJa": "副詞 bien の同等比較なので tan...como を使います。「ネイティブと同じくらい上手に」。"
+          },
+          {
+            "prompt": "Este examen es ___ difícil ___ el anterior. (この試験は前のより難しい)",
+            "options": [
+              "mejor...que",
+              "menos...de",
+              "más...que",
+              "tan...como"
+            ],
+            "answer": 2,
+            "explanationJa": "「前の試験より難しい」なので más + difícil + que です。"
+          },
+          {
+            "prompt": "Tengo ___ libros ___ tú. (私は君と同じくらい本を持っている)",
+            "options": [
+              "tantas...como",
+              "tanto...como",
+              "tan...como",
+              "tantos...como"
+            ],
+            "answer": 3,
+            "explanationJa": "名詞 libros（男性複数）の数量を比較するので tantos...como です。tanto は名詞の性・数に合わせます。"
+          },
+          {
+            "prompt": "Japón tiene ___ habitantes ___ México. (日本はメキシコより人口が多い)",
+            "options": [
+              "menos...que",
+              "tan...como",
+              "tantos...como",
+              "más...que"
+            ],
+            "answer": 3,
+            "explanationJa": "「〜より多くの…がある」は más + 名詞 + que。habitantes の前に más を置きます。"
+          },
+          {
+            "prompt": "Esta película es ___ aburrida ___ la otra. (この映画はもう一つと同じくらいつまらない)",
+            "options": [
+              "menos...que",
+              "más...que",
+              "mejor...que",
+              "tan...como"
+            ],
+            "answer": 3,
+            "explanationJa": "「同じくらいつまらない」なので tan + aburrida + como です。"
+          },
+          {
+            "prompt": "El café de aquí es ___ caro ___ el de allí. (ここのコーヒーはあそこのほど高くない)",
+            "options": [
+              "más...que",
+              "mejor...que",
+              "menos...que",
+              "tan...como"
+            ],
+            "answer": 2,
+            "explanationJa": "「〜ほど高くない」は menos + caro + que です。"
+          },
+          {
+            "prompt": "Hay ___ gente ___ ayer en el parque. (公園に昨日と同じくらい人がいる)",
+            "options": [
+              "tanta...como",
+              "tan...como",
+              "tantas...como",
+              "tantos...como"
+            ],
+            "answer": 0,
+            "explanationJa": "gente は女性単数の不可算名詞なので tanta...como です。tanto は後ろの名詞の性・数に一致します。"
+          },
+          {
+            "prompt": "Este restaurante es ___ que aquel. (このレストランはあれより良い)",
+            "options": [
+              "más bueno",
+              "más mejor",
+              "buenísimo",
+              "mejor"
+            ],
+            "answer": 3,
+            "explanationJa": "「より良い」は不規則比較級 mejor を使います。más bueno は通常使いません。"
+          },
+          {
+            "prompt": "Esta situación es ___ que la anterior. (この状況は前のより悪い)",
+            "options": [
+              "más peor",
+              "malísima",
+              "peor",
+              "más mala"
+            ],
+            "answer": 2,
+            "explanationJa": "「より悪い」は不規則比較級 peor を使います。más mala は避けましょう。"
+          },
+          {
+            "prompt": "Mi hermano ___ tiene 25 años. (私の兄は25歳です)",
+            "options": [
+              "mayor",
+              "menor",
+              "más grande",
+              "mejor"
+            ],
+            "answer": 0,
+            "explanationJa": "年齢の「年上の」は mayor を使います。más grande は物理的な大きさに使います。"
+          },
+          {
+            "prompt": "Ella es ___ que yo. Tiene solo 18 años. (彼女は私より年下だ。まだ18歳)",
+            "options": [
+              "menos",
+              "más pequeña",
+              "menor",
+              "peor"
+            ],
+            "answer": 2,
+            "explanationJa": "年齢の「年下の」は menor を使います。más pequeña は体のサイズに使うことが多いです。"
+          },
+          {
+            "prompt": "Tokio es la ciudad ___ del mundo. (東京は世界で一番大きい都市だ)",
+            "options": [
+              "más grande",
+              "grandísima",
+              "más mayor",
+              "mayor"
+            ],
+            "answer": 0,
+            "explanationJa": "物理的な大きさの最上級は más grande を使います。mayor は年齢に使います。la ciudad más grande del mundo が正解。"
+          },
+          {
+            "prompt": "Es el ___ estudiante de la clase. (彼はクラスで一番良い生徒だ)",
+            "options": [
+              "mejor",
+              "más mejor",
+              "buenísimo",
+              "más bueno"
+            ],
+            "answer": 0,
+            "explanationJa": "最上級でも不規則形を使います。el mejor estudiante de la clase。más mejor は二重比較で間違いです。"
+          },
+          {
+            "prompt": "Este es el hotel ___ caro ___ la ciudad. (これは街で一番安いホテルだ)",
+            "options": [
+              "más...en",
+              "menos...de",
+              "tan...como",
+              "más...de"
+            ],
+            "answer": 1,
+            "explanationJa": "「一番安い」= menos caro。最上級で「〜の中で」は de を使います（en ではありません）。"
+          },
+          {
+            "prompt": "El invierno aquí es ___ que en Hokkaido. (ここの冬は北海道より厳しい)",
+            "options": [
+              "mayor",
+              "menor",
+              "mejor",
+              "peor"
+            ],
+            "answer": 3,
+            "explanationJa": "冬が「厳しい・悪い」の比較なので peor que を使います。"
+          },
+          {
+            "prompt": "「彼女はチームで一番年上だ」を正しく訳すと？",
+            "options": [
+              "Ella es la mayor del equipo.",
+              "Ella es la más vieja del equipo.",
+              "Ella es la mejor del equipo.",
+              "Ella es la más grande del equipo."
+            ],
+            "answer": 0,
+            "explanationJa": "年齢の「一番年上の」は la mayor を使います。más grande は体のサイズ、mejor は「一番良い」、más vieja は失礼な表現になります。"
+          },
+          {
+            "prompt": "No hay ___ opción que esta. (これ以上良い選択肢はない)",
+            "options": [
+              "buenísima",
+              "la mejor",
+              "mejor",
+              "más buena"
+            ],
+            "answer": 2,
+            "explanationJa": "「これより良い」= mejor que esta。No hay mejor opción は「これ以上良い選択肢はない」という定番表現です。"
+          },
+          {
+            "prompt": "¡Esta pizza está ___! (このピザめっちゃうまい！)",
+            "options": [
+              "la mejor",
+              "más buena",
+              "buena",
+              "buenísima"
+            ],
+            "answer": 3,
+            "explanationJa": "「めちゃくちゃおいしい」は絶対最上級 buenísima を使います。感情を込めた強調表現です。"
+          },
+          {
+            "prompt": "El verano en España es ___. (スペインの夏はものすごく暑い)",
+            "options": [
+              "muy caliente",
+              "calentísimo",
+              "calurosísimo",
+              "caluroso"
+            ],
+            "answer": 2,
+            "explanationJa": "天気の「暑い」は caluroso を使います（caliente は物の温度）。絶対最上級は calurosísimo。スペインの夏は本当にものすごく暑いです。"
+          },
+          {
+            "prompt": "Tiene una casa ___. Es enorme. (ものすごく大きい家を持っている)",
+            "options": [
+              "grandísima",
+              "más grande",
+              "muy más grande",
+              "la más grande"
+            ],
+            "answer": 0,
+            "explanationJa": "「ものすごく大きい」は絶対最上級 grandísima。muy más grande は文法的に間違いです。"
+          },
+          {
+            "prompt": "「東京の物価はパリと同じくらい高いが、ニューヨークほどではない」を正しく訳すと？",
+            "options": [
+              "Tokio es tan caro como París, pero menos caro que Nueva York.",
+              "Tokio es más caro como París, pero menos caro que Nueva York.",
+              "Tokio es tanto caro como París, pero menos caro que Nueva York.",
+              "Tokio es tan caro que París, pero más caro que Nueva York."
+            ],
+            "answer": 0,
+            "explanationJa": "同等比較は tan...como、劣等比較は menos...que。形容詞の比較なので tan（tanto ではない）を使います。"
+          },
+          {
+            "prompt": "「この映画は今年見た中で最悪だったが、前作よりはましだった」を正しく訳すと？",
+            "options": [
+              "Esta película es la peor del año, pero es más buena que la anterior.",
+              "Esta película es la peor del año, pero es mejor que la anterior.",
+              "Esta película es la más mala del año, pero es mejor que la anterior.",
+              "Esta película es la peor del año, pero es menos peor que la anterior."
+            ],
+            "answer": 1,
+            "explanationJa": "「最悪」= la peor、「前作より良い（まし）」= mejor que la anterior。不規則形を一貫して使います。menos peor は不自然です。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Este libro es ___ interesante ___ aquel. (〜より面白い)",
+            "answer": "más...que",
+            "options": [
+              "menos...como",
+              "más...de",
+              "más...que",
+              "tan...que"
+            ],
+            "explanationJa": "「〜より…だ」= más + 形容詞 + que。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Mi casa es ___ grande ___ la tuya. (同じくらい大きい)",
+            "answer": "tan...como",
+            "options": [
+              "tan...como",
+              "más...que",
+              "menos...que",
+              "tanto...como"
+            ],
+            "explanationJa": "「同じくらい…だ」= tan + 形容詞 + como。形容詞の比較にはtanを使います。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Este restaurante es ___ que aquel. (より良い)",
+            "answer": "mejor",
+            "options": [
+              "buenísimo",
+              "más mejor",
+              "mejor",
+              "más bueno"
+            ],
+            "explanationJa": "「より良い」= mejor（不規則比較級）。más buenoは通常使いません。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Esta situación es ___ que la anterior. (より悪い)",
+            "answer": "peor",
+            "options": [
+              "peor",
+              "más peor",
+              "más mala",
+              "malísima"
+            ],
+            "explanationJa": "「より悪い」= peor（不規則比較級）。más malaは避けましょう。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Ella tiene ___ amigos ___ yo. (同じくらい多くの友達)",
+            "answer": "tantos...como",
+            "options": [
+              "tanto...como",
+              "tantas...como",
+              "tan...como",
+              "tantos...como"
+            ],
+            "explanationJa": "名詞amigos（男性複数）の数量比較 → tantos...como。tantoは名詞に一致。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Tokio es la ciudad ___ grande ___ Japón. (一番大きい)",
+            "answer": "más...de",
+            "options": [
+              "tan...de",
+              "más...en",
+              "más...de",
+              "mejor...de"
+            ],
+            "explanationJa": "最上級は「la ciudad más grande de Japón」。「〜の中で」はdeを使います（enではない）。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Mi hermano ___ tiene 25 años. (年上の)",
+            "answer": "mayor",
+            "options": [
+              "mejor",
+              "más grande",
+              "menor",
+              "mayor"
+            ],
+            "explanationJa": "年齢の「年上の」= mayor。más grande は物理的な大きさに使います。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¡Esta pizza está ___! (めちゃくちゃおいしい)",
+            "answer": "buenísima",
+            "options": [
+              "buenísima",
+              "buena",
+              "la mejor",
+              "más buena"
+            ],
+            "explanationJa": "絶対最上級-ísimoで「超〜」。bueno → buenísimo/a。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "El fútbol es ___ popular ___ el béisbol en Japón. (〜ほど人気がない)",
+            "answer": "menos...que",
+            "options": [
+              "menos...que",
+              "tan...como",
+              "más...que",
+              "tanto...como"
+            ],
+            "explanationJa": "「〜ほど…ではない」= menos + 形容詞 + que。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Es el ___ jugador del equipo. (一番良い選手)",
+            "answer": "mejor",
+            "options": [
+              "más mejor",
+              "buenísimo",
+              "mejor",
+              "más bueno"
+            ],
+            "explanationJa": "最上級も不規則形mejorを使います。más mejorは二重比較で間違い。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Este restaurante es más bueno que aquel.",
+            "answer": "Este restaurante es mejor que aquel.",
+            "explanationJa": "「より良い」は不規則比較級mejor。más buenoは人柄を表す時以外は避けましょう。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Es la ciudad más grande en Japón.",
+            "answer": "Es la ciudad más grande de Japón.",
+            "explanationJa": "最上級で「〜の中で」はde。英語のinにつられてenを使うのはよくあるミス。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Ella tiene tanto amigos como yo.",
+            "answer": "Ella tiene tantos amigos como yo.",
+            "explanationJa": "tantoは名詞の性・数に一致。amigos＝男性複数 → tantos。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Mi padre es más mayor que mi madre.",
+            "answer": "Mi padre es mayor que mi madre.",
+            "explanationJa": "mayorはそれ自体が比較級。másをつける必要はありません。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Esta comida es más peor que ayer.",
+            "answer": "Esta comida es peor que ayer.",
+            "explanationJa": "peorも比較級なのでmásは不要。más peorは二重比較で間違い。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「ネイティブと同じくらい上手に」の正しい形は？",
+            "options": [
+              "más bien que un nativo",
+              "mejor como un nativo",
+              "tan bien como un nativo",
+              "tanto bien como un nativo"
+            ],
+            "answer": 2,
+            "explanationJa": "副詞bienの同等比較 = tan bien como。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "物理的な大きさの「より大きい」に使うのは？",
+            "options": [
+              "más mayor",
+              "más grande",
+              "mayor",
+              "mejor"
+            ],
+            "answer": 1,
+            "explanationJa": "物理的サイズ → más grande。mayor は年齢・重要度に使います。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "rico（おいしい）の絶対最上級は？",
+            "options": [
+              "más rico",
+              "riquísimo",
+              "ricísimo",
+              "ricoísimo"
+            ],
+            "answer": 1,
+            "explanationJa": "-coで終わる形容詞 → cがquに変わる。rico → riquísimo。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「彼女は私より年下だ」の正しい表現は？",
+            "options": [
+              "Ella es menor que yo.",
+              "Ella es peor que yo.",
+              "Ella es más pequeña que yo.",
+              "Ella es menos que yo."
+            ],
+            "answer": 0,
+            "explanationJa": "年齢の「年下の」= menor。más pequeñaは体のサイズに使うことが多い。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「公園に昨日と同じくらい人がいる」でgenteに合うtantoの形は？",
+            "options": [
+              "tantas",
+              "tanto",
+              "tantos",
+              "tanta"
+            ],
+            "answer": 3,
+            "explanationJa": "genteは女性単数の不可算名詞 → tanta。tantoは名詞の性・数に一致。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「マドリードはバルセロナより大きい」をスペイン語に訳しなさい。",
+            "answer": "Madrid es más grande que Barcelona.",
+            "acceptableAnswers": [
+              "Madrid es más grande que Barcelona."
+            ],
+            "explanationJa": "物理的サイズの比較 → más grande que。más + 形容詞 + queの基本形。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「このラーメンめちゃくちゃうまい！」をスペイン語に訳しなさい。",
+            "answer": "¡Este ramen está buenísimo!",
+            "acceptableAnswers": [
+              "¡Este ramen está buenísimo!",
+              "¡Este ramen está riquísimo!"
+            ],
+            "explanationJa": "絶対最上級-ísimo。食べた感想 → estar。「めちゃうまい」= buenísimo/riquísimo。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「これ以上良い選択肢はない」をスペイン語に訳しなさい。",
+            "answer": "No hay mejor opción.",
+            "acceptableAnswers": [
+              "No hay mejor opción.",
+              "No hay mejor opción que esta."
+            ],
+            "explanationJa": "「より良い」= mejor。No hay mejor + 名詞 = 定番表現。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文を同等比較にしなさい: Mi hermano es más alto que yo. → (同じくらい背が高い)",
+            "answer": "Mi hermano es tan alto como yo.",
+            "explanationJa": "más...que → tan...como に変えると同等比較になります。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文を最上級にしなさい: Este restaurante es bueno. → (街で一番良い)",
+            "answer": "Este restaurante es el mejor de la ciudad.",
+            "explanationJa": "bueno → 最上級 el mejor。「〜の中で」はdeを使います。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "優等比較は más...que、劣等比較は menos...que、同等比較は tan...como を使う",
+      "名詞の数量を比較するときは tanto/a/os/as...como（名詞の性・数に一致させる）",
+      "bueno → mejor、malo → peor、grande → mayor（年齢）、pequeño → menor（年齢）は不規則形",
+      "最上級は el/la más...de の形。「〜の中で」は de を使う（en ではない）",
+      "絶対最上級 -ísimo/a は「超〜」を表す強調表現。スペル変化（rico → riquísimo）に注意",
+      "物理的な大きさは más grande / más pequeño、年齢は mayor / menor と使い分ける"
+    ]
+  }
+}

@@ -1,0 +1,800 @@
+{
+  "id": "a2-001",
+  "slug": "verbos-irregulares-presente",
+  "titleJa": "不規則動詞の現在形",
+  "titleEs": "Verbos irregulares en presente",
+  "level": "a2",
+  "sortOrder": 1,
+  "hasRegionalVariants": true,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "不規則動詞には3つのパターンがある",
+        "bodyJa": "A1で学んだ規則動詞（-ar, -er, -ir）は語尾だけが変化しましたが、不規則動詞は語幹（語尾の前の部分）も変化したり、yo の形だけ特別だったりします。\n\n大きく分けて3つのパターンがあります。\n\n1. 語幹母音変化動詞：語幹の母音が変わる（e→ie, o→ue, e→i）\n2. yo 不規則動詞：yo の形だけが特殊で、他は規則的\n3. 完全不規則動詞：独自の活用をする（ir, ser, haber など）\n\n覚えるコツ：nosotros と vosotros だけは語幹が変化しません。変化するのは yo, tú, él/ella, ellos/ellas の4つです。これを「ブーツ型」と呼びます（活用表で囲むとブーツの形になるため）。",
+        "bodyEs": "Los verbos irregulares en presente se clasifican en tres grupos: verbos con cambio vocálico (e→ie, o→ue, e→i), verbos irregulares solo en yo, y verbos completamente irregulares."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "語幹母音変化：e→ie パターン",
+        "bodyJa": "語幹の e が ie に変わるパターンです。querer（欲しい・愛する）と tener（持つ）が代表的です。\n\n・querer → quiero, quieres, quiere, queremos, queréis, quieren\n・tener → tengo（※yo は特殊）, tienes, tiene, tenemos, tenéis, tienen\n\n他にも同じパターンの動詞：\n・venir（来る）→ vengo, vienes, viene, venimos, venís, vienen\n・preferir（好む）→ prefiero, prefieres, prefiere...\n・entender（理解する）→ entiendo, entiendes, entiende...\n\n注目：tener と venir は e→ie に加えて yo の形も不規則（tengo, vengo）。二重に不規則なので要注意！",
+        "bodyEs": "Verbos con cambio e→ie: querer (quiero), tener (tengo/tienes), venir (vengo/vienes), preferir (prefiero), entender (entiendo)."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "語幹母音変化：o→ue パターン",
+        "bodyJa": "語幹の o が ue に変わるパターンです。poder（できる）が代表的です。\n\n・poder → puedo, puedes, puede, podemos, podéis, pueden\n\n他にも同じパターンの動詞：\n・dormir（寝る）→ duermo, duermes, duerme...\n・volver（戻る）→ vuelvo, vuelves, vuelve...\n・encontrar（見つける）→ encuentro, encuentras, encuentra...\n\nこちらも nosotros と vosotros は変化しません（podemos, podéis）。ブーツ型のルール通りです。",
+        "bodyEs": "Verbos con cambio o→ue: poder (puedo), dormir (duermo), volver (vuelvo), encontrar (encuentro)."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "語幹母音変化：e→i パターン",
+        "bodyJa": "語幹の e が i に変わるパターンです。-ir 動詞にだけ見られます。decir（言う）が代表的です。\n\n・decir → digo（※yo は特殊）, dices, dice, decimos, decís, dicen\n\n他にも同じパターンの動詞：\n・pedir（頼む・注文する）→ pido, pides, pide...\n・seguir（続ける・ついて行く）→ sigo, sigues, sigue...\n・repetir（繰り返す）→ repito, repites, repite...\n\n注意：decir は yo の形が digo と完全に不規則。さらに tú 以下も dic- ではなく dice, dicen と変化します。",
+        "bodyEs": "Verbos con cambio e→i (solo verbos en -ir): decir (digo/dices), pedir (pido), seguir (sigo), repetir (repito)."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "yo だけ不規則な動詞（-go 動詞）",
+        "bodyJa": "yo の形だけが -go で終わり、それ以外は規則的（または語幹母音変化のみ）という動詞があります。\n\n・hacer（する・作る）→ hago, haces, hace, hacemos, hacéis, hacen\n・poner（置く）→ pongo, pones, pone, ponemos, ponéis, ponen\n・salir（出る）→ salgo, sales, sale, salimos, salís, salen\n・traer（持って来る）→ traigo, traes, trae, traemos, traéis, traen\n\nすでに出てきた tener（tengo）、venir（vengo）、decir（digo）もこのグループに含まれます。\n\nこれらを「-go 動詞」と呼びます。yo の形だけ覚えれば、残りは規則的か語幹母音変化のルール通りです。",
+        "bodyEs": "Verbos con irregularidad en yo (-go): hacer (hago), poner (pongo), salir (salgo), traer (traigo), tener (tengo), venir (vengo), decir (digo)."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "saber と conocer の使い分け",
+        "bodyJa": "どちらも「知っている」ですが、使い方が全く違います。\n\n・saber → 知識・情報・スキルを知っている\n  yo の形：sé（不規則）、それ以外は規則的（sabes, sabe, sabemos...）\n  例：Sé hablar español.（スペイン語を話せる）\n  例：¿Sabes dónde está la estación?（駅がどこか知ってる？）\n\n・conocer → 人・場所・物を（経験として）知っている\n  yo の形：conozco（-zco 型）、それ以外は規則的（conoces, conoce, conocemos...）\n  例：Conozco Tokio.（東京に行ったことがある＝東京を知っている）\n  例：¿Conoces a María?（マリアと面識がある？）\n\n日本語話者のポイント：日本語では両方「知っている」ですが、saber は「情報として知っている」、conocer は「体験として知っている」と区別しましょう。\n\nまた、conocer で人を目的語にするときは前置詞 a が必要です（¿Conoces a María?）。saber には不要です。",
+        "bodyEs": "Saber se usa para conocimientos e información (sé, sabes...). Conocer se usa para personas y lugares conocidos por experiencia (conozco, conoces...). Con personas, conocer requiere la preposición 'a'."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "完全不規則動詞：ir と dar",
+        "bodyJa": "ir（行く）は最も不規則な動詞の一つで、原形と活用形が全く違います。\n\n・ir → voy, vas, va, vamos, vais, van\n\n「ir a + 動詞の原形」で近い未来を表せます。\n  例：Voy a comer.（今から食べるところだ）\n  例：¿Vas a venir mañana?（明日来る？）\n\ndar（与える）も yo の形が特殊です。\n\n・dar → doy, das, da, damos, dais, dan\n\n-ar 動詞なのに一音節で活用する珍しい動詞です。",
+        "bodyEs": "Ir es completamente irregular: voy, vas, va, vamos, vais, van. 'Ir a + infinitivo' expresa futuro cercano. Dar también es irregular en yo: doy, das, da, damos, dais, dan."
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "ir（行く）",
+        "tense": "Presente de Indicativo",
+        "forms": {
+          "yo": "voy",
+          "tú": "vas",
+          "él/ella/usted": "va",
+          "nosotros/as": "vamos",
+          "vosotros/as": "vais",
+          "ellos/ellas/ustedes": "van"
+        },
+        "latamNote": "中南米では vosotros/as は使いません。ustedes + van を使います。アルゼンチンでは vos + vas（tú と同じ形）。",
+        "spainNote": null
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "tener（持つ・ある）",
+        "tense": "Presente de Indicativo",
+        "forms": {
+          "yo": "tengo",
+          "tú": "tienes",
+          "él/ella/usted": "tiene",
+          "nosotros/as": "tenemos",
+          "vosotros/as": "tenéis",
+          "ellos/ellas/ustedes": "tienen"
+        },
+        "latamNote": "中南米では vosotros/as は使いません。ustedes + tienen を使います。「tener que + 動詞の原形」で「〜しなければならない」。",
+        "spainNote": null
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "hacer（する・作る）",
+        "tense": "Presente de Indicativo",
+        "forms": {
+          "yo": "hago",
+          "tú": "haces",
+          "él/ella/usted": "hace",
+          "nosotros/as": "hacemos",
+          "vosotros/as": "hacéis",
+          "ellos/ellas/ustedes": "hacen"
+        },
+        "latamNote": "中南米では vosotros/as は使いません。ustedes + hacen を使います。",
+        "spainNote": null
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "poder（できる）",
+        "tense": "Presente de Indicativo",
+        "forms": {
+          "yo": "puedo",
+          "tú": "puedes",
+          "él/ella/usted": "puede",
+          "nosotros/as": "podemos",
+          "vosotros/as": "podéis",
+          "ellos/ellas/ustedes": "pueden"
+        },
+        "latamNote": "中南米では vosotros/as は使いません。ustedes + pueden を使います。",
+        "spainNote": null
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "querer（欲しい・愛する）",
+        "tense": "Presente de Indicativo",
+        "forms": {
+          "yo": "quiero",
+          "tú": "quieres",
+          "él/ella/usted": "quiere",
+          "nosotros/as": "queremos",
+          "vosotros/as": "queréis",
+          "ellos/ellas/ustedes": "quieren"
+        },
+        "latamNote": "中南米では vosotros/as は使いません。ustedes + quieren を使います。querer は「欲しい」だけでなく「愛する」の意味もあり、Te quiero.（愛してる）は日常的に使われます。",
+        "spainNote": null
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "¿Puedes ayudarme con esto?",
+            "ja": "これ手伝ってくれる？",
+            "noteJa": "poder + 動詞の原形で「〜できる・〜してくれる？」。puedes は tú の形です。"
+          },
+          {
+            "es": "Tengo que irme, es tarde.",
+            "ja": "もう行かなきゃ、遅いから。",
+            "noteJa": "tener que + 動詞の原形で「〜しなければならない」。日常会話で非常によく使います。"
+          },
+          {
+            "es": "¿Qué haces este fin de semana?",
+            "ja": "今週末なにする？",
+            "noteJa": "hacer は「する」。友達との会話で毎日のように使うフレーズです。"
+          },
+          {
+            "es": "Quiero ir a España el próximo año.",
+            "ja": "来年スペインに行きたい。",
+            "noteJa": "querer + 動詞の原形で「〜したい」。ir a で「〜へ行く」。"
+          },
+          {
+            "es": "No sé cómo se dice en español.",
+            "ja": "スペイン語でなんて言うかわからない。",
+            "noteJa": "saber は「知識として知っている」。se dice は「〜と言う」（受身的表現）。"
+          },
+          {
+            "es": "¿Conoces algún buen restaurante por aquí?",
+            "ja": "この辺でいいレストラン知ってる？",
+            "noteJa": "conocer は「経験として知っている」。場所やお店を知っているかどうかは conocer を使います。"
+          },
+          {
+            "es": "Vengo del trabajo. Estoy cansadísimo.",
+            "ja": "仕事から来たところ。めちゃくちゃ疲れた。",
+            "noteJa": "venir de で「〜から来る」。-ísimo は最上級の強調形です。"
+          },
+          {
+            "es": "Siempre digo lo que pienso.",
+            "ja": "いつも思ったことを言う。",
+            "noteJa": "decir は yo の形が digo。lo que pienso は「私が思うこと」（関係代名詞）。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Yo sabo la respuesta.",
+            "correct": "Yo sé la respuesta.",
+            "whyJa": "saber の yo の形は sé です。sabo という形は存在しません。これはスペイン語ネイティブの子供も間違える有名な誤りです。不規則なので丸暗記しましょう。"
+          },
+          {
+            "wrong": "¿Sabes a María?",
+            "correct": "¿Conoces a María?",
+            "whyJa": "人を「知っている」は conocer を使います。saber は情報やスキルに対して使います。「マリアと面識がある？」→ conocer。「マリアの電話番号を知ってる？」→ saber。"
+          },
+          {
+            "wrong": "Yo pono la mesa.",
+            "correct": "Yo pongo la mesa.",
+            "whyJa": "poner の yo の形は pongo です。-go 動詞（hacer→hago, salir→salgo, poner→pongo）は yo の形を丸暗記する必要があります。"
+          },
+          {
+            "wrong": "Nosotros podemos... Nosotros queremos... Nosotros tenemos...",
+            "correct": "Podemos... Queremos... Tenemos...",
+            "whyJa": "規則動詞のときと同じで、主語は省略するのが自然です。動詞の語尾で主語がわかるので、毎回 nosotros をつけると不自然に聞こえます。日本語と同じ感覚で省略しましょう。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "No puedo más, tengo que dormir 😴",
+            "ja": "もう無理、寝なきゃ😴",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "poder と tener que の組み合わせ。「no puedo más」は「もう限界」という意味の決まり文句です。"
+          },
+          {
+            "es": "¿Sabes qué? Me voy a vivir a Japón.",
+            "ja": "ねぇ聞いて。日本に住みに行くことにした。",
+            "source": "conversation",
+            "sourceLabel": "友達同士の会話",
+            "context": "大きなニュースを伝える場面",
+            "noteJa": "「¿Sabes qué?」は「ねぇ知ってる？聞いて」という切り出しの定番フレーズ。saber の tú 形 sabes を使っています。"
+          },
+          {
+            "es": "Hago ejercicio por la mañana y salgo a correr los domingos.",
+            "ja": "朝に運動して、日曜はランニングに出る。",
+            "source": "conversation",
+            "sourceLabel": "日常会話",
+            "context": "健康習慣について話す場面",
+            "noteJa": "hacer ejercicio（運動する）と salir a correr（走りに出る）。どちらも yo 不規則動詞ですが、ここでは主語省略で自然に使われています。"
+          },
+          {
+            "es": "¡Te digo que no es verdad, güey! No le hagas caso.",
+            "ja": "ほんとじゃないって言ってんだろ！気にすんな。",
+            "source": "conversation",
+            "sourceLabel": "メキシコの友達同士",
+            "context": "噂話を否定している場面",
+            "noteJa": "decir の yo 形 digo。güey はメキシコのカジュアルなスラング。「hacerle caso」は「気にする・言うことを聞く」。",
+            "region": "latam"
+          },
+          {
+            "es": "Vengo a por el paquete que me han dejado.",
+            "ja": "預かってもらった荷物を取りに来ました。",
+            "source": "conversation",
+            "sourceLabel": "コンビニ・受付での会話",
+            "context": "荷物を受け取りに行く場面",
+            "noteJa": "「venir a por」はスペインのスペイン語で「〜を取りに来る」。中南米では「venir por」と言います。",
+            "region": "spain"
+          },
+          {
+            "es": "¿Quieres que te traiga algo del súper? — Sí, trae leche por fa 🥛",
+            "ja": "スーパーからなんか持ってこようか？ — うん、牛乳持ってきて🥛",
+            "source": "sns",
+            "sourceLabel": "家族のチャット",
+            "noteJa": "querer と traer の実用的な組み合わせ。「por fa」は「por favor」の略で、チャットやカジュアルな会話で頻繁に使います。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "Yo ___ al gimnasio todos los días. (ir)",
+            "options": [
+              "vamos",
+              "vas",
+              "va",
+              "voy"
+            ],
+            "answer": 3,
+            "explanationJa": "ir の yo の形は voy です。ir は完全不規則動詞で、原形からは想像できない形になります。"
+          },
+          {
+            "prompt": "Ella ___ dos hermanos. (tener)",
+            "options": [
+              "tengo",
+              "tienen",
+              "tienes",
+              "tiene"
+            ],
+            "answer": 3,
+            "explanationJa": "tener の三人称単数は tiene です。語幹の e が ie に変化しています（e→ie パターン）。"
+          },
+          {
+            "prompt": "¿Qué ___ tú después de clase? (hacer)",
+            "options": [
+              "hacemos",
+              "haces",
+              "hace",
+              "hago"
+            ],
+            "answer": 1,
+            "explanationJa": "hacer の tú の形は haces です。yo だけ不規則（hago）で、他は規則的です。"
+          },
+          {
+            "prompt": "Nosotros no ___ ir a la fiesta. (poder)",
+            "options": [
+              "puede",
+              "pueden",
+              "podemos",
+              "puedo"
+            ],
+            "answer": 2,
+            "explanationJa": "poder の nosotros の形は podemos です。nosotros と vosotros では語幹母音変化が起きません。"
+          },
+          {
+            "prompt": "Yo ___ un café, por favor. (querer)",
+            "options": [
+              "quieres",
+              "quiere",
+              "queremos",
+              "quiero"
+            ],
+            "answer": 3,
+            "explanationJa": "querer の yo の形は quiero です。e→ie の語幹母音変化が起きています。カフェでの注文で使える基本フレーズ。"
+          },
+          {
+            "prompt": "¿Tú ___ dónde está el baño? (saber)",
+            "options": [
+              "saben",
+              "sé",
+              "sabes",
+              "conoces"
+            ],
+            "answer": 2,
+            "explanationJa": "場所の情報を「知っている」は saber を使います。tú の形は sabes。知識・情報 = saber です。"
+          },
+          {
+            "prompt": "Ellos ___ a las ocho de la mañana. (salir)",
+            "options": [
+              "salen",
+              "salgo",
+              "salimos",
+              "sales"
+            ],
+            "answer": 0,
+            "explanationJa": "salir の三人称複数は salen です。yo だけ不規則（salgo）で、他の形は -ir 動詞の規則通りです。"
+          },
+          {
+            "prompt": "Yo siempre ___ la verdad. (decir)",
+            "options": [
+              "digo",
+              "dice",
+              "dicen",
+              "dices"
+            ],
+            "answer": 0,
+            "explanationJa": "decir の yo の形は digo です。yo 以外は e→i の語幹母音変化（dices, dice, dicen）。nosotros は decimos（変化なし）。"
+          },
+          {
+            "prompt": "Mi madre ___ regalos a los vecinos. (dar)",
+            "options": [
+              "das",
+              "da",
+              "doy",
+              "dan"
+            ],
+            "answer": 1,
+            "explanationJa": "dar の三人称単数は da です。dar は -ar 動詞ですが一音節で活用する珍しい動詞。yo の形は doy。"
+          },
+          {
+            "prompt": "¿Cuándo ___ a visitarnos? (venir, tú)",
+            "options": [
+              "vienes",
+              "vengo",
+              "vienen",
+              "viene"
+            ],
+            "answer": 0,
+            "explanationJa": "venir の tú の形は vienes です。e→ie の語幹母音変化。「いつ会いに来るの？」という意味。"
+          },
+          {
+            "prompt": "Yo ___ la maleta encima de la cama. (poner)",
+            "options": [
+              "pones",
+              "pone",
+              "pongo",
+              "ponemos"
+            ],
+            "answer": 2,
+            "explanationJa": "poner の yo の形は pongo（-go 動詞）。「スーツケースをベッドの上に置く」。maleta はスーツケース、encima de は〜の上に。"
+          },
+          {
+            "prompt": "Ella no ___ resolver este problema. (poder)",
+            "options": [
+              "puedo",
+              "puede",
+              "podemos",
+              "pueden"
+            ],
+            "answer": 1,
+            "explanationJa": "poder の三人称単数は puede（o→ue 変化）。resolver は「解決する」。poder + 動詞の原形で「〜できる」。"
+          },
+          {
+            "prompt": "¿Me ___ un vaso de agua, por favor? (traer, tú)",
+            "options": [
+              "trae",
+              "traen",
+              "traes",
+              "traigo"
+            ],
+            "answer": 2,
+            "explanationJa": "traer の tú の形は traes。yo だけ不規則（traigo）で他は規則的。「水を一杯持ってきてくれる？」。"
+          },
+          {
+            "prompt": "Los estudiantes no ___ entregar el trabajo a tiempo. (poder)",
+            "options": [
+              "podemos",
+              "puedo",
+              "pueden",
+              "puede"
+            ],
+            "answer": 2,
+            "explanationJa": "poder の三人称複数は pueden（o→ue 変化）。entregar は「提出する」、a tiempo は「期限に間に合って」。"
+          },
+          {
+            "prompt": "Yo ___ temprano del trabajo los viernes. (salir)",
+            "options": [
+              "salen",
+              "salgo",
+              "sale",
+              "sales"
+            ],
+            "answer": 1,
+            "explanationJa": "salir の yo の形は salgo（-go 動詞）。「金曜日は仕事から早く出る」。temprano は「早く」。"
+          },
+          {
+            "prompt": "¿___ a la reunión mañana? (venir, ustedes)",
+            "options": [
+              "Viene",
+              "Venimos",
+              "Vienen",
+              "Vienes"
+            ],
+            "answer": 2,
+            "explanationJa": "venir の ustedes の形は vienen（e→ie 変化）。reunión は「会議」。ustedes は三人称複数と同じ活用。"
+          },
+          {
+            "prompt": "Yo le ___ a mi jefe que necesito vacaciones. (decir)",
+            "options": [
+              "digo",
+              "dicen",
+              "dice",
+              "dices"
+            ],
+            "answer": 0,
+            "explanationJa": "decir の yo の形は digo。「上司に休暇が必要だと言う」。le は間接目的語（上司に）。"
+          },
+          {
+            "prompt": "Ellos no ___ qué hacer con el presupuesto. (saber)",
+            "options": [
+              "conocen",
+              "sabemos",
+              "saben",
+              "sé"
+            ],
+            "answer": 2,
+            "explanationJa": "「何をすべきか知っている」は情報・知識なので saber。三人称複数は saben。presupuesto は「予算」。"
+          },
+          {
+            "prompt": "¿___ al nuevo director? (conocer, tú)",
+            "options": [
+              "Conoces",
+              "Sabes",
+              "Conocemos",
+              "Conozco"
+            ],
+            "answer": 0,
+            "explanationJa": "人を「知っている」（面識がある）は conocer。tú の形は conoces。「新しい部長を知ってる？」。人が目的語のとき前置詞 a が必要（Conoces al director）。"
+          },
+          {
+            "prompt": "Nosotros ___ la mesa antes de cenar. (poner)",
+            "options": [
+              "pongo",
+              "pone",
+              "ponemos",
+              "ponen"
+            ],
+            "answer": 2,
+            "explanationJa": "poner の nosotros の形は ponemos（規則的）。「夕食前にテーブルをセットする」。poner la mesa は「食卓を準備する」という慣用表現。"
+          },
+          {
+            "prompt": "「彼女はスペイン語が話せることを知っている」→ Yo ___ que ella ___ hablar español. (saber, saber)",
+            "options": [
+              "conozco / sabe",
+              "sé / sabe",
+              "sé / conoce",
+              "conozco / conoce"
+            ],
+            "answer": 1,
+            "explanationJa": "どちらも情報・スキルに関する「知っている」なので saber。yo の形は sé（不規則）、ella の形は sabe（規則的）。saber + 動詞の原形で「〜できる」。"
+          },
+          {
+            "prompt": "次の文で正しいのはどれ？「私はこの街を知っている（行ったことがある）」",
+            "options": [
+              "Sé esta ciudad.",
+              "Conoco esta ciudad.",
+              "Sabes esta ciudad.",
+              "Conozco esta ciudad."
+            ],
+            "answer": 3,
+            "explanationJa": "場所を「体験として知っている」は conocer。yo の形は conozco（-zco 型）。saber は情報として知っている場合に使うので不適切。"
+          },
+          {
+            "prompt": "「彼らは毎朝コーヒーを持ってくる」→ Ellos ___ café todas las mañanas.",
+            "options": [
+              "traemos",
+              "traen",
+              "trae",
+              "traigo"
+            ],
+            "answer": 1,
+            "explanationJa": "traer の三人称複数は traen（規則的）。yo だけ不規則（traigo）なので、他の形は簡単です。"
+          },
+          {
+            "prompt": "次の文で間違っているのはどれ？",
+            "options": [
+              "Yo sabo cocinar.",
+              "Yo hago la cena.",
+              "Yo sé cocinar.",
+              "Yo pongo la mesa."
+            ],
+            "answer": 0,
+            "explanationJa": "saber の yo の形は sé です。sabo は存在しない形。saber + 動詞の原形で「〜できる（スキルとして）」。hago と pongo は正しい -go 動詞の形。"
+          },
+          {
+            "prompt": "「私はマリアを知っている（面識がある）が、彼女の電話番号は知らない」を正しく訳すと？",
+            "options": [
+              "Conozco a María, pero no conozco su número.",
+              "Sé a María, pero no conozco su número.",
+              "Conozco a María, pero no sé su número.",
+              "Sé María, pero no sé su número."
+            ],
+            "answer": 2,
+            "explanationJa": "人を知っている（面識）= conocer（+ 前置詞 a）。情報を知っている（電話番号）= saber。これが saber と conocer の最も重要な使い分けです。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Yo ___ al trabajo en metro. (ir)",
+            "answer": "voy",
+            "options": [
+              "voy",
+              "va",
+              "vas",
+              "vamos"
+            ],
+            "explanationJa": "irの yo形はvoy。完全不規則動詞です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Ella ___ tres hijos. (tener)",
+            "answer": "tiene",
+            "options": [
+              "tiene",
+              "tienes",
+              "tengo",
+              "tienen"
+            ],
+            "explanationJa": "tenerの三人称単数はtiene。e→ieの語幹母音変化です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Nosotros no ___ ir a la fiesta. (poder)",
+            "answer": "podemos",
+            "options": [
+              "puede",
+              "pueden",
+              "podemos",
+              "puedo"
+            ],
+            "explanationJa": "poderのnosotros形はpodemos。nosotrosでは語幹母音変化が起きません。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Yo ___ la cena todos los días. (hacer)",
+            "answer": "hago",
+            "options": [
+              "hacemos",
+              "hace",
+              "hago",
+              "haces"
+            ],
+            "explanationJa": "hacerのyo形はhago（-go動詞）。yoだけ不規則です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¿Tú ___ dónde está la estación? (saber)",
+            "answer": "sabes",
+            "options": [
+              "conoces",
+              "sabes",
+              "saben",
+              "sé"
+            ],
+            "explanationJa": "場所の情報を知っている → saber。tú形はsabes。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Yo ___ un café, por favor. (querer)",
+            "answer": "quiero",
+            "options": [
+              "quieres",
+              "quiere",
+              "queremos",
+              "quiero"
+            ],
+            "explanationJa": "quererのyo形はquiero。e→ieの語幹母音変化。カフェでの注文に便利。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Ellos ___ a las ocho. (salir)",
+            "answer": "salen",
+            "options": [
+              "salen",
+              "salimos",
+              "sales",
+              "salgo"
+            ],
+            "explanationJa": "salirの三人称複数はsalen。yo（salgo）だけ不規則で他は規則的。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Yo siempre ___ la verdad. (decir)",
+            "answer": "digo",
+            "options": [
+              "digo",
+              "dice",
+              "dicen",
+              "dices"
+            ],
+            "explanationJa": "decirのyo形はdigo（-go動詞 + e→i変化）。「いつも真実を言う」。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¿___ a María? Es mi compañera de clase. (conocer, tú)",
+            "answer": "Conoces",
+            "options": [
+              "Conoces",
+              "Sabes",
+              "Conocemos",
+              "Conozco"
+            ],
+            "explanationJa": "人を知っている（面識がある）→ conocer。tú形はconoces。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Yo ___ la maleta en el armario. (poner)",
+            "answer": "pongo",
+            "options": [
+              "ponemos",
+              "pongo",
+              "pone",
+              "pones"
+            ],
+            "explanationJa": "ponerのyo形はpongo（-go動詞）。「スーツケースをクローゼットに置く」。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Yo sabo la respuesta.",
+            "answer": "Yo sé la respuesta.",
+            "explanationJa": "saberのyo形はsé。saboは存在しない形です。不規則なので丸暗記しましょう。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "¿Sabes a María?",
+            "answer": "¿Conoces a María?",
+            "explanationJa": "人を「知っている」（面識）→ conocer。情報を知っている → saber。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Yo pono la mesa.",
+            "answer": "Yo pongo la mesa.",
+            "explanationJa": "ponerのyo形はpongo。-go動詞はyo形を丸暗記する必要があります。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Nosotros podemos... Nosotros queremos... Nosotros tenemos...",
+            "answer": "Podemos... Queremos... Tenemos...",
+            "explanationJa": "動詞の語尾でnosotrosとわかるので主語省略が自然です。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Yo haco la tarea.",
+            "answer": "Yo hago la tarea.",
+            "explanationJa": "hacerのyo形はhago（-go動詞）。hacoは存在しない形です。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「私はこの街を知っている（行ったことがある）」の正しい形は？",
+            "options": [
+              "Conoco esta ciudad.",
+              "Conozco esta ciudad.",
+              "Sé esta ciudad.",
+              "Sabes esta ciudad."
+            ],
+            "answer": 1,
+            "explanationJa": "場所を体験として知っている → conocer。yo形はconozco（-zco型）。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「もう行かなきゃ、遅いから」の正しい形は？",
+            "options": [
+              "Tengo que irme, es tarde.",
+              "Tengo de irme, es tarde.",
+              "Tengo irme, es tarde.",
+              "Tiene que irme, es tarde."
+            ],
+            "answer": 0,
+            "explanationJa": "tener que + 動詞の原形 =「〜しなければならない」。tengo que irmeが正解。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次の文で間違っているのはどれ？",
+            "options": [
+              "Yo sabo cocinar.",
+              "Yo hago la cena.",
+              "Yo sé cocinar.",
+              "Yo pongo la mesa."
+            ],
+            "answer": 0,
+            "explanationJa": "saberのyo形はsé。saboは存在しない形です。他は全て正しい-go動詞の形。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「来年スペインに行きたい」の正しい形は？",
+            "options": [
+              "Quiere ir a España.",
+              "Quero ir a España.",
+              "Quiero voy a España.",
+              "Quiero ir a España."
+            ],
+            "answer": 3,
+            "explanationJa": "querer + 動詞の原形 =「〜したい」。quieroが正解（e→ie変化）。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「ir a + 動詞の原形」で何を表す？",
+            "options": [
+              "習慣",
+              "近い未来",
+              "命令",
+              "過去の動作"
+            ],
+            "answer": 1,
+            "explanationJa": "ir a + 動詞の原形 = 近い未来。Voy a comer.（今から食べるところだ）。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「これ手伝ってくれる？」をスペイン語に訳しなさい。",
+            "answer": "¿Puedes ayudarme con esto?",
+            "acceptableAnswers": [
+              "¿Puedes ayudarme con esto?",
+              "¿Puedes ayudarme?",
+              "¿Me puedes ayudar con esto?"
+            ],
+            "explanationJa": "poder + 動詞の原形 =「〜できる・〜してくれる？」。puedes = tú形。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「今週末なにする？」をスペイン語に訳しなさい。",
+            "answer": "¿Qué haces este fin de semana?",
+            "acceptableAnswers": [
+              "¿Qué haces este fin de semana?",
+              "¿Qué vas a hacer este fin de semana?"
+            ],
+            "explanationJa": "hacer = する。tú形はhaces。友達との会話で頻出フレーズ。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「スペイン語でなんて言うかわからない」をスペイン語に訳しなさい。",
+            "answer": "No sé cómo se dice en español.",
+            "acceptableAnswers": [
+              "No sé cómo se dice en español."
+            ],
+            "explanationJa": "saberのyo形はsé。se dice =「〜と言う」。学習者に必須のフレーズ。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文をyo形にしなさい: Él hace la cena.",
+            "answer": "Yo hago la cena.",
+            "explanationJa": "hacerのyo形はhago（-go動詞）。hace → hago。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文を否定文にしなさい: Puedo ir a la fiesta.",
+            "answer": "No puedo ir a la fiesta.",
+            "explanationJa": "否定文は動詞の前にnoを置きます。「パーティーに行けない」。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "語幹母音変化には3パターンある：e→ie（querer, tener）、o→ue（poder）、e→i（decir, pedir）",
+      "語幹母音変化は nosotros と vosotros では起きない（ブーツ型）",
+      "-go 動詞（hacer→hago, poner→pongo, salir→salgo, traer→traigo）は yo の形だけ暗記する",
+      "saber は知識・情報・スキル、conocer は人・場所の体験的な知識に使う",
+      "ir は完全不規則（voy, vas, va, vamos, vais, van）。ir a + 動詞の原形で近い未来を表せる",
+      "tener que + 動詞の原形で「〜しなければならない」、poder + 動詞の原形で「〜できる」"
+    ]
+  }
+}

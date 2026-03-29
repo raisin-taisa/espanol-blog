@@ -1,0 +1,720 @@
+{
+  "id": "a2-004",
+  "slug": "gustar-verbos-similares",
+  "titleJa": "gustar型動詞（好き・嫌い・痛いの表現）",
+  "titleEs": "Verbos tipo gustar",
+  "level": "a2",
+  "sortOrder": 4,
+  "hasRegionalVariants": true,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "なぜ gustar は日本語話者にとって難しいのか？",
+        "bodyJa": "日本語で「コーヒーが好きです」と言いたいとき、スペイン語では「Me gusta el café.」と言います。\n\nこれを直訳すると「コーヒーが私を喜ばせる」です。\n\n日本語の「私はコーヒーが好きだ」と比べてみましょう。\n・日本語：私は（主語）＋ コーヒーが ＋ 好きだ\n・スペイン語：El café（主語）＋ me gusta（私を喜ばせる）\n\nつまり、スペイン語では「コーヒー」が文の主語で、「私」は目的語なのです。\n\nこの「主語と目的語がひっくり返る」構造が、日本語話者にとって最大のハードルです。\n\n多くの学習者が \"Yo gusto café\" と言ってしまいますが、これは「私がコーヒーを喜ばせる」という意味不明な文になります。",
+        "bodyEs": "El verbo gustar tiene una estructura especial: el sujeto gramatical es la cosa que gusta, y la persona que siente va en forma de pronombre de objeto indirecto (me, te, le, etc.)."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "gustar の構文パターンを覚えよう",
+        "bodyJa": "gustar の基本構文はこうです。\n\n（A mí）me gusta + 単数名詞 / 動詞の原形\n（A mí）me gustan + 複数名詞\n\n間接目的語代名詞の一覧：\n・me（私に）\n・te（君に）\n・le（彼に／彼女に／あなたに）\n・nos（私たちに）\n・os（君たちに）※スペインのみ\n・les（彼らに／彼女たちに／あなたたちに）\n\n「A mí」「A ti」などの前置詞句は、強調や明確化のためにつけます。\n・A mí me gusta el café.（「私は」コーヒーが好きだ ← 他の人は知らないけど）\n・A ti te gusta el té, ¿verdad?（「君は」お茶が好きだよね？）\n・A él le gusta la música.（「彼は」音楽が好きだ）\n・A ella le gusta bailar.（「彼女は」踊るのが好きだ）\n・A usted le gusta viajar.（「あなたは」旅行が好きですか）\n・A nosotros nos gusta cocinar.（「私たちは」料理が好きだ）\n・A vosotros os gusta el fútbol.（「君たちは」サッカーが好きだ）※スペイン\n・A ellos les gustan los gatos.（「彼らは」猫が好きだ）\n\n重要ポイント：gustar の活用は主語（好きなもの）に合わせます。\n・Me gusta el café.（コーヒー＝単数 → gusta）\n・Me gustan los gatos.（猫たち＝複数 → gustan）\n・Me gusta leer.（読むこと＝動詞の原形 → gusta）",
+        "bodyEs": "La estructura de gustar: pronombre de objeto indirecto (me/te/le/nos/os/les) + gusta (singular) o gustan (plural) + sujeto. Se puede añadir 'a mí', 'a ti', etc. para énfasis."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "gustar と同じ構文の動詞たち",
+        "bodyJa": "スペイン語には gustar と同じ構文を使う動詞がたくさんあります。全部まとめて覚えてしまいましょう。\n\n・encantar（エンカンタール）＝ 大好き・たまらない\n　Me encanta esta canción.（この曲が大好き）\n\n・molestar（モレスタール）＝ うざい・イライラする\n　Me molesta el ruido.（騒音がうざい）\n\n・importar（インポルタール）＝ 重要である・気になる\n　No me importa.（どうでもいい ← 超頻出フレーズ！）\n\n・interesar（インテレサール）＝ 興味がある\n　Me interesa la historia de España.（スペインの歴史に興味がある）\n\n・doler（ドレール）＝ 痛い\n　Me duele la cabeza.（頭が痛い）\n　Me duelen los pies.（足が痛い ← 複数なので duelen）\n\n・faltar（ファルタール）＝ 足りない・欠けている\n　Me falta tiempo.（時間が足りない）\n\n・sobrar（ソブラール）＝ 余っている\n　Me sobra comida.（食べ物が余っている）\n\n・parecer（パレセール）＝ 〜に思える・〜のように見える\n　Me parece interesante.（面白そうに思える）\n　¿Qué te parece?（どう思う？ ← よく使う表現）\n\nすべて同じ構文です。「me/te/le + 三人称活用 + 主語」の形を体に染み込ませましょう。",
+        "bodyEs": "Otros verbos con la misma estructura que gustar: encantar, molestar, importar, interesar, doler, faltar, sobrar, parecer. Todos usan pronombre de objeto indirecto + verbo en tercera persona."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "スペインと中南米で違う表現：apetecer vs antojarse",
+        "bodyJa": "「〜したい気分」「〜が食べたい」を表す gustar型動詞は、地域によって違います。\n\n【スペイン】apetecer（アペテセール）\n・¿Te apetece un café?（コーヒーでもどう？）\n・No me apetece salir hoy.（今日は出かける気分じゃない）\n\n【中南米】antojarse（アントハールセ）\n・Se me antoja un helado.（アイスが食べたい気分）\n・Se me antojan unos tacos.（タコスが食べたいなぁ）\n\n中南米の antojarse は「se me antoja」の形で使います。se + 間接目的語 + antoja/antojan です。\n\nメキシコでは「Se me antoja...」は日常的にめちゃくちゃ使います。食べ物の話題では必須表現です。",
+        "bodyEs": "En España se usa 'apetecer' (¿Te apetece un café?) y en Latinoamérica se usa 'antojarse' (Se me antoja un helado) para expresar deseo o antojo."
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "gustar",
+        "tense": "Presente de Indicativo (構文特殊型)",
+        "forms": {
+          "a mí": "me gusta / me gustan",
+          "a ti": "te gusta / te gustan",
+          "a él/ella/usted": "le gusta / le gustan",
+          "a nosotros/as": "nos gusta / nos gustan",
+          "a vosotros/as": "os gusta / os gustan",
+          "a ellos/ellas/ustedes": "les gusta / les gustan"
+        },
+        "latamNote": "中南米では「a vosotros / os gusta」は使いません。複数の「君たち」には「a ustedes les gusta」を使います。",
+        "spainNote": "スペインでは「a vosotros os gusta / os gustan」を普通に使います。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Me gusta el chocolate.",
+            "ja": "チョコレートが好きです。",
+            "noteJa": "el chocolate が主語（単数）なので gusta。「私はチョコレートを好く」ではなく「チョコレートが私を喜ばせる」の構造。"
+          },
+          {
+            "es": "A mi hermana le encantan los perros.",
+            "ja": "姉は犬が大好きです。",
+            "noteJa": "los perros が主語（複数）なので encantan。「a mi hermana」で誰のことか明確にしています。"
+          },
+          {
+            "es": "¿Te interesa la política?",
+            "ja": "政治に興味ある？",
+            "noteJa": "la política が主語（単数）なので interesa。日本語では「政治に興味がある」だが、スペイン語では「政治が君の興味を引く」。"
+          },
+          {
+            "es": "Me duele mucho la espalda.",
+            "ja": "背中がすごく痛い。",
+            "noteJa": "la espalda（背中）が主語。痛みを表す doler も gustar型。病院で必須の表現です。"
+          },
+          {
+            "es": "No nos importa el precio.",
+            "ja": "値段は気にしない。",
+            "noteJa": "「No me importa（どうでもいい）」は日常会話で超頻出。nos にすると「私たちは気にしない」。"
+          },
+          {
+            "es": "A ustedes les falta experiencia.",
+            "ja": "あなたたちは経験が足りない。",
+            "noteJa": "faltar は「足りない・欠けている」。les は ustedes に対応する間接目的語。"
+          },
+          {
+            "es": "Me parece buena idea.",
+            "ja": "いい考えだと思う。",
+            "noteJa": "parecer は「〜に思える」。日常会話で「¿Qué te parece?（どう思う？）」の形で頻出。"
+          },
+          {
+            "es": "Me molestan los mosquitos en verano.",
+            "ja": "夏は蚊がうざい。",
+            "noteJa": "los mosquitos が主語（複数）なので molestan。夏のあるある話題。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Yo gusto el café.",
+            "correct": "Me gusta el café.",
+            "whyJa": "gustar は「私が好む」ではなく「〜が私を喜ばせる」の構文です。主語は el café、私は間接目的語（me）です。\"Yo gusto\" だと「私が（誰かを）喜ばせる」になってしまいます。"
+          },
+          {
+            "wrong": "Me gusta los gatos.",
+            "correct": "Me gustan los gatos.",
+            "whyJa": "gustar の活用は「好きなもの（=文法上の主語）」に合わせます。los gatos は複数形なので gustan です。gusta は単数のときだけ。"
+          },
+          {
+            "wrong": "A ella la gusta bailar.",
+            "correct": "A ella le gusta bailar.",
+            "whyJa": "gustar型動詞には間接目的語代名詞（le）を使います。la は直接目的語代名詞なので間違いです。le が正しい形です。"
+          },
+          {
+            "wrong": "Me duele los ojos.",
+            "correct": "Me duelen los ojos.",
+            "whyJa": "doler も gustar と同じ構文。los ojos（目）は複数形なので duelen です。「Me duele la cabeza（頭が痛い）」と混同しやすいですが、単数か複数かで活用が変わります。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "No me gusta nada levantarme temprano los lunes. 😩",
+            "ja": "月曜の朝早く起きるの本当に嫌い。😩",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "「no me gusta nada」で「全然好きじゃない」を強調。nada を加えると否定が強くなります。levantarme は動詞の原形なので gusta（単数形）。"
+          },
+          {
+            "es": "¿Te apetece ir al cine esta noche?",
+            "ja": "今夜映画行かない？",
+            "source": "conversation",
+            "sourceLabel": "友達への誘い",
+            "context": "スペインで友達を映画に誘う場面",
+            "noteJa": "apetecer はスペインで「〜したい気分」を表す。¿Te apetece + 動詞の原形? で「〜しない？」という誘い文句になります。",
+            "region": "spain"
+          },
+          {
+            "es": "Se me antoja un café con leche bien caliente. ☕",
+            "ja": "あったかいカフェラテが飲みたい気分。☕",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "context": "メキシコの寒い朝の投稿",
+            "noteJa": "「se me antoja」はメキシコで「〜が欲しい・食べたい」を表す日常表現。食べ物の話題で毎日のように聞きます。",
+            "region": "latam"
+          },
+          {
+            "es": "Doctor, me duele aquí. Y también me duelen las rodillas cuando camino.",
+            "ja": "先生、ここが痛いんです。あと歩くとき膝も痛いです。",
+            "source": "conversation",
+            "sourceLabel": "病院での診察",
+            "context": "患者が医師に症状を説明している場面",
+            "noteJa": "doler は病院で必須。「me duele + 単数の部位」「me duelen + 複数の部位」の使い分けに注目。rodillas（膝）は複数なので duelen。"
+          },
+          {
+            "es": "A mis padres les encanta viajar por Asia, pero a mí me da igual.",
+            "ja": "両親はアジア旅行が大好きだけど、僕はどっちでもいい。",
+            "source": "conversation",
+            "sourceLabel": "家族の話題",
+            "noteJa": "「a mis padres les encanta」と「a mí me da igual」の対比。「a + 人」で誰の話かを明確にしています。「me da igual」も gustar型の表現で「どうでもいい」の意味。"
+          },
+          {
+            "es": "¿Qué te parece si cenamos fuera hoy? — Me parece perfecto.",
+            "ja": "今日外食しない？ — いいね。",
+            "source": "conversation",
+            "sourceLabel": "カップルの会話",
+            "noteJa": "「¿Qué te parece si...?」は「〜するのはどう思う？」という提案表現。返事の「Me parece perfecto / bien / buena idea」はセットで覚えましょう。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "「私はコーヒーが好きです」の正しい形は？",
+            "options": [
+              "Yo me gusta café.",
+              "Mi gusta el café.",
+              "Me gusta el café.",
+              "Yo gusto café."
+            ],
+            "answer": 2,
+            "explanationJa": "gustar は「me + gusta + 好きなもの」の構文です。\"Yo gusto\" は間違い。el café が文法上の主語で、me は間接目的語です。"
+          },
+          {
+            "prompt": "Me ___ las películas de terror.",
+            "options": [
+              "gusto",
+              "gusta",
+              "gustas",
+              "gustan"
+            ],
+            "answer": 3,
+            "explanationJa": "las películas de terror（ホラー映画）は複数形なので gustan です。gustar の活用は「好きなもの」に合わせます。"
+          },
+          {
+            "prompt": "A mi madre le ___ cocinar.",
+            "options": [
+              "gustan",
+              "gusto",
+              "gusta",
+              "gustas"
+            ],
+            "answer": 2,
+            "explanationJa": "cocinar は動詞の原形なので、gusta（単数形）を使います。「母は料理するのが好きだ」。"
+          },
+          {
+            "prompt": "___ gusta mucho el fútbol. (私たちは)",
+            "options": [
+              "Me",
+              "Les",
+              "Nos",
+              "Te"
+            ],
+            "answer": 2,
+            "explanationJa": "「私たちは」の間接目的語代名詞は nos です。「私たちはサッカーが大好きだ」。"
+          },
+          {
+            "prompt": "¿A ti ___ gusta esta canción?",
+            "options": [
+              "me",
+              "te",
+              "le",
+              "nos"
+            ],
+            "answer": 1,
+            "explanationJa": "「A ti」に対応する間接目的語代名詞は te です。「君はこの曲好き？」。"
+          },
+          {
+            "prompt": "A ellos ___ gustan los deportes.",
+            "options": [
+              "te",
+              "le",
+              "me",
+              "les"
+            ],
+            "answer": 3,
+            "explanationJa": "「A ellos」（彼らは）に対応するのは les です。los deportes は複数なので gustan。"
+          },
+          {
+            "prompt": "「彼女はダンスが大好きだ」— A ella le ___ bailar.",
+            "options": [
+              "encanta",
+              "encantan",
+              "gustan",
+              "gusta"
+            ],
+            "answer": 0,
+            "explanationJa": "「大好き」は encantar を使います。bailar は動詞の原形なので encanta（単数形）。gustar だと「好き」で、encantar だと「大好き」。"
+          },
+          {
+            "prompt": "No me ___ nada este restaurante.",
+            "options": [
+              "gusta",
+              "gusto",
+              "gustan",
+              "gustas"
+            ],
+            "answer": 0,
+            "explanationJa": "este restaurante は単数なので gusta。「このレストラン全然好きじゃない」。nada で否定を強調。"
+          },
+          {
+            "prompt": "¿Le gusta ___ música clásica? (あなたは)",
+            "options": [
+              "la",
+              "el",
+              "las",
+              "los"
+            ],
+            "answer": 0,
+            "explanationJa": "música は女性名詞なので la が正しい冠詞です。「クラシック音楽はお好きですか？」"
+          },
+          {
+            "prompt": "A mí me gustan ___ y a ti te gusta ___.",
+            "options": [
+              "gato / perros",
+              "el gatos / los perro",
+              "los gato / el perros",
+              "los gatos / el perro"
+            ],
+            "answer": 3,
+            "explanationJa": "gustan の後は複数名詞（los gatos）、gusta の後は単数名詞（el perro）。冠詞もセットで必要。"
+          },
+          {
+            "prompt": "Me ___ mucho la cabeza. (頭が痛い)",
+            "options": [
+              "duele",
+              "dolor",
+              "dolemos",
+              "duelen"
+            ],
+            "answer": 0,
+            "explanationJa": "la cabeza（頭）は単数なので duele。doler は「痛い」を表す gustar型動詞。病院で必須の表現。"
+          },
+          {
+            "prompt": "No me ___ tu actitud. (君の態度がうざい)",
+            "options": [
+              "molestas",
+              "molesto",
+              "molesta",
+              "molestan"
+            ],
+            "answer": 2,
+            "explanationJa": "tu actitud は単数なので molesta。molestar は「うざい・イライラさせる」を表す gustar型動詞。"
+          },
+          {
+            "prompt": "¿Te ___ la historia japonesa? (日本史に興味ある？)",
+            "options": [
+              "interesan",
+              "intereso",
+              "interesas",
+              "interesa"
+            ],
+            "answer": 3,
+            "explanationJa": "la historia japonesa は単数なので interesa。interesar は「興味を引く」で、gustar と同じ構文。"
+          },
+          {
+            "prompt": "Me ___ los pies después de caminar tanto.",
+            "options": [
+              "duele",
+              "duelen",
+              "dolor",
+              "doliendo"
+            ],
+            "answer": 1,
+            "explanationJa": "los pies（足）は複数形なので duelen です。「たくさん歩いた後、足が痛い」。"
+          },
+          {
+            "prompt": "No me ___ lo que digan los demás.",
+            "options": [
+              "importante",
+              "importa",
+              "importan",
+              "importo"
+            ],
+            "answer": 1,
+            "explanationJa": "lo que digan los demás（他の人が何を言おうと）は一つのまとまりとして単数扱い → importa。「他人が何を言おうと気にしない」。"
+          },
+          {
+            "prompt": "Nos ___ dinero para el viaje. (旅行のお金が足りない)",
+            "options": [
+              "faltan",
+              "faltas",
+              "falta",
+              "faltamos"
+            ],
+            "answer": 2,
+            "explanationJa": "dinero（お金）は単数名詞なので falta。faltar は「足りない」を表す gustar型動詞。"
+          },
+          {
+            "prompt": "¿Qué te ___? (どう思う？)",
+            "options": [
+              "parezco",
+              "parece",
+              "pareces",
+              "parecen"
+            ],
+            "answer": 1,
+            "explanationJa": "¿Qué te parece? は「どう思う？」という超頻出表現。qué は単数扱いなので parece。parecer も gustar型。"
+          },
+          {
+            "prompt": "Me ___ las matemáticas, pero me ___ la física.",
+            "options": [
+              "encanta / aburren",
+              "encanto / aburre",
+              "gusto / aburro",
+              "encantan / aburre"
+            ],
+            "answer": 3,
+            "explanationJa": "las matemáticas（数学）は複数 → encantan。la física（物理）は単数 → aburre。「数学は大好きだけど物理は退屈だ」。"
+          },
+          {
+            "prompt": "A mi jefe le ___ que lleguemos tarde. (上司は遅刻が嫌い)",
+            "options": [
+              "molesto",
+              "molestas",
+              "molestan",
+              "molesta"
+            ],
+            "answer": 3,
+            "explanationJa": "que lleguemos tarde（遅刻すること）は一つの節として単数扱い → molesta。「a mi jefe」で「上司にとって」を明確にしている。"
+          },
+          {
+            "prompt": "Me ___ tres asignaturas para graduarme. (卒業まであと3科目足りない)",
+            "options": [
+              "faltas",
+              "faltamos",
+              "faltan",
+              "falta"
+            ],
+            "answer": 2,
+            "explanationJa": "tres asignaturas（3科目）は複数なので faltan。faltar は「足りない・残っている」。卒業の話題でよく使う表現。"
+          },
+          {
+            "prompt": "A nosotros nos ___ bien esa propuesta. ¿A ustedes qué les ___?",
+            "options": [
+              "parecemos / parecen",
+              "parecen / parecen",
+              "parece / parecéis",
+              "parece / parece"
+            ],
+            "answer": 3,
+            "explanationJa": "esa propuesta（その提案）は単数 → parece。二つの文とも主語が単数なのでどちらも parece。「私たちにはいい提案に思えるけど、あなたたちはどう思いますか？」"
+          },
+          {
+            "prompt": "Me encanta esta ciudad, pero me ___ el transporte público y me ___ el ruido por las noches.",
+            "options": [
+              "falta / molestan",
+              "faltan / molesta",
+              "falta / molesta",
+              "faltan / molestan"
+            ],
+            "answer": 2,
+            "explanationJa": "el transporte público（公共交通）は単数 → falta。el ruido（騒音）も単数 → molesta。「この街は大好きだけど、公共交通が足りないし夜の騒音がうざい」。gustar型動詞を3つ使った複合文。"
+          },
+          {
+            "prompt": "A mis hijos les ___ los dulces, pero a mí me ___ que coman demasiado.",
+            "options": [
+              "encantan / preocupo",
+              "encanto / preocupa",
+              "encantan / preocupa",
+              "encanta / preocupan"
+            ],
+            "answer": 2,
+            "explanationJa": "los dulces（お菓子）は複数 → encantan。que coman demasiado（食べすぎること）は節で単数扱い → preocupa。preocupar（心配させる）も gustar型動詞。"
+          },
+          {
+            "prompt": "No le ___ nada lo que yo diga. Le da igual todo. Pero a mí sí me ___ su opinión.",
+            "options": [
+              "importa / importa",
+              "importan / importan",
+              "importo / importa",
+              "importa / importo"
+            ],
+            "answer": 0,
+            "explanationJa": "lo que yo diga（私が言うこと）は単数扱い → importa。su opinión（彼の意見）も単数 → importa。「彼は私が何を言っても気にしない。何でもどうでもいいんだ。でも私は彼の意見が気になる」。"
+          },
+          {
+            "prompt": "Doctor, me ___ el estómago y también me ___ las rodillas. Además, me ___ que sea algo grave.",
+            "options": [
+              "duelen / duele / preocupan",
+              "duelen / duelen / preocupa",
+              "duele / duelen / preocupa",
+              "duele / duele / preocupa"
+            ],
+            "answer": 2,
+            "explanationJa": "el estómago（胃）は単数 → duele。las rodillas（膝）は複数 → duelen。que sea algo grave（重い病気であること）は節で単数 → preocupa。病院で症状を伝える実践的な表現。3つの gustar型動詞を正しく使い分ける問題です。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Me ___ el chocolate. (gustar)",
+            "answer": "gusta",
+            "options": [
+              "gustas",
+              "gustan",
+              "gusto",
+              "gusta"
+            ],
+            "explanationJa": "el chocolate = 単数。gustarは好きなもの（主語）に合わせるのでgusta。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Me ___ los gatos. (gustar)",
+            "answer": "gustan",
+            "options": [
+              "gusto",
+              "gustas",
+              "gusta",
+              "gustan"
+            ],
+            "explanationJa": "los gatos = 複数。gustarは主語に合わせてgustan。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "A ella le ___ bailar. (encantar)",
+            "answer": "encanta",
+            "options": [
+              "encantan",
+              "gustan",
+              "gusta",
+              "encanta"
+            ],
+            "explanationJa": "bailar = 動詞の原形（単数扱い）。「大好き」= encantar。encantaが正解。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Me ___ mucho la cabeza. (doler)",
+            "answer": "duele",
+            "options": [
+              "dolor",
+              "duelen",
+              "duele",
+              "dolemos"
+            ],
+            "explanationJa": "la cabeza = 単数。dolerもgustar型。dueleが正解。「頭が痛い」。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "No ___ importa el precio. (私たちに)",
+            "answer": "nos",
+            "options": [
+              "me",
+              "nos",
+              "les",
+              "te"
+            ],
+            "explanationJa": "「私たちに」の間接目的語代名詞はnos。「値段は気にしない」。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "A mis padres les ___ viajar. (encantar)",
+            "answer": "encanta",
+            "options": [
+              "encanto",
+              "encantas",
+              "encanta",
+              "encantan"
+            ],
+            "explanationJa": "viajar = 動詞の原形（単数扱い）。encantaが正解。「両親は旅行が大好き」。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Me ___ los pies después de caminar. (doler)",
+            "answer": "duelen",
+            "options": [
+              "dolor",
+              "duele",
+              "dolemos",
+              "duelen"
+            ],
+            "explanationJa": "los pies = 複数。duelenが正解。「歩いた後足が痛い」。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ falta tiempo para terminar. (私に)",
+            "answer": "Me",
+            "options": [
+              "Me",
+              "Le",
+              "Te",
+              "Nos"
+            ],
+            "explanationJa": "「私に」= me。faltar =「足りない」。「終わらせる時間が足りない」。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¿Qué te ___? (parecer / どう思う？)",
+            "answer": "parece",
+            "options": [
+              "pareces",
+              "parezco",
+              "parece",
+              "parecen"
+            ],
+            "explanationJa": "¿Qué te parece? = 「どう思う？」の超頻出表現。quéは単数扱いでparece。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "A ellos ___ gustan los deportes. (間接目的語代名詞)",
+            "answer": "les",
+            "options": [
+              "les",
+              "me",
+              "te",
+              "le"
+            ],
+            "explanationJa": "「彼ら」= a ellos → les。los deportes は複数なのでgustan。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Yo gusto el café.",
+            "answer": "Me gusta el café.",
+            "explanationJa": "gustarは「me + gusta + 好きなもの」の構文。Yo gustoだと「私が誰かを喜ばせる」の意味に。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Me gusta los perros.",
+            "answer": "Me gustan los perros.",
+            "explanationJa": "los perros = 複数。gustarの活用は主語に合わせるのでgustan。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "A ella la gusta cocinar.",
+            "answer": "A ella le gusta cocinar.",
+            "explanationJa": "gustar型動詞には間接目的語代名詞（le）を使います。laは直接目的語なので間違い。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Me duele los ojos.",
+            "answer": "Me duelen los ojos.",
+            "explanationJa": "los ojos = 複数。dolerもgustarと同じ構文でduelenが正解。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "A mí me gustan bailar.",
+            "answer": "A mí me gusta bailar.",
+            "explanationJa": "bailar = 動詞の原形は単数扱い。gustaが正解。gustanは複数名詞の場合。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「どうでもいい」の正しい表現は？",
+            "options": [
+              "No me falta.",
+              "No me duele.",
+              "No me gusta.",
+              "No me importa."
+            ],
+            "answer": 3,
+            "explanationJa": "No me importa = どうでもいい / 気にしない。超頻出フレーズです。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "スペインで「コーヒーでもどう？」は？",
+            "options": [
+              "¿Te apetece un café?",
+              "¿Te gusta un café?",
+              "¿Te duele un café?",
+              "¿Te falta un café?"
+            ],
+            "answer": 0,
+            "explanationJa": "apetecerはスペインで「〜したい気分」。¿Te apetece...? で「〜しない？」の誘い文句。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "メキシコで「アイスが食べたい気分」は？",
+            "options": [
+              "Me apetece un helado.",
+              "Me gusta un helado.",
+              "Me duele un helado.",
+              "Se me antoja un helado."
+            ],
+            "answer": 3,
+            "explanationJa": "中南米ではantojarse（se me antoja）を使います。食べ物の話題で必須表現。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「先生、ここが痛いです」の正しい表現は？",
+            "options": [
+              "Doctor, duele me aquí.",
+              "Doctor, me dolor aquí.",
+              "Doctor, me duele aquí.",
+              "Doctor, yo duelo aquí."
+            ],
+            "answer": 2,
+            "explanationJa": "dolerはgustar型。me duele + 痛い箇所。病院で必須の表現です。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「退屈している」を表すgustar型動詞は？",
+            "options": [
+              "doler",
+              "gustar",
+              "faltar",
+              "aburrir"
+            ],
+            "answer": 3,
+            "explanationJa": "aburrir = 退屈させる。Me aburre esta clase. = この授業退屈だ。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「私はチョコレートが大好きだ」をスペイン語に訳しなさい。",
+            "answer": "Me encanta el chocolate.",
+            "acceptableAnswers": [
+              "Me encanta el chocolate.",
+              "A mí me encanta el chocolate."
+            ],
+            "explanationJa": "「大好き」= encantar。el chocolate = 単数 → encanta。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「時間が足りない」をスペイン語に訳しなさい。",
+            "answer": "Me falta tiempo.",
+            "acceptableAnswers": [
+              "Me falta tiempo.",
+              "No me alcanza el tiempo."
+            ],
+            "explanationJa": "faltar =「足りない」。gustar型の構文。tiempo = 単数 → falta。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「いい考えだと思う」をスペイン語に訳しなさい。",
+            "answer": "Me parece buena idea.",
+            "acceptableAnswers": [
+              "Me parece buena idea.",
+              "Me parece una buena idea."
+            ],
+            "explanationJa": "parecer =「〜に思える」。gustar型。超頻出の会話表現です。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文の主語をnosotrosに変えなさい: Me gusta el café.",
+            "answer": "Nos gusta el café.",
+            "explanationJa": "me → nos。gustaは主語（el café＝単数）に合わせるので変わりません。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文を否定文にしなさい: Me importa tu opinión.",
+            "answer": "No me importa tu opinión.",
+            "explanationJa": "否定のnoを文頭に。No me importa =「気にしない」。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "gustar は「私が好む」ではなく「〜が私を喜ばせる」の構文。主語と目的語が日本語と逆になる",
+      "間接目的語代名詞（me/te/le/nos/os/les）を使い、gustar の活用は「好きなもの」に合わせる（gusta＝単数、gustan＝複数）",
+      "encantar, molestar, importar, interesar, doler, faltar, sobrar, parecer もすべて同じ構文",
+      "「A mí」「A ti」「A él」は強調や明確化のために使う。le / les は誰のことかわかりにくいので a + 人をつけることが多い",
+      "スペインでは apetecer（〜したい気分）、中南米では antojarse（〜が食べたい）を使う"
+    ]
+  }
+}

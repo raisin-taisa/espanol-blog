@@ -1,0 +1,497 @@
+{
+  "id": "c2-grammar-008",
+  "slug": "errores-nativos",
+  "titleJa": "ネイティブすら間違える文法 — dequeísmo・queísmo・過剰修正の罠",
+  "titleEs": "Errores frecuentes entre nativos: dequeísmo, queísmo, concordancia y ultracorrección",
+  "level": "c2",
+  "sortOrder": 8,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "ネイティブの間違いを知る意味",
+        "bodyJa": "「ネイティブスピーカーは文法を間違えない」と思っていませんか？\n\n実はスペイン語ネイティブにも頻繁に間違える文法ポイントがあります。\n\nこれを知ることには3つのメリットがあります：\n\n1. ネイティブの発言を聞いて混乱しない\n→「先生が教えたのと違う！」とパニックにならない。\n\n2. 自分の間違いの重大度を判断できる\n→ ネイティブもよく間違えるポイントなら、試験以外では許容範囲。\n\n3. 超修正（hipercorrección）の罠を避ける\n→「正しく言おう」としすぎて、逆に間違える現象。\n\nDELE C2では、dequeísmo・queísmo・concordance errors の文を読んで「ここが間違い」と指摘できる力が問われます。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "dequeísmo（デケイスモ）：不要な de を入れてしまう",
+        "bodyJa": "dequeísmo は、que だけで十分なのに de que を使ってしまう現象です。\n\nスペイン語圏のほぼ全域で見られ、教育レベルに関係なく発生します。\n\n【典型的なdequeísmo】\n❌ Creo de que es verdad.（→ ⭕ Creo que es verdad.）\n❌ Pienso de que deberíamos ir.（→ ⭕ Pienso que deberíamos ir.）\n❌ Me dijo de que vendría.（→ ⭕ Me dijo que vendría.）\n❌ Es posible de que llueva.（→ ⭕ Es posible que llueva.）\n❌ Resulta de que no había nadie.（→ ⭕ Resulta que no había nadie.）\n\n【de que が正しい場合（dequeísmo ではない）】\n⭕ Me alegro de que estés bien.（alegrar-se de que）\n⭕ Estoy seguro de que vendrá.（estar seguro de que）\n⭕ Se dio cuenta de que era tarde.（darse cuenta de que）\n⭕ Me acordé de que tenía una cita.（acordarse de que）\n\n【判別テスト】\n「que以下」を「eso」に置き換えてみる：\n・Creo eso.（⭕）→ Creo que...（de不要）\n・Me alegro de eso.（⭕）→ Me alegro de que...（de必要）\n\nこの「eso テスト」は dequeísmo を見破る最も簡単な方法です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "queísmo（ケイスモ）：必要な de を省いてしまう",
+        "bodyJa": "queísmo は dequeísmo の逆で、de que が必要なのに que だけにしてしまう現象です。\n\ndequeísmo を恐れるあまり、必要な de まで省いてしまう超修正（hipercorrección）としても発生します。\n\n【典型的なqueísmo】\n❌ Me alegro que estés bien.（→ ⭕ Me alegro de que estés bien.）\n❌ Se dio cuenta que era tarde.（→ ⭕ Se dio cuenta de que era tarde.）\n❌ Me acuerdo que llovía.（→ ⭕ Me acuerdo de que llovía.）\n❌ No hay duda que es cierto.（→ ⭕ No hay duda de que es cierto.）\n❌ Antes que llegaras...（→ ⭕ Antes de que llegaras...）\n\n【判別テスト（同じesoテスト）】\n・Me alegro de eso.（⭕ de が必要）→ Me alegro de que...\n・Me acuerdo de eso.（⭕ de が必要）→ Me acuerdo de que...\n\n注意：queísmo は口語ではかなり広く許容されており、ネイティブの大半が使います。\nしかし書き言葉・フォーマルな場面では避けるべきです。\n\n特に注意：antes de que の de は忘れがち。antes que は queísmo です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "concordancia（一致）の間違い：ネイティブも悩む",
+        "bodyJa": "スペイン語の性数一致は、ネイティブでも特定のパターンで間違えます。\n\n1. 集合名詞 + 動詞の数の一致\n❌ La mayoría de los estudiantes aprobaron.（口語では許容）\n⭕ La mayoría de los estudiantes aprobó.（厳密な文法）\n→ mayoría は単数名詞なので動詞は単数。ただしRAEは両方を認めている。\n\n2. 女性名詞 + 男性の冠詞（el agua, el alma）\nEl agua está fría.（⭕ 形容詞は女性形）\n❌ El agua está frío.（→ 冠詞が el でも名詞は女性）\n→ el agua は「a-」で始まる強勢のある女性名詞。冠詞だけ el になるが、性は女性。\n\n3. haber の非人称用法\n⭕ Había muchos problemas.（haber は非人称、常に単数）\n❌ Habían muchos problemas.（ラテンアメリカで非常に多い誤り）\n→ hay / había / habrá は常に3人称単数。muchos problemas は直接目的語。\n\n4. le → les の忘れ\n❌ Le dije a los niños que vinieran.（→ ⭕ Les dije a los niños...）\n→ 間接目的語が複数なら les。a los niños に引きずられて le のままにしがち。\n\n5. se los / se las の混同\n⭕ Se lo dije a ellos.（男性・彼らにそれを言った）\n❌ Se los dije a ellos.（← lo を los にしてしまう、口語で多い）\n→ se の中に「彼ら」の意味が含まれているので lo は変化しない。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "hipercorrección（超修正）：正しくしようとして間違える",
+        "bodyJa": "hipercorrección（超修正）は、ある間違いを避けようとするあまり、逆方向に間違えてしまう現象です。\n\n【典型例】\n\n1. dequeísmo を恐れて queísmo に\n正：Me acuerdo de que...（de que が必要）\n超修正：Me acuerdo que...（de を過剰に削除）\n\n2. laísmo を恐れて不適切な le を使う\n正：La vi ayer.（女性直接目的語、la が正しい）\n超修正：Le vi ayer.（leísmo。直接目的語に le を使用）\n\n3. 「正しい」スペイン語を意識しすぎて不自然になる\n口語で自然：Habían muchas personas en la fiesta.\n超修正で不自然：Hubo muchas personas en la fiesta, las cuales se divirtieron enormemente.\n→ 正しいが会話では堅すぎる。\n\n4. hubiera/habría の混同を避けようとして\n正：Si hubiera venido, habría sido diferente.\n超修正：Si habría venido, habría sido diferente.（❌ si + 条件法は不可）\n→ 「hubiera...hubiera」を避けようとして si節にも habría を入れてしまう。\n\nC2のポイント：「正しい形」を知ることと、「実際にネイティブがどう使っているか」を知ることは別のスキル。両方が必要です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "その他のネイティブ頻出エラー",
+        "bodyJa": "知っておくと便利なその他の頻出エラー：\n\n1. アクセント記号の省略・誤用\n❌ solo（形容詞）vs sólo（副詞）→ 2010年以降RAEは solo の一律無アクセントを推奨。しかし混乱が続く。\n❌ este（指示詞）にアクセントをつける → RAEは不要と言っている。\n\n2. 前置詞の間違い\n❌ en base a（→ ⭕ con base en / sobre la base de）\n❌ a nivel de（→ ⭕ en el nivel de / en el ámbito de）\n❌ de acuerdo a（→ ⭕ de acuerdo con）\n→ これらはネイティブの80%以上が使っているが、RAEは非標準としている。\n\n3. gerundio de posterioridad\n❌ Entró en la casa, encontrando una carta sobre la mesa.\n→ 現在分詞は「同時」か「原因」を表す。「入って→見つけた」は時間的に後なので不可。\n⭕ Entró en la casa y encontró una carta sobre la mesa.\n\n4. 関係代名詞の誤用\n❌ Es el libro que te hablé.（→ ⭕ ...del que te hablé.）\n→ hablar de algo なので、関係代名詞にも de が必要。\n\n5. 再帰動詞の混同\n❌ Me recordé de cerrar la puerta.（→ ⭕ Me acordé de cerrar...）\n→ recordar は他動詞（Recordé cerrar...）、acordarse は再帰動詞（Me acordé de...）。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Creo de que va a llover mañana. (dequeísmo)",
+            "ja": "明日雨が降ると思う。（デケイスモ）",
+            "noteJa": "dequeísmo。eso テスト：Creo eso（⭕ de不要）→ Creo que。正しくは Creo que va a llover."
+          },
+          {
+            "es": "Me alegro que estés mejor. (queísmo)",
+            "ja": "良くなって嬉しい。（ケイスモ）",
+            "noteJa": "queísmo。eso テスト：Me alegro de eso（⭕ de必要）→ Me alegro de que。正しくは Me alegro de que estés mejor."
+          },
+          {
+            "es": "Habían muchas personas en el evento. (concordancia)",
+            "ja": "イベントには多くの人がいた。（一致の誤り）",
+            "noteJa": "haber非人称は常に単数。正しくは Había muchas personas。ラテンアメリカでは極めて広く見られるが、文法的には非標準。"
+          },
+          {
+            "es": "Se los dije a mis padres. (concordancia pronominal)",
+            "ja": "両親にそれを言った。（代名詞一致の誤り）",
+            "noteJa": "se に「彼ら」の意味が含まれるので、lo は変化しない。正しくは Se lo dije a mis padres."
+          },
+          {
+            "es": "Es el restaurante que te hablé. (queísmo con relativo)",
+            "ja": "君に話したレストランだよ。（関係代名詞のケイスモ）",
+            "noteJa": "hablar de algo なので del que が必要。正しくは Es el restaurante del que te hablé."
+          },
+          {
+            "es": "El agua está frío. (concordancia de género)",
+            "ja": "水が冷たい。（性の一致の誤り）",
+            "noteJa": "el agua の el は音声上の理由で男性冠詞を使うが、agua は女性名詞。正しくは El agua está fría."
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Pienso de que es importante estudiar más.",
+            "correct": "Pienso que es importante estudiar más.",
+            "whyJa": "dequeísmo。pensar は de を取らない。eso テスト：Pienso eso（⭕）→ de 不要。"
+          },
+          {
+            "wrong": "Antes que llegues, prepara la cena.",
+            "correct": "Antes de que llegues, prepara la cena.",
+            "whyJa": "queísmo。antes de que は3語セットの接続詞。de を省くのは非標準。口語では多いが、書き言葉では避ける。"
+          },
+          {
+            "wrong": "Habemos muchos interesados en el proyecto.",
+            "correct": "Hay muchos interesados en el proyecto. / Somos muchos los interesados.",
+            "whyJa": "habemos は非標準。haber の1人称複数を非人称として使うのは二重の誤り。hay（非人称）または somos（1人称複数）を使う。"
+          },
+          {
+            "wrong": "Entró en la oficina, encontrando la carta sobre el escritorio.",
+            "correct": "Entró en la oficina y encontró la carta sobre el escritorio.",
+            "whyJa": "gerundio de posterioridad。現在分詞は同時性か原因を表す。「入った後に見つけた」は時間的に後続するので y + 点過去が正しい。"
+          },
+          {
+            "wrong": "Me recordé de cerrar la puerta.",
+            "correct": "Me acordé de cerrar la puerta. / Recordé cerrar la puerta.",
+            "whyJa": "recordar（他動詞）とacordarse de（再帰動詞）の混同。recordarse de は存在しない。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブの実際のミスと反応",
+        "items": [
+          {
+            "es": "Es que yo creo de que eso no está bien. Bueno, digo yo.",
+            "ja": "いや、それは良くないと思うんだよね。まあ、私の意見だけど。",
+            "source": "conversation",
+            "sourceLabel": "テレビ討論番組風",
+            "noteJa": "dequeísmo の実例。テレビの討論番組でも教育を受けた話者がこの間違いをすることがある。digo yo は hedging。"
+          },
+          {
+            "es": "Hubieron varios accidentes en la autopista esta mañana.",
+            "ja": "今朝高速道路で複数の事故があった。",
+            "source": "journalism",
+            "sourceLabel": "ニュース報道",
+            "noteJa": "haber の複数化。ニュースキャスターすら間違えることがある。正しくは Hubo varios accidentes."
+          },
+          {
+            "es": "La mayoría de los votantes decidieron / decidió apoyar la propuesta.",
+            "ja": "有権者の大多数がその提案を支持することを決めた。",
+            "source": "journalism",
+            "sourceLabel": "新聞報道",
+            "noteJa": "集合名詞の一致問題。RAEは両方を認めているが、厳密には decidió（単数一致）が正式。decidieron も広く使われる。"
+          },
+          {
+            "es": "En base a los resultados obtenidos, se puede concluir que...",
+            "ja": "得られた結果に基づいて、〜と結論づけることができる。",
+            "source": "academic",
+            "sourceLabel": "学術論文",
+            "noteJa": "en base a はRAE非推奨。正式には con base en / sobre la base de。しかし学術論文でも広く使われているのが現実。"
+          },
+          {
+            "es": "#RAEConsultas ¿\"De acuerdo a\" o \"de acuerdo con\"? La forma correcta es \"de acuerdo con\".",
+            "ja": "「de acuerdo a」と「de acuerdo con」、正しいのは「de acuerdo con」です。",
+            "source": "sns",
+            "sourceLabel": "RAE公式Xアカウント",
+            "noteJa": "RAEがSNSでよくある質問に回答。de acuerdo a は非標準だが広く使われている。de acuerdo con が正式。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "次のうち dequeísmo の例はどれ？",
+            "options": [
+              "Me alegro de que estés bien.",
+              "Creo de que es importante.",
+              "Se dio cuenta de que era tarde.",
+              "Estoy seguro de que vendrá."
+            ],
+            "answer": 1,
+            "explanationJa": "creer は de を取らない動詞。eso テスト：Creo eso（⭕、de不要）。他の3つは de que が正しい形です。"
+          },
+          {
+            "prompt": "「eso テスト」で de が必要と判断されるのは？",
+            "options": [
+              "Me acuerdo de eso. → Me acuerdo de que...",
+              "Pienso eso. → Pienso que...",
+              "Creo eso. → Creo que...",
+              "Digo eso. → Digo que..."
+            ],
+            "answer": 0,
+            "explanationJa": "eso の前に de が必要な動詞は、que 節にも de que を使う。Me acuerdo de eso → Me acuerdo de que...。他は de 不要。"
+          },
+          {
+            "prompt": "Había / Habían muchos problemas. 正しいのは？",
+            "options": [
+              "Había（haber非人称は常に3人称単数）",
+              "どちらも正しい",
+              "Habían（muchos problemas に動詞を一致させる）",
+              "Hubieron"
+            ],
+            "answer": 0,
+            "explanationJa": "haber の非人称用法は常に3人称単数。Había が正しい。muchos problemas は主語ではなく直接目的語。"
+          },
+          {
+            "prompt": "hipercorrección（超修正）の例として最も適切なのは？",
+            "options": [
+              "dequeísmo を恐れて、必要な de まで省いてしまう（queísmo）",
+              "辞書で意味を確認する",
+              "ネイティブの話し方を真似する",
+              "文法的に正しい文を書く"
+            ],
+            "answer": 0,
+            "explanationJa": "超修正は「ある間違いを避けようとして逆方向に間違える」こと。dequeísmo を過剰に意識して queísmo になるのが典型例。"
+          },
+          {
+            "prompt": "「El agua está ___」の空欄に入る正しい形は？",
+            "options": [
+              "fríos（複数形）",
+              "frío（男性形：el agua の el に合わせる）",
+              "friamente（副詞形）",
+              "fría（女性形：agua は女性名詞）"
+            ],
+            "answer": 3,
+            "explanationJa": "agua は女性名詞。el は音声上の理由（el agua, el alma）で使うだけで、性は変わらない。fría が正しい。"
+          },
+          {
+            "prompt": "gerundio de posterioridad が間違いである理由は？",
+            "options": [
+              "現在分詞は同時性か原因を表し、時間的に後の動作には使えないから",
+              "現在分詞は過去の動作にしか使えないから",
+              "フォーマルすぎるから",
+              "スペイン語には現在分詞がないから"
+            ],
+            "answer": 0,
+            "explanationJa": "スペイン語の gerundio は同時（caminaba cantando）か原因（Siendo tarde, decidí irme）を表す。時間的に後の動作には y + 定動詞を使う。"
+          },
+          {
+            "prompt": "「Es el libro ___ te hablé.」の空欄に入る正しい関係代名詞は？",
+            "options": [
+              "del que",
+              "lo que",
+              "que",
+              "el que"
+            ],
+            "answer": 0,
+            "explanationJa": "hablar de algo なので、関係代名詞にも de が必要。del que te hablé が正しい。que だけは queísmo。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "eso テスト：Creo ___. → de は不要。つまり Creo ___ es verdad.",
+            "answer": "que",
+            "options": [
+              "de que",
+              "en que",
+              "a que",
+              "que"
+            ],
+            "explanationJa": "eso テスト：Creo eso（⭕ de なし）→ Creo que。de que を使うのは dequeísmo。creer は de を取らない。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "eso テスト：Me acuerdo ___ eso. → de が必要。つまり Me acuerdo ___ que llovía.",
+            "answer": "de",
+            "options": [
+              "de",
+              "en",
+              "que",
+              "por"
+            ],
+            "explanationJa": "eso テスト：Me acuerdo de eso（⭕ de 必要）→ Me acuerdo de que。que だけにするのは queísmo。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ muchos problemas en esa época. (haber - 非人称過去)",
+            "answer": "Había",
+            "options": [
+              "Habían",
+              "Había",
+              "Habemos",
+              "Hubieron"
+            ],
+            "explanationJa": "haber の非人称用法は常に3人称単数。Había が正しい。Habían は広く見られる誤りだが非標準。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Me alegro ___ que hayas venido. (前置詞)",
+            "answer": "de",
+            "options": [
+              "de",
+              "por",
+              "en",
+              "(なし)"
+            ],
+            "explanationJa": "alegrarse de que + 接続法。de を省くのは queísmo。eso テスト：Me alegro de eso → de 必要。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "El agua está ___. (frío/fría)",
+            "answer": "fría",
+            "options": [
+              "frías",
+              "fríos",
+              "frío",
+              "fría"
+            ],
+            "explanationJa": "agua は女性名詞。el は音声上の理由（a- で始まる強勢音節）。形容詞は女性形 fría に一致。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Se lo dije a ___. (mis padres - 正しい代名詞)",
+            "answer": "mis padres",
+            "options": [
+              "los",
+              "les",
+              "ellos",
+              "mis padres"
+            ],
+            "explanationJa": "se lo dije a mis padres。se に「彼ら」が含まれるので lo は変化しない。se los は直接目的語が複数の場合のみ。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ de que llegaras, ya habíamos empezado. (接続詞)",
+            "answer": "Antes",
+            "options": [
+              "Antes que",
+              "Antes",
+              "Después",
+              "Cuando"
+            ],
+            "explanationJa": "antes de que + 接続法。de を省いて antes que にするのは queísmo。3語セットの接続詞として覚える。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Es el restaurante ___ que te hablé. (前置詞 + 関係代名詞)",
+            "answer": "del",
+            "options": [
+              "que",
+              "al",
+              "el",
+              "del"
+            ],
+            "explanationJa": "hablar de algo → 関係代名詞にも de が必要。del que te hablé。que だけにするのは queísmo。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ acuerdo ___ lo establecido en la ley... (前置詞の正しい組み合わせ)",
+            "answer": "De ... con",
+            "options": [
+              "De ... a",
+              "En ... a",
+              "De ... de",
+              "De ... con"
+            ],
+            "explanationJa": "de acuerdo con が正式。de acuerdo a は RAE 非推奨だがネイティブの80%以上が使う。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Entró en la casa ___ encontró una carta. (接続詞 - 後続動作)",
+            "answer": "y",
+            "options": [
+              "al encontrar",
+              "encontrando",
+              "y",
+              "habiendo encontrado"
+            ],
+            "explanationJa": "後続動作には y + 定動詞。gerundio de posterioridad（encontrando）は非標準。「入って→見つけた」は時間的に後なので現在分詞は不可。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Pienso de que deberíamos irnos ya.",
+            "answer": "Pienso que deberíamos irnos ya.",
+            "explanationJa": "dequeísmo。pensar は de を取らない。eso テスト：Pienso eso（de なし）→ Pienso que。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Hubieron tres accidentes graves en la autopista.",
+            "answer": "Hubo tres accidentes graves en la autopista.",
+            "explanationJa": "haber 非人称は常に3人称単数。Hubieron は非標準。tres accidentes は主語ではなく直接目的語。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Me recordé de llamar al dentista.",
+            "answer": "Me acordé de llamar al dentista. / Recordé llamar al dentista.",
+            "explanationJa": "recordar は他動詞（Recordé + 直接目的語）、acordarse は再帰動詞（Me acordé de + 前置詞）。recordarse de は存在しない混合形。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Salió de la reunión, cerrando la puerta con fuerza y marchándose a su casa.",
+            "answer": "Salió de la reunión, cerró la puerta con fuerza y se marchó a su casa.",
+            "explanationJa": "gerundio de posterioridad。ドアを閉めて帰宅するのは「出た後」の動作。現在分詞ではなく y + 点過去で時系列を正しく表現。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "No hay duda que este método es el más eficaz.",
+            "answer": "No hay duda de que este método es el más eficaz.",
+            "explanationJa": "queísmo。no hay duda de que が正しい形。eso テスト：No hay duda de eso → de 必要。口語では多いが書き言葉では避ける。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "dequeísmo を見破る最も簡単な方法は？",
+            "options": [
+              "文の長さで判断する",
+              "ネイティブに聞く",
+              "辞書で動詞を調べる",
+              "que 以下を eso に置き換えて、動詞 + de eso が自然か確認する（eso テスト）"
+            ],
+            "answer": 3,
+            "explanationJa": "eso テスト：Creo eso（⭕ de不要）vs Me alegro de eso（⭕ de必要）。この置き換えで de の要否が簡単に判別できる。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次のうち、queísmo の超修正（hipercorrección）として発生するケースはどれか？",
+            "options": [
+              "dequeísmo を恐れて、必要な de まで省いてしまう（Me alegro que → Me alegro de que が正しい）",
+              "正しい文を書く",
+              "代名詞を間違える",
+              "dequeísmo をそのまま使い続ける"
+            ],
+            "answer": 0,
+            "explanationJa": "超修正：dequeísmo を避けようとするあまり、de que が必要な動詞でも de を省いてしまう。これが queísmo の一因。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "haber の非人称で「Habían muchos problemas」が文法的に間違いとされる理由は？",
+            "options": [
+              "haber の非人称は常に3人称単数。muchos problemas は主語ではなく直接目的語",
+              "habían は過去形として存在しないから",
+              "muchos が間違いだから",
+              "haber は常に複数形を使う動詞だから"
+            ],
+            "answer": 0,
+            "explanationJa": "hay/había/hubo の構文で、後ろの名詞は主語ではなく直接目的語。主語がないので動詞は常に3人称単数。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「en base a」がRAE非推奨とされる理由と正しい代替表現は？",
+            "options": [
+              "ラテンアメリカでのみ使われる方言表現",
+              "前置詞の不正確な使用。正しくは con base en / sobre la base de",
+              "古語すぎて現代では使えない",
+              "en base a は文法的に完璧である"
+            ],
+            "answer": 1,
+            "explanationJa": "en base a はフランス語からの借用で RAE 非推奨。正式には con base en（根拠に基づいて）/ sobre la base de（〜を基盤として）。ただし実際は広く使われている。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "gerundio de posterioridad が非標準とされる理由は？",
+            "options": [
+              "スペイン語の現在分詞は同時性か原因を表し、時間的に後の動作には使えないから",
+              "現在分詞は過去の動作にしか使えないから",
+              "中南米でのみ許容される地域表現だから",
+              "フォーマルすぎる表現だから"
+            ],
+            "answer": 0,
+            "explanationJa": "gerundio は同時（caminaba cantando）か原因（Siendo tarde, me fui）を表す。「入った後に見つけた」のような後続動作には y + 定動詞を使う。"
+          },
+          {
+            "type": "translation",
+            "prompt": "彼がそのことに気づいたのは、もう手遅れになってからだった。（darse cuenta de que を正しく使って）",
+            "answer": "Se dio cuenta de que ya era demasiado tarde.",
+            "acceptableAnswers": [
+              "No se dio cuenta de que era tarde hasta que fue demasiado tarde.",
+              "Se dio cuenta de que era demasiado tarde cuando ya no había remedio."
+            ],
+            "explanationJa": "darse cuenta de que（de que が必要）。que だけにするのは queísmo。eso テスト：Se dio cuenta de eso → de 必要。"
+          },
+          {
+            "type": "translation",
+            "prompt": "昨日その通りで3件の事故があった。（haber 非人称を正しく使って）",
+            "answer": "Ayer hubo tres accidentes en esa calle.",
+            "acceptableAnswers": [
+              "Hubo tres accidentes ayer en esa calle.",
+              "En esa calle hubo tres accidentes ayer."
+            ],
+            "explanationJa": "haber 非人称は常に3人称単数。hubo が正しい。hubieron は非標準。tres accidentes は直接目的語。"
+          },
+          {
+            "type": "translation",
+            "prompt": "部屋に入って電気をつけ、窓を開けた。（gerundio de posterioridad を避けて）",
+            "answer": "Entró en la habitación, encendió la luz y abrió la ventana.",
+            "acceptableAnswers": [
+              "Entró en la habitación, encendió las luces y abrió la ventana.",
+              "Al entrar en la habitación, encendió la luz y abrió la ventana."
+            ],
+            "explanationJa": "3つの連続動作は y + 点過去で表す。encendiendo/abriendo は gerundio de posterioridad で非標準。al entrar は同時性なので可。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の dequeísmo を修正せよ：\nMe parece de que no deberíamos tomar esa decisión tan rápido.",
+            "answer": "Me parece que no deberíamos tomar esa decisión tan rápido.",
+            "explanationJa": "parecer は de を取らない。eso テスト：Me parece eso（⭕ de なし）→ Me parece que。de を削除するだけ。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の queísmo を修正せよ：\nEstoy convencido que llegaremos a un acuerdo. No hay duda que es la mejor opción.",
+            "answer": "Estoy convencido de que llegaremos a un acuerdo. No hay duda de que es la mejor opción.",
+            "explanationJa": "estar convencido de que / no hay duda de que。両方とも de が必要。eso テスト：Estoy convencido de eso / No hay duda de eso → de 必要。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "dequeísmo（不要な de の挿入）は creer, pensar, decir 等の動詞で発生。eso テスト（動詞 + eso で de が要るか）で判別",
+      "queísmo（必要な de の省略）は alegrarse de, acordarse de, antes de que 等で発生。dequeísmo の超修正としても起こる",
+      "haber の非人称用法は常に3人称単数（había, hay, hubo）。複数化（habían, hubieron）はネイティブに広く見られるが非標準",
+      "el agua, el alma 等の女性名詞は冠詞が el でも性は女性。形容詞は fría, bella 等の女性形を使う",
+      "gerundio de posterioridad（現在分詞で後続動作を表す）は文法的に非標準。y + 定動詞を使う",
+      "超修正（hipercorrección）に注意。「正しく言おう」としすぎて逆に間違えるパターンを認識する"
+    ]
+  }
+}

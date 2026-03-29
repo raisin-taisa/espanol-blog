@@ -1,0 +1,742 @@
+{
+  "id": "a1-002",
+  "slug": "presente-indicativo",
+  "titleJa": "直説法現在形（規則動詞）",
+  "titleEs": "Presente de indicativo (verbos regulares)",
+  "level": "a1",
+  "sortOrder": 2,
+  "hasRegionalVariants": true,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "スペイン語の動詞は3つのグループに分かれる",
+        "bodyJa": "スペイン語の動詞は、語尾によって3つのグループに分類されます。\n\n1. -ar 動詞（例：hablar = 話す）→ 最も数が多い\n2. -er 動詞（例：comer = 食べる）\n3. -ir 動詞（例：vivir = 住む・生きる）\n\n動詞の活用とは、主語に合わせて語尾を変えることです。日本語では「食べる・食べます・食べない」のように変化しますが、スペイン語では主語（私・君・彼など）ごとに語尾が変わります。\n\n重要なポイント：スペイン語は動詞の語尾を見れば主語がわかるため、主語を省略することが多いです。これは日本語と似ています！",
+        "bodyEs": "Los verbos en español se dividen en tres grupos según su terminación: -ar, -er, -ir. Cada grupo tiene sus propias terminaciones de conjugación."
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "hablar（話す）",
+        "tense": "Presente de Indicativo",
+        "forms": {
+          "yo": "hablo",
+          "tú": "hablas",
+          "él/ella/usted": "habla",
+          "nosotros/as": "hablamos",
+          "vosotros/as": "habláis",
+          "ellos/ellas/ustedes": "hablan"
+        },
+        "latamNote": "中南米では vosotros/as は使いません。「あなたたち」は ustedes + hablan で表します。",
+        "spainNote": "スペインでは友人同士で vosotros/as + habláis を使います。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "-ar 動詞の活用パターン",
+        "bodyJa": "語幹（habl-）に以下の語尾をつけます：\n\n-o, -as, -a, -amos, -áis, -an\n\nよく使う -ar 動詞：\n・estudiar（勉強する）→ estudio, estudias, estudia...\n・trabajar（働く）→ trabajo, trabajas, trabaja...\n・comprar（買う）→ compro, compras, compra...\n・viajar（旅行する）→ viajo, viajas, viaja...\n・cocinar（料理する）→ cocino, cocinas, cocina...",
+        "bodyEs": "Para conjugar verbos en -ar, se quita la terminación -ar y se añaden las terminaciones: -o, -as, -a, -amos, -áis, -an."
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "comer（食べる）",
+        "tense": "Presente de Indicativo",
+        "forms": {
+          "yo": "como",
+          "tú": "comes",
+          "él/ella/usted": "come",
+          "nosotros/as": "comemos",
+          "vosotros/as": "coméis",
+          "ellos/ellas/ustedes": "comen"
+        },
+        "latamNote": "中南米では vosotros/as は使いません。ustedes + comen を使います。",
+        "spainNote": null
+      },
+      {
+        "type": "explanation",
+        "headingJa": "-er 動詞の活用パターン",
+        "bodyJa": "語幹（com-）に以下の語尾をつけます：\n\n-o, -es, -e, -emos, -éis, -en\n\nよく使う -er 動詞：\n・beber（飲む）→ bebo, bebes, bebe...\n・leer（読む）→ leo, lees, lee...\n・aprender（学ぶ）→ aprendo, aprendes, aprende...\n・correr（走る）→ corro, corres, corre...",
+        "bodyEs": "Para conjugar verbos en -er, se quita la terminación -er y se añaden las terminaciones: -o, -es, -e, -emos, -éis, -en."
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "vivir（住む・生きる）",
+        "tense": "Presente de Indicativo",
+        "forms": {
+          "yo": "vivo",
+          "tú": "vives",
+          "él/ella/usted": "vive",
+          "nosotros/as": "vivimos",
+          "vosotros/as": "vivís",
+          "ellos/ellas/ustedes": "viven"
+        },
+        "latamNote": "中南米では vosotros/as は使いません。ustedes + viven を使います。",
+        "spainNote": null
+      },
+      {
+        "type": "explanation",
+        "headingJa": "-ir 動詞の活用パターン",
+        "bodyJa": "語幹（viv-）に以下の語尾をつけます：\n\n-o, -es, -e, -imos, -ís, -en\n\n注目：-er 動詞と -ir 動詞の活用は、nosotros と vosotros の形だけが違います。それ以外は同じです！\n\nよく使う -ir 動詞：\n・escribir（書く）→ escribo, escribes, escribe...\n・abrir（開ける）→ abro, abres, abre...\n・recibir（受け取る）→ recibo, recibes, recibe...",
+        "bodyEs": "Para conjugar verbos en -ir, se quita la terminación -ir y se añaden las terminaciones: -o, -es, -e, -imos, -ís, -en. Solo difiere de -er en nosotros (-imos) y vosotros (-ís)."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Hablo japonés y español.",
+            "ja": "日本語とスペイン語を話します。",
+            "noteJa": "主語 yo は省略されています。hablo の語尾 -o で「私」とわかります。"
+          },
+          {
+            "es": "¿Dónde vives?",
+            "ja": "どこに住んでいますか？",
+            "noteJa": "vives の語尾 -es で主語が tú（君）とわかります。"
+          },
+          {
+            "es": "Mi hermana estudia medicina.",
+            "ja": "姉は医学を勉強しています。",
+            "noteJa": "三人称単数の活用 estudia を使っています。"
+          },
+          {
+            "es": "Comemos en un restaurante japonés.",
+            "ja": "日本料理レストランで食べます。",
+            "noteJa": "comemos の語尾 -emos で「私たち」とわかります。"
+          },
+          {
+            "es": "Los estudiantes aprenden español.",
+            "ja": "学生たちはスペイン語を学んでいます。",
+            "noteJa": "三人称複数（ellos）の活用 aprenden を使っています。"
+          },
+          {
+            "es": "Trabajo en una empresa japonesa.",
+            "ja": "日本の会社で働いています。",
+            "noteJa": "trabajo の -o で「私」とわかるので yo は不要です。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Yo hablo. Yo como. Yo vivo.",
+            "correct": "Hablo. Como. Vivo.",
+            "whyJa": "スペイン語では動詞の語尾で主語がわかるため、主語をいちいち言う必要はありません。主語を毎回つけると不自然に聞こえます。強調したいときだけ主語をつけましょう。日本語と同じ感覚です！"
+          },
+          {
+            "wrong": "Él trabaja en una empresa. Él vive en Tokio. Él habla japonés.",
+            "correct": "Trabaja en una empresa. Vive en Tokio. Habla japonés.",
+            "whyJa": "文脈で誰のことかわかる場合、主語の代名詞は繰り返しません。"
+          },
+          {
+            "wrong": "Ella coma arroz.",
+            "correct": "Ella come arroz.",
+            "whyJa": "-er 動詞の三人称単数は -e です。-a ではありません（-ar 動詞と混同しないように注意）。"
+          },
+          {
+            "wrong": "Nosotros vivemos en Japón.",
+            "correct": "Nosotros vivimos en Japón.",
+            "whyJa": "-ir 動詞の nosotros 形は -imos です。-emos は -er 動詞の形です。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "Trabajo de lunes a viernes y los fines de semana descanso.",
+            "ja": "月曜から金曜まで働いて、週末は休みます。",
+            "source": "conversation",
+            "sourceLabel": "日常会話",
+            "context": "新しい知り合いに生活リズムを説明する場面",
+            "noteJa": "trabajo, descanso：主語 yo は省略。動詞の語尾 -o だけで「私」とわかります。ネイティブは主語をつけません。"
+          },
+          {
+            "es": "¿Estudias o trabajas? — Estudio ingeniería en la UNAM.",
+            "ja": "学生？社会人？ — UNAMで工学を勉強してる。",
+            "source": "conversation",
+            "sourceLabel": "メキシコの大学生同士",
+            "context": "初対面の定番質問。UNAM はメキシコ国立自治大学",
+            "noteJa": "「¿Estudias o trabajas?」はスペイン語圏で若者が初対面で必ず聞く定番フレーズ。覚えておきましょう！",
+            "region": "latam"
+          },
+          {
+            "es": "Hoy no cocino, pedimos pizza 🍕",
+            "ja": "今日は料理しない、ピザ頼もう🍕",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "cocino（一人称 -o）と pedimos（一人称複数 -imos）。日常のリアルな使い方。pedir は不規則動詞ですが、ここでは雰囲気を掴みましょう。"
+          },
+          {
+            "es": "¿Dónde vives? — Vivo en Shibuya, cerca de la estación.",
+            "ja": "どこに住んでるの？ — 渋谷の駅の近く。",
+            "source": "conversation",
+            "sourceLabel": "日本在住の外国人との会話",
+            "noteJa": "vives（-es で tú）と vivo（-o で yo）。主語なしで会話が自然に成立しています。"
+          },
+          {
+            "es": "Mi madre cocina increíble. Prepara unos tacos que flipas.",
+            "ja": "うちの母の料理やばい。マジでびびるタコス作るんだよ。",
+            "source": "conversation",
+            "sourceLabel": "スペインの友達の自慢話",
+            "context": "家族の話をしている場面",
+            "noteJa": "cocina, prepara：三人称単数 -a。「que flipas（びびるほど）」はスペインのスラング。",
+            "region": "spain"
+          },
+          {
+            "es": "Los domingos comemos en casa de los abuelos. Es tradición.",
+            "ja": "日曜日はおじいちゃんおばあちゃんの家で食べる。伝統なんだよ。",
+            "source": "conversation",
+            "sourceLabel": "家族の習慣の話",
+            "noteJa": "comemos（-emos で nosotros）。スペイン語圏では日曜の家族ランチは本当に大切な文化です。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "Yo ___ español todos los días. (estudiar)",
+            "options": [
+              "estudiamos",
+              "estudias",
+              "estudia",
+              "estudio"
+            ],
+            "answer": 3,
+            "explanationJa": "主語が yo なので、-ar 動詞の一人称単数形 -o をつけて estudio になります。"
+          },
+          {
+            "prompt": "María ___ en un hospital. (trabajar)",
+            "options": [
+              "trabajo",
+              "trabajas",
+              "trabajan",
+              "trabaja"
+            ],
+            "answer": 3,
+            "explanationJa": "主語が María（三人称単数）なので、-ar 動詞の三人称単数形 -a をつけて trabaja になります。"
+          },
+          {
+            "prompt": "¿Tú ___ café o té? (beber)",
+            "options": [
+              "beben",
+              "bebo",
+              "bebes",
+              "bebe"
+            ],
+            "answer": 2,
+            "explanationJa": "主語が tú なので、-er 動詞の二人称単数形 -es をつけて bebes になります。"
+          },
+          {
+            "prompt": "Mis padres ___ en Osaka. (vivir)",
+            "options": [
+              "viven",
+              "vive",
+              "vivimos",
+              "vivo"
+            ],
+            "answer": 0,
+            "explanationJa": "主語が mis padres（三人称複数）なので、-ir 動詞の三人称複数形 -en をつけて viven になります。"
+          },
+          {
+            "prompt": "Nosotros ___ libros en la biblioteca. (leer)",
+            "options": [
+              "leo",
+              "leemos",
+              "lees",
+              "leen"
+            ],
+            "answer": 1,
+            "explanationJa": "主語が nosotros なので、-er 動詞の一人称複数形 -emos をつけて leemos になります。"
+          },
+          {
+            "prompt": "Ellos ___ mucha agua en verano. (beber)",
+            "options": [
+              "bebe",
+              "bebes",
+              "bebo",
+              "beben"
+            ],
+            "answer": 3,
+            "explanationJa": "主語が ellos（三人称複数）なので、-er 動詞の三人称複数形 -en をつけて beben になります。"
+          },
+          {
+            "prompt": "Yo ___ una carta a mi abuela. (escribir)",
+            "options": [
+              "escribes",
+              "escriben",
+              "escribo",
+              "escribe"
+            ],
+            "answer": 2,
+            "explanationJa": "主語が yo なので、-ir 動詞の一人称単数形 -o をつけて escribo になります。"
+          },
+          {
+            "prompt": "¿Vosotros ___ en Madrid? (vivir)",
+            "options": [
+              "vives",
+              "vivimos",
+              "vivís",
+              "viven"
+            ],
+            "answer": 2,
+            "explanationJa": "主語が vosotros なので、-ir 動詞の二人称複数形 -ís をつけて vivís になります。スペインで使われる形です。"
+          },
+          {
+            "prompt": "Mi hermano ___ en un banco. (trabajar)",
+            "options": [
+              "trabaja",
+              "trabajan",
+              "trabajamos",
+              "trabajo"
+            ],
+            "answer": 0,
+            "explanationJa": "主語が mi hermano（三人称単数）なので、-ar 動詞の三人称単数形 -a をつけて trabaja になります。"
+          },
+          {
+            "prompt": "___ la puerta, por favor. (abrir, tú)",
+            "options": [
+              "Abre",
+              "Abres",
+              "Abren",
+              "Abro"
+            ],
+            "answer": 1,
+            "explanationJa": "主語が tú なので、-ir 動詞の二人称単数形 -es をつけて abres になります。「ドアを開けてくれる？」という意味です。"
+          },
+          {
+            "prompt": "Los científicos ___ nuevas teorías. (disfrutar ではなく→ descubrir＝発見する)",
+            "options": [
+              "descubren",
+              "descubro",
+              "descubres",
+              "descubre"
+            ],
+            "answer": 0,
+            "explanationJa": "主語が los científicos（三人称複数）なので、-ir 動詞の三人称複数形 -en をつけて descubren（発見する）になります。"
+          },
+          {
+            "prompt": "Nosotros ___ del trabajo en equipo. (disfrutar＝楽しむ)",
+            "options": [
+              "disfrutamos",
+              "disfrutan",
+              "disfrutas",
+              "disfruto"
+            ],
+            "answer": 0,
+            "explanationJa": "主語が nosotros なので、-ar 動詞の一人称複数形 -amos をつけて disfrutamos（楽しむ）になります。"
+          },
+          {
+            "prompt": "Tú ___ con otras empresas. (colaborar＝協力する)",
+            "options": [
+              "colaboran",
+              "colabora",
+              "colaboro",
+              "colaboras"
+            ],
+            "answer": 3,
+            "explanationJa": "主語が tú なので、-ar 動詞の二人称単数形 -as をつけて colaboras（協力する）になります。"
+          },
+          {
+            "prompt": "Ella ___ muchos correos cada día. (recibir＝受け取る)",
+            "options": [
+              "recibes",
+              "recibe",
+              "recibo",
+              "reciben"
+            ],
+            "answer": 1,
+            "explanationJa": "主語が ella（三人称単数）なので、-ir 動詞の三人称単数形 -e をつけて recibe になります。recibir は規則動詞で、語幹 recib- に -e をつけます。"
+          },
+          {
+            "prompt": "Los jóvenes ___ nuevos negocios. (emprender＝起業する)",
+            "options": [
+              "emprendo",
+              "emprende",
+              "emprenden",
+              "emprendes"
+            ],
+            "answer": 2,
+            "explanationJa": "主語が los jóvenes（三人称複数）なので、-er 動詞の三人称複数形 -en をつけて emprenden（起業する）になります。"
+          },
+          {
+            "prompt": "Yo ___ la puerta del coche. (abrir＝開ける)",
+            "options": [
+              "abren",
+              "abres",
+              "abro",
+              "abre"
+            ],
+            "answer": 2,
+            "explanationJa": "主語が yo なので、-ir 動詞の一人称単数形 -o をつけて abro になります。abrir は規則動詞で、語幹 abr- に -o をつけます。"
+          },
+          {
+            "prompt": "Ustedes ___ la música clásica. (disfrutar＝楽しむ)",
+            "options": [
+              "disfrutáis",
+              "disfrutan",
+              "disfrutas",
+              "disfruto"
+            ],
+            "answer": 1,
+            "explanationJa": "ustedes は三人称複数と同じ活用をするので、-ar 動詞の語尾 -an をつけて disfrutan になります。"
+          },
+          {
+            "prompt": "Nosotros ___ el cambio climático. (percibir＝感じ取る)",
+            "options": [
+              "percibimos",
+              "perciben",
+              "percibo",
+              "percibemos"
+            ],
+            "answer": 0,
+            "explanationJa": "主語が nosotros で、percibir は -ir 動詞なので、語尾は -imos です。percibimos（感じ取る）が正解。-emos は -er 動詞の形なので注意！"
+          },
+          {
+            "prompt": "Mi jefe ___ los informes cada semana. (revisar＝確認する・見直す)",
+            "options": [
+              "revisa",
+              "revisan",
+              "revisas",
+              "reviso"
+            ],
+            "answer": 0,
+            "explanationJa": "主語が mi jefe（三人称単数）なので、-ar 動詞の三人称単数形 -a をつけて revisa（確認する）になります。"
+          },
+          {
+            "prompt": "Vosotros ___ mucho en este proyecto. (colaborar＝協力する)",
+            "options": [
+              "colaboráis",
+              "colaboras",
+              "colaboran",
+              "colaboramos"
+            ],
+            "answer": 0,
+            "explanationJa": "主語が vosotros なので、-ar 動詞の二人称複数形 -áis をつけて colaboráis になります。スペインで使われる形です。"
+          },
+          {
+            "prompt": "「Hablamos」の主語として正しいのはどれ？",
+            "options": [
+              "ellos",
+              "nosotros",
+              "yo",
+              "tú"
+            ],
+            "answer": 1,
+            "explanationJa": "hablamos の語尾 -amos は -ar 動詞の一人称複数形（nosotros）です。「私たちは話す」という意味になります。"
+          },
+          {
+            "prompt": "「Escriben」の主語として正しいのはどれ？",
+            "options": [
+              "ellos",
+              "yo",
+              "ella",
+              "tú"
+            ],
+            "answer": 0,
+            "explanationJa": "escriben の語尾 -en は三人称複数形（ellos/ellas/ustedes）の活用です。"
+          },
+          {
+            "prompt": "次の文で主語が省略されています。動詞から主語を推測してください：「___ mucho en clase.」→ Aprendo",
+            "options": [
+              "nosotros",
+              "yo",
+              "tú",
+              "él"
+            ],
+            "answer": 1,
+            "explanationJa": "aprendo の語尾 -o は一人称単数形（yo）です。スペイン語では語尾で主語がわかるため省略するのが自然です。"
+          },
+          {
+            "prompt": "-er 動詞と -ir 動詞の nosotros 形の違いとして正しいのはどれ？",
+            "options": [
+              "違いはない",
+              "-er: -imos / -ir: -emos",
+              "-er: -amos / -ir: -imos",
+              "-er: -emos / -ir: -imos"
+            ],
+            "answer": 3,
+            "explanationJa": "-er 動詞の nosotros 形は -emos（例：comemos）、-ir 動詞の nosotros 形は -imos（例：vivimos）です。この違いは重要なので覚えましょう！"
+          },
+          {
+            "prompt": "次の文の空欄に入る正しい形は？「No ___ dónde vive Juan.」（Nosotros, comprender＝理解する）",
+            "options": [
+              "comprendemos",
+              "comprendo",
+              "comprenden",
+              "comprendes"
+            ],
+            "answer": 0,
+            "explanationJa": "主語が nosotros なので、-er 動詞の一人称複数形 -emos をつけて comprendemos（理解する）になります。「フアンがどこに住んでいるか私たちは知らない」という意味です。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Yo ___ español todos los días. (estudiar)",
+            "answer": "estudio",
+            "options": [
+              "estudiamos",
+              "estudia",
+              "estudias",
+              "estudio"
+            ],
+            "explanationJa": "yo + -ar動詞 → 語尾は-o。estudio が正解です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "María ___ en un hospital. (trabajar)",
+            "answer": "trabaja",
+            "options": [
+              "trabajo",
+              "trabajas",
+              "trabajan",
+              "trabaja"
+            ],
+            "explanationJa": "María = 三人称単数。-ar動詞の語尾は-a。trabajaが正解です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¿Tú ___ café o té? (beber)",
+            "answer": "bebes",
+            "options": [
+              "beben",
+              "bebo",
+              "bebes",
+              "bebe"
+            ],
+            "explanationJa": "tú + -er動詞 → 語尾は-es。bebesが正解です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Mis padres ___ en Osaka. (vivir)",
+            "answer": "viven",
+            "options": [
+              "viven",
+              "vive",
+              "vivimos",
+              "vivo"
+            ],
+            "explanationJa": "mis padres = 三人称複数。-ir動詞の語尾は-en。vivenが正解です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Nosotros ___ mucho en clase. (aprender)",
+            "answer": "aprendemos",
+            "options": [
+              "aprendes",
+              "aprendemos",
+              "aprendo",
+              "aprenden"
+            ],
+            "explanationJa": "nosotros + -er動詞 → 語尾は-emos。aprendemosが正解です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Ella ___ cartas a su abuela. (escribir)",
+            "answer": "escribe",
+            "options": [
+              "escribo",
+              "escriben",
+              "escribe",
+              "escribes"
+            ],
+            "explanationJa": "ella = 三人称単数。-ir動詞の語尾は-e。escribeが正解です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Ustedes ___ muy bien. (cocinar)",
+            "answer": "cocinan",
+            "options": [
+              "cocinamos",
+              "cocinan",
+              "cocino",
+              "cocinas"
+            ],
+            "explanationJa": "ustedes = 三人称複数と同じ活用。-ar動詞の語尾は-an。cocinanが正解です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Yo ___ la puerta del coche. (abrir)",
+            "answer": "abro",
+            "options": [
+              "abre",
+              "abres",
+              "abren",
+              "abro"
+            ],
+            "explanationJa": "yo + -ir動詞 → 語尾は-o。abroが正解です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Ellos ___ periódicos en español. (leer)",
+            "answer": "leen",
+            "options": [
+              "leen",
+              "leemos",
+              "lees",
+              "leo"
+            ],
+            "explanationJa": "ellos = 三人称複数。-er動詞の語尾は-en。leenが正解です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Tú ___ en una casa grande. (vivir)",
+            "answer": "vives",
+            "options": [
+              "vive",
+              "vivimos",
+              "vives",
+              "vivo"
+            ],
+            "explanationJa": "tú + -ir動詞 → 語尾は-es。vivesが正解です。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Ella coma arroz todos los días.",
+            "answer": "Ella come arroz todos los días.",
+            "explanationJa": "-er動詞の三人称単数は-eです。-aは-ar動詞の形なので間違いです。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Nosotros vivemos en Japón.",
+            "answer": "Nosotros vivimos en Japón.",
+            "explanationJa": "-ir動詞のnosotros形は-imosです。-emosは-er動詞の形です。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Yo hablo. Yo como. Yo vivo en Tokio.",
+            "answer": "Hablo. Como. Vivo en Tokio.",
+            "explanationJa": "スペイン語では動詞の語尾で主語がわかるため、yoを毎回つけると不自然です。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Los estudiantes estudias español.",
+            "answer": "Los estudiantes estudian español.",
+            "explanationJa": "los estudiantes = 三人称複数。-ar動詞の語尾は-anで、estudianが正解です。-asはtúの形です。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Mi madre y yo trabajan en la misma oficina.",
+            "answer": "Mi madre y yo trabajamos en la misma oficina.",
+            "explanationJa": "「母と私」= nosotros。-ar動詞のnosotros形は-amos。trabajamosが正解です。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Hablamos」の主語として正しいのはどれ？",
+            "options": [
+              "ellos",
+              "nosotros",
+              "yo",
+              "tú"
+            ],
+            "answer": 1,
+            "explanationJa": "hablamosの語尾-amosは-ar動詞の一人称複数形（nosotros）です。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Escriben」の主語として正しいのはどれ？",
+            "options": [
+              "ellos",
+              "yo",
+              "ella",
+              "tú"
+            ],
+            "answer": 0,
+            "explanationJa": "escribenの語尾-enは三人称複数形（ellos/ellas/ustedes）の活用です。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "-er動詞と-ir動詞のnosotros形の違いとして正しいのはどれ？",
+            "options": [
+              "違いはない",
+              "-er: -amos / -ir: -imos",
+              "-er: -imos / -ir: -emos",
+              "-er: -emos / -ir: -imos"
+            ],
+            "answer": 3,
+            "explanationJa": "-er動詞のnosotros形は-emos（例：comemos）、-ir動詞のnosotros形は-imos（例：vivimos）です。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「私は毎日走る」の正しい訳は？（correr = 走る）",
+            "options": [
+              "Corre todos los días.",
+              "Corren todos los días.",
+              "Corres todos los días.",
+              "Corro todos los días."
+            ],
+            "answer": 3,
+            "explanationJa": "yo + -er動詞 → 語尾は-o。corroが正解。主語yoは省略されています。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「彼女たちは手紙を受け取る」の正しい訳は？（recibir = 受け取る）",
+            "options": [
+              "Recibe cartas.",
+              "Recibo cartas.",
+              "Recibimos cartas.",
+              "Reciben cartas."
+            ],
+            "answer": 3,
+            "explanationJa": "ellas = 三人称複数。-ir動詞の語尾は-en。recibenが正解です。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「私はスペイン語を勉強しています」をスペイン語に訳しなさい。",
+            "answer": "Estudio español.",
+            "acceptableAnswers": [
+              "Estudio español.",
+              "Yo estudio español."
+            ],
+            "explanationJa": "estudiar（-ar動詞）のyo形は estudio。主語yoは省略が自然です。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「彼らは日本に住んでいる」をスペイン語に訳しなさい。",
+            "answer": "Viven en Japón.",
+            "acceptableAnswers": [
+              "Viven en Japón.",
+              "Ellos viven en Japón."
+            ],
+            "explanationJa": "vivir（-ir動詞）のellos形は viven。主語ellosは省略可能です。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「私たちは朝食にパンを食べる」をスペイン語に訳しなさい。",
+            "answer": "Comemos pan para desayunar.",
+            "acceptableAnswers": [
+              "Comemos pan para desayunar.",
+              "Nosotros comemos pan para desayunar.",
+              "Comemos pan en el desayuno."
+            ],
+            "explanationJa": "comer（-er動詞）のnosotros形は comemos。para desayunar = 朝食に。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文を否定文にしなさい: Él habla español.",
+            "answer": "Él no habla español.",
+            "explanationJa": "否定文は動詞の前にnoを置きます。「彼はスペイン語を話さない」。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文の主語をnosotrosに変えなさい: Yo trabajo en una oficina.",
+            "answer": "Nosotros trabajamos en una oficina.",
+            "explanationJa": "nosotros + -ar動詞 → 語尾は-amos。trabajoがtrabajamosに変わります。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "スペイン語の動詞は -ar, -er, -ir の3グループに分かれる",
+      "-ar 動詞の語尾：-o, -as, -a, -amos, -áis, -an",
+      "-er 動詞の語尾：-o, -es, -e, -emos, -éis, -en",
+      "-ir 動詞の語尾：-o, -es, -e, -imos, -ís, -en（-er との違いは nosotros と vosotros だけ）",
+      "動詞の語尾で主語がわかるため、主語は省略するのが自然（日本語と同じ！）",
+      "中南米では vosotros 形は使わず、代わりに ustedes を使う"
+    ]
+  }
+}

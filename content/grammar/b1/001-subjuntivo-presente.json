@@ -1,0 +1,727 @@
+{
+  "id": "b1-001",
+  "slug": "subjuntivo-presente",
+  "titleJa": "接続法現在形（Subjuntivo Presente）",
+  "titleEs": "Presente de subjuntivo",
+  "level": "b1",
+  "sortOrder": 1,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "接続法って何？日本語にはない「もう一つの世界」",
+        "bodyJa": "スペイン語には「直説法（Indicativo）」と「接続法（Subjuntivo）」という2つの動詞の世界があります。\n\n直説法は「事実・現実」を述べるとき。\n接続法は「願望・感情・疑い・命令・可能性」など、主観的な世界を表すときに使います。\n\n日本語には接続法がないので、日本語話者はすべて直説法で言ってしまいがちです。\nしかしスペイン語ネイティブにとって、接続法を使わないと「ロボットみたいに聞こえる」と言われるほど重要です。\n\n簡単に覚えるコツ：「que の後に主観が入ったら接続法」と考えましょう。",
+        "bodyEs": "El subjuntivo es un modo verbal que expresa deseos, emociones, dudas, órdenes y posibilidades. A diferencia del indicativo, que describe hechos reales, el subjuntivo describe un mundo subjetivo."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "接続法を使う4大トリガー",
+        "bodyJa": "接続法が必要になる主な場面は4つあります。\n\n1. 願望・要求：Quiero que vengas.（来てほしい）\n   → querer que, pedir que, necesitar que, preferir que\n\n2. 感情：Me alegra que estés aquí.（君がここにいて嬉しい）\n   → me alegra que, me molesta que, es triste que, me sorprende que\n\n3. 疑い・否定：No creo que sea verdad.（本当だとは思わない）\n   → dudar que, no creer que, no pensar que, es posible que\n\n4. 命令・必要性：Es necesario que estudies.（勉強する必要がある）\n   → es necesario que, es importante que, es mejor que\n\n共通ルール：「主語が2人いて、que でつながっている」とき、que の後ろが接続法になります。\n例：Yo quiero que tú vengas.（私は + 君が来ることを + 望む）",
+        "bodyEs": "Los cuatro disparadores principales del subjuntivo son: deseos/peticiones (quiero que), emociones (me alegra que), duda/negación (no creo que) y necesidad/mandato (es necesario que)."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "規則動詞の接続法現在形の作り方",
+        "bodyJa": "接続法現在形の作り方はシンプルです。\n\n「直説法現在の yo の形から -o を取って、反対の語尾をつける」\n\n-ar 動詞 → -er/-ir の語尾をつける（-e, -es, -e, -emos, -éis, -en）\n-er/-ir 動詞 → -ar の語尾をつける（-a, -as, -a, -amos, -áis, -an）\n\n例：hablar（話す）→ hablo → habl- → hable, hables, hable, hablemos, habléis, hablen\n例：comer（食べる）→ como → com- → coma, comas, coma, comamos, comáis, coman\n例：vivir（住む）→ vivo → viv- → viva, vivas, viva, vivamos, viváis, vivan\n\nポイント：-ar 動詞の語尾が -e 系、-er/-ir 動詞の語尾が -a 系になる。「逆転する」と覚えましょう。",
+        "bodyEs": "Para formar el subjuntivo regular: se toma la forma 'yo' del presente de indicativo, se quita la -o y se añaden las terminaciones opuestas (-ar → -e, -es...; -er/-ir → -a, -as...)."
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "hablar（話す）",
+        "tense": "Presente de Subjuntivo",
+        "forms": {
+          "yo": "hable",
+          "tú": "hables",
+          "él/ella/usted": "hable",
+          "nosotros/as": "hablemos",
+          "vosotros/as": "habléis",
+          "ellos/ellas/ustedes": "hablen"
+        },
+        "latamNote": "中南米では vosotros/as は使いません。ustedes + hablen を使います。",
+        "spainNote": null
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "comer（食べる）",
+        "tense": "Presente de Subjuntivo",
+        "forms": {
+          "yo": "coma",
+          "tú": "comas",
+          "él/ella/usted": "coma",
+          "nosotros/as": "comamos",
+          "vosotros/as": "comáis",
+          "ellos/ellas/ustedes": "coman"
+        },
+        "latamNote": "中南米では vosotros/as は使いません。ustedes + coman を使います。",
+        "spainNote": null
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "vivir（住む）",
+        "tense": "Presente de Subjuntivo",
+        "forms": {
+          "yo": "viva",
+          "tú": "vivas",
+          "él/ella/usted": "viva",
+          "nosotros/as": "vivamos",
+          "vosotros/as": "viváis",
+          "ellos/ellas/ustedes": "vivan"
+        },
+        "latamNote": "中南米では vosotros/as は使いません。ustedes + vivan を使います。",
+        "spainNote": null
+      },
+      {
+        "type": "explanation",
+        "headingJa": "絶対に覚えるべき不規則形8つ",
+        "bodyJa": "接続法の不規則動詞は、直説法の yo の形がベースにならないものがあります。特に重要な8つを覚えましょう。\n\n・ser → sea, seas, sea, seamos, seáis, sean\n・estar → esté, estés, esté, estemos, estéis, estén\n・ir → vaya, vayas, vaya, vayamos, vayáis, vayan\n・haber → haya, hayas, haya, hayamos, hayáis, hayan\n・saber → sepa, sepas, sepa, sepamos, sepáis, sepan\n・dar → dé, des, dé, demos, deis, den\n・tener → tenga, tengas, tenga, tengamos, tengáis, tengan\n・hacer → haga, hagas, haga, hagamos, hagáis, hagan\n\ntengo → tenga, hago → haga のように、-go 動詞は yo の形から規則的に作れるものも多いです。\nしかし ser → sea、ir → vaya、saber → sepa は完全に丸暗記が必要です。",
+        "bodyEs": "Los verbos irregulares más importantes del subjuntivo: ser (sea), estar (esté), ir (vaya), haber (haya), saber (sepa), dar (dé), tener (tenga), hacer (haga)."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "ojalá — 接続法の魔法の言葉",
+        "bodyJa": "ojalá（オハラ）はアラビア語起源の感嘆詞で、「〜だといいな」「〜でありますように」という強い願望を表します。\n\nojalá の後は必ず接続法です。que はあってもなくてもOK。\n\n・Ojalá (que) apruebe el examen.（試験に受かりますように）\n・Ojalá llueva mañana.（明日雨が降るといいな）\n・Ojalá no sea verdad.（本当でなければいいのに）\n\nojalá + 接続法現在 → 実現可能な願望\nojalá + 接続法過去 → 実現が難しい願望（B2で学習）\n\n日本語話者のポイント：「〜するといいな」と思ったら ojalá + 接続法。これだけで一気にネイティブっぽくなります。",
+        "bodyEs": "Ojalá (del árabe 'inshallah') expresa deseos intensos y siempre va seguido de subjuntivo. Ojalá + presente de subjuntivo para deseos realizables."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Quiero que vengas a mi fiesta.",
+            "ja": "パーティーに来てほしい。",
+            "noteJa": "querer que + 接続法。主語が2人（yo quiero / tú vengas）なので接続法が必要です。"
+          },
+          {
+            "es": "Me alegra que estés bien.",
+            "ja": "あなたが元気で嬉しい。",
+            "noteJa": "感情（me alegra）+ que + 接続法。estés は estar の接続法です。"
+          },
+          {
+            "es": "No creo que sea fácil.",
+            "ja": "簡単だとは思わない。",
+            "noteJa": "否定の意見（no creo que）+ 接続法。sea は ser の接続法。注意：creo que は直説法、no creo que は接続法！"
+          },
+          {
+            "es": "Es necesario que hables con tu jefe.",
+            "ja": "上司と話す必要がある。",
+            "noteJa": "必要性（es necesario que）+ 接続法。hables は hablar の接続法 tú 形。"
+          },
+          {
+            "es": "Ojalá haga buen tiempo mañana.",
+            "ja": "明日、天気が良ければいいな。",
+            "noteJa": "ojalá + 接続法。haga は hacer の接続法。天気の話は hacer を使います。"
+          },
+          {
+            "es": "Espero que tengas un buen día.",
+            "ja": "良い一日を過ごしてね。",
+            "noteJa": "esperar que + 接続法。tengas は tener の接続法。日常的な挨拶で使えます。"
+          },
+          {
+            "es": "Dudo que sepa la respuesta.",
+            "ja": "彼が答えを知っているとは思えない。",
+            "noteJa": "疑い（dudar que）+ 接続法。sepa は saber の接続法。"
+          },
+          {
+            "es": "Es posible que llueva esta tarde.",
+            "ja": "今日の午後、雨が降るかもしれない。",
+            "noteJa": "可能性（es posible que）+ 接続法。llueva は llover の接続法。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Quiero que vienes a mi casa.",
+            "correct": "Quiero que vengas a mi casa.",
+            "whyJa": "querer que の後は接続法。vienes は直説法なので間違い。日本語話者が最もやりがちなミスです。日本語には接続法がないため、つい直説法を使ってしまいます。"
+          },
+          {
+            "wrong": "No creo que es verdad.",
+            "correct": "No creo que sea verdad.",
+            "whyJa": "no creo que の後は接続法。es は直説法。ただし creo que（肯定）の後は直説法です（Creo que es verdad.）。否定になると接続法に変わるのがポイント。"
+          },
+          {
+            "wrong": "Es necesario que estudias más.",
+            "correct": "Es necesario que estudies más.",
+            "whyJa": "es necesario que の後は接続法。estudias は直説法。estudies が接続法の正しい形です。"
+          },
+          {
+            "wrong": "Me alegra que estás aquí.",
+            "correct": "Me alegra que estés aquí.",
+            "whyJa": "感情表現（me alegra que）の後は接続法。estás は直説法、estés が接続法の正しい形。"
+          },
+          {
+            "wrong": "Ojalá viene mañana.",
+            "correct": "Ojalá venga mañana.",
+            "whyJa": "ojalá の後は必ず接続法。viene は直説法。venga（venir の接続法）が正しい。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "Ojalá me toque la lotería 🤞💰",
+            "ja": "宝くじ当たりますように🤞💰",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "ojalá + 接続法の定番。toque は tocar（当たる）の接続法。SNSで非常によく見る表現です。"
+          },
+          {
+            "es": "Espero que te mejores pronto. Un abrazo fuerte.",
+            "ja": "早く良くなってね。ぎゅっとハグ。",
+            "source": "conversation",
+            "sourceLabel": "友達へのメッセージ",
+            "context": "病気の友達に送るメッセージ",
+            "noteJa": "esperar que + 接続法。mejorarse は「良くなる」の再帰動詞。te mejores が接続法。日常的に使う優しい表現です。"
+          },
+          {
+            "es": "No creo que vaya a llover. ¡Vamos a la playa!",
+            "ja": "雨は降らないと思うよ。ビーチ行こう！",
+            "source": "conversation",
+            "sourceLabel": "友達との会話",
+            "context": "週末の予定を相談している場面",
+            "noteJa": "no creo que + 接続法。vaya は ir の接続法。「ir a + 動詞」で未来表現。"
+          },
+          {
+            "es": "Mi madre siempre me dice que estudie más y que deje el móvil 📱😤",
+            "ja": "母はいつも「もっと勉強しなさい、スマホ置きなさい」って言う📱😤",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "decir que + 接続法で「〜しろと言う」（命令の伝達）。estudie、deje はどちらも接続法。decir que + 直説法なら「〜だと言う」（情報の伝達）。"
+          },
+          {
+            "es": "Necesito que me ayudes con la mudanza. ¿Puedes el sábado?",
+            "ja": "引っ越し手伝ってほしいんだけど。土曜日いける？",
+            "source": "conversation",
+            "sourceLabel": "友達へのお願い",
+            "context": "引っ越しの手伝いを頼む場面",
+            "noteJa": "necesitar que + 接続法。ayudes は ayudar の接続法 tú 形。mudanza は「引っ越し」。"
+          },
+          {
+            "es": "Que tengas un buen fin de semana 🌞",
+            "ja": "良い週末を🌞",
+            "source": "conversation",
+            "sourceLabel": "金曜日の挨拶",
+            "noteJa": "Que + 接続法で「〜でありますように」。espero が省略された形。別れ際の定番表現です。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "Quiero que tú ___ a la reunión. (venir)",
+            "options": [
+              "vienes",
+              "vengas",
+              "venís",
+              "venga"
+            ],
+            "answer": 1,
+            "explanationJa": "querer que の後は接続法。venir の接続法 tú 形は vengas です。vienes は直説法なので不正解。"
+          },
+          {
+            "prompt": "Me alegra que ___ aquí. (estar, tú)",
+            "options": [
+              "estés",
+              "están",
+              "esté",
+              "estás"
+            ],
+            "answer": 0,
+            "explanationJa": "感情表現（me alegra que）の後は接続法。estar の接続法 tú 形は estés。"
+          },
+          {
+            "prompt": "No creo que ___ verdad. (ser)",
+            "options": [
+              "es",
+              "sea",
+              "fue",
+              "será"
+            ],
+            "answer": 1,
+            "explanationJa": "no creo que の後は接続法。ser の接続法は sea。肯定の creo que なら直説法 es を使います。"
+          },
+          {
+            "prompt": "Es necesario que ___ más. (estudiar, tú)",
+            "options": [
+              "estudias",
+              "estudie",
+              "estudia",
+              "estudies"
+            ],
+            "answer": 3,
+            "explanationJa": "es necesario que の後は接続法。estudiar の接続法 tú 形は estudies。-ar 動詞は -e 系の語尾になります。"
+          },
+          {
+            "prompt": "Ojalá ___ buen tiempo mañana. (hacer)",
+            "options": [
+              "hará",
+              "hace",
+              "haga",
+              "hacía"
+            ],
+            "answer": 2,
+            "explanationJa": "ojalá の後は必ず接続法。hacer の接続法は haga。"
+          },
+          {
+            "prompt": "Espero que ___ un buen viaje. (tener, ustedes)",
+            "options": [
+              "tengas",
+              "tenga",
+              "tienen",
+              "tengan"
+            ],
+            "answer": 3,
+            "explanationJa": "esperar que + 接続法。tener の接続法 ustedes 形は tengan。"
+          },
+          {
+            "prompt": "Dudo que él ___ la respuesta. (saber)",
+            "options": [
+              "sabe",
+              "sabía",
+              "sepa",
+              "sé"
+            ],
+            "answer": 2,
+            "explanationJa": "dudar que + 接続法。saber の接続法は sepa（不規則形、丸暗記が必要）。"
+          },
+          {
+            "prompt": "Es posible que ___ esta tarde. (llover)",
+            "options": [
+              "llovía",
+              "lloverá",
+              "llueva",
+              "llueve"
+            ],
+            "answer": 2,
+            "explanationJa": "es posible que + 接続法。llover の接続法は llueva。"
+          },
+          {
+            "prompt": "Mi madre quiere que yo ___ la habitación. (limpiar)",
+            "options": [
+              "limpias",
+              "limpia",
+              "limpie",
+              "limpio"
+            ],
+            "answer": 2,
+            "explanationJa": "querer que + 接続法。limpiar の接続法 yo 形は limpie。-ar 動詞は -e 系。"
+          },
+          {
+            "prompt": "No pienso que ___ una buena idea. (ser)",
+            "options": [
+              "fue",
+              "sea",
+              "es",
+              "será"
+            ],
+            "answer": 1,
+            "explanationJa": "no pensar que + 接続法。否定の意見表現は接続法を使います。"
+          },
+          {
+            "prompt": "Es importante que ___ a tiempo. (llegar, nosotros)",
+            "options": [
+              "llegamos",
+              "lleguéis",
+              "lleguen",
+              "lleguemos"
+            ],
+            "answer": 3,
+            "explanationJa": "es importante que + 接続法。llegar の接続法 nosotros 形は lleguemos（g→gu のスペリング変化）。"
+          },
+          {
+            "prompt": "Te pido que me ___ la verdad. (decir)",
+            "options": [
+              "dices",
+              "dice",
+              "digas",
+              "diga"
+            ],
+            "answer": 2,
+            "explanationJa": "pedir que + 接続法。decir の接続法 tú 形は digas。"
+          },
+          {
+            "prompt": "Me sorprende que no ___ nada. (saber, tú)",
+            "options": [
+              "sepa",
+              "sabes",
+              "sepas",
+              "saben"
+            ],
+            "answer": 2,
+            "explanationJa": "感情（me sorprende que）+ 接続法。saber の接続法 tú 形は sepas。"
+          },
+          {
+            "prompt": "Prefiero que ___ tú. (ir)",
+            "options": [
+              "irás",
+              "vaya",
+              "vas",
+              "vayas"
+            ],
+            "answer": 3,
+            "explanationJa": "preferir que + 接続法。ir の接続法 tú 形は vayas（完全不規則、丸暗記）。"
+          },
+          {
+            "prompt": "Es mejor que ___ temprano. (salir, nosotros)",
+            "options": [
+              "salgáis",
+              "salgamos",
+              "salgan",
+              "salimos"
+            ],
+            "answer": 1,
+            "explanationJa": "es mejor que + 接続法。salir の接続法 nosotros 形は salgamos（salgo → salg- + amos）。"
+          },
+          {
+            "prompt": "Necesito que me ___ con esto. (ayudar, tú)",
+            "options": [
+              "ayudes",
+              "ayude",
+              "ayuda",
+              "ayudas"
+            ],
+            "answer": 0,
+            "explanationJa": "necesitar que + 接続法。ayudar の接続法 tú 形は ayudes。"
+          },
+          {
+            "prompt": "「彼が来るといいな」を正しく訳すと？",
+            "options": [
+              "Ojalá venga.",
+              "Ojalá viene.",
+              "Ojalá vino.",
+              "Ojalá vendrá."
+            ],
+            "answer": 0,
+            "explanationJa": "ojalá + 接続法。venga は venir の接続法。viene は直説法なので不正解。"
+          },
+          {
+            "prompt": "Creo que ___ razón. (tener, tú)",
+            "options": [
+              "tiene",
+              "tengas",
+              "tenga",
+              "tienes"
+            ],
+            "answer": 3,
+            "explanationJa": "注意！creo que（肯定）の後は直説法です。tienes が正解。no creo que なら接続法 tengas になります。"
+          },
+          {
+            "prompt": "No es verdad que ___ fácil. (ser)",
+            "options": [
+              "será",
+              "es",
+              "sea",
+              "fue"
+            ],
+            "answer": 2,
+            "explanationJa": "否定表現（no es verdad que）+ 接続法。「簡単だというのは本当ではない」。"
+          },
+          {
+            "prompt": "Que te ___ bien el examen 🤞 (ir)",
+            "options": [
+              "vas",
+              "vaya",
+              "irá",
+              "va"
+            ],
+            "answer": 1,
+            "explanationJa": "Que + 接続法で「〜でありますように」。ir の接続法は vaya。試験前の激励表現。"
+          },
+          {
+            "prompt": "次の文で接続法が不要なのはどれ？",
+            "options": [
+              "Creo que es buena persona.",
+              "Quiero que vengas.",
+              "No creo que sea verdad.",
+              "Es posible que llueva."
+            ],
+            "answer": 0,
+            "explanationJa": "creo que（肯定の意見）の後は直説法。「良い人だと思う」は事実としての意見なので直説法 es を使います。他はすべて接続法が必要。"
+          },
+          {
+            "prompt": "Me molesta que ___ tanto ruido. (hacer, ellos)",
+            "options": [
+              "hace",
+              "haga",
+              "hagan",
+              "hacen"
+            ],
+            "answer": 2,
+            "explanationJa": "感情（me molesta que）+ 接続法。hacer の接続法 ellos 形は hagan。「彼らがうるさくて迷惑だ」。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Espero que tú ___ un buen viaje. (tener)",
+            "answer": "tengas",
+            "options": [
+              "tienes",
+              "tengas",
+              "tenga",
+              "tendrás"
+            ],
+            "explanationJa": "esperar que の後は接続法。tener の接続法 tú 形は tengas です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Es importante que nosotros ___ a tiempo. (llegar)",
+            "answer": "lleguemos",
+            "options": [
+              "llegamos",
+              "llegar",
+              "lleguen",
+              "lleguemos"
+            ],
+            "explanationJa": "es importante que の後は接続法。llegar の接続法 nosotros 形は lleguemos（g→gu の綴り変化）。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "No creo que ellos ___ la verdad. (decir)",
+            "answer": "digan",
+            "options": [
+              "digan",
+              "digan",
+              "dicen",
+              "dirán"
+            ],
+            "explanationJa": "否定の意見（no creo que）の後は接続法。decir の接続法 ellos 形は digan。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Me molesta que él siempre ___ tarde. (llegar)",
+            "answer": "llegue",
+            "options": [
+              "llega",
+              "llegué",
+              "llegaría",
+              "llegue"
+            ],
+            "explanationJa": "感情表現（me molesta que）の後は接続法。llegar の接続法 él 形は llegue。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Ojalá ___ buen tiempo este fin de semana. (hacer)",
+            "answer": "haga",
+            "options": [
+              "hace",
+              "haga",
+              "hará",
+              "hacía"
+            ],
+            "explanationJa": "ojalá の後は必ず接続法。hacer の接続法は haga。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Necesito que me ___ con la mudanza. (ayudar, tú)",
+            "answer": "ayudes",
+            "options": [
+              "ayudas",
+              "ayude",
+              "ayudes",
+              "ayudarás"
+            ],
+            "explanationJa": "necesitar que の後は接続法。ayudar の接続法 tú 形は ayudes。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Es posible que María no ___ a la fiesta. (venir)",
+            "answer": "venga",
+            "options": [
+              "venga",
+              "viene",
+              "viniera",
+              "vendrá"
+            ],
+            "explanationJa": "es posible que の後は接続法。venir の接続法は venga。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Prefiero que tú ___ en casa esta noche. (quedarse)",
+            "answer": "te quedes",
+            "options": [
+              "te quedas",
+              "te quedarás",
+              "quedarte",
+              "te quedes"
+            ],
+            "explanationJa": "preferir que の後は接続法。quedarse の接続法 tú 形は te quedes。再帰代名詞の位置に注意。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Dudo que el profesor ___ la clase mañana. (cancelar)",
+            "answer": "cancele",
+            "options": [
+              "cancele",
+              "cancela",
+              "cancelará",
+              "canceló"
+            ],
+            "explanationJa": "dudar que の後は接続法。cancelar の接続法 él 形は cancele。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Es mejor que nosotros ___ temprano. (salir)",
+            "answer": "salgamos",
+            "options": [
+              "saldremos",
+              "salimos",
+              "salgamos",
+              "salgan"
+            ],
+            "explanationJa": "es mejor que の後は接続法。salir の接続法 nosotros 形は salgamos（salgo → salg-）。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Es necesario que estudias más para el examen.",
+            "answer": "Es necesario que estudies más para el examen.",
+            "explanationJa": "es necesario que の後は接続法。estudias は直説法。正しくは estudies（接続法 tú 形）。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Ojalá viene mi amigo a la cena.",
+            "answer": "Ojalá venga mi amigo a la cena.",
+            "explanationJa": "ojalá の後は必ず接続法。viene は直説法。正しくは venga。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Me alegra que estás aquí conmigo.",
+            "answer": "Me alegra que estés aquí conmigo.",
+            "explanationJa": "感情表現（me alegra que）の後は接続法。estás は直説法、正しくは estés。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "No pienso que este restaurante es bueno.",
+            "answer": "No pienso que este restaurante sea bueno.",
+            "explanationJa": "否定の意見（no pienso que）の後は接続法。es は直説法、正しくは sea。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Quiero que mis hijos van a la universidad.",
+            "answer": "Quiero que mis hijos vayan a la universidad.",
+            "explanationJa": "querer que の後は接続法。van は直説法。ir の接続法 ellos 形は vayan。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次の文で接続法が不要なのはどれ？",
+            "options": [
+              "Creo que tiene razón.",
+              "Es posible que llueva.",
+              "Me alegra que vengas.",
+              "Dudo que sepa la respuesta."
+            ],
+            "answer": 0,
+            "explanationJa": "creo que（肯定の意見）の後は直説法。否定（no creo que）なら接続法になりますが、肯定は直説法です。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「試験に受かるといいな」を正しく訳すと？",
+            "options": [
+              "Ojalá apruebo el examen.",
+              "Ojalá aprobé el examen.",
+              "Ojalá apruebe el examen.",
+              "Ojalá aprobaré el examen."
+            ],
+            "answer": 2,
+            "explanationJa": "ojalá + 接続法現在で実現可能な願望を表します。apruebe は aprobar の接続法。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Me sorprende que ___」の空欄に入れるべき動詞形は？（saber, tú）",
+            "options": [
+              "saber",
+              "sabes",
+              "sepas",
+              "supiste"
+            ],
+            "answer": 2,
+            "explanationJa": "感情表現（me sorprende que）の後は接続法。saber の接続法 tú 形は sepas（不規則）。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "hablar の接続法現在 nosotros 形はどれ？",
+            "options": [
+              "hablen",
+              "hablemos",
+              "habléis",
+              "hablamos"
+            ],
+            "answer": 1,
+            "explanationJa": "-ar 動詞の接続法は -e 系の語尾。nosotros は -emos → hablemos。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次のうち、接続法の不規則動詞の組み合わせが正しいのはどれ？",
+            "options": [
+              "ser→sea, ir→va, saber→sabe",
+              "ser→sea, ir→vaya, saber→sepa",
+              "ser→sea, ir→vaya, saber→saba",
+              "ser→es, ir→vaya, saber→sepa"
+            ],
+            "answer": 1,
+            "explanationJa": "ser→sea、ir→vaya、saber→sepa。3つとも完全不規則で丸暗記が必要です。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「彼女が幸せであることを願っている」",
+            "answer": "Espero que ella sea feliz.",
+            "acceptableAnswers": [
+              "Espero que sea feliz.",
+              "Deseo que ella sea feliz."
+            ],
+            "explanationJa": "esperar que + 接続法。ser の接続法は sea。feliz は性数変化なし。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「先生は私たちにもっとスペイン語を練習するよう要求している」",
+            "answer": "El profesor exige que practiquemos más español.",
+            "acceptableAnswers": [
+              "El profesor nos exige que practiquemos más español.",
+              "La profesora exige que practiquemos más español."
+            ],
+            "explanationJa": "exigir que + 接続法。practicar の接続法 nosotros 形は practiquemos（c→qu の綴り変化）。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「雨が降らないといいのに」",
+            "answer": "Ojalá no llueva.",
+            "acceptableAnswers": [
+              "Ojalá que no llueva.",
+              "Espero que no llueva."
+            ],
+            "explanationJa": "ojalá + 接続法。llover の接続法は llueva。否定は no を接続法の前に置きます。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "直説法→接続法に変換: Creo que es verdad. → No creo que ___.",
+            "answer": "No creo que sea verdad.",
+            "explanationJa": "creo que（直説法 es）→ no creo que（接続法 sea）。否定になると接続法に切り替わります。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "2つの文を1つに: Quiero + Tú vienes a mi casa. → Quiero que ___.",
+            "answer": "Quiero que vengas a mi casa.",
+            "explanationJa": "主語が2人（yo quiero / tú vienes）で que でつなぐとき、que の後ろは接続法。venir の接続法 tú 形は vengas。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "接続法は「願望・感情・疑い・命令・可能性」を表すときに使う",
+      "作り方：直説法 yo の形から -o を取り、-ar は -e系、-er/-ir は -a系の語尾をつける",
+      "重要な不規則形：sea（ser）、esté（estar）、vaya（ir）、haya（haber）、sepa（saber）、dé（dar）",
+      "ojalá の後は必ず接続法",
+      "creo que は直説法、no creo que は接続法（否定で切り替わる）",
+      "日本語には接続法がないため、意識的に使い分ける練習が必要"
+    ]
+  }
+}

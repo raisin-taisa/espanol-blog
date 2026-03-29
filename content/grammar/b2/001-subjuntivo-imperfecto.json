@@ -1,0 +1,560 @@
+{
+  "id": "b2-grammar-001",
+  "slug": "subjuntivo-imperfecto",
+  "titleJa": "接続法過去（不完了）",
+  "titleEs": "Subjuntivo Imperfecto",
+  "level": "b2",
+  "sortOrder": 1,
+  "hasRegionalVariants": true,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "接続法過去とは？「もしも」の世界を語る動詞形",
+        "bodyJa": "接続法現在は「今の願望・感情」を表しましたが、接続法過去（不完了）は「過去の願望」や「現実に反する仮定」を表します。\n\n日本語で言うと「〜したらいいのに」「もし〜だったら」に近いニュアンスです。\n\n主な用途は3つあります。\n\n1. 過去の時点での願望・感情・疑い\n   Mi madre quería que yo estudiara medicina.\n   （母は私に医学を勉強してほしかった）\n\n2. 現在の非現実的な仮定（Si節）\n   Si tuviera dinero, viajaría por el mundo.\n   （お金があったら、世界を旅するのに）\n\n3. 丁寧な表現・控えめな願望\n   Quisiera un café, por favor.\n   （コーヒーをいただきたいのですが）\n\nB1で学んだ接続法現在と組み合わせることで、表現の幅が一気に広がります。",
+        "bodyEs": "El subjuntivo imperfecto expresa deseos pasados, situaciones hipotéticas y peticiones corteses. Tiene dos formas: -ra y -se."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "活用の作り方：点過去3人称複数がベース",
+        "bodyJa": "接続法過去の作り方は意外とシンプルです。\n\n「点過去（pretérito indefinido）の ellos 形から -ron を取って、-ra 語尾をつける」\n\nこれだけです。\n\n例：hablar → hablaron → habla- → hablara\n例：comer → comieron → comie- → comiera\n例：vivir → vivieron → vivie- → viviera\n\n不規則動詞も同じルールです。\n例：tener → tuvieron → tuvie- → tuviera\n例：ir/ser → fueron → fue- → fuera\n例：decir → dijeron → dije- → dijera\n\n点過去の ellos 形を覚えていれば、接続法過去は自動的に作れます。\nだから点過去をしっかり覚えることが、ここでも効いてきます。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "-ra形と-se形：どちらを使う？",
+        "bodyJa": "接続法過去には2つの形があります。\n\n-ra形：hablara, comiera, viviera\n-se形：hablase, comiese, viviese\n\n意味はまったく同じです。\n\nただし実際の使用頻度には大きな差があります。\n\n・中南米：-ra形がほぼ100%。-se形はほとんど使われません。\n・スペイン：-ra形が主流。-se形は文学・法律文書・フォーマルな場面で使われることがあります。\n\nDELE B2の試験では両方出ますが、日常会話では-ra形だけ覚えれば十分です。\n\n日本語話者へのアドバイス：まず-ra形を完璧にして、-se形は「見たらわかる」レベルを目指しましょう。"
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "hablar（話す）",
+        "tense": "Subjuntivo Imperfecto (-ra)",
+        "forms": {
+          "yo": "hablara",
+          "tú": "hablaras",
+          "él/ella/usted": "hablara",
+          "nosotros/as": "habláramos",
+          "vosotros/as": "hablarais",
+          "ellos/ellas/ustedes": "hablaran"
+        },
+        "latamNote": "中南米では -ra形がほぼ100%使われます。-se形（hablase）はほとんど聞きません。",
+        "spainNote": "スペインでも -ra形が主流。-se形（hablase）はフォーマルな文書で使われることがあります。"
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "tener（持つ）",
+        "tense": "Subjuntivo Imperfecto (-ra)",
+        "forms": {
+          "yo": "tuviera",
+          "tú": "tuvieras",
+          "él/ella/usted": "tuviera",
+          "nosotros/as": "tuviéramos",
+          "vosotros/as": "tuvierais",
+          "ellos/ellas/ustedes": "tuvieran"
+        },
+        "latamNote": null,
+        "spainNote": null
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "ser/ir（である／行く）",
+        "tense": "Subjuntivo Imperfecto (-ra)",
+        "forms": {
+          "yo": "fuera",
+          "tú": "fueras",
+          "él/ella/usted": "fuera",
+          "nosotros/as": "fuéramos",
+          "vosotros/as": "fuerais",
+          "ellos/ellas/ustedes": "fueran"
+        },
+        "latamNote": null,
+        "spainNote": null
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Si tuviera más tiempo, aprendería japonés.",
+            "ja": "もっと時間があったら、日本語を習うのに。",
+            "noteJa": "Si + 接続法過去 + 条件法。現在の非現実的仮定の定番パターンです。"
+          },
+          {
+            "es": "Mi profesor quería que leyéramos un libro cada semana.",
+            "ja": "先生は毎週1冊本を読むよう望んでいた。",
+            "noteJa": "過去の願望。主節が過去形（quería）なので、que以下も接続法過去になります。"
+          },
+          {
+            "es": "Ojalá pudiera volar como un pájaro.",
+            "ja": "鳥のように空を飛べたらいいのに。",
+            "noteJa": "ojalá + 接続法過去 = 実現困難な願望。接続法現在なら実現可能な願望になります。"
+          },
+          {
+            "es": "Quisiera reservar una mesa para dos, por favor.",
+            "ja": "2名でテーブルを予約したいのですが。",
+            "noteJa": "quisiera は querer の接続法過去。quiero より丁寧な表現になります。"
+          },
+          {
+            "es": "Si yo fuera tú, no aceptaría esa oferta.",
+            "ja": "もし私があなただったら、そのオファーは受けないだろう。",
+            "noteJa": "Si + 接続法過去のfuera（ser）。「もし私が〜だったら」という定番表現。"
+          },
+          {
+            "es": "No había nadie que supiera la respuesta.",
+            "ja": "答えを知っている人は誰もいなかった。",
+            "noteJa": "過去の不存在。「〜する人がいなかった」は接続法過去を使います。"
+          },
+          {
+            "es": "Me pidió que le ayudara con la mudanza.",
+            "ja": "引っ越しを手伝ってくれと頼まれた。",
+            "noteJa": "過去の依頼。pidió（点過去）+ que + 接続法過去。"
+          },
+          {
+            "es": "Ojalá existiera una máquina del tiempo.",
+            "ja": "タイムマシンがあったらいいのに。",
+            "noteJa": "ojalá + 接続法過去。非現実の願望。ドラえもんの世界ですね。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Si tendría dinero, viajaría.",
+            "correct": "Si tuviera dinero, viajaría.",
+            "whyJa": "Si節の中では条件法（tendría）は使えません。接続法過去（tuviera）を使います。日本語話者は「〜だろう」の感覚で条件法を入れがちですが、Si節は必ず接続法です。"
+          },
+          {
+            "wrong": "Quería que vienes a mi casa.",
+            "correct": "Quería que vinieras a mi casa.",
+            "whyJa": "主節が過去形（quería）のとき、que以下は接続法過去になります。接続法現在（vengas）でもなく、直説法現在（vienes）でもありません。時制の一致が必要です。"
+          },
+          {
+            "wrong": "Ojalá puedo hablar español perfectamente.",
+            "correct": "Ojalá pudiera hablar español perfectamente.",
+            "whyJa": "「完璧に話せたらいいのに」は非現実の願望なので、ojalá + 接続法過去。接続法現在（pueda）だと「話せるといいな」（まだ可能性がある）になります。"
+          },
+          {
+            "wrong": "Si fuera rico, compro una casa grande.",
+            "correct": "Si fuera rico, compraría una casa grande.",
+            "whyJa": "Si + 接続法過去の帰結節は条件法（compraría）を使います。直説法現在（compro）は使えません。Si節と帰結節のセットで覚えましょう。"
+          },
+          {
+            "wrong": "Me gustaba que el profesor explica bien.",
+            "correct": "Me gustaba que el profesor explicara bien.",
+            "whyJa": "感情表現（me gustaba que）+ 過去の文脈では接続法過去が必要。直説法は使えません。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！接続法過去の日常表現",
+        "items": [
+          {
+            "es": "Ojalá me tocara la lotería y pudiera dejar de trabajar 😩💸",
+            "ja": "宝くじ当たって仕事辞められたらいいのに😩💸",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "ojalá + 接続法過去の連続使用。非現実の願望。SNSでよく見る愚痴パターンです。"
+          },
+          {
+            "es": "Si pudiera volver al pasado, estudiaría más en la universidad.",
+            "ja": "過去に戻れたら、大学でもっと勉強するのに。",
+            "source": "conversation",
+            "sourceLabel": "友人との会話",
+            "context": "人生を振り返る場面",
+            "noteJa": "Si + 接続法過去 + 条件法。過去への後悔を語る定番表現。"
+          },
+          {
+            "es": "Quisiera hablar con el encargado, por favor.",
+            "ja": "責任者とお話ししたいのですが。",
+            "source": "conversation",
+            "sourceLabel": "店舗でのクレーム場面",
+            "context": "丁寧だが毅然とした態度で",
+            "noteJa": "quisiera（querer の接続法過去）は丁寧な依頼の定番。quiero より格段に丁寧です。"
+          },
+          {
+            "es": "Si yo fuera presidente, lo primero que haría sería subir el salario mínimo.",
+            "ja": "もし大統領になったら、最初にすることは最低賃金を上げることだ。",
+            "source": "conversation",
+            "sourceLabel": "友人同士の政治談議",
+            "noteJa": "Si fuera... は「もし自分が〜だったら」の定番。カフェでの議論でよく使います。"
+          },
+          {
+            "es": "¡Como si fuera tan fácil! 😤",
+            "ja": "そんなに簡単なわけないでしょ！😤",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "como si + 接続法過去は「まるで〜であるかのように」。皮肉や反論によく使います。"
+          },
+          {
+            "es": "Buscaba un apartamento que tuviera terraza y estuviera cerca del centro.",
+            "ja": "テラスがあって中心部に近いアパートを探していた。",
+            "source": "conversation",
+            "sourceLabel": "不動産屋での会話",
+            "context": "物件探しの場面",
+            "noteJa": "過去の不特定なもの探し。「〜するような（物）」は接続法過去。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "Si ___ más dinero, compraría un coche nuevo. (tener, yo)",
+            "options": [
+              "tenía",
+              "tuviera",
+              "tenga",
+              "tendría"
+            ],
+            "answer": 1,
+            "explanationJa": "Si節の中は接続法過去。tener の接続法過去 yo 形は tuviera です。tendría（条件法）をSi節に入れるのは間違い。"
+          },
+          {
+            "prompt": "Ojalá ___ volar. (poder, yo)",
+            "options": [
+              "puedo",
+              "pudiera",
+              "pueda",
+              "podría"
+            ],
+            "answer": 1,
+            "explanationJa": "非現実の願望は ojalá + 接続法過去。poder の接続法過去は pudiera。pueda（接続法現在）だと実現可能な願望になります。"
+          },
+          {
+            "prompt": "Mi madre quería que yo ___ médico. (ser)",
+            "options": [
+              "fuera",
+              "soy",
+              "sería",
+              "sea"
+            ],
+            "answer": 0,
+            "explanationJa": "主節が過去（quería）なので、que以下は接続法過去。ser の接続法過去は fuera。"
+          },
+          {
+            "prompt": "___ un café con leche, por favor. (querer, yo)",
+            "options": [
+              "Querría",
+              "Quiero",
+              "Quisiera",
+              "Quiera"
+            ],
+            "answer": 2,
+            "explanationJa": "丁寧な注文は quisiera（querer の接続法過去）。quiero より格段に丁寧です。"
+          },
+          {
+            "prompt": "Hablaba como si ___ un experto. (ser, él)",
+            "options": [
+              "fue",
+              "es",
+              "fuera",
+              "sea"
+            ],
+            "answer": 2,
+            "explanationJa": "como si の後は必ず接続法過去。「まるで専門家であるかのように話した」。"
+          },
+          {
+            "prompt": "Si yo ___ tú, no haría eso. (ser)",
+            "options": [
+              "sería",
+              "soy",
+              "fuera",
+              "sea"
+            ],
+            "answer": 2,
+            "explanationJa": "「もし私があなただったら」= Si yo fuera tú。Si節は接続法過去。"
+          },
+          {
+            "prompt": "Le pedí que me ___ la verdad. (decir)",
+            "options": [
+              "diga",
+              "dijera",
+              "diría",
+              "dice"
+            ],
+            "answer": 1,
+            "explanationJa": "過去の依頼。pedí（点過去）+ que + 接続法過去。decir の接続法過去は dijera。"
+          },
+          {
+            "prompt": "No había ningún restaurante que ___ comida japonesa. (servir)",
+            "options": [
+              "servía",
+              "sirviera",
+              "sirve",
+              "sirva"
+            ],
+            "answer": 1,
+            "explanationJa": "過去の文脈で不特定のものを表す場合、接続法過去を使います。servir の接続法過去は sirviera。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Si ___ más tiempo, estudiaría un tercer idioma. (tener, yo)",
+            "answer": "tuviera",
+            "options": [
+              "tenga",
+              "tuviera",
+              "tengo",
+              "tendría"
+            ],
+            "explanationJa": "Si節の中は接続法過去。tener の接続法過去は tuviera（tuvieron → tuvie- → tuviera）。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Mi jefe me pidió que ___ el informe antes del viernes. (terminar)",
+            "answer": "terminara",
+            "options": [
+              "terminara",
+              "terminaría",
+              "termine",
+              "termino"
+            ],
+            "explanationJa": "過去の依頼。主節が過去（pidió）なので que 以下は接続法過去 terminara。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Ojalá ___ volar como los pájaros. (poder, yo)",
+            "answer": "pudiera",
+            "options": [
+              "podría",
+              "puedo",
+              "pueda",
+              "pudiera"
+            ],
+            "explanationJa": "ojalá + 接続法過去 = 実現困難な願望。poder の接続法過去は pudiera。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ reservar una habitación doble, por favor. (querer, yo)",
+            "answer": "Quisiera",
+            "options": [
+              "Querría",
+              "Quiero",
+              "Quisiera",
+              "Quiera"
+            ],
+            "explanationJa": "quisiera は querer の接続法過去。quiero より格段に丁寧な依頼表現。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Hablaba como si ___ la solución a todo. (saber, él)",
+            "answer": "supiera",
+            "options": [
+              "sabe",
+              "sepa",
+              "supiera",
+              "sabía"
+            ],
+            "explanationJa": "como si の後は必ず接続法過去。saber の接続法過去は supiera。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "No había nadie que ___ hablar japonés en esa empresa. (poder)",
+            "answer": "pudiera",
+            "options": [
+              "pueda",
+              "puede",
+              "podía",
+              "pudiera"
+            ],
+            "explanationJa": "過去の不存在（no había nadie que）+ 接続法過去。pudiera。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Mi madre siempre quería que yo ___ médico. (ser)",
+            "answer": "fuera",
+            "options": [
+              "soy",
+              "sería",
+              "fuera",
+              "sea"
+            ],
+            "explanationJa": "過去の願望。主節が過去（quería）なので接続法過去 fuera。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si yo ___ tú, no aceptaría esa oferta tan baja. (ser)",
+            "answer": "fuera",
+            "options": [
+              "soy",
+              "fuera",
+              "sería",
+              "sea"
+            ],
+            "explanationJa": "Si fuera tú = 「もし私が君なら」。Si節は接続法過去。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Buscaba un apartamento que ___ cerca del centro y ___ terraza. (estar / tener)",
+            "answer": "estuviera / tuviera",
+            "options": [
+              "está / tiene",
+              "estaría / tendría",
+              "esté / tenga",
+              "estuviera / tuviera"
+            ],
+            "explanationJa": "過去の不特定の物探し → 接続法過去。estar → estuviera、tener → tuviera。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Ojalá ___ una máquina del tiempo para volver a mi juventud. (existir)",
+            "answer": "existiera",
+            "options": [
+              "existe",
+              "exista",
+              "existiría",
+              "existiera"
+            ],
+            "explanationJa": "ojalá + 接続法過去 = 非現実の願望。existir の接続法過去は existiera。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Si tendría dinero, viajaría por todo el mundo.",
+            "answer": "Si tuviera dinero, viajaría por todo el mundo.",
+            "explanationJa": "Si節に条件法（tendría）は使えません。接続法過去 tuviera が正しい。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Quería que vienes a mi fiesta de cumpleaños.",
+            "answer": "Quería que vinieras a mi fiesta de cumpleaños.",
+            "explanationJa": "主節が過去（quería）なので que 以下は接続法過去 vinieras。直説法 vienes は不可。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Ojalá puedo hablar cinco idiomas perfectamente.",
+            "answer": "Ojalá pudiera hablar cinco idiomas perfectamente.",
+            "explanationJa": "5言語を完璧に話すのは非現実的な願望 → ojalá + 接続法過去 pudiera。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Me alegré de que mi amigo viene a visitarme.",
+            "answer": "Me alegré de que mi amigo viniera a visitarme.",
+            "explanationJa": "感情（me alegré）+ 過去の文脈 → 接続法過去 viniera。直説法は使えない。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Si fuera rico, compro una isla privada.",
+            "answer": "Si fuera rico, compraría una isla privada.",
+            "explanationJa": "Si + 接続法過去の帰結節は条件法。現在形 compro ではなく compraría。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "接続法過去の作り方はどれ？",
+            "options": [
+              "不定詞に -ra 語尾をつける",
+              "線過去に -ra をつける",
+              "直説法現在 yo 形から -o を取り -ra 語尾をつける",
+              "点過去 ellos 形から -ron を取り -ra 語尾をつける"
+            ],
+            "answer": 3,
+            "explanationJa": "接続法過去は点過去 ellos 形がベース。hablaron → habla- → hablara。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "-ra形と-se形の関係について正しいのはどれ？",
+            "options": [
+              "-ra形は非現実、-se形は過去の願望",
+              "意味は同じ。日常会話では-ra形を使えば十分",
+              "中南米では-se形が主流",
+              "-se形の方が口語的"
+            ],
+            "answer": 1,
+            "explanationJa": "-ra形と-se形は完全に同義。中南米では-ra形がほぼ100%。-se形は文学・法律文書で見られる程度。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「como si + 接続法過去」はどんな意味？",
+            "options": [
+              "〜するために",
+              "まるで〜であるかのように",
+              "〜した後で",
+              "〜する前に"
+            ],
+            "answer": 1,
+            "explanationJa": "como si + 接続法過去 = 「まるで〜であるかのように」。皮肉や比喩に使う。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "quisiera と quiero の違いは？",
+            "options": [
+              "quiero の方が丁寧",
+              "文法的に同じ",
+              "意味が違う",
+              "quisiera の方が丁寧"
+            ],
+            "answer": 3,
+            "explanationJa": "quisiera（querer の接続法過去）は quiero より格段に丁寧。レストランの注文や正式な依頼で使う。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "ojalá + 接続法現在と ojalá + 接続法過去の違いは？",
+            "options": [
+              "現在=丁寧、過去=カジュアル",
+              "違いはない",
+              "現在=実現可能な願望、過去=実現困難な願望",
+              "現在=未来、過去=過去"
+            ],
+            "answer": 2,
+            "explanationJa": "ojalá + 接続法現在（apruebe）= 「受かるといいな」（可能性あり）。ojalá + 接続法過去（pudiera）= 「〜できたらいいのに」（難しい）。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「もしスペイン語が完璧に話せたら、スペインで働くのに」",
+            "answer": "Si hablara español perfectamente, trabajaría en España.",
+            "acceptableAnswers": [
+              "Si pudiera hablar español perfectamente, trabajaría en España.",
+              "Si hablase español perfectamente, trabajaría en España."
+            ],
+            "explanationJa": "Si + 接続法過去 + 条件法。非現実の仮定。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「彼女は母親に医学を勉強するよう頼まれた」",
+            "answer": "Su madre le pidió que estudiara medicina.",
+            "acceptableAnswers": [
+              "Su madre le pidió que estudiase medicina.",
+              "La madre le pidió que estudiara medicina."
+            ],
+            "explanationJa": "過去の依頼。pidió（点過去）+ que + 接続法過去 estudiara。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「コーヒーを一杯いただきたいのですが」",
+            "answer": "Quisiera un café, por favor.",
+            "acceptableAnswers": [
+              "Quisiera tomar un café, por favor.",
+              "Quisiera pedir un café, por favor."
+            ],
+            "explanationJa": "quisiera = querer の接続法過去。丁寧な依頼の定番表現。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "接続法現在→接続法過去: Quiero que vengas. → Quería que ___.",
+            "answer": "Quería que vinieras.",
+            "explanationJa": "主節が過去（quería）になると que 以下も接続法過去に。vengas → vinieras。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "直説法→Si節の仮定文: No tengo dinero. No viajo. → Si ___.",
+            "answer": "Si tuviera dinero, viajaría.",
+            "explanationJa": "現実（お金がない→旅行しない）を非現実の仮定に変換。Si + 接続法過去 + 条件法。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "接続法過去は「過去の願望」「非現実の仮定」「丁寧な表現」に使う",
+      "作り方：点過去 ellos 形から -ron を取り、-ra/-ras/-ra/-ramos/-rais/-ran をつける",
+      "-ra形と-se形は意味が同じ。日常会話では-ra形を使えばOK",
+      "Si + 接続法過去 + 条件法のセットを丸ごと覚える（Si tuviera..., haría...）",
+      "como si の後は必ず接続法過去（como si fuera...）",
+      "quisiera は quiero より丁寧な依頼表現として頻繁に使われる",
+      "ojalá + 接続法過去 = 実現困難な願望、接続法現在 = 実現可能な願望"
+    ]
+  }
+}

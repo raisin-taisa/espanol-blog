@@ -1,0 +1,473 @@
+{
+  "id": "b2-grammar-002",
+  "slug": "condicional-compuesto",
+  "titleJa": "条件法複合（過去の仮定）",
+  "titleEs": "Condicional Compuesto",
+  "level": "b2",
+  "sortOrder": 2,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "条件法複合とは？「〜していただろう」の世界",
+        "bodyJa": "条件法複合は「habría + 過去分詞」の形で、「もし〜だったら、〜していただろう」という過去の非現実を表します。\n\n日本語の「〜していたのに」「〜しただろう」に相当します。\n\n条件法単純（haría）が「今〜するのに」なら、条件法複合（habría hecho）は「あのとき〜していたのに」です。\n\n基本構造：\nhabría + 過去分詞\n\n例：\nHabría viajado a Japón, pero no tenía dinero.\n（日本に旅行していただろうが、お金がなかった）\n\nこの時制は DELE B2 で非常に重要です。特に Si 節（第3条件文）とセットで出題されます。"
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "hablar（話す）",
+        "tense": "Condicional Compuesto",
+        "forms": {
+          "yo": "habría hablado",
+          "tú": "habrías hablado",
+          "él/ella/usted": "habría hablado",
+          "nosotros/as": "habríamos hablado",
+          "vosotros/as": "habríais hablado",
+          "ellos/ellas/ustedes": "habrían hablado"
+        },
+        "latamNote": null,
+        "spainNote": null
+      },
+      {
+        "type": "explanation",
+        "headingJa": "不規則な過去分詞に注意",
+        "bodyJa": "条件法複合で注意すべきは、habría の活用ではなく過去分詞の不規則形です。\n\nhabría は規則的に活用しますが、過去分詞に不規則なものがあります。\n\n・hacer → hecho（habría hecho：していただろう）\n・decir → dicho（habría dicho：言っていただろう）\n・escribir → escrito（habría escrito：書いていただろう）\n・ver → visto（habría visto：見ていただろう）\n・volver → vuelto（habría vuelto：戻っていただろう）\n・poner → puesto（habría puesto：置いていただろう）\n・abrir → abierto（habría abierto：開けていただろう）\n・romper → roto（habría roto：壊していただろう）\n\nこれらは現在完了（he hecho）で既に習った形と同じです。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "条件法複合の3つの使い方",
+        "bodyJa": "条件法複合の主な使い方は3つです。\n\n1. 過去の非現実の帰結（Si節とセット）\n   Si hubiera estudiado más, habría aprobado.\n   （もっと勉強していたら、合格していただろう）\n\n2. 過去の推量（「〜していただろう」）\n   Habrían llegado a las tres.\n   （3時に着いていただろう）\n\n3. 過去の後悔・残念な気持ち\n   Habría preferido quedarme en casa.\n   （家にいた方がよかったのに）\n\n最も重要なのは1番目のSi節パターンです。\nSi + 接続法過去完了, + 条件法複合\nこの構文を丸ごとセットで覚えましょう。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Si hubiera sabido, habría ido a la fiesta.",
+            "ja": "知っていたら、パーティーに行っていたのに。",
+            "noteJa": "第3条件文の典型パターン。Si + 接続法過去完了 + 条件法複合。"
+          },
+          {
+            "es": "Habría comprado el billete, pero estaba agotado.",
+            "ja": "チケットを買っていただろうが、売り切れだった。",
+            "noteJa": "条件なしで「〜していたのに」。pero で理由を補足。"
+          },
+          {
+            "es": "¿Tú habrías aceptado esa oferta de trabajo?",
+            "ja": "君だったらあの仕事のオファーを受けていた？",
+            "noteJa": "過去の仮定について相手に聞く表現。"
+          },
+          {
+            "es": "Yo nunca habría dicho eso.",
+            "ja": "私だったら絶対にそんなこと言わなかった。",
+            "noteJa": "「自分ならしなかった」と意見を述べる。dicho は decir の不規則過去分詞。"
+          },
+          {
+            "es": "Habríamos llegado antes si no hubiera habido tanto tráfico.",
+            "ja": "渋滞がなければもっと早く着いていたのに。",
+            "noteJa": "Si節が後ろに来るパターン。語順は自由です。"
+          },
+          {
+            "es": "Sin tu ayuda, no habría podido terminar el proyecto.",
+            "ja": "あなたの助けがなければ、プロジェクトを終えられなかっただろう。",
+            "noteJa": "sin + 名詞 で Si節の代わりをする表現。フォーマルな場面で使えます。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Si habría sabido, habría ido.",
+            "correct": "Si hubiera sabido, habría ido.",
+            "whyJa": "Si節の中に条件法（habría）は入れません。Si節は必ず接続法過去完了（hubiera sabido）。日本語の「知っていたら」のニュアンスで条件法を使いたくなりますが、文法的に不可です。"
+          },
+          {
+            "wrong": "Habría gustado ir a la fiesta.",
+            "correct": "Me habría gustado ir a la fiesta.",
+            "whyJa": "gustar は間接目的語（me, te, le...）が必要。日本語の「行きたかった」の感覚で me を忘れがちです。"
+          },
+          {
+            "wrong": "Si hubiera estudiado, habría aprobaba.",
+            "correct": "Si hubiera estudiado, habría aprobado.",
+            "whyJa": "条件法複合は habría + 過去分詞。aprobaba（線過去）ではなく aprobado（過去分詞）です。"
+          },
+          {
+            "wrong": "Habría hago más deporte.",
+            "correct": "Habría hecho más deporte.",
+            "whyJa": "hacer の過去分詞は hecho（不規則）。hago は直説法現在の yo 形で、過去分詞ではありません。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！後悔と仮定の日常表現",
+        "items": [
+          {
+            "es": "Si hubiera estudiado programación, ahora sería rico 💻😭",
+            "ja": "プログラミングを勉強していたら、今頃金持ちなのに💻😭",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "混合条件文！Si + 接続法過去完了（過去の仮定）+ 条件法単純（現在の帰結）。SNSでよく見る後悔ツイート。"
+          },
+          {
+            "es": "Yo no habría hecho eso ni loco.",
+            "ja": "俺だったら絶対にそんなことしなかった。",
+            "source": "conversation",
+            "sourceLabel": "友人同士の会話",
+            "context": "誰かの行動を批判する場面",
+            "noteJa": "ni loco は「たとえ頭がおかしくても」= 「絶対に〜ない」。口語的な強調表現。"
+          },
+          {
+            "es": "Habría sido mejor quedarnos en casa...",
+            "ja": "家にいた方がよかったのに...",
+            "source": "conversation",
+            "sourceLabel": "恋人との会話",
+            "context": "外出先で嫌な目にあった場面",
+            "noteJa": "habría sido mejor + 不定詞 = 「〜した方がよかっただろうに」。後悔の定番表現。"
+          },
+          {
+            "es": "¿Tú habrías perdonado algo así? Yo no, desde luego.",
+            "ja": "あなただったらこんなこと許した？私は無理だけど。",
+            "source": "conversation",
+            "sourceLabel": "友人との相談場面",
+            "noteJa": "相手に仮定の質問を投げかけるパターン。desde luego は「もちろん」。"
+          },
+          {
+            "es": "Con más tiempo, habríamos preparado algo mejor para la presentación.",
+            "ja": "もっと時間があったら、プレゼンをもっと良く準備できたのに。",
+            "source": "conversation",
+            "sourceLabel": "職場での振り返り",
+            "context": "プレゼン後の反省会",
+            "noteJa": "con + 名詞 = Si hubiéramos tenido の簡略形。ビジネスシーンで頻出。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "Si hubiera tenido tiempo, ___ al museo. (ir, yo)",
+            "options": [
+              "había ido",
+              "habría ido",
+              "hubiera ido",
+              "iría"
+            ],
+            "answer": 1,
+            "explanationJa": "Si + 接続法過去完了の帰結節は条件法複合。habría ido が正解。"
+          },
+          {
+            "prompt": "Yo nunca ___ eso. (decir)",
+            "options": [
+              "habría diciendo",
+              "habría dicho",
+              "habría decido",
+              "habría decir"
+            ],
+            "answer": 1,
+            "explanationJa": "decir の過去分詞は dicho（不規則）。habría dicho = 「言っていただろう」。"
+          },
+          {
+            "prompt": "___ mejor quedarnos en casa. (ser)",
+            "options": [
+              "Habría ser",
+              "Habría sido",
+              "Había sido",
+              "Habría estado"
+            ],
+            "answer": 1,
+            "explanationJa": "「〜した方がよかっただろうに」= habría sido mejor + 不定詞。"
+          },
+          {
+            "prompt": "Sin tu ayuda, no ___ el examen. (aprobar, yo)",
+            "options": [
+              "habría aprobado",
+              "había aprobado",
+              "aprobé",
+              "aprobaría"
+            ],
+            "answer": 0,
+            "explanationJa": "sin + 名詞は仮定の条件を示します。帰結は条件法複合。"
+          },
+          {
+            "prompt": "¿Tú ___ ese trabajo? (aceptar)",
+            "options": [
+              "habrías aceptado",
+              "habrías aceptar",
+              "aceptarías",
+              "has aceptado"
+            ],
+            "answer": 0,
+            "explanationJa": "「君だったら受けていた？」過去の仮定の質問。条件法複合を使います。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Si hubiera tenido tiempo, ___ al museo. (ir, yo)",
+            "answer": "habría ido",
+            "options": [
+              "había ido",
+              "habría ido",
+              "hubiera ido",
+              "iría"
+            ],
+            "explanationJa": "第3条件文の帰結節は条件法複合。habría + 過去分詞（ido）。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Yo nunca ___ algo así. (hacer)",
+            "answer": "habría hecho",
+            "options": [
+              "habría hago",
+              "habría hecho",
+              "haría",
+              "habría hacido"
+            ],
+            "explanationJa": "「私だったら絶対にそんなことしなかった」。hacer の過去分詞は hecho（不規則）。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Sin tu ayuda, no ___ este proyecto a tiempo. (terminar, nosotros)",
+            "answer": "habríamos terminado",
+            "options": [
+              "terminamos",
+              "terminaríamos",
+              "habríamos terminado",
+              "habíamos terminado"
+            ],
+            "explanationJa": "sin + 名詞は Si節の代わり。帰結は条件法複合 habríamos terminado。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¿Tú ___ ese trabajo en otro país? (aceptar)",
+            "answer": "habrías aceptado",
+            "options": [
+              "aceptarías",
+              "has aceptado",
+              "habrías aceptado",
+              "aceptaste"
+            ],
+            "explanationJa": "「君だったらその仕事を受けていた？」過去の仮定の質問。条件法複合。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si no hubiera llovido, ___ a la playa. (ir, nosotros)",
+            "answer": "habríamos ido",
+            "options": [
+              "iríamos",
+              "habíamos ido",
+              "fuimos",
+              "habríamos ido"
+            ],
+            "explanationJa": "第3条件文。Si + 接続法過去完了の帰結は条件法複合 habríamos ido。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ mejor quedarnos en casa anoche. (ser)",
+            "answer": "Habría sido",
+            "options": [
+              "Fue",
+              "Sería",
+              "Había sido",
+              "Habría sido"
+            ],
+            "explanationJa": "「家にいた方がよかっただろうに」。habría sido mejor + 不定詞。後悔の定番表現。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si hubiera sabido que estabas enfermo, te ___ una sopa. (preparar, yo)",
+            "answer": "habría preparado",
+            "options": [
+              "prepararía",
+              "preparé",
+              "habría preparado",
+              "había preparado"
+            ],
+            "explanationJa": "第3条件文。知っていたら（過去の仮定）→ スープを作っていた（条件法複合）。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Con más dinero, ___ un coche mejor. (comprar, yo)",
+            "answer": "habría comprado",
+            "options": [
+              "había comprado",
+              "compré",
+              "compraría",
+              "habría comprado"
+            ],
+            "explanationJa": "con + 名詞 = Si hubiera tenido の簡略形。過去の仮定 → 条件法複合。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Ella ___ venir, pero perdió el vuelo. (querer)",
+            "answer": "habría querido",
+            "options": [
+              "habría querido",
+              "querría",
+              "quiso",
+              "había querido"
+            ],
+            "explanationJa": "「来たかっただろうが」。条件法複合で過去の非実現の意志を表す。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si hubiera estudiado programación, ahora ___ un buen sueldo. (tener, yo)",
+            "answer": "tendría",
+            "options": [
+              "tuviera",
+              "habría tenido",
+              "tendría",
+              "tengo"
+            ],
+            "explanationJa": "混合条件文！Si + 接続法過去完了（過去の仮定）+ 条件法単純（現在の帰結）。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Si habría estudiado más, habría aprobado el examen.",
+            "answer": "Si hubiera estudiado más, habría aprobado el examen.",
+            "explanationJa": "Si節に habría は入れません。Si節は接続法過去完了 hubiera estudiado。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Habría gustado ir a la fiesta de Pedro.",
+            "answer": "Me habría gustado ir a la fiesta de Pedro.",
+            "explanationJa": "gustar は間接目的語（me）が必要。「行きたかったのに」= me habría gustado。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Si hubiera sabido, habría decido la verdad.",
+            "answer": "Si hubiera sabido, habría dicho la verdad.",
+            "explanationJa": "decir の過去分詞は dicho（不規則）。decido は存在しない形。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Habría hago más ejercicio si hubiera tenido tiempo.",
+            "answer": "Habría hecho más ejercicio si hubiera tenido tiempo.",
+            "explanationJa": "hacer の過去分詞は hecho（不規則）。hago は直説法現在 yo 形で過去分詞ではない。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Si hubiera venido más temprano, habría vido el espectáculo.",
+            "answer": "Si hubiera venido más temprano, habría visto el espectáculo.",
+            "explanationJa": "ver の過去分詞は visto（不規則）。vido は存在しない形。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "条件法複合の構造はどれ？",
+            "options": [
+              "habría + 過去分詞",
+              "había + 過去分詞",
+              "haya + 過去分詞",
+              "hubiera + 過去分詞"
+            ],
+            "answer": 0,
+            "explanationJa": "条件法複合 = habría + 過去分詞。había は直説法過去完了、haya は接続法現在完了、hubiera は接続法過去完了。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Yo no habría hecho eso ni loco」の ni loco はどんな意味？",
+            "options": [
+              "絶対に〜ない（強い否定）",
+              "狂ったように",
+              "頭がおかしい",
+              "冗談で"
+            ],
+            "answer": 0,
+            "explanationJa": "ni loco = 「たとえ頭がおかしくても〜ない」= 「絶対にしなかった」。口語的な強い否定表現。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次の不規則過去分詞の組み合わせで正しいのはどれ？",
+            "options": [
+              "hacer→hecho, decir→decido, escribir→escrito",
+              "hacer→hacido, decir→decido, escribir→escribido",
+              "hacer→hacido, decir→dicho, escribir→escrito",
+              "hacer→hecho, decir→dicho, escribir→escrito"
+            ],
+            "answer": 3,
+            "explanationJa": "hacer→hecho、decir→dicho、escribir→escrito。3つとも不規則過去分詞。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Habríamos llegado antes si...」の si 以下にくるのは？",
+            "options": [
+              "no habría tanto tráfico",
+              "no hubiera habido tanto tráfico",
+              "no hay tanto tráfico",
+              "no hubo tanto tráfico"
+            ],
+            "answer": 1,
+            "explanationJa": "第3条件文。帰結が条件法複合なら Si節は接続法過去完了 hubiera habido。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Con más tiempo, habríamos preparado algo mejor.」の con más tiempo は何の簡略形？",
+            "options": [
+              "Si hubiéramos tenido más tiempo",
+              "Cuando tenemos más tiempo",
+              "Si tenemos más tiempo",
+              "Si tuviéramos más tiempo"
+            ],
+            "answer": 0,
+            "explanationJa": "con + 名詞 = Si + 接続法過去完了 の簡略形。過去の非実現の条件を示す。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「知っていたら、パーティーに行っていたのに」",
+            "answer": "Si hubiera sabido, habría ido a la fiesta.",
+            "acceptableAnswers": [
+              "Si lo hubiera sabido, habría ido a la fiesta.",
+              "Si hubiese sabido, habría ido a la fiesta."
+            ],
+            "explanationJa": "第3条件文。Si + 接続法過去完了（hubiera sabido）+ 条件法複合（habría ido）。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「あなたの助けがなければ、成功しなかっただろう」",
+            "answer": "Sin tu ayuda, no habría tenido éxito.",
+            "acceptableAnswers": [
+              "Sin tu ayuda, no habríamos tenido éxito.",
+              "Sin tu ayuda, no lo habría logrado."
+            ],
+            "explanationJa": "sin + 名詞で Si節の代わり。条件法複合で過去の非実現の帰結を表す。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「君だったらあの仕事のオファーを受けていた？」",
+            "answer": "¿Tú habrías aceptado esa oferta de trabajo?",
+            "acceptableAnswers": [
+              "¿Habrías aceptado esa oferta de trabajo?",
+              "¿Tú habrías aceptado aquella oferta de trabajo?"
+            ],
+            "explanationJa": "過去の仮定について相手に聞く表現。条件法複合 habrías aceptado。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "条件法単純→条件法複合: No lo haría. → No lo ___. (過去の文脈)",
+            "answer": "No lo habría hecho.",
+            "explanationJa": "「しないだろう」→「しなかっただろう」。haría → habría hecho。hacer の過去分詞は hecho。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "能動態→受動態（条件法複合）: Los estudiantes habrían leído el libro. → El libro ___.",
+            "answer": "El libro habría sido leído por los estudiantes.",
+            "explanationJa": "受動態の条件法複合：habría sido + 過去分詞 + por + 動作主。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "条件法複合 = habría + 過去分詞で「〜していただろう」を表す",
+      "Si + 接続法過去完了（hubiera + pp）, + 条件法複合（habría + pp）がセット",
+      "Si節に habría を入れるのは最もよくある間違い。Si節は必ず接続法",
+      "不規則過去分詞（hecho, dicho, escrito, visto, vuelto, puesto）に注意",
+      "sin + 名詞 や con + 名詞 で Si節を簡略化できる",
+      "後悔の表現（habría sido mejor...）や仮定の質問（¿habrías...?）で日常的に使う"
+    ]
+  }
+}

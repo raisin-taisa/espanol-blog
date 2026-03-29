@@ -1,0 +1,228 @@
+{
+  "scenario": "sports",
+  "titleJa": "スポーツ・フィットネスで使えるスペイン語フレーズ",
+  "titleEs": "Frases para deportes y fitness",
+  "totalPhrases": 20,
+  "phrases": [
+    {
+      "id": "sport-001",
+      "spanishText": "¿Quieres jugar al fútbol con nosotros?",
+      "japaneseTranslation": "一緒にサッカーしない？",
+      "pronunciationHint": "キエレス フガル アル フトボル コン ノソトロス",
+      "formality": "informal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "jugar al + スポーツ名 で「〜をする」。スペインでは fútbol が国民的スポーツです。",
+      "category": "invitation"
+    },
+    {
+      "id": "sport-002",
+      "spanishText": "¡Gol! ¡Qué golazo!",
+      "japaneseTranslation": "ゴール！すごいゴールだ！",
+      "pronunciationHint": "ゴル！ケ ゴラソ！",
+      "formality": "informal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "golazo は gol の強調形。-azo は「すごい〜」を表す接尾辞。スペイン語圏のサッカー文化の基本。",
+      "category": "soccer"
+    },
+    {
+      "id": "sport-003",
+      "spanishText": "¿A qué hora empieza el partido?",
+      "japaneseTranslation": "試合は何時に始まりますか？",
+      "pronunciationHint": "ア ケ オラ エンピエサ エル パルティド",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "partido は「試合」。empezar（始まる）の現在形 empieza は語幹母音変化動詞。",
+      "category": "events"
+    },
+    {
+      "id": "sport-004",
+      "spanishText": "Me gustaría apuntarme al gimnasio.",
+      "japaneseTranslation": "ジムに入会したいのですが。",
+      "pronunciationHint": "メ グスタリア アプンタルメ アル ヒムナシオ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "Me gustaría inscribirme en el gimnasio.",
+      "contextNoteJa": "スペインでは apuntarse、中南米では inscribirse が「入会する」。gym も通じます。",
+      "category": "fitness"
+    },
+    {
+      "id": "sport-005",
+      "spanishText": "¿Cuánto cuesta la membresía mensual?",
+      "japaneseTranslation": "月会費はいくらですか？",
+      "pronunciationHint": "クアント クエスタ ラ メンブレシア メンスアル",
+      "formality": "neutral",
+      "spainVariant": "¿Cuánto cuesta la cuota mensual?",
+      "latamVariant": null,
+      "contextNoteJa": "スペインでは cuota（会費）が一般的。日額（diario）、年額（anual）も聞けます。",
+      "category": "fitness"
+    },
+    {
+      "id": "sport-006",
+      "spanishText": "Voy a correr todas las mañanas.",
+      "japaneseTranslation": "毎朝ランニングしています。",
+      "pronunciationHint": "ボイ ア コレル トダス ラス マニャナス",
+      "formality": "informal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "ir a + 不定詞で「〜する予定」。correr は「走る」。hacer jogging とも言います。",
+      "category": "running"
+    },
+    {
+      "id": "sport-007",
+      "spanishText": "¡Pásame el balón!",
+      "japaneseTranslation": "ボールをパスして！",
+      "pronunciationHint": "パサメ エル バロン",
+      "formality": "informal",
+      "spainVariant": null,
+      "latamVariant": "¡Pásame la pelota!",
+      "contextNoteJa": "スペインでは balón、中南米では pelota が一般的。サッカーやバスケットで使います。",
+      "category": "soccer"
+    },
+    {
+      "id": "sport-008",
+      "spanishText": "¿Dónde puedo alquilar una bicicleta?",
+      "japaneseTranslation": "自転車はどこでレンタルできますか？",
+      "pronunciationHint": "ドンデ プエド アルキラル ウナ ビシクレタ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "¿Dónde puedo rentar una bicicleta?",
+      "contextNoteJa": "スペインでは alquilar、メキシコなどでは rentar が「レンタルする」。",
+      "category": "cycling"
+    },
+    {
+      "id": "sport-009",
+      "spanishText": "Me lesioné jugando al tenis.",
+      "japaneseTranslation": "テニスをしていて怪我をしました。",
+      "pronunciationHint": "メ レシオネ フガンド アル テニス",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "lesionarse は「怪我をする」。現在分詞 jugando で「〜している時に」。",
+      "category": "injury"
+    },
+    {
+      "id": "sport-010",
+      "spanishText": "¿Quién va ganando?",
+      "japaneseTranslation": "どっちが勝ってる？",
+      "pronunciationHint": "キエン バ ガナンド",
+      "formality": "informal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "ir + 現在分詞で進行中の動作。スポーツ観戦で一番使うフレーズの一つ。",
+      "category": "watching"
+    },
+    {
+      "id": "sport-011",
+      "spanishText": "El árbitro ha sacado tarjeta roja.",
+      "japaneseTranslation": "審判がレッドカードを出した。",
+      "pronunciationHint": "エル アルビトロ ア サカド タルヘタ ロハ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "árbitro は「審判」。tarjeta amarilla（イエローカード）。サッカー観戦の必須語彙。",
+      "category": "soccer"
+    },
+    {
+      "id": "sport-012",
+      "spanishText": "Necesito calentar antes de empezar.",
+      "japaneseTranslation": "始める前にウォーミングアップが必要です。",
+      "pronunciationHint": "ネセシト カレンタル アンテス デ エンペサル",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "calentar は「温める→ウォーミングアップする」。estirar（ストレッチする）もセットで覚えましょう。",
+      "category": "fitness"
+    },
+    {
+      "id": "sport-013",
+      "spanishText": "¿Hay alguna clase de yoga hoy?",
+      "japaneseTranslation": "今日ヨガのクラスはありますか？",
+      "pronunciationHint": "アイ アルグナ クラセ デ ヨガ オイ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "clase は「クラス」。pilates, spinning, zumba なども人気です。",
+      "category": "fitness"
+    },
+    {
+      "id": "sport-014",
+      "spanishText": "Quedamos en el parque a las seis.",
+      "japaneseTranslation": "6時に公園で集合ね。",
+      "pronunciationHint": "ケダモス エン エル パルケ ア ラス セイス",
+      "formality": "informal",
+      "spainVariant": null,
+      "latamVariant": "Nos vemos en el parque a las seis.",
+      "contextNoteJa": "quedar はスペイン特有の「待ち合わせる」。中南米では verse（nos vemos）を使います。",
+      "category": "invitation"
+    },
+    {
+      "id": "sport-015",
+      "spanishText": "¡Qué buen saque!",
+      "japaneseTranslation": "いいサーブ！",
+      "pronunciationHint": "ケ ブエン サケ",
+      "formality": "informal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "saque は「サーブ」。テニス、バレーボール、バドミントンで使います。",
+      "category": "tennis"
+    },
+    {
+      "id": "sport-016",
+      "spanishText": "Hago ejercicio tres veces a la semana.",
+      "japaneseTranslation": "週3回運動しています。",
+      "pronunciationHint": "アゴ エヘルシシオ トレス ベセス ア ラ セマナ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "hacer ejercicio は「運動する」。日常会話で自分の習慣を伝える表現。",
+      "category": "fitness"
+    },
+    {
+      "id": "sport-017",
+      "spanishText": "¿Puedo usar esta máquina?",
+      "japaneseTranslation": "このマシンを使ってもいいですか？",
+      "pronunciationHint": "プエド ウサル エスタ マキナ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "ジムで他の人が使っているマシンが空いた時に聞く表現。",
+      "category": "fitness"
+    },
+    {
+      "id": "sport-018",
+      "spanishText": "El Real Madrid juega contra el Barcelona este fin de semana.",
+      "japaneseTranslation": "今週末レアル・マドリードとバルセロナの試合がある。",
+      "pronunciationHint": "エル レアル マドリッ フエガ コントラ エル バルセロナ エステ フィン デ セマナ",
+      "formality": "informal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "jugar contra は「〜と対戦する」。El Clásico はスペインサッカー最大の試合。",
+      "category": "soccer"
+    },
+    {
+      "id": "sport-019",
+      "spanishText": "Quedamos empatados a dos.",
+      "japaneseTranslation": "2対2の引き分けだった。",
+      "pronunciationHint": "ケダモス エンパタドス ア ドス",
+      "formality": "informal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "empatar は「引き分ける」。ganar（勝つ）、perder（負ける）も合わせて覚えましょう。",
+      "category": "results"
+    },
+    {
+      "id": "sport-020",
+      "spanishText": "¿Dónde puedo ver el partido en directo?",
+      "japaneseTranslation": "試合のライブはどこで見られますか？",
+      "pronunciationHint": "ドンデ プエド ベル エル パルティド エン ディレクト",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "¿Dónde puedo ver el partido en vivo?",
+      "contextNoteJa": "スペインでは en directo、中南米では en vivo が「ライブで」。バルなどで観戦できます。",
+      "category": "watching"
+    }
+  ]
+}

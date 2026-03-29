@@ -1,0 +1,708 @@
+{
+  "id": "b1-005",
+  "slug": "imperativo",
+  "titleJa": "命令形（肯定命令と否定命令）",
+  "titleEs": "El imperativo afirmativo y negativo",
+  "level": "b1",
+  "sortOrder": 5,
+  "hasRegionalVariants": true,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "命令形は「命令」だけじゃない！",
+        "bodyJa": "スペイン語の命令形（imperativo）は「命令」だけでなく、お願い・アドバイス・指示・勧誘など幅広く使います。\n\n日本語の「食べて」「来て」「座って」もすべて命令形です。\n\n重要ポイント：スペイン語の命令形は、肯定命令（〜して）と否定命令（〜しないで）で形が違います。\n\n・肯定命令（tú）：独自の形がある\n・否定命令（tú）：接続法現在を使う\n・usted の命令形：肯定も否定も接続法現在を使う\n\nつまり、接続法を覚えていれば命令形の半分以上はすでにできます！",
+        "bodyEs": "El imperativo se usa para órdenes, peticiones, consejos e instrucciones. En español, las formas afirmativas y negativas son diferentes para tú, pero iguales (subjuntivo) para usted."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "tú の肯定命令：規則形",
+        "bodyJa": "tú に対する肯定命令は、直説法現在の三人称単数（él/ella）と同じ形です。\n\n・hablar → ¡Habla!（話して！）\n・comer → ¡Come!（食べて！）\n・escribir → ¡Escribe!（書いて！）\n\nつまり「彼は話す（habla）」と「話して！（¡Habla!）」は同じ形。\n\n語幹母音変化動詞も同じルール：\n・pensar → ¡Piensa!（考えて！）\n・volver → ¡Vuelve!（戻って！）\n・pedir → ¡Pide!（頼んで！）",
+        "bodyEs": "La forma afirmativa de tú es igual a la tercera persona del presente de indicativo: habla, come, escribe. Los verbos con cambio vocálico siguen el mismo patrón."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "tú の肯定命令：不規則形8つ",
+        "bodyJa": "たった8つの不規則形を覚えれば、tú の肯定命令は完璧です。\n\n・venir → ¡Ven!（来て！）\n・poner → ¡Pon!（置いて！）\n・salir → ¡Sal!（出て！）\n・hacer → ¡Haz!（やって！）\n・decir → ¡Di!（言って！）\n・tener → ¡Ten!（持って！）\n・ser → ¡Sé!（〜であれ！）\n・ir → ¡Ve!（行って！）\n\n覚え方：「ven, pon, sal, haz, di, ten, sé, ve」とリズムで暗唱しましょう。\n\nこの8つは全部一音節（短い！）なので、省エネで命令できます。スペイン語ネイティブは毎日使います。",
+        "bodyEs": "Solo hay 8 irregulares en el imperativo afirmativo de tú: ven, pon, sal, haz, di, ten, sé, ve. Son todos monosílabos."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "否定命令：全部「接続法」でOK！",
+        "bodyJa": "否定命令（〜しないで）は、どの人称でも接続法現在形を使います。\n\ntú の否定命令：no + 接続法現在（tú 形）\n・¡No hables!（話すな！）\n・¡No comas!（食べるな！）\n・¡No escribas!（書くな！）\n・¡No vengas!（来るな！）\n・¡No hagas eso!（それをするな！）\n\nusted の命令形（肯定も否定も）：接続法現在\n・¡Hable, por favor!（話してください）\n・¡No hable tan rápido!（そんなに速く話さないでください）\n\nつまり、接続法を覚えていれば：\n・否定命令（tú）= 全部接続法\n・usted の命令 = 全部接続法\n\n肯定命令（tú）だけ独自の形があるということです。",
+        "bodyEs": "La forma negativa siempre usa el subjuntivo presente: no hables, no comas, no vengas. Para usted, tanto afirmativo como negativo usan subjuntivo: hable / no hable."
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "hablar（話す）",
+        "tense": "Imperativo",
+        "forms": {
+          "tú (afirmativo)": "habla",
+          "tú (negativo)": "no hables",
+          "usted (afirmativo)": "hable",
+          "usted (negativo)": "no hable",
+          "vosotros/as (afirmativo)": "hablad",
+          "vosotros/as (negativo)": "no habléis",
+          "ustedes (afirmativo)": "hablen",
+          "ustedes (negativo)": "no hablen"
+        },
+        "latamNote": "中南米では vosotros は使いません。ustedes の形（hablen / no hablen）を使います。",
+        "spainNote": "vosotros の肯定命令は -ar → -ad, -er → -ed, -ir → -id。スペインでのみ使用。"
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "comer（食べる）",
+        "tense": "Imperativo",
+        "forms": {
+          "tú (afirmativo)": "come",
+          "tú (negativo)": "no comas",
+          "usted (afirmativo)": "coma",
+          "usted (negativo)": "no coma",
+          "vosotros/as (afirmativo)": "comed",
+          "vosotros/as (negativo)": "no comáis",
+          "ustedes (afirmativo)": "coman",
+          "ustedes (negativo)": "no coman"
+        },
+        "latamNote": "中南米では vosotros は使いません。ustedes の形を使います。",
+        "spainNote": null
+      },
+      {
+        "type": "explanation",
+        "headingJa": "代名詞の位置が変わる！",
+        "bodyJa": "命令形で代名詞（me, te, lo, le, se など）を使うとき、位置が変わります。\n\n肯定命令：代名詞は動詞の後ろにくっつける\n・¡Dime!（私に言って！）= di + me\n・¡Hazlo!（それをやって！）= haz + lo\n・¡Siéntate!（座って！）= sienta + te\n・¡Ponlo aquí!（ここに置いて！）= pon + lo\n\n否定命令：代名詞は動詞の前に置く（普通の語順）\n・¡No me digas!（まさか！/ 言わないで！）= no + me + digas\n・¡No lo hagas!（それをするな！）= no + lo + hagas\n・¡No te sientes ahí!（そこに座るな！）= no + te + sientes\n\n重要：肯定命令で代名詞をくっつけると、アクセントの位置が変わるので、アクセント記号が必要になることがあります。\n・sienta + te → siéntate（アクセント記号が追加される）\n・diga + me + lo → dígamelo（3音節前にアクセント）",
+        "bodyEs": "Pronombres con imperativo: afirmativo = después del verbo (dime, hazlo); negativo = antes del verbo (no me digas, no lo hagas). El acento escrito puede cambiar."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "¡Ven aquí!",
+            "ja": "こっちに来て！",
+            "noteJa": "venir の不規則肯定命令（tú）。一音節で短く、日常的に頻出。"
+          },
+          {
+            "es": "¡No hagas ruido!",
+            "ja": "うるさくしないで！",
+            "noteJa": "否定命令（tú）= no + 接続法。hagas は hacer の接続法 tú 形。"
+          },
+          {
+            "es": "Dime la verdad.",
+            "ja": "本当のことを言って。",
+            "noteJa": "肯定命令 di + me = dime。代名詞が後ろにくっつく。"
+          },
+          {
+            "es": "No me digas que ya se acabó.",
+            "ja": "もう終わったなんて言わないで。",
+            "noteJa": "否定命令では代名詞は前。no + me + digas。「¡No me digas!」は「まさか！」の意味でもよく使う。"
+          },
+          {
+            "es": "Hable más despacio, por favor.",
+            "ja": "もっとゆっくり話してください。",
+            "noteJa": "usted の命令形（接続法）。丁寧な依頼。旅行で必須のフレーズ。"
+          },
+          {
+            "es": "¡Sal de ahí ahora mismo!",
+            "ja": "今すぐそこから出ろ！",
+            "noteJa": "salir の不規則肯定命令（tú）= sal。ahora mismo は「今すぐ」。"
+          },
+          {
+            "es": "Ponlo en la mesa, por favor.",
+            "ja": "テーブルに置いてください。",
+            "noteJa": "pon + lo = ponlo。肯定命令 + 代名詞。"
+          },
+          {
+            "es": "No te preocupes, todo va a salir bien.",
+            "ja": "心配しないで、全部うまくいくよ。",
+            "noteJa": "否定命令 + 再帰代名詞。no + te + preocupes。日常的に使う励ましの表現。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "¡No habla!",
+            "correct": "¡No hables!",
+            "whyJa": "否定命令（tú）は接続法を使います。habla は直説法/肯定命令の形。否定のときは hables に変わります。"
+          },
+          {
+            "wrong": "¡Viene aquí!",
+            "correct": "¡Ven aquí!",
+            "whyJa": "venir の tú 肯定命令は ven（不規則）。viene は三人称の直説法現在形です。"
+          },
+          {
+            "wrong": "¡Hazlo no!",
+            "correct": "¡No lo hagas!",
+            "whyJa": "否定命令は「no + 代名詞 + 接続法」の語順。代名詞は動詞の前に来ます。"
+          },
+          {
+            "wrong": "¡Díceme la verdad!",
+            "correct": "¡Dime la verdad!",
+            "whyJa": "decir の tú 肯定命令は di（不規則）。dice は三人称の直説法。di + me = dime。"
+          },
+          {
+            "wrong": "¡No te sientas aquí!",
+            "correct": "¡No te sientes aquí!",
+            "whyJa": "sentarse の否定命令（tú）は no te sientes。sientas は sentir（感じる）の接続法と混同しやすいので注意。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "¡No me digas! 😱 ¿En serio?",
+            "ja": "まさか！😱 マジで？",
+            "source": "conversation",
+            "sourceLabel": "友達との会話",
+            "context": "驚きのニュースを聞いた場面",
+            "noteJa": "「¡No me digas!」は「まさか！」「うそでしょ！」の意味で使う超頻出フレーズ。命令形が慣用表現として使われる代表例。"
+          },
+          {
+            "es": "Dime con quién andas y te diré quién eres.",
+            "ja": "付き合ってる人を教えてくれれば、あなたがどんな人かわかる。",
+            "source": "conversation",
+            "sourceLabel": "スペインのことわざ",
+            "noteJa": "有名なスペイン語のことわざ。dime（言って）+ te diré（教えてあげる）。「類は友を呼ぶ」に近い意味。"
+          },
+          {
+            "es": "Hazme un favor, pásame la sal 🧂",
+            "ja": "お願い、塩取って🧂",
+            "source": "conversation",
+            "sourceLabel": "食卓での会話",
+            "noteJa": "haz + me = hazme（お願い＝頼み事をして）。pásame = pasa + me（渡して）。代名詞が後ろにくっつく例。"
+          },
+          {
+            "es": "Pon la tele, que empieza el partido ⚽",
+            "ja": "テレビつけて、試合始まるよ⚽",
+            "source": "conversation",
+            "sourceLabel": "家族との会話",
+            "context": "サッカーの試合が始まる前",
+            "noteJa": "pon は poner の不規則命令形。la tele は televisión の省略形。スペインではサッカーの場面でよく聞くフレーズ。",
+            "region": "spain"
+          },
+          {
+            "es": "No te preocupes, mano. Ya se va a arreglar todo. 💪",
+            "ja": "心配すんな、兄弟。全部なんとかなるよ。💪",
+            "source": "conversation",
+            "sourceLabel": "メキシコの友達同士",
+            "context": "困っている友達を励ましている場面",
+            "noteJa": "no te preocupes は否定命令の定番表現。mano はメキシコで「兄弟・親友」（hermano の省略）。",
+            "region": "latam"
+          },
+          {
+            "es": "Siéntense, por favor. La reunión va a comenzar.",
+            "ja": "お座りください。会議が始まります。",
+            "source": "conversation",
+            "sourceLabel": "ビジネスの場面",
+            "context": "会議室での冒頭",
+            "noteJa": "ustedes の命令形（接続法）。siéntense = sienten + se。フォーマルな場面で使う丁寧な指示。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "「来て！」の正しい命令形（tú）は？ (venir)",
+            "options": [
+              "¡Vengas!",
+              "¡Ven!",
+              "¡Viene!",
+              "¡Vienes!"
+            ],
+            "answer": 1,
+            "explanationJa": "venir の tú 肯定命令は ven（不規則、一音節）。viene は直説法三人称、vengas は接続法。"
+          },
+          {
+            "prompt": "「話さないで！」の正しい命令形（tú）は？",
+            "options": [
+              "¡No habla!",
+              "¡No hablas!",
+              "¡No hables!",
+              "¡No hablar!"
+            ],
+            "answer": 2,
+            "explanationJa": "否定命令（tú）= no + 接続法現在。hables が接続法 tú 形。"
+          },
+          {
+            "prompt": "「やって！」の正しい命令形（tú）は？ (hacer)",
+            "options": [
+              "¡Haz!",
+              "¡Haces!",
+              "¡Hace!",
+              "¡Hagas!"
+            ],
+            "answer": 0,
+            "explanationJa": "hacer の tú 肯定命令は haz（不規則）。hagas は接続法（否定命令で使う）。"
+          },
+          {
+            "prompt": "「私に言って」を正しく表すと？ (decir)",
+            "options": [
+              "Díceme.",
+              "Me di.",
+              "Dime.",
+              "Dígame."
+            ],
+            "answer": 2,
+            "explanationJa": "di（decir の肯定命令 tú）+ me = dime。代名詞は後ろにくっつけます。dígame は usted 形。"
+          },
+          {
+            "prompt": "「それをするな！」を正しく表すと？",
+            "options": [
+              "¡No lo hagas!",
+              "¡No hagas lo!",
+              "¡Hazlo no!",
+              "¡No haz lo!"
+            ],
+            "answer": 0,
+            "explanationJa": "否定命令は「no + 代名詞 + 接続法」の語順。no lo hagas が正しい。"
+          },
+          {
+            "prompt": "「座って」の正しい命令形（tú）は？ (sentarse)",
+            "options": [
+              "¡Sentate!",
+              "¡Siéntate!",
+              "¡Siéntete!",
+              "¡Te sienta!"
+            ],
+            "answer": 1,
+            "explanationJa": "sentarse は再帰動詞。sienta（肯定命令）+ te = siéntate。アクセント記号に注意。"
+          },
+          {
+            "prompt": "usted に「話してください」と言うには？",
+            "options": [
+              "Habla, por favor.",
+              "Hables, por favor.",
+              "Hablas, por favor.",
+              "Hable, por favor."
+            ],
+            "answer": 3,
+            "explanationJa": "usted の命令形は接続法現在を使います。hablar → hable。habla は tú の肯定命令。"
+          },
+          {
+            "prompt": "「出て！」の正しい命令形（tú）は？ (salir)",
+            "options": [
+              "¡Sale!",
+              "¡Sal!",
+              "¡Sales!",
+              "¡Salgas!"
+            ],
+            "answer": 1,
+            "explanationJa": "salir の tú 肯定命令は sal（不規則、一音節）。"
+          },
+          {
+            "prompt": "「心配しないで」を正しく表すと？ (tú)",
+            "options": [
+              "No te preocupa.",
+              "No preocúpate.",
+              "Te no preocupes.",
+              "No te preocupes."
+            ],
+            "answer": 3,
+            "explanationJa": "否定命令は代名詞が前。no + te + preocupes（接続法）。"
+          },
+          {
+            "prompt": "「置いて！」の正しい命令形（tú）は？ (poner)",
+            "options": [
+              "¡Pone!",
+              "¡Pones!",
+              "¡Pon!",
+              "¡Pongas!"
+            ],
+            "answer": 2,
+            "explanationJa": "poner の tú 肯定命令は pon（不規則、一音節）。"
+          },
+          {
+            "prompt": "「食べないで！」の正しい命令形（tú）は？",
+            "options": [
+              "¡No come!",
+              "¡No comer!",
+              "¡No comas!",
+              "¡No comes!"
+            ],
+            "answer": 2,
+            "explanationJa": "否定命令（tú）= no + 接続法。comas は comer の接続法 tú 形。"
+          },
+          {
+            "prompt": "「持って！」の正しい命令形（tú）は？ (tener)",
+            "options": [
+              "¡Ten!",
+              "¡Tienes!",
+              "¡Tiene!",
+              "¡Tengas!"
+            ],
+            "answer": 0,
+            "explanationJa": "tener の tú 肯定命令は ten（不規則、一音節）。ten paciencia（我慢して）は定番表現。"
+          },
+          {
+            "prompt": "「ここに置いて」を代名詞を使って正しく表すと？ (poner + lo)",
+            "options": [
+              "Pónelo aquí.",
+              "Ponlo aquí.",
+              "Pon lo aquí.",
+              "Lo pon aquí."
+            ],
+            "answer": 1,
+            "explanationJa": "肯定命令 + 代名詞 = 後ろにくっつける。pon + lo = ponlo。一語として書きます。"
+          },
+          {
+            "prompt": "「行って！」の正しい命令形（tú）は？ (ir)",
+            "options": [
+              "¡Vas!",
+              "¡Vayas!",
+              "¡Ve!",
+              "¡Va!"
+            ],
+            "answer": 2,
+            "explanationJa": "ir の tú 肯定命令は ve（不規則）。va は三人称直説法、vayas は接続法。"
+          },
+          {
+            "prompt": "「行かないで！」の正しい命令形（tú）は？",
+            "options": [
+              "¡No ve!",
+              "¡No ir!",
+              "¡No vayas!",
+              "¡No vas!"
+            ],
+            "answer": 2,
+            "explanationJa": "否定命令（tú）= no + 接続法。vayas は ir の接続法 tú 形。"
+          },
+          {
+            "prompt": "「〜であれ！」の正しい命令形（tú）は？ (ser)",
+            "options": [
+              "¡Eres!",
+              "¡Sé!",
+              "¡Seas!",
+              "¡Es!"
+            ],
+            "answer": 1,
+            "explanationJa": "ser の tú 肯定命令は sé（不規則）。sé は saber の yo 形（「知っている」）と同じ形ですが、文脈で区別できます。"
+          },
+          {
+            "prompt": "「それを教えてください」を usted に対して言うには？ (decir + me + lo)",
+            "options": [
+              "Dímelo, por favor.",
+              "Dígamelo, por favor.",
+              "Me lo diga, por favor.",
+              "Dícemelo, por favor."
+            ],
+            "answer": 1,
+            "explanationJa": "usted の命令形 diga + me + lo = dígamelo。dímelo は tú 形。"
+          },
+          {
+            "prompt": "次の文で命令形が間違っているのはどれ？",
+            "options": [
+              "¡Viene aquí!",
+              "¡Venga, por favor! (usted)",
+              "¡Ven aquí!",
+              "¡No vengas!"
+            ],
+            "answer": 0,
+            "explanationJa": "venir の tú 肯定命令は ven。viene は直説法三人称形で、命令形ではありません。"
+          },
+          {
+            "prompt": "「黙って！」の正しい命令形（tú）は？ (callarse)",
+            "options": [
+              "¡Callate!",
+              "¡Cállase!",
+              "¡Te calla!",
+              "¡Cállate!"
+            ],
+            "answer": 3,
+            "explanationJa": "callarse（黙る）の命令形。calla + te = cállate。アクセント記号に注意。"
+          },
+          {
+            "prompt": "「聞いて！」の正しい命令形（tú）は？ (escuchar)",
+            "options": [
+              "¡Escuches!",
+              "¡Escuche!",
+              "¡Escucha!",
+              "¡Escuchas!"
+            ],
+            "answer": 2,
+            "explanationJa": "escuchar は規則動詞。tú の肯定命令 = 直説法三人称単数と同じ = escucha。escuche は usted 形。"
+          },
+          {
+            "prompt": "「急がないで」の正しい否定命令形（tú）は？ (apurarse)",
+            "options": [
+              "No te apurarse.",
+              "No te apura.",
+              "No te apures.",
+              "No apúrate."
+            ],
+            "answer": 2,
+            "explanationJa": "否定命令は代名詞が前。no + te + apures（接続法）。apurarse は中南米で「急ぐ」。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "¡___ aquí inmediatamente! (venir, tú)",
+            "answer": "Ven",
+            "options": [
+              "Viene",
+              "Vienes",
+              "Vengas",
+              "Ven"
+            ],
+            "explanationJa": "venir の tú 肯定命令は ven（不規則）。一音節の不規則命令形。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¡No ___ eso! Es peligroso. (hacer, tú)",
+            "answer": "hagas",
+            "options": [
+              "hacer",
+              "haz",
+              "haces",
+              "hagas"
+            ],
+            "explanationJa": "否定命令（tú）= no + 接続法。hacer の接続法 tú 形は hagas。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¡___ la puerta, por favor! (cerrar, tú)",
+            "answer": "Cierra",
+            "options": [
+              "Cerrar",
+              "Cierres",
+              "Cierra",
+              "Cierras"
+            ],
+            "explanationJa": "cerrar の tú 肯定命令 = 直説法三人称単数 cierra。語幹母音変化（e→ie）あり。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "No ___ tan rápido, por favor. (hablar, usted)",
+            "answer": "hable",
+            "options": [
+              "habla",
+              "hable",
+              "hablas",
+              "hables"
+            ],
+            "explanationJa": "usted の否定命令 = no + 接続法。hablar の接続法は hable。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¡___me la verdad! (decir, tú)",
+            "answer": "Di",
+            "options": [
+              "Diga",
+              "Di",
+              "Digas",
+              "Dice"
+            ],
+            "explanationJa": "decir の tú 肯定命令は di（不規則）。代名詞 me は後ろにくっつけて dime。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¡No ___ ahí! Es mi lugar. (sentarse, tú)",
+            "answer": "te sientes",
+            "options": [
+              "te sientes",
+              "siéntate",
+              "te sentas",
+              "te sientas"
+            ],
+            "explanationJa": "否定命令では代名詞が前に来る。no + te + sientes（接続法）。sentarse の tú 接続法は sientes。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¡___ de ahí! ¡Es peligroso! (salir, tú)",
+            "answer": "Sal",
+            "options": [
+              "Salgas",
+              "Sale",
+              "Sal",
+              "Sales"
+            ],
+            "explanationJa": "salir の tú 肯定命令は sal（不規則、一音節）。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___, por favor. La reunión va a empezar. (sentarse, ustedes)",
+            "answer": "Siéntense",
+            "options": [
+              "Siéntense",
+              "Se sientan",
+              "Siéntanse",
+              "Sentarse"
+            ],
+            "explanationJa": "ustedes の命令形は接続法。sentarse の接続法 ustedes 形 + se = siéntense。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¡No ___ tanto ruido! Los vecinos se quejan. (hacer, vosotros)",
+            "answer": "hagáis",
+            "options": [
+              "hagáis",
+              "hacen",
+              "hacéis",
+              "hagan"
+            ],
+            "explanationJa": "否定命令（vosotros）= no + 接続法。hacer の接続法 vosotros 形は hagáis。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¡___lo en la mesa! (poner, tú)",
+            "answer": "Pon",
+            "options": [
+              "Pon",
+              "Pone",
+              "Pongas",
+              "Pones"
+            ],
+            "explanationJa": "poner の tú 肯定命令は pon（不規則）。+ lo = ponlo。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "¡Viene aquí ahora mismo!",
+            "answer": "¡Ven aquí ahora mismo!",
+            "explanationJa": "venir の tú 肯定命令は ven（不規則）。viene は直説法三人称で命令形ではない。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "¡No habla tan alto, por favor!",
+            "answer": "¡No hables tan alto, por favor!",
+            "explanationJa": "否定命令（tú）は接続法を使う。habla は直説法/肯定命令。否定には hables。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "¡Díceme lo que pasó!",
+            "answer": "¡Dime lo que pasó!",
+            "explanationJa": "decir の tú 肯定命令は di（不規則）。dice は直説法三人称。di + me = dime。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "¡No lo hazes!",
+            "answer": "¡No lo hagas!",
+            "explanationJa": "否定命令は接続法。hazes は存在しない形（hacer の tú 直説法は haces）。正しくは no lo hagas。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "¡Callate! Estoy intentando dormir.",
+            "answer": "¡Cállate! Estoy intentando dormir.",
+            "explanationJa": "callarse の命令形 calla + te = cállate。アクセント記号が必要。代名詞が付くとアクセント位置が変わります。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「¡No me digas!」はどんな意味で使う？",
+            "options": [
+              "「言ってくれ」と頼むとき",
+              "「覚えておけ」と脅すとき",
+              "「まさか！」と驚くとき",
+              "「黙れ」と怒るとき"
+            ],
+            "answer": 2,
+            "explanationJa": "¡No me digas! は「まさか！」「うそでしょ！」の意味で使う超頻出フレーズ。命令形が慣用表現になった例。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "否定命令で代名詞の位置が正しいのはどれ？",
+            "options": [
+              "¡No lo hagas!",
+              "¡Hazlo no!",
+              "¡Lo no hagas!",
+              "¡No hagas lo!"
+            ],
+            "answer": 0,
+            "explanationJa": "否定命令では代名詞は動詞の前に置く。no + lo + hagas が正しい語順。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "tú の肯定命令が不規則な動詞は何個？",
+            "options": [
+              "不規則はない",
+              "5個",
+              "8個（ven, pon, sal, haz, di, ten, sé, ve）",
+              "12個"
+            ],
+            "answer": 2,
+            "explanationJa": "不規則形はちょうど8つ。全部一音節で覚えやすい：ven, pon, sal, haz, di, ten, sé, ve。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "usted に「座ってください」と言うには？",
+            "options": [
+              "Sentarse, por favor.",
+              "Se sienta, por favor.",
+              "Siéntate, por favor.",
+              "Siéntese, por favor."
+            ],
+            "answer": 3,
+            "explanationJa": "usted の命令形は接続法。sentarse → siéntese（接続法 usted + se）。siéntate は tú 形。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Escribe tu nombre aquí.」は誰に対する命令？",
+            "options": [
+              "ustedes",
+              "tú",
+              "usted",
+              "vosotros"
+            ],
+            "answer": 1,
+            "explanationJa": "escribe は escribir の tú 肯定命令（= 直説法三人称単数と同じ形）。usted なら escriba。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「心配しないで、全部うまくいくよ」",
+            "answer": "No te preocupes, todo va a salir bien.",
+            "acceptableAnswers": [
+              "No te preocupes, todo saldrá bien.",
+              "No te preocupes, va a salir todo bien."
+            ],
+            "explanationJa": "否定命令（tú）+ 再帰代名詞。no + te + preocupes（接続法）。日常的な励ましの定番。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「もっとゆっくり話してください」（usted に対して）",
+            "answer": "Hable más despacio, por favor.",
+            "acceptableAnswers": [
+              "Por favor, hable más despacio.",
+              "Hable más lento, por favor."
+            ],
+            "explanationJa": "usted の命令形は接続法。hablar → hable。旅行で必須のフレーズ。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「テレビをつけて、試合が始まるよ」",
+            "answer": "Pon la tele, que empieza el partido.",
+            "acceptableAnswers": [
+              "Pon la televisión, que empieza el partido.",
+              "Enciende la tele, que empieza el partido."
+            ],
+            "explanationJa": "poner の tú 肯定命令は pon。la tele = televisión の省略形。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "肯定命令→否定命令: ¡Hazlo ahora! → ___",
+            "answer": "¡No lo hagas ahora!",
+            "explanationJa": "肯定命令 haz + lo → 否定命令 no + lo + hagas。代名詞の位置が変わり、動詞は接続法に。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "tú → usted: ¡Dime la verdad! → ___",
+            "answer": "¡Dígame la verdad!",
+            "explanationJa": "tú の di + me = dime → usted の diga + me = dígame。接続法 usted 形 + 代名詞。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "tú の肯定命令 = 直説法現在の三人称単数と同じ形（habla, come, escribe）",
+      "不規則形は8つだけ：ven, pon, sal, haz, di, ten, sé, ve",
+      "否定命令はすべて接続法現在を使う：no hables, no comas, no vengas",
+      "usted の命令は肯定も否定も接続法：hable / no hable",
+      "代名詞の位置：肯定命令 = 後ろにくっつける（dime）、否定命令 = 前に置く（no me digas）",
+      "中南米では vosotros の命令形は使わない。ustedes を使う"
+    ]
+  }
+}

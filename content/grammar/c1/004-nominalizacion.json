@@ -1,0 +1,478 @@
+{
+  "id": "c1-grammar-004",
+  "slug": "nominalizacion",
+  "titleJa": "名詞化（lo + 形容詞, el que, el hecho de que）",
+  "titleEs": "Nominalización",
+  "level": "c1",
+  "sortOrder": 4,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "名詞化とは？抽象的な概念を名詞にする技術",
+        "bodyJa": "名詞化（Nominalización）とは、形容詞や動詞、文全体を「名詞のかたまり」として使う技術です。\n\nC1レベルのスペイン語では、名詞化を使いこなすことで表現が一気に知的で洗練されたものになります。\n\n日本語では「良いこと」「重要な点」「〜という事実」のように自然に名詞化しますが、スペイン語にはスペイン語特有のルールがあります。\n\nここでは lo + 形容詞、el que 構文、el hecho de que の3つを中心に学びます。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "lo + 形容詞：「〜なこと」「〜な点」",
+        "bodyJa": "lo は中性の定冠詞で、形容詞と組み合わせて「〜なこと」「〜な部分」を表します。\n\nこれは日本語の「〜なこと」「〜な点」に相当し、非常によく使われます。\n\n・lo bueno = 良いこと、良い点\n・lo malo = 悪いこと、悪い点\n・lo importante = 重要なこと\n・lo difícil = 難しいこと、難しい点\n・lo mejor = 一番良いこと\n・lo peor = 一番悪いこと\n\n使い方の例：\n・Lo bueno de vivir aquí es el clima.（ここに住む良い点は気候だ）\n・Lo difícil es empezar.（難しいのは始めることだ）\n・Lo mejor de todo es que es gratis.（何より最高なのは無料だということだ）\n\nlo + 形容詞は常に単数形・男性形の形容詞を使います。\n性数変化しません。\n\n・Lo importante es la salud.（重要なのは健康だ）← importante は変化しない"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "lo + 形容詞/副詞 + que：「どれほど〜か」",
+        "bodyJa": "lo + 形容詞/副詞 + que の形で「どれほど〜か」「いかに〜か」を表します。\nこれは感嘆や強調の表現としてネイティブが非常によく使います。\n\n・No sabes lo difícil que es.（どれほど難しいかわからないでしょう）\n・Me sorprende lo rápido que aprende.（どれだけ速く覚えるか驚きだ）\n・No te imaginas lo cansado que estoy.（どれだけ疲れているか想像もつかないよ）\n\nこの構文では、形容詞は主語に合わせて性数変化します。\n・No sabes lo guapa que está hoy.（今日どれだけきれいか知らないでしょう）← guapa は女性形\n・No sabes lo contentos que están.（どれだけ嬉しがっているか知らないでしょう）← contentos は男性複数形\n\n日本語話者のポイント：「lo + 形容詞」と「lo + 形容詞 + que」は別の構文です。\n・lo difícil（難しいこと）← 名詞化\n・lo difícil que es（どれほど難しいか）← 感嘆・強調"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "el que, los que, la que, las que：「〜する人」「〜するもの」",
+        "bodyJa": "el que / la que / los que / las que は「〜する人」「〜するもの」を表します。\n\n・El que estudia, aprueba.（勉強する人は合格する）\n・Los que llegaron tarde no pudieron entrar.（遅刻した人たちは入れなかった）\n・La que más me gusta es la azul.（一番好きなのは青いやつだ）\n\nこの構文は関係代名詞として機能し、先行詞なしで使えます。\n\nel que + 接続法で「〜する人は誰でも」という不定の意味にもなります。\n・El que quiera participar, que levante la mano.（参加したい人は手を挙げて）\n\nquien も同様に使えます。\n・Quien mucho abarca, poco aprieta.（多くを抱える者は何も掴めない）← ことわざ"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "el hecho de que：「〜という事実」",
+        "bodyJa": "el hecho de que は「〜という事実」を表す名詞化構文です。\n\nel hecho de que の後は接続法を使うことが多いです（特に感情・判断を伴う場合）。\nただし、明白な事実を述べる場合は直説法も可能です。\n\n接続法が多い場合：\n・El hecho de que no venga no significa que no le importe.（来ないという事実が、気にしていないということを意味するわけではない）\n・Me molesta el hecho de que siempre llegue tarde.（いつも遅刻するという事実が気に障る）\n\n直説法も可能な場合：\n・El hecho de que la tierra es redonda es innegable.（地球が丸いという事実は否定できない）\n\n日本語話者のポイント：日本語の「〜という事実」をそのまま訳せる便利な表現ですが、接続法の使い分けに注意が必要です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "lo de + 名詞/不定詞：「〜のこと」「〜の件」",
+        "bodyJa": "lo de は「〜のこと」「〜の件」を表すカジュアルな名詞化です。\n口語で非常によく使われます。\n\n・¿Qué pasó con lo de tu trabajo?（仕事の件はどうなった？）\n・Lo de ayer fue increíble.（昨日のことは信じられなかった）\n・Lo de estudiar en el extranjero me interesa mucho.（海外留学のことにすごく興味がある）\n\nlo de + 人名で「〜さんのこと・〜さんの件」にもなります。\n・Lo de María ya se solucionó.（マリアの件はもう解決した）\n\nこの表現は日常会話で頻繁に登場するので、聞き取れるようにしておきましょう。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Lo mejor de este trabajo es el horario flexible.",
+            "ja": "この仕事の一番良いところは柔軟な勤務時間だ。",
+            "noteJa": "lo mejor = 一番良いこと。lo + 最上級の形容詞。"
+          },
+          {
+            "es": "No sabes lo mucho que te he echado de menos.",
+            "ja": "どれだけ君が恋しかったかわからないよ。",
+            "noteJa": "lo + 副詞 + que の感嘆構文。echar de menos = 恋しく思う。"
+          },
+          {
+            "es": "El que no arriesga, no gana.",
+            "ja": "リスクを冒さない者は勝てない。",
+            "noteJa": "el que + 直説法。一般論・ことわざ的な表現。"
+          },
+          {
+            "es": "El hecho de que hable tres idiomas no garantiza un buen trabajo.",
+            "ja": "3言語を話すという事実が良い仕事を保証するわけではない。",
+            "noteJa": "el hecho de que + 接続法。hable は hablar の接続法。"
+          },
+          {
+            "es": "Lo de la fiesta de anoche... ¿qué pasó exactamente?",
+            "ja": "昨夜のパーティーの件… 正確には何があったの？",
+            "noteJa": "lo de + 名詞。口語的な「〜の件」。"
+          },
+          {
+            "es": "Lo interesante es que nadie se dio cuenta.",
+            "ja": "面白いのは、誰も気づかなかったことだ。",
+            "noteJa": "lo + 形容詞で名詞化。「面白いこと・点」。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "La buena es que tenemos tiempo.",
+            "correct": "Lo bueno es que tenemos tiempo.",
+            "whyJa": "抽象的な「良いこと」を表すには中性冠詞 lo を使います。la buena だと「良い女性」の意味になってしまう。"
+          },
+          {
+            "wrong": "No sabes lo difícil que está.（物事が難しい場合）",
+            "correct": "No sabes lo difícil que es.",
+            "whyJa": "物事の本質的な性質を述べるときは ser を使う。estar は一時的な状態。「この問題は本質的に難しい」なら es、「今だけ難しい」なら está。"
+          },
+          {
+            "wrong": "El hecho de que viene siempre tarde me molesta.",
+            "correct": "El hecho de que venga siempre tarde me molesta.",
+            "whyJa": "感情を伴う（me molesta）ので el hecho de que の後は接続法 venga を使う。"
+          },
+          {
+            "wrong": "Lo que importante es estudiar.",
+            "correct": "Lo importante es estudiar.",
+            "whyJa": "lo + 形容詞の間に que は入れない。lo importante が正しい形。lo que は「〜すること」という別の構文。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "Lo bueno de los lunes es que solo quedan 4 días para el viernes 😂",
+            "ja": "月曜日の良いところは、金曜日まであと4日しかないこと😂",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "lo bueno de + 名詞。月曜日あるあるのユーモア。"
+          },
+          {
+            "es": "No te imaginas lo contenta que se puso cuando se enteró 🥹",
+            "ja": "知ったときどれだけ喜んだか想像もつかないよ🥹",
+            "source": "conversation",
+            "sourceLabel": "友達との会話",
+            "noteJa": "lo + 形容詞 + que の感嘆構文。contenta は女性形（主語が女性）。"
+          },
+          {
+            "es": "Lo de tu hermano ya me lo contaron. ¿Está bien?",
+            "ja": "お兄さんの件はもう聞いたよ。大丈夫？",
+            "source": "conversation",
+            "sourceLabel": "友達との会話",
+            "noteJa": "lo de + 名詞。「〜の件」という日常的な使い方。"
+          },
+          {
+            "es": "El que quiera venir, que traiga algo de comer 🍕",
+            "ja": "来たい人は何か食べ物持ってきてね🍕",
+            "source": "conversation",
+            "sourceLabel": "グループチャット",
+            "noteJa": "el que + 接続法（quiera）で「〜したい人は誰でも」。"
+          },
+          {
+            "es": "Lo peor no es perder, lo peor es no intentarlo.",
+            "ja": "最悪なのは負けることじゃない、挑戦しないことだ。",
+            "source": "sns",
+            "sourceLabel": "名言風投稿",
+            "noteJa": "lo peor = 最悪のこと。lo + 最上級形容詞の名詞化。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "___ importante es no rendirse. (重要なのは諦めないことだ)",
+            "options": [
+              "El",
+              "Los",
+              "La",
+              "Lo"
+            ],
+            "answer": 3,
+            "explanationJa": "抽象的な「重要なこと」を表す中性冠詞は lo。el/la は具体的な名詞に使う。"
+          },
+          {
+            "prompt": "No sabes lo ___ que es este problema. (difícil)",
+            "options": [
+              "difícile",
+              "dificil",
+              "difíciles",
+              "difícil"
+            ],
+            "answer": 3,
+            "explanationJa": "lo + 形容詞 + que の構文。problema は男性単数なので difícil（変化なし）。"
+          },
+          {
+            "prompt": "___ que estudia, aprueba. (勉強する者は合格する)",
+            "options": [
+              "Que",
+              "El",
+              "Quien",
+              "Lo"
+            ],
+            "answer": 1,
+            "explanationJa": "「〜する人」の意味では el que を使う。lo que は「〜すること」で意味が異なる。（quien も正しいが選択肢には el がより適切）"
+          },
+          {
+            "prompt": "El hecho de que no ___ no significa nada. (llamar, él)",
+            "options": [
+              "llamará",
+              "llame",
+              "llama",
+              "llamó"
+            ],
+            "answer": 1,
+            "explanationJa": "el hecho de que の後は接続法を使うことが多い。llamar の接続法は llame。"
+          },
+          {
+            "prompt": "¿Qué pasó con ___ de tu viaje a Japón?",
+            "options": [
+              "ese",
+              "lo",
+              "la",
+              "el"
+            ],
+            "answer": 1,
+            "explanationJa": "lo de + 名詞で「〜の件」。口語的な表現。"
+          },
+          {
+            "prompt": "No te imaginas lo ___ que están. (contentos, ellos)",
+            "options": [
+              "contento",
+              "contenta",
+              "contentas",
+              "contentos"
+            ],
+            "answer": 3,
+            "explanationJa": "lo + 形容詞 + que の構文では、形容詞は主語に合わせて性数変化する。ellos → contentos（男性複数）。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "___ mejor de vivir en el campo es la tranquilidad.",
+            "answer": "Lo",
+            "options": [
+              "La",
+              "El",
+              "Lo",
+              "Los"
+            ],
+            "explanationJa": "抽象的な「一番良いこと」は中性冠詞 lo。lo mejor = 一番良いこと。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "No sabes lo ___ que estoy de este trabajo. (cansado)",
+            "answer": "cansado",
+            "options": [
+              "cansando",
+              "cansada",
+              "cansado",
+              "cansados"
+            ],
+            "explanationJa": "lo + 形容詞 + que の構文。主語が男性（yo = 男性として）なので cansado。estoy に合わせる。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ que no estudia, no aprueba.",
+            "answer": "El",
+            "options": [
+              "Lo",
+              "La",
+              "El",
+              "Quien"
+            ],
+            "explanationJa": "「〜する人」の意味では el que を使う。lo que は「〜すること」で意味が異なる。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "El hecho de que no ___ no significa que no le interese. (contestar, él)",
+            "answer": "conteste",
+            "options": [
+              "contestará",
+              "contestó",
+              "conteste",
+              "contesta"
+            ],
+            "explanationJa": "el hecho de que の後は接続法を使うことが多い。contestar の接続法は conteste。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¿Qué pasó con ___ de la mudanza?",
+            "answer": "lo",
+            "options": [
+              "lo",
+              "la",
+              "eso",
+              "el"
+            ],
+            "explanationJa": "lo de + 名詞で「〜の件」。口語的な表現。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "No te imaginas lo ___ que están los niños. (contentos)",
+            "answer": "contentos",
+            "options": [
+              "contentos",
+              "contento",
+              "contentas",
+              "contenta"
+            ],
+            "explanationJa": "lo + 形容詞 + que では形容詞は主語に合わせて変化。los niños → contentos（男性複数）。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ malo de este plan es que cuesta mucho dinero.",
+            "answer": "Lo",
+            "options": [
+              "La",
+              "Lo",
+              "El",
+              "Un"
+            ],
+            "explanationJa": "「悪い点」は lo malo。抽象的な名詞化には中性冠詞 lo を使う。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ que quiera participar, que se apunte antes del viernes.",
+            "answer": "El",
+            "options": [
+              "La",
+              "Quien",
+              "Lo",
+              "El"
+            ],
+            "explanationJa": "el que + 接続法で「〜したい人は誰でも」。quiera は querer の接続法。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "No sabes lo ___ que es este idioma. (complicado)",
+            "answer": "complicado",
+            "options": [
+              "complicados",
+              "complicada",
+              "complicado",
+              "complicadas"
+            ],
+            "explanationJa": "este idioma は男性単数なので complicado。lo + 形容詞 + que の構文。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ de tu hermano ya me lo contaron.",
+            "answer": "Lo",
+            "options": [
+              "Lo",
+              "El",
+              "Eso",
+              "La"
+            ],
+            "explanationJa": "lo de + 名詞で「〜の件・〜のこと」。口語で非常によく使われる。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "La buena es que tenemos vacaciones pronto.",
+            "answer": "Lo bueno es que tenemos vacaciones pronto.",
+            "explanationJa": "抽象的な「良いこと」は中性冠詞 lo を使う。la buena は「良い女性」の意味になってしまう。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Lo que importante es no rendirse.",
+            "answer": "Lo importante es no rendirse.",
+            "explanationJa": "lo + 形容詞の間に que は入れない。lo importante が正しい形。lo que は「〜すること」で別の構文。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "El hecho de que viene tarde me molesta.",
+            "answer": "El hecho de que venga tarde me molesta.",
+            "explanationJa": "感情を伴う（me molesta）ので el hecho de que の後は接続法 venga を使う。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "No sabes lo guapo que está hoy. (主語が女性の場合)",
+            "answer": "No sabes lo guapa que está hoy.",
+            "explanationJa": "lo + 形容詞 + que では形容詞は主語に合わせて性数変化する。女性なら guapa。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "El que estudia aproban.",
+            "answer": "El que estudia aprueba.",
+            "explanationJa": "el que + 動詞は単数扱い。「勉強する人は合格する」。aprueba（三人称単数）が正しい。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "lo difícil と lo difícil que es の違いは？",
+            "options": [
+              "意味は同じ",
+              "前者は名詞化（難しいこと）、後者は感嘆・強調（どれほど難しいか）",
+              "前者は口語、後者は書き言葉",
+              "前者は形容詞、後者は名詞"
+            ],
+            "answer": 1,
+            "explanationJa": "lo + 形容詞 = 名詞化、lo + 形容詞 + que = 感嘆・強調。異なる構文。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "lo de の後に続くのは？",
+            "options": [
+              "形容詞",
+              "直説法",
+              "名詞または不定詞",
+              "接続法"
+            ],
+            "answer": 2,
+            "explanationJa": "lo de + 名詞/不定詞で「〜のこと・〜の件」。lo de tu viaje, lo de estudiar など。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「勉強する人は合格する」の el que は何を意味する？",
+            "options": [
+              "〜した結果",
+              "〜するために",
+              "〜すること",
+              "〜する人"
+            ],
+            "answer": 3,
+            "explanationJa": "el que = 「〜する人」。一般的な人を指す関係代名詞的用法。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "el hecho de que の後の法について正しいのは？",
+            "options": [
+              "常に接続法",
+              "常に直説法",
+              "不定詞しか使えない",
+              "感情・判断を伴う場合は接続法が多い"
+            ],
+            "answer": 3,
+            "explanationJa": "el hecho de que の後は接続法が多い。特に感情・判断を伴う場合。明白な事実の場合は直説法も可。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「この仕事の最悪な点は給料だ」の正しい訳は？",
+            "options": [
+              "Peor de este trabajo es el sueldo.",
+              "El peor de este trabajo es el sueldo.",
+              "Lo peor de este trabajo es el sueldo.",
+              "La peor de este trabajo es el sueldo."
+            ],
+            "answer": 2,
+            "explanationJa": "lo peor = 最悪のこと・最悪の点。中性冠詞 lo + 最上級形容詞。"
+          },
+          {
+            "type": "translation",
+            "prompt": "面白いのは誰も気づかなかったことだ。（lo + 形容詞を使って）",
+            "answer": "Lo interesante es que nadie se dio cuenta.",
+            "acceptableAnswers": [
+              "Lo curioso es que nadie se dio cuenta."
+            ],
+            "explanationJa": "lo interesante = 面白いこと。lo + 形容詞で名詞化。"
+          },
+          {
+            "type": "translation",
+            "prompt": "どれだけ疲れているか想像もつかないよ。（lo + 形容詞 + que を使って）",
+            "answer": "No te imaginas lo cansado que estoy.",
+            "acceptableAnswers": [
+              "No puedes imaginarte lo cansado que estoy."
+            ],
+            "explanationJa": "lo + 形容詞 + que の感嘆構文。「どれほど〜か」。"
+          },
+          {
+            "type": "translation",
+            "prompt": "昨日の件はどうなった？（lo de を使って）",
+            "answer": "¿Qué pasó con lo de ayer?",
+            "acceptableAnswers": [
+              "¿Cómo quedó lo de ayer?",
+              "¿Qué fue de lo de ayer?"
+            ],
+            "explanationJa": "lo de + 名詞で「〜の件」。口語的な表現。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "Es difícil empezar.（lo + 形容詞を主語にして書き換えなさい）",
+            "answer": "Lo difícil es empezar.",
+            "explanationJa": "lo difícil = 難しいこと。名詞化して主語にする。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "La persona que llegó primero ganó el premio.（el que を使って書き換えなさい）",
+            "answer": "El que llegó primero ganó el premio.",
+            "explanationJa": "el que = 〜した人。la persona que を el que に置き換え。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "lo + 形容詞（lo bueno, lo importante）で「〜なこと・〜な点」を表す。形容詞は常に男性単数形",
+      "lo + 形容詞 + que で「どれほど〜か」の感嘆・強調。この場合、形容詞は主語に合わせて変化する",
+      "el que / la que / los que / las que で「〜する人」「〜するもの」",
+      "el hecho de que + 接続法で「〜という事実」。感情・判断を伴う場合は特に接続法",
+      "lo de + 名詞/不定詞で「〜の件」「〜のこと」。口語で頻出"
+    ]
+  }
+}

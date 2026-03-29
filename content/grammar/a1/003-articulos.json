@@ -1,0 +1,697 @@
+{
+  "id": "a1-003",
+  "slug": "articulos",
+  "titleJa": "冠詞（定冠詞と不定冠詞）",
+  "titleEs": "Los artículos (definidos e indefinidos)",
+  "level": "a1",
+  "sortOrder": 3,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "冠詞って何？日本語にない概念を理解しよう",
+        "bodyJa": "日本語には冠詞がありません。でもスペイン語では、名詞の前にほぼ必ず冠詞をつけます。\n\n冠詞には2種類あります：\n\n1. 定冠詞（el, la, los, las）＝「その」→ 話し手と聞き手の両方が何を指すかわかっているとき\n2. 不定冠詞（un, una, unos, unas）＝「ある」「ひとつの」→ 初めて話題に出すとき、特定していないとき\n\nさらに、スペイン語の名詞には「性」（男性名詞・女性名詞）と「数」（単数・複数）があり、冠詞もそれに合わせて変化します。",
+        "bodyEs": "Los artículos son palabras que acompañan al sustantivo. En español hay artículos definidos (el, la, los, las) e indefinidos (un, una, unos, unas)."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "定冠詞：el / la / los / las",
+        "bodyJa": "定冠詞は「その・あの」のように、すでにわかっている特定のものを指すときに使います。\n\n・el（エル）→ 男性名詞・単数：el libro（その本）\n・la（ラ）→ 女性名詞・単数：la mesa（そのテーブル）\n・los（ロス）→ 男性名詞・複数：los libros（それらの本）\n・las（ラス）→ 女性名詞・複数：las mesas（それらのテーブル）\n\n使う場面：\n・一度話題に出たもの：Tengo un libro. El libro es interesante.（本を持っています。その本は面白いです）\n・唯一のもの：el sol（太陽）、la luna（月）\n・一般的な概念：Me gusta el café.（コーヒーが好きです）※日本語では「コーヒー」に何もつけませんが、スペイン語では定冠詞が必要です",
+        "bodyEs": "Los artículos definidos (el, la, los, las) se usan para referirse a algo específico o ya conocido por el hablante y el oyente."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "不定冠詞：un / una / unos / unas",
+        "bodyJa": "不定冠詞は「ある〜」「ひとつの〜」のように、特定していないものを初めて話題にするときに使います。\n\n・un（ウン）→ 男性名詞・単数：un libro（ある本・1冊の本）\n・una（ウナ）→ 女性名詞・単数：una mesa（あるテーブル・1つのテーブル）\n・unos（ウノス）→ 男性名詞・複数：unos libros（いくつかの本）\n・unas（ウナス）→ 女性名詞・複数：unas mesas（いくつかのテーブル）\n\n使う場面：\n・初めて話題にするもの：Hay un gato en el jardín.（庭に猫がいます）\n・不特定のもの：Necesito un bolígrafo.（ペンが1本必要です）\n・「いくつかの」：Tengo unas preguntas.（いくつか質問があります）",
+        "bodyEs": "Los artículos indefinidos (un, una, unos, unas) se usan para referirse a algo no específico o mencionado por primera vez."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "注意が必要な例外と特殊ルール",
+        "bodyJa": "1. 女性名詞でも el を使う場合\n\nアクセントのある a- または ha- で始まる女性名詞の単数形には、発音の都合で el を使います。\n・el agua（水）※ 女性名詞です！→ las aguas（複数形では las に戻る）\n・el águila（ワシ）→ las águilas\n・el hambre（空腹）→ 形容詞は女性形：mucha hambre（とてもお腹がすいた）\n\n2. 男性名詞に見えるけど女性名詞\n・la mano（手）→ -o で終わるけど女性名詞\n・la foto（写真）→ fotografía の短縮形\n・la moto（バイク）→ motocicleta の短縮形\n\n3. 女性名詞に見えるけど男性名詞\n・el problema（問題）→ ギリシャ語由来\n・el tema（テーマ）\n・el sistema（システム）\n・el programa（プログラム）\n・el idioma（言語）",
+        "bodyEs": "Hay excepciones importantes: sustantivos femeninos que llevan 'el' en singular (el agua, el águila), y sustantivos terminados en -ma de origen griego que son masculinos (el problema, el tema)."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "冠詞を省略する場面",
+        "bodyJa": "スペイン語でも冠詞をつけない場合があります。\n\n1. 職業を言うとき（ser + 無冠詞 + 職業名）\n・Soy profesor.（先生です）※ Soy un profesor. は通常言いません\n\n2. 国名の多く：Vivo en Japón.（日本に住んでいます）\n※ ただし一部の国名には冠詞がつきます：la India, los Estados Unidos, el Perú\n\n3. 不特定の不可算名詞：Quiero agua.（水がほしい）\n※ 特定の水なら：Quiero el agua de esa botella.（そのボトルの水がほしい）\n\n4. 曜日の前の定冠詞は「毎週〜」の意味：\n・el lunes = 今度の月曜日 / los lunes = 毎週月曜日",
+        "bodyEs": "En español se omite el artículo con profesiones (Soy profesor), con la mayoría de nombres de países, y con sustantivos incontables no específicos."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "El gato está en la mesa.",
+            "ja": "猫はテーブルの上にいます。",
+            "noteJa": "el gato（男性・単数）、la mesa（女性・単数）。どちらも特定のものなので定冠詞を使います。"
+          },
+          {
+            "es": "Tengo un perro y una gata.",
+            "ja": "犬を1匹と猫を1匹飼っています。",
+            "noteJa": "初めて話題にするので不定冠詞。un perro（男性）、una gata（女性の猫）。"
+          },
+          {
+            "es": "Me gusta la música japonesa.",
+            "ja": "日本の音楽が好きです。",
+            "noteJa": "一般的な概念として「日本の音楽」を指すので定冠詞 la を使います。"
+          },
+          {
+            "es": "Necesito comprar unos zapatos.",
+            "ja": "靴をいくつか買う必要があります。",
+            "noteJa": "不特定の「いくつかの靴」なので不定冠詞の複数形 unos を使います。"
+          },
+          {
+            "es": "El agua está fría.",
+            "ja": "水は冷たいです。",
+            "noteJa": "agua は女性名詞ですが、単数形では el を使います。形容詞 fría は女性形です。"
+          },
+          {
+            "es": "Hay un problema con el sistema.",
+            "ja": "システムに問題があります。",
+            "noteJa": "problema も sistema も -a で終わりますが、どちらも男性名詞です。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Me gusta café.",
+            "correct": "Me gusta el café.",
+            "whyJa": "「コーヒーが好き」のように一般的な好みを言うときは定冠詞が必要です。日本語では「コーヒーが好き」と冠詞なしですが、スペイン語では必要です。"
+          },
+          {
+            "wrong": "La problema es difícil.",
+            "correct": "El problema es difícil.",
+            "whyJa": "problema は -a で終わりますが男性名詞です。ギリシャ語由来の -ma で終わる名詞は男性名詞が多いです。"
+          },
+          {
+            "wrong": "Soy un profesor.",
+            "correct": "Soy profesor.",
+            "whyJa": "ser + 職業のときは通常、冠詞を省略します。ただし形容詞がつく場合は冠詞をつけます：Soy un buen profesor."
+          },
+          {
+            "wrong": "La agua está caliente.",
+            "correct": "El agua está caliente.",
+            "whyJa": "agua は女性名詞ですが、アクセントのある a- で始まるため、単数形では el を使います。複数形では las aguas に戻ります。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "Me encanta el ramen. ¿Conoces un buen restaurante de ramen por aquí?",
+            "ja": "ラーメン大好き。この辺でいいラーメン屋知ってる？",
+            "source": "conversation",
+            "sourceLabel": "日本好きな外国人との会話",
+            "noteJa": "「el ramen」= ラーメン全般（一般概念 → 定冠詞）。「un buen restaurante」= まだ特定していない店（不定冠詞）。この使い分けが自然にできるとネイティブっぽい！"
+          },
+          {
+            "es": "Tengo un problema con el wifi. ¿Me puedes ayudar?",
+            "ja": "Wifiの調子おかしいんだけど、助けてくれない？",
+            "source": "conversation",
+            "sourceLabel": "カフェやホテルでの会話",
+            "noteJa": "un problema（初出・不定冠詞）、el wifi（お互いわかっている特定のWifi → 定冠詞）。problema は男性名詞なので un です。"
+          },
+          {
+            "es": "La vida es bella 🌅",
+            "ja": "人生は美しい🌅",
+            "source": "sns",
+            "sourceLabel": "Instagram投稿風",
+            "noteJa": "la vida = 人生全般。一般的・抽象的な概念には定冠詞をつけます。日本語では「人生」に「その」をつけませんが、スペイン語では必要。"
+          },
+          {
+            "es": "Ayer compré un libro. El libro es sobre la historia de México.",
+            "ja": "昨日本を買った。その本はメキシコの歴史についてだよ。",
+            "source": "conversation",
+            "sourceLabel": "友達との雑談",
+            "noteJa": "1回目の言及 = un libro（不定冠詞）。2回目 = el libro（もうお互い知っている → 定冠詞）。これが冠詞の基本ロジック！"
+          },
+          {
+            "es": "Soy profesor de japonés en una universidad de Barcelona.",
+            "ja": "バルセロナの大学で日本語の先生をしています。",
+            "source": "conversation",
+            "sourceLabel": "自己紹介",
+            "noteJa": "ser + 職業 → 冠詞なし（Soy profesor）。una universidad → 特定していない大学なので不定冠詞。",
+            "region": "spain"
+          },
+          {
+            "es": "Los lunes siempre llego tarde al trabajo 😩",
+            "ja": "毎週月曜はいつも仕事に遅刻する😩",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "los lunes = 毎週月曜日（定冠詞 + 複数 = 習慣）。el lunes なら「今度の月曜」。この違いは会話で超頻出。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "___ libro es interesante.",
+            "options": [
+              "Una",
+              "Un",
+              "El",
+              "La"
+            ],
+            "answer": 2,
+            "explanationJa": "libro は男性名詞で、「その本」と特定しているので定冠詞 el を使います。"
+          },
+          {
+            "prompt": "Tengo ___ hermana mayor.",
+            "options": [
+              "una",
+              "la",
+              "un",
+              "el"
+            ],
+            "answer": 0,
+            "explanationJa": "hermana は女性名詞で、初めて話題にしているので不定冠詞 una を使います。"
+          },
+          {
+            "prompt": "___ mesa está en la cocina.",
+            "options": [
+              "La",
+              "El",
+              "Un",
+              "Una"
+            ],
+            "answer": 0,
+            "explanationJa": "mesa は女性名詞で、特定のテーブルを指しているので定冠詞 la を使います。"
+          },
+          {
+            "prompt": "Hay ___ gato en el jardín.",
+            "options": [
+              "el",
+              "una",
+              "la",
+              "un"
+            ],
+            "answer": 3,
+            "explanationJa": "gato は男性名詞で、初めて話題にする不特定の猫なので不定冠詞 un を使います。"
+          },
+          {
+            "prompt": "___ casa de María es muy grande.",
+            "options": [
+              "La",
+              "Una",
+              "El",
+              "Un"
+            ],
+            "answer": 0,
+            "explanationJa": "casa は女性名詞で、「マリアの家」と特定されているので定冠詞 la を使います。"
+          },
+          {
+            "prompt": "___ perros de mi vecino son ruidosos.",
+            "options": [
+              "Unas",
+              "Unos",
+              "Los",
+              "Las"
+            ],
+            "answer": 2,
+            "explanationJa": "perro は男性名詞で、「隣人の犬たち」と特定されているので定冠詞の複数形 los を使います。"
+          },
+          {
+            "prompt": "Necesito ___ silla para sentarme.",
+            "options": [
+              "el",
+              "una",
+              "la",
+              "un"
+            ],
+            "answer": 1,
+            "explanationJa": "silla は女性名詞で、特定していない「椅子が1つ」必要なので不定冠詞 una を使います。"
+          },
+          {
+            "prompt": "___ flores del jardín son muy bonitas.",
+            "options": [
+              "Unas",
+              "Los",
+              "Unos",
+              "Las"
+            ],
+            "answer": 3,
+            "explanationJa": "flor は女性名詞で、「庭の花」と特定されているので定冠詞の複数形 las を使います。"
+          },
+          {
+            "prompt": "Vi ___ gatos en la calle.",
+            "options": [
+              "unas",
+              "unos",
+              "las",
+              "los"
+            ],
+            "answer": 1,
+            "explanationJa": "gato は男性名詞で、不特定の「何匹かの猫」を見たので不定冠詞の複数形 unos を使います。"
+          },
+          {
+            "prompt": "___ problema es muy difícil de resolver.",
+            "options": [
+              "La",
+              "Una",
+              "El",
+              "Un"
+            ],
+            "answer": 2,
+            "explanationJa": "problema は -a で終わりますがギリシャ語由来の男性名詞です。特定の問題なので定冠詞 el を使います。"
+          },
+          {
+            "prompt": "___ agua de este río está contaminada.",
+            "options": [
+              "Un",
+              "Una",
+              "La",
+              "El"
+            ],
+            "answer": 3,
+            "explanationJa": "agua は女性名詞ですが、アクセントのある a- で始まるため単数形では el を使います。形容詞 contaminada は女性形のままです。"
+          },
+          {
+            "prompt": "Me duele ___ mano derecha.",
+            "options": [
+              "una",
+              "la",
+              "un",
+              "el"
+            ],
+            "answer": 1,
+            "explanationJa": "mano は -o で終わりますが例外的に女性名詞です。特定の手なので定冠詞 la を使います。"
+          },
+          {
+            "prompt": "___ tema de la clase es muy aburrido.",
+            "options": [
+              "Un",
+              "Una",
+              "El",
+              "La"
+            ],
+            "answer": 2,
+            "explanationJa": "tema は -a で終わりますがギリシャ語由来の男性名詞です。特定のテーマなので定冠詞 el を使います。"
+          },
+          {
+            "prompt": "___ sistema operativo tiene un error.",
+            "options": [
+              "Un",
+              "La",
+              "Una",
+              "El"
+            ],
+            "answer": 3,
+            "explanationJa": "sistema は -a で終わりますがギリシャ語由来の男性名詞です。特定のシステムなので定冠詞 el を使います。"
+          },
+          {
+            "prompt": "Compré ___ mapa de la ciudad.",
+            "options": [
+              "el",
+              "la",
+              "una",
+              "un"
+            ],
+            "answer": 3,
+            "explanationJa": "mapa は -a で終わりますがギリシャ語由来の男性名詞です。不特定の地図なので不定冠詞 un を使います。"
+          },
+          {
+            "prompt": "___ foto salió muy bien.",
+            "options": [
+              "Un",
+              "El",
+              "La",
+              "Una"
+            ],
+            "answer": 2,
+            "explanationJa": "foto は fotografía の短縮形で女性名詞です。特定の写真なので定冠詞 la を使います。"
+          },
+          {
+            "prompt": "Quiero aprender ___ idioma nuevo.",
+            "options": [
+              "un",
+              "una",
+              "el",
+              "la"
+            ],
+            "answer": 0,
+            "explanationJa": "idioma は -a で終わりますがギリシャ語由来の男性名詞です。不特定の「ある言語」なので不定冠詞 un を使います。"
+          },
+          {
+            "prompt": "Mi hermano es ___ médico.",
+            "options": [
+              "un",
+              "la",
+              "（冠詞なし）",
+              "el"
+            ],
+            "answer": 2,
+            "explanationJa": "ser + 職業のときは通常、冠詞を省略します。「Soy médico」「Es médico」のように無冠詞が正しいです。"
+          },
+          {
+            "prompt": "Vivo en ___ Japón.",
+            "options": [
+              "un",
+              "el",
+              "la",
+              "（冠詞なし）"
+            ],
+            "answer": 3,
+            "explanationJa": "Japón は冠詞をつけない国名です。多くの国名は無冠詞で使います。"
+          },
+          {
+            "prompt": "次のうち正しい文はどれですか？",
+            "options": [
+              "Me gusta la café.",
+              "Me gusta un café.",
+              "Me gusta café.",
+              "Me gusta el café."
+            ],
+            "answer": 3,
+            "explanationJa": "「コーヒーが好き」のように一般的な好みを言うときは定冠詞が必要です。café は男性名詞なので el café です。"
+          },
+          {
+            "prompt": "La investigación abarca ___ ámbito muy amplio.",
+            "options": [
+              "la",
+              "una",
+              "un",
+              "el"
+            ],
+            "answer": 2,
+            "explanationJa": "ámbito（分野）は男性名詞です。不特定の「ある非常に広い分野」なので不定冠詞 un を使います。"
+          },
+          {
+            "prompt": "Es un asunto de ___ índole personal.",
+            "options": [
+              "una",
+              "un",
+              "el",
+              "la"
+            ],
+            "answer": 0,
+            "explanationJa": "índole（性質）は女性名詞です。不特定の「ある個人的な性質」なので不定冠詞 una を使います。"
+          },
+          {
+            "prompt": "___ régimen político cambió después de la revolución.",
+            "options": [
+              "Una",
+              "La",
+              "El",
+              "Un"
+            ],
+            "answer": 2,
+            "explanationJa": "régimen（体制）は男性名詞です。特定の政治体制を指しているので定冠詞 el を使います。"
+          },
+          {
+            "prompt": "次のうち正しい文はどれですか？",
+            "options": [
+              "Me gusta música clásica.",
+              "Me gusta el música clásica.",
+              "Me gusta una música clásica.",
+              "Me gusta la música clásica."
+            ],
+            "answer": 3,
+            "explanationJa": "「クラシック音楽が好き」のように一般概念としての好みを言うときは定冠詞が必要です。música は女性名詞なので la música clásica が正しいです。不定冠詞 una は使いません。"
+          },
+          {
+            "prompt": "___ hipótesis fue confirmada por los investigadores.",
+            "options": [
+              "Un",
+              "La",
+              "Una",
+              "El"
+            ],
+            "answer": 1,
+            "explanationJa": "hipótesis（仮説）は -is で終わる女性名詞です。特定の仮説を指しているので定冠詞 la を使います。ギリシャ語由来でも -sis, -tis で終わる名詞は女性名詞です。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "___ libro está en la mesa. (定冠詞)",
+            "answer": "El",
+            "options": [
+              "Una",
+              "La",
+              "El",
+              "Un"
+            ],
+            "explanationJa": "libroは男性名詞。特定の本を指しているので定冠詞el。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Tengo ___ gato y ___ perro. (不定冠詞)",
+            "answer": "un / un",
+            "options": [
+              "un / una",
+              "una / un",
+              "un / un",
+              "el / el"
+            ],
+            "explanationJa": "初めて話題にする不特定の動物なので不定冠詞。gato（男性）→ un、perro（男性）→ un。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Me gusta ___ música clásica. (冠詞)",
+            "answer": "la",
+            "options": [
+              "el",
+              "la",
+              "una",
+              "un"
+            ],
+            "explanationJa": "「クラシック音楽が好き」は一般概念への好み。定冠詞laが必要です。música＝女性名詞。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ agua está fría. (冠詞)",
+            "answer": "El",
+            "options": [
+              "Una",
+              "La",
+              "Un",
+              "El"
+            ],
+            "explanationJa": "aguaは女性名詞ですが、アクセントのあるa-で始まるため単数形ではelを使います。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ problema es muy difícil. (冠詞)",
+            "answer": "El",
+            "options": [
+              "El",
+              "La",
+              "Una",
+              "Un"
+            ],
+            "explanationJa": "problemaは-aで終わりますがギリシャ語由来の男性名詞です。el problemaが正解。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Hay ___ restaurante nuevo cerca de mi casa. (冠詞)",
+            "answer": "un",
+            "options": [
+              "una",
+              "un",
+              "el",
+              "la"
+            ],
+            "explanationJa": "初めて話題にする不特定のレストランなので不定冠詞un。restaurante＝男性名詞。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ flores del jardín son bonitas. (冠詞)",
+            "answer": "Las",
+            "options": [
+              "Unas",
+              "Las",
+              "Unos",
+              "Los"
+            ],
+            "explanationJa": "「庭の花」と特定されている女性名詞の複数形なので定冠詞las。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Necesito ___ bolígrafo para escribir. (冠詞)",
+            "answer": "un",
+            "options": [
+              "la",
+              "una",
+              "un",
+              "el"
+            ],
+            "explanationJa": "不特定の「ペンが1本」必要。不定冠詞un。bolígrafo＝男性名詞。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Soy ___ profesor. (冠詞の有無)",
+            "answer": "（冠詞なし）",
+            "options": [
+              "la",
+              "（冠詞なし）",
+              "un",
+              "el"
+            ],
+            "explanationJa": "ser + 職業のときは通常冠詞を省略します。Soy profesor.が自然です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ lunes siempre estoy cansado. (冠詞)",
+            "answer": "Los",
+            "options": [
+              "El",
+              "Unos",
+              "Los",
+              "Un"
+            ],
+            "explanationJa": "los + 曜日の複数 =「毎週〜」。Los lunesで「毎週月曜日」の意味です。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Me gusta café.",
+            "answer": "Me gusta el café.",
+            "explanationJa": "一般的な好みを言うときは定冠詞が必要です。「コーヒーが好き」→ el caféが必要。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "La problema es difícil.",
+            "answer": "El problema es difícil.",
+            "explanationJa": "problemaはギリシャ語由来の男性名詞です。el problemaが正しい形。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Soy un profesor de español.",
+            "answer": "Soy profesor de español.",
+            "explanationJa": "ser + 職業のときは通常冠詞を省略します。ただし形容詞がつく場合は冠詞可（Soy un buen profesor）。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "La agua está caliente.",
+            "answer": "El agua está caliente.",
+            "explanationJa": "aguaは女性名詞ですが、アクセントのあるa-で始まるため単数形ではelを使います。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Compré el mapa nuevo. Es una mapa muy detallado.",
+            "answer": "Compré el mapa nuevo. Es un mapa muy detallado.",
+            "explanationJa": "mapaはギリシャ語由来の男性名詞。una → un、detallada → detalladoに修正。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「昨日本を買った。その本は面白い」で2回目の「本」に使う冠詞は？",
+            "options": [
+              "el libro",
+              "una libro",
+              "los libros",
+              "un libro"
+            ],
+            "answer": 0,
+            "explanationJa": "1回目の言及はun libro（不定冠詞）。2回目はもう特定されているのでel libro（定冠詞）。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「毎週月曜日」を正しく言うと？",
+            "options": [
+              "un lunes",
+              "lunes",
+              "el lunes",
+              "los lunes"
+            ],
+            "answer": 3,
+            "explanationJa": "los + 曜日の複数 =「毎週〜」。el lunesは「今度の月曜日」。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次のうち正しい文はどれ？",
+            "options": [
+              "Me gusta la música.",
+              "Me gusta el música.",
+              "Me gusta música.",
+              "Me gusta un música."
+            ],
+            "answer": 0,
+            "explanationJa": "一般概念としての好みには定冠詞が必要。músicaは女性名詞なのでla。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「テーマは難しい」のtemaに使う冠詞は？",
+            "options": [
+              "la",
+              "las",
+              "una",
+              "el"
+            ],
+            "answer": 3,
+            "explanationJa": "temaはギリシャ語由来の男性名詞。-aで終わりますがel temaが正解。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「写真がきれいだ」のfotoに使う冠詞は？",
+            "options": [
+              "los",
+              "la",
+              "un",
+              "el"
+            ],
+            "answer": 1,
+            "explanationJa": "fotoはfotografíaの短縮形で女性名詞。-oで終わりますがla fotoが正解。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「庭に猫が1匹います」をスペイン語に訳しなさい。",
+            "answer": "Hay un gato en el jardín.",
+            "acceptableAnswers": [
+              "Hay un gato en el jardín."
+            ],
+            "explanationJa": "初出の不特定の猫 → un gato。特定の庭 → el jardín。Hay = 〜がある/いる。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「人生は美しい」をスペイン語に訳しなさい。",
+            "answer": "La vida es bella.",
+            "acceptableAnswers": [
+              "La vida es bella.",
+              "La vida es hermosa."
+            ],
+            "explanationJa": "一般的・抽象的な概念の「人生」には定冠詞laが必要。vida＝女性名詞。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「靴をいくつか買う必要がある」をスペイン語に訳しなさい。",
+            "answer": "Necesito comprar unos zapatos.",
+            "acceptableAnswers": [
+              "Necesito comprar unos zapatos.",
+              "Necesito unos zapatos."
+            ],
+            "explanationJa": "不特定の「いくつかの靴」→ 不定冠詞複数unos。zapatos＝男性名詞複数。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文を複数形にしなさい: El libro es interesante.",
+            "answer": "Los libros son interesantes.",
+            "explanationJa": "el → los、libro → libros、es → son、interesante → interesantes。全て複数形に合わせます。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文の不定冠詞を定冠詞に変えなさい: Tengo una casa grande.",
+            "answer": "Tengo la casa grande.",
+            "explanationJa": "una（不定冠詞）→ la（定冠詞）。不特定 → 特定に変わります。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "定冠詞（el, la, los, las）は特定のもの・既知のもの・一般概念に使う",
+      "不定冠詞（un, una, unos, unas）は不特定のもの・初出のものに使う",
+      "冠詞は名詞の性（男性・女性）と数（単数・複数）に一致させる",
+      "ギリシャ語由来の -ma で終わる名詞（problema, tema, sistema）は男性名詞",
+      "アクセントのある a- で始まる女性名詞の単数形には el を使う（el agua）",
+      "職業を言うときは冠詞を省略する（Soy profesor）"
+    ]
+  }
+}

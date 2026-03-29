@@ -1,0 +1,492 @@
+{
+  "id": "c1-grammar-003",
+  "slug": "oraciones-temporales-avanzadas",
+  "titleJa": "高度な時間表現（antes de que, hasta que, en cuanto...）",
+  "titleEs": "Oraciones temporales avanzadas",
+  "level": "c1",
+  "sortOrder": 3,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "時間の接続詞と接続法：未来か過去かで変わる",
+        "bodyJa": "スペイン語の時間表現（cuando, antes de que, hasta que など）は、「まだ起きていない未来のこと」を指すときに接続法を使います。\n\nこれはC1レベルの核心ルールです。\n\n過去や習慣的な事実 → 直説法\n未来のこと（まだ起きていない）→ 接続法\n\n・Cuando llegué, ya habían cenado.（着いたとき、もう夕食を食べ終えていた）← 過去の事実 → 直説法\n・Cuando llegue, cenaremos juntos.（着いたら、一緒に夕食を食べよう）← 未来 → 接続法\n\nこのルールは cuando, hasta que, en cuanto, mientras, después de que など多くの時間接続詞に適用されます。\n\nただし antes de que は例外で、常に接続法です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "antes de que：常に接続法",
+        "bodyJa": "antes de que（〜する前に）は、時制に関係なく常に接続法を使います。\n\nなぜなら、「〜する前に」ということは、その行為がまだ実現していない時点を指すからです。\n\n・Vete antes de que llegue tu padre.（お父さんが来る前に出なさい）\n・Antes de que empezara la clase, repasé mis notas.（授業が始まる前にノートを復習した）\n・Siempre desayuno antes de que se despierten los niños.（いつも子供たちが起きる前に朝食をとる）\n\n主語が同じ場合は antes de + 不定詞を使います。\n・Antes de salir, apaga la luz.（出る前に電気を消して）"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "hasta que：「〜するまで」",
+        "bodyJa": "hasta que は「〜するまで」を表します。\n\n未来の文脈 → 接続法\n過去・習慣の文脈 → 直説法\n\n・Esperaré hasta que vengas.（君が来るまで待つよ）← 未来 → 接続法\n・Esperé hasta que vino.（彼が来るまで待った）← 過去 → 直説法\n・Siempre espero hasta que viene.（いつも彼が来るまで待つ）← 習慣 → 直説法\n\n否定の no... hasta que も同じルールです。\n・No me iré hasta que me des una respuesta.（答えをくれるまで帰らない）\n\n日本語話者のポイント：日本語の「〜するまで」には法の区別がないので、未来の場面では接続法を使うことを意識的に練習しましょう。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "en cuanto, tan pronto como：「〜したらすぐに」",
+        "bodyJa": "en cuanto と tan pronto como は「〜したらすぐに」を表します。\n\n未来 → 接続法\n過去 → 直説法\n\n・En cuanto llegue, te llamo.（着いたらすぐ電話するね）← 未来 → 接続法\n・En cuanto llegó, me llamó.（着いたらすぐ電話してきた）← 過去 → 直説法\n・Tan pronto como sepa algo, te aviso.（何かわかったらすぐ知らせるよ）← 未来 → 接続法\n\n口語では en cuanto の方が圧倒的に多く使われます。\ntan pronto como はやや書き言葉寄りです。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "mientras：「〜している間に」",
+        "bodyJa": "mientras は「〜している間に」を表します。\n\n事実・習慣 → 直説法\n未来・仮定 → 接続法\n\n・Mientras yo cocino, tú pon la mesa.（僕が料理している間にテーブルを準備して）← 事実 → 直説法\n・Mientras estés aquí, puedes usar mi WiFi.（ここにいる間はWiFi使っていいよ）← 未来 → 接続法\n\nまた mientras que は「一方で」という対比の意味でも使います。この場合は常に直説法です。\n・Yo trabajo mientras que él descansa.（僕が働いている一方で、彼は休んでいる）"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "nada más + 不定詞：「〜するやいなや」",
+        "bodyJa": "nada más + 不定詞は「〜するやいなや」「〜した瞬間に」を表すスペイン語独特の表現です。\n\n接続法は使いません。不定詞を直接続けます。\n\n・Nada más llegar, se puso a trabajar.（着くやいなや、仕事を始めた）\n・Nada más verla, se enamoró.（彼女を見た瞬間、恋に落ちた）\n・Nada más despertarme, miro el móvil.（起きたらすぐスマホを見る）\n\nこの表現は en cuanto の代わりに使えます。口語でも書き言葉でもよく使われます。\n\n日本語話者のポイント：「nada más（これ以上何もない）」+ 動詞で「〜した瞬間」になるのは直感的ではないので、セットで暗記しましょう。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Antes de que te vayas, necesito decirte algo.",
+            "ja": "君が行く前に、言わなきゃいけないことがある。",
+            "noteJa": "antes de que + 接続法。vayas は ir の接続法 tú 形。時制に関係なく常に接続法。"
+          },
+          {
+            "es": "No pararé hasta que consiga mi objetivo.",
+            "ja": "目標を達成するまで止まらない。",
+            "noteJa": "hasta que + 接続法（未来）。consiga は conseguir の接続法。"
+          },
+          {
+            "es": "En cuanto termine la reunión, te escribo.",
+            "ja": "会議が終わったらすぐメールするね。",
+            "noteJa": "en cuanto + 接続法（未来）。termine は terminar の接続法。"
+          },
+          {
+            "es": "Mientras vivamos en esta ciudad, aprovecharemos cada momento.",
+            "ja": "この街に住んでいる間は、毎日を大切にしよう。",
+            "noteJa": "mientras + 接続法（未来・不確定な期間）。vivamos は vivir の接続法 nosotros 形。"
+          },
+          {
+            "es": "Nada más abrir la puerta, el gato salió corriendo.",
+            "ja": "ドアを開けた瞬間、猫が走り出した。",
+            "noteJa": "nada más + 不定詞。「〜するやいなや」。接続法は使わない。"
+          },
+          {
+            "es": "Tan pronto como reciba el paquete, te aviso.",
+            "ja": "荷物が届いたらすぐ知らせるよ。",
+            "noteJa": "tan pronto como + 接続法（未来）。reciba は recibir の接続法。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Cuando llegaré, te llamo.",
+            "correct": "Cuando llegue, te llamo.",
+            "whyJa": "cuando の後に未来形は使えません。未来のことを指すときは接続法現在 llegue を使います。日本語話者は「着くとき」を未来形にしがちですが、これはスペイン語では間違い。"
+          },
+          {
+            "wrong": "Antes de que llega el jefe, terminemos esto.",
+            "correct": "Antes de que llegue el jefe, terminemos esto.",
+            "whyJa": "antes de que の後は常に接続法。llega は直説法なので間違い。"
+          },
+          {
+            "wrong": "Esperaré hasta que vienes.",
+            "correct": "Esperaré hasta que vengas.",
+            "whyJa": "未来の文脈での hasta que は接続法。vienes は直説法。vengas が正しい。"
+          },
+          {
+            "wrong": "Antes de que yo salgo, apago la luz.",
+            "correct": "Antes de salir, apago la luz.",
+            "whyJa": "主語が同じ場合は antes de + 不定詞。antes de que + 接続法は主語が異なるときに使う。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "En cuanto llegue a casa, me pongo el pijama y no me muevo 🛋️",
+            "ja": "家に着いたらパジャマに着替えて動かない🛋️",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "en cuanto + 接続法。llegue は llegar の接続法。仕事帰りの定番つぶやき。"
+          },
+          {
+            "es": "No te perdono hasta que me pidas disculpas de verdad.",
+            "ja": "ちゃんと謝るまで許さないからね。",
+            "source": "conversation",
+            "sourceLabel": "友達との会話",
+            "noteJa": "hasta que + 接続法（未来）。pidas は pedir の接続法。de verdad は「本当に・ちゃんと」。"
+          },
+          {
+            "es": "Antes de que digas nada, déjame explicarte.",
+            "ja": "何か言う前に、説明させて。",
+            "source": "conversation",
+            "sourceLabel": "パートナーとの会話",
+            "noteJa": "antes de que + 接続法。digas は decir の接続法。ドラマでよく聞くセリフ。"
+          },
+          {
+            "es": "Nada más despertar ya tengo 47 mensajes sin leer 📱😵",
+            "ja": "起きた瞬間もう未読47件📱😵",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "nada más + 不定詞。despertar = 起きる。SNSで日常あるあるを表現。"
+          },
+          {
+            "es": "Mientras dure el buen tiempo, vamos a aprovechar para ir a la playa.",
+            "ja": "天気が良い間に、ビーチに行こう。",
+            "source": "conversation",
+            "sourceLabel": "友達への提案",
+            "noteJa": "mientras + 接続法。dure は durar の接続法。「いつまで続くかわからない」ニュアンス。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "Cuando ___ a Madrid, visitaré el Prado. (llegar, yo)",
+            "options": [
+              "llegue",
+              "llegaré",
+              "llego",
+              "llegué"
+            ],
+            "answer": 0,
+            "explanationJa": "未来のことなので cuando + 接続法。llegar の接続法 yo 形は llegue。cuando の後に未来形は使えない。"
+          },
+          {
+            "prompt": "Antes de que ___ la película, apaga el móvil. (empezar)",
+            "options": [
+              "empezará",
+              "empiece",
+              "empezó",
+              "empieza"
+            ],
+            "answer": 1,
+            "explanationJa": "antes de que は常に接続法。empezar の接続法は empiece。"
+          },
+          {
+            "prompt": "Esperé hasta que ___ de llover. (dejar)",
+            "options": [
+              "dejará",
+              "dejó",
+              "deje",
+              "dejara"
+            ],
+            "answer": 1,
+            "explanationJa": "過去の事実なので直説法過去 dejó。「雨が止むまで待った」。"
+          },
+          {
+            "prompt": "En cuanto ___ los resultados, te aviso. (saber, yo)",
+            "options": [
+              "supe",
+              "sé",
+              "sepa",
+              "sabré"
+            ],
+            "answer": 2,
+            "explanationJa": "未来のことなので en cuanto + 接続法。saber の接続法 yo 形は sepa。"
+          },
+          {
+            "prompt": "Nada más ___ el email, me puse nervioso. (leer)",
+            "options": [
+              "leer",
+              "leí",
+              "lea",
+              "leyera"
+            ],
+            "answer": 0,
+            "explanationJa": "nada más + 不定詞。「メールを読んだ瞬間、緊張した」。接続法ではなく不定詞を使う。"
+          },
+          {
+            "prompt": "「彼が来るまで待つ」を正しく訳すと？",
+            "options": [
+              "Espero hasta que viene.",
+              "Espero hasta que vino.",
+              "Espero hasta que venga.",
+              "Espero hasta que vendrá."
+            ],
+            "answer": 2,
+            "explanationJa": "未来のことなので hasta que + 接続法 venga。直説法 viene は習慣の場合のみ可。"
+          },
+          {
+            "prompt": "Mientras ___ en España, quiero aprender flamenco. (estar, yo)",
+            "options": [
+              "estaré",
+              "estuve",
+              "esté",
+              "estoy"
+            ],
+            "answer": 2,
+            "explanationJa": "未来の不確定な期間なので mientras + 接続法。estar の接続法 yo 形は esté。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Cuando ___ a casa, te llamaré. (llegar, yo)",
+            "answer": "llegue",
+            "options": [
+              "llego",
+              "llegue",
+              "llegué",
+              "llegaré"
+            ],
+            "explanationJa": "未来のことなので cuando + 接続法。llegar の接続法 yo 形は llegue。cuando の後に未来形は使えない。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Antes de que ___ el tren, compra el billete. (salir)",
+            "answer": "salga",
+            "options": [
+              "saldrá",
+              "salga",
+              "sale",
+              "salió"
+            ],
+            "explanationJa": "antes de que は常に接続法。salir の接続法は salga。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Esperaré hasta que ___ la respuesta. (recibir, yo)",
+            "answer": "reciba",
+            "options": [
+              "recibo",
+              "reciba",
+              "recibí",
+              "recibiré"
+            ],
+            "explanationJa": "未来のことなので hasta que + 接続法。recibir の接続法 yo 形は reciba。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "En cuanto ___ el resultado, te aviso. (saber, yo)",
+            "answer": "sepa",
+            "options": [
+              "supe",
+              "sepa",
+              "sé",
+              "sabré"
+            ],
+            "explanationJa": "未来のことなので en cuanto + 接続法。saber の接続法 yo 形は sepa。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Nada más ___ la puerta, el perro salió corriendo. (abrir)",
+            "answer": "abrir",
+            "options": [
+              "abrió",
+              "abrir",
+              "abriera",
+              "abra"
+            ],
+            "explanationJa": "nada más + 不定詞。「ドアを開けた瞬間」。接続法ではなく不定詞を使う。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Mientras ___ en Japón, quiero aprender ikebana. (vivir, yo)",
+            "answer": "viva",
+            "options": [
+              "viva",
+              "viví",
+              "viviré",
+              "vivo"
+            ],
+            "explanationJa": "未来の不確定な期間なので mientras + 接続法。vivir の接続法 yo 形は viva。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Tan pronto como ___ el correo, te reenvío la información. (leer, yo)",
+            "answer": "lea",
+            "options": [
+              "leí",
+              "lea",
+              "leeré",
+              "leo"
+            ],
+            "explanationJa": "未来のことなので tan pronto como + 接続法。leer の接続法 yo 形は lea。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Cuando ___ joven, viajaba mucho. (ser, yo) ← 過去の事実",
+            "answer": "era",
+            "options": [
+              "seré",
+              "era",
+              "sea",
+              "fuera"
+            ],
+            "explanationJa": "過去の事実・習慣なので直説法過去 era。接続法は未来のことに使う。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Antes de que ___ la clase, revisé mis apuntes. (empezar)",
+            "answer": "empezara",
+            "options": [
+              "empiece",
+              "empezara",
+              "empieza",
+              "empezó"
+            ],
+            "explanationJa": "antes de que は常に接続法。過去の文脈では接続法過去 empezara を使う。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "No me iré hasta que me ___ una explicación. (dar, tú)",
+            "answer": "des",
+            "options": [
+              "diste",
+              "darás",
+              "das",
+              "des"
+            ],
+            "explanationJa": "未来のことなので hasta que + 接続法。dar の接続法 tú 形は des。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Cuando llegaré a Madrid, visitaré el museo.",
+            "answer": "Cuando llegue a Madrid, visitaré el museo.",
+            "explanationJa": "cuando の後に未来形は使えない。未来のことは接続法 llegue を使う。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Antes de que llega el profesor, terminemos el ejercicio.",
+            "answer": "Antes de que llegue el profesor, terminemos el ejercicio.",
+            "explanationJa": "antes de que の後は常に接続法。llega（直説法）→ llegue（接続法）に修正。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Esperaré hasta que vienes.",
+            "answer": "Esperaré hasta que vengas.",
+            "explanationJa": "未来の文脈での hasta que は接続法。vienes（直説法）→ vengas（接続法）に修正。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Antes de que yo salgo, apago la luz. (主語が同じ)",
+            "answer": "Antes de salir, apago la luz.",
+            "explanationJa": "主語が同じ場合は antes de + 不定詞を使う。antes de que + 接続法は主語が異なるときだけ。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Nada más que llegó, se puso a trabajar.",
+            "answer": "Nada más llegar, se puso a trabajar.",
+            "explanationJa": "nada más + 不定詞が正しい。nada más que は別の意味。「着くやいなや」は nada más llegar。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次のうち常に接続法を使う時間表現はどれ？",
+            "options": [
+              "antes de que",
+              "cuando",
+              "hasta que",
+              "mientras"
+            ],
+            "answer": 0,
+            "explanationJa": "antes de que は時制に関係なく常に接続法。他は未来のときだけ接続法。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「彼が来たらすぐ電話してきた」（過去の事実）の正しい訳は？",
+            "options": [
+              "En cuanto llegará, me llamó.",
+              "En cuanto llegó, me llamó.",
+              "En cuanto llegara, me llamó.",
+              "En cuanto llegue, me llamó."
+            ],
+            "answer": 1,
+            "explanationJa": "過去の事実なので en cuanto + 直説法過去 llegó。接続法は未来の場合のみ。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "nada más + 不定詞 はどの表現と同じ意味？",
+            "options": [
+              "mientras（〜している間に）",
+              "en cuanto（〜したらすぐに）",
+              "antes de que（〜する前に）",
+              "hasta que（〜するまで）"
+            ],
+            "answer": 1,
+            "explanationJa": "nada más + 不定詞は「〜するやいなや」で en cuanto と同じ意味。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "mientras que が直説法を使うのはどんな場合？",
+            "options": [
+              "常に接続法",
+              "「一方で」という対比の意味のとき",
+              "未来のことを述べるとき",
+              "仮定のとき"
+            ],
+            "answer": 1,
+            "explanationJa": "mientras que は「一方で」の対比の意味では常に直説法。mientras が「〜している間に」の未来なら接続法。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「宿題が終わるまで出かけちゃダメ」の正しい訳は？",
+            "options": [
+              "No puedes salir hasta que terminarás los deberes.",
+              "No puedes salir hasta que terminaste los deberes.",
+              "No puedes salir hasta que terminas los deberes.",
+              "No puedes salir hasta que termines los deberes."
+            ],
+            "answer": 3,
+            "explanationJa": "未来のことなので hasta que + 接続法 termines。"
+          },
+          {
+            "type": "translation",
+            "prompt": "メールを読んだ瞬間、緊張した。（nada más を使って）",
+            "answer": "Nada más leer el correo, me puse nervioso.",
+            "acceptableAnswers": [
+              "Nada más leer el email, me puse nervioso.",
+              "Nada más leer el mensaje, me puse nervioso."
+            ],
+            "explanationJa": "nada más + 不定詞。「〜した瞬間」の表現。接続法は使わない。"
+          },
+          {
+            "type": "translation",
+            "prompt": "試験が終わったら旅行に行く。（en cuanto を使って）",
+            "answer": "En cuanto termine el examen, me voy de viaje.",
+            "acceptableAnswers": [
+              "En cuanto termine el examen, iré de viaje.",
+              "En cuanto acabe el examen, me voy de viaje."
+            ],
+            "explanationJa": "未来のことなので en cuanto + 接続法 termine。"
+          },
+          {
+            "type": "translation",
+            "prompt": "何か言う前に、聞いて。（antes de que を使って）",
+            "answer": "Antes de que digas nada, escúchame.",
+            "acceptableAnswers": [
+              "Antes de que digas algo, escúchame.",
+              "Antes de que digas nada, escucha."
+            ],
+            "explanationJa": "antes de que + 接続法。digas は decir の接続法 tú 形。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "Llegué a casa. Inmediatamente me cambié de ropa.（en cuanto を使って一文にしなさい）",
+            "answer": "En cuanto llegué a casa, me cambié de ropa.",
+            "explanationJa": "過去の事実なので en cuanto + 直説法過去 llegué。「家に着いたらすぐ着替えた」。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "Él vendrá. Entonces cenaremos.（cuando を使って一文にしなさい）",
+            "answer": "Cuando venga, cenaremos.",
+            "explanationJa": "未来のことなので cuando + 接続法 venga。cuando の後に未来形は使えない。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "時間の接続詞は「未来のこと → 接続法」「過去・習慣 → 直説法」が基本ルール",
+      "antes de que は例外で、常に接続法を使う",
+      "cuando の後に未来形（llegaré 等）は絶対に使えない。未来は接続法",
+      "nada más + 不定詞で「〜するやいなや」。接続法は不要",
+      "主語が同じ場合は antes de / después de + 不定詞に簡略化できる",
+      "en cuanto は口語で頻出。tan pronto como はフォーマル"
+    ]
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "id": "c2-grammar-005",
+  "slug": "regionalismos-gramaticales",
+  "titleJa": "地域文法の違い — voseo・時制選択・代名詞、スペイン語は一つじゃない",
+  "titleEs": "Regionalismos gramaticales: voseo, tiempos verbales y variación dialectal",
+  "level": "c2",
+  "sortOrder": 5,
+  "hasRegionalVariants": true,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "「正しいスペイン語」は存在しない",
+        "bodyJa": "スペイン語は20以上の国で公用語として使われ、5億人以上のネイティブスピーカーがいます。\n\n当然、地域によって文法の使い方が大きく異なります。\n\nC2レベルでは「スペインのスペイン語が正しい」という考え方を捨て、各方言の文法的特徴を理解し、テキストの出身地域を特定できる力が求められます。\n\nDELE C2の試験でも、様々な地域の話者による音声や文章が出題されます。\n\n主な文法的変異：\n1. voseo（2人称代名詞の変異）\n2. ustedes vs vosotros（複数2人称の使い分け）\n3. pretérito perfecto vs pretérito indefinido（完了形 vs 点過去）\n4. leísmo / laísmo（前回の復習として簡単に）\n5. queísmo / dequeísmo（前置詞 de の有無）"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "voseo：アルゼンチン・中米の「tú」",
+        "bodyJa": "voseo は tú の代わりに vos を使い、動詞の活用も変わる現象です。\n\nアルゼンチン・ウルグアイで最も標準的ですが、コスタリカ・ニカラグア・グアテマラ・ホンジュラス・エルサルバドル・パラグアイ・ボリビア・コロンビアの一部でも使われます。\n\n【活用の比較】\n\ntú hablas → vos hablás（話す）\ntú comes → vos comés（食べる）\ntú vives → vos vivís（住む）\ntú tienes → vos tenés（持つ）\ntú puedes → vos podés（できる）\ntú quieres → vos querés（欲しい）\ntú vienes → vos venís（来る）\ntú eres → vos sos（〜である）\n\n規則：語幹母音変化が起こらず、アクセントが最後の音節に来る。\n\n【命令形の変異】\ntú habla → vos hablá\ntú come → vos comé\ntú ven → vos vení\ntú pon → vos poné\n\n否定命令はアルゼンチンでは tú 形を使うことが多い：\nNo hablés. / No hables.（どちらも使われる）\n\n接続法は地域によって異なる：\nアルゼンチン：tú の接続法形を使う（quiero que hables）\n中米の一部：vos の接続法形を使う（quiero que hablés）"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "ustedes vs vosotros：複数2人称の世界地図",
+        "bodyJa": "これは最もシンプルだが重要な地域差です。\n\n【スペイン（カナリア諸島・一部のアンダルシアを除く）】\n親しい相手（複数）：vosotros/vosotras + 2人称複数活用\n丁寧な相手（複数）：ustedes + 3人称複数活用\n\n【ラテンアメリカ全域 + カナリア諸島 + 一部のアンダルシア】\n親しい相手も丁寧な相手も：ustedes + 3人称複数活用\n→ vosotros は存在しない。\n\n日本語話者への影響：\n教科書がスペインのスペイン語ベースなら vosotros を学びますが、ラテンアメリカでは使うと「教科書っぽい」「スペイン人っぽい」と思われます。\n\n逆に、ラテンアメリカのスペイン語を学んだ人がスペインで vosotros を使わないと、「外国人っぽい」と思われることも。\n\nC2レベルのアドバイス：両方の活用を知っておき、相手や状況に応じて切り替える能力を持ちましょう。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "pretérito perfecto vs pretérito indefinido：時制の地域差",
+        "bodyJa": "「今日〜した」を過去形で表すとき、スペインとラテンアメリカで大きな差があります。\n\n【スペイン中北部】\n今日・今週など「現在と繋がりがある」期間 → pretérito perfecto（現在完了）\nHoy he comido paella.（今日パエリアを食べた）\nEsta semana he ido al cine.（今週映画に行った）\n\n完全に終わった過去 → pretérito indefinido（点過去）\nAyer comí paella.（昨日パエリアを食べた）\n\n【ラテンアメリカ・スペイン南部】\n「今日」でも点過去を使う\nHoy comí paella.（今日パエリアを食べた）\nEsta semana fui al cine.（今週映画に行った）\n\n→ 現在完了は「経験」や「結果の持続」に限定的に使われる：\n¿Has estado en Japón?（日本に行ったことある？）\n\nこの違いはDELE C2のリスニングで地域の特定に使えます。\n現在完了を多用する話者 → スペイン中北部の可能性が高い\n点過去を「今日」にも使う話者 → ラテンアメリカの可能性が高い"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "その他の地域差：語彙的・音韻的なヒント",
+        "bodyJa": "文法以外にも、地域を特定する手がかりがあります。\n\n【音韻的特徴】\n・seseo：s/c/z すべてを [s] で発音 → ラテンアメリカ全域 + アンダルシア南部\n・distinción：c/z を [θ] で発音 → スペイン中北部\n・yeísmo：ll と y を同じ発音 → ほぼ全域で主流\n・žeísmo/šeísmo：ll/y を [ʒ] や [ʃ] で発音 → アルゼンチン・ウルグアイ\n\n【語彙的特徴のいくつか】\n・coche / carro / auto（車）→ スペイン / メキシコ・コロンビア / アルゼンチン\n・ordenador / computadora / computador（パソコン）→ スペイン / メキシコ / コロンビア\n・vale / dale / okey（OK）→ スペイン / アルゼンチン / 広域\n\n【diminutivo（縮小辞）の地域差】\n・-ito/-ita：最も広域\n・-ico/-ica：コロンビア・コスタリカ（tico の語源）\n・-iño/-iña：ガリシア"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "地域差への正しい態度：C2としてのスタンス",
+        "bodyJa": "C2レベルの学習者として、地域差に対する正しいスタンスは以下の通りです。\n\n1. どの方言も「正しい」スペイン語である\n→ 「スペインのスペイン語が上」「ラテンアメリカは崩れている」は間違い。\n\n2. 自分の基本方言を持ちつつ、他を理解できる\n→ 全部を使いこなす必要はない。認識できればよい。\n\n3. 相手に合わせる柔軟性\n→ アルゼンチン人と話すときに vos を理解し、スペイン人と話すときに vosotros を使える。\n\n4. メディアリテラシー\n→ テレビ・映画・音楽がどの地域のスペイン語かを判断できる。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "¿Vos sabés a qué hora sale el bondi? (Argentina)",
+            "ja": "バスが何時に出るか知ってる？（アルゼンチン）",
+            "noteJa": "voseo（sabés）+ lunfardo（bondi = autobús）。典型的なブエノスアイレスの話し方。"
+          },
+          {
+            "es": "Hoy he ido al médico y me ha dicho que estoy bien. (España)",
+            "ja": "今日医者に行って、大丈夫だと言われた。（スペイン）",
+            "noteJa": "「今日」の出来事に現在完了を使用。スペイン中北部の特徴。ラテンアメリカでは Hoy fui al médico y me dijo..."
+          },
+          {
+            "es": "Hoy fui al doctor y me dijo que todo está bien. (Latinoamérica)",
+            "ja": "今日医者に行って、全部大丈夫だと言われた。（ラテンアメリカ）",
+            "noteJa": "「今日」でも点過去（fui, dijo）を使用。さらに médico の代わりに doctor を使う傾向もラテンアメリカ的。"
+          },
+          {
+            "es": "Ustedes van a tener que esperar un rato. (Latinoamérica)",
+            "ja": "しばらく待ってもらうことになります。（ラテンアメリカ）",
+            "noteJa": "親しい相手にも ustedes を使用。スペインなら Vosotros vais a tener que esperar un rato."
+          },
+          {
+            "es": "Vení, sentate acá y contame qué pasó. (Argentina, voseo imperativo)",
+            "ja": "おいで、ここに座って、何があったか話して。（アルゼンチン、voseo命令形）",
+            "noteJa": "voseo の命令形3連発。vení（ven）、sentate（siéntate）、contame（cuéntame）。再帰代名詞の位置は te が後ろに付く。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "アルゼンチンで vosotros を使ってしまう",
+            "correct": "ustedes を使う。vosotros はラテンアメリカでは使われない",
+            "whyJa": "ラテンアメリカに行くなら vosotros を使わないのが鉄則。教科書っぽく聞こえるだけでなく、場合によっては傲慢に聞こえることも。"
+          },
+          {
+            "wrong": "voseo の活用で語幹母音変化をしてしまう（vos tienes）",
+            "correct": "vos tenés（語幹母音変化なし、アクセントは最終音節）",
+            "whyJa": "voseo の最大の特徴は語幹母音変化が起こらないこと。tú tienes → vos tenés、tú puedes → vos podés。アクセントの位置にも注意。"
+          },
+          {
+            "wrong": "ラテンアメリカで「今日」の出来事に現在完了を使いすぎる",
+            "correct": "「今日」でも点過去を使うのがラテンアメリカの自然な表現",
+            "whyJa": "スペインの教科書で学んだ「今日 = 現在完了」はラテンアメリカでは不自然。Hoy fui al cine の方が自然です。"
+          },
+          {
+            "wrong": "voseo を使う地域で接続法も vos 形と決めつける",
+            "correct": "アルゼンチンでは接続法は tú 形を使うことが多い",
+            "whyJa": "アルゼンチンでは Quiero que hablés ではなく Quiero que hables が一般的。ただし中米では接続法の vos 形を使う地域もある。地域で異なる。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "地域差を実感する場面",
+        "items": [
+          {
+            "es": "Che, ¿vos no tenés frío? Yo estoy re helado, boludo.",
+            "ja": "ねえ、寒くない？俺めっちゃ凍えてるんだけど。",
+            "source": "conversation",
+            "sourceLabel": "アルゼンチン日常会話",
+            "noteJa": "voseo（tenés）+ che（呼びかけ）+ re（muy の意味、muy のスラング）+ boludo（友達への軽いあだ名）。完全にアルゼンチン方言。"
+          },
+          {
+            "es": "¡Pura vida, mae! Vos sos lo máximo.",
+            "ja": "最高だよ、友よ！お前は最高だ。",
+            "source": "conversation",
+            "sourceLabel": "コスタリカ日常会話",
+            "noteJa": "pura vida（コスタリカの国民的フレーズ）+ mae（友達の呼び方）+ voseo（sos）。コスタリカの典型的表現。"
+          },
+          {
+            "es": "¿Habéis visto la nueva serie? Es genial, tíos.",
+            "ja": "新しいドラマ見た？最高だよ、みんな。",
+            "source": "conversation",
+            "sourceLabel": "スペイン若者会話",
+            "noteJa": "vosotros 形（habéis）+ tíos（友達への呼びかけ、スペイン）。典型的なスペインの若者言葉。"
+          },
+          {
+            "es": "Mija, no sea tan brava. Venga, siéntese y comamos algo.",
+            "ja": "お嬢ちゃん、そんなに怒らないで。さあ、座って何か食べましょう。",
+            "source": "conversation",
+            "sourceLabel": "コロンビアの会話",
+            "noteJa": "mija（mi hija の短縮、親しみの呼びかけ）+ usted命令形（siéntese）。コロンビアでは親しい間柄でも usted を使うことがある。"
+          },
+          {
+            "es": "Oye, ¿no mames, güey? ¿Neta que te vas a Japón?",
+            "ja": "え、マジで？本当に日本行くの？",
+            "source": "conversation",
+            "sourceLabel": "メキシコ若者会話",
+            "noteJa": "no mames（驚きの俗語表現）+ güey（友達の呼び方）+ neta（本当に？）。メキシコのカジュアルなスラング。tú 形使用（tuteo）。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "「tú hablas」のvoseo形は？",
+            "options": [
+              "vos hablés",
+              "vos hablás",
+              "vos hablas",
+              "vos habláis"
+            ],
+            "answer": 1,
+            "explanationJa": "voseo の直説法現在は語幹母音変化なし + 最終音節にアクセント。hablar → hablás。"
+          },
+          {
+            "prompt": "ラテンアメリカで vosotros が使われない代わりに使う形は？",
+            "options": [
+              "tú + 2人称複数",
+              "vos + 2人称単数",
+              "ustedes + 3人称複数",
+              "ellos + 3人称複数"
+            ],
+            "answer": 2,
+            "explanationJa": "ラテンアメリカでは親しい間柄でも複数の相手には ustedes を使います。vosotros は存在しない。"
+          },
+          {
+            "prompt": "スペイン中北部で「今日映画を見た」を最も自然に言うと？",
+            "options": [
+              "Hoy vería una película.",
+              "Hoy he visto una película.",
+              "Hoy había visto una película.",
+              "Hoy vi una película."
+            ],
+            "answer": 1,
+            "explanationJa": "スペイン中北部では「今日」のような現在と繋がりのある時間表現には現在完了（he visto）を使います。"
+          },
+          {
+            "prompt": "voseo で「tú puedes」に当たる形は？",
+            "options": [
+              "vos podéis",
+              "vos puedés",
+              "vos podés",
+              "vos podes"
+            ],
+            "answer": 2,
+            "explanationJa": "voseo では語幹母音変化が起こらない。puedes（e→ue変化）→ podés（変化なし）。アクセントは最終音節。"
+          },
+          {
+            "prompt": "コロンビアの一部で親しい間柄でも usted を使うのは？",
+            "options": [
+              "フォーマルな場面だから",
+              "文法的に間違っているが通じるから",
+              "親しみと敬意を同時に表す地域的慣習",
+              "相手を嫌っているから"
+            ],
+            "answer": 2,
+            "explanationJa": "ボゴタなどでは、親しい間柄でも usted を使うのが普通。これは冷たさではなく、親しみと敬意が融合した地域的慣習です。"
+          },
+          {
+            "prompt": "次のうち、話者がアルゼンチン出身だと特定できる最も強い手がかりは？",
+            "options": [
+              "現在完了の多用",
+              "voseo の使用 + žeísmo（ll/y を [ʃ] で発音）",
+              "seseo の使用",
+              "ustedes の使用"
+            ],
+            "answer": 1,
+            "explanationJa": "voseo + žeísmo（シェイスモ）の組み合わせはアルゼンチン・ウルグアイにほぼ限定されます。seseo や ustedes はラテンアメリカ全域の特徴なので地域特定には不十分。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "tú tienes → vos ___ (voseo)",
+            "answer": "tenés",
+            "options": [
+              "tenés",
+              "tienés",
+              "tenéis",
+              "tienes"
+            ],
+            "explanationJa": "voseo では語幹母音変化が起こらない。tie-nes → ten-és。アクセントは最終音節。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "tú puedes → vos ___ (voseo)",
+            "answer": "podés",
+            "options": [
+              "podéis",
+              "podés",
+              "puedés",
+              "podes"
+            ],
+            "explanationJa": "voseo: 語幹母音変化なし（pue→po）+ アクセントが最終音節。podés が正しい。puedés は存在しない。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "tú ven → vos ___ (voseo命令形)",
+            "answer": "vení",
+            "options": [
+              "ven",
+              "vení",
+              "venís",
+              "vení"
+            ],
+            "explanationJa": "voseo の命令形：語末にアクセント。venir → vení。tú形の不規則命令（ven）とは異なるパターン。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "スペイン中北部で「今日映画を見た」→ Hoy ___ una película. (ver, yo)",
+            "answer": "he visto",
+            "options": [
+              "he visto",
+              "vi",
+              "vería",
+              "veía"
+            ],
+            "explanationJa": "スペイン中北部では「今日」のような現在と繋がる期間に現在完了（he visto）を使う。点過去（vi）はラテンアメリカ的。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "ラテンアメリカで「今日映画を見た」→ Hoy ___ una película. (ver, yo)",
+            "answer": "vi",
+            "options": [
+              "he visto",
+              "vi",
+              "vería",
+              "veía"
+            ],
+            "explanationJa": "ラテンアメリカでは「今日」でも点過去（vi）が自然。現在完了は「経験」や「結果の持続」に限定的。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "tú eres → vos ___ (voseo)",
+            "answer": "sos",
+            "options": [
+              "sos",
+              "sois",
+              "eres",
+              "erés"
+            ],
+            "explanationJa": "ser の voseo 形は sos。これは最も不規則な voseo 活用で、丸暗記が必要。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "ラテンアメリカで「君たち」に当たる形は？→ ___ van a tener que esperar.",
+            "answer": "Ustedes",
+            "options": [
+              "Vos",
+              "Vosotros",
+              "Tú",
+              "Ustedes"
+            ],
+            "explanationJa": "ラテンアメリカでは vosotros は使わない。親しい間柄でも複数2人称は ustedes + 3人称複数活用。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "tú quieres → vos ___ (voseo)",
+            "answer": "querés",
+            "options": [
+              "querés",
+              "quierés",
+              "querís",
+              "queréis"
+            ],
+            "explanationJa": "voseo: 語幹母音変化なし（quie→que）。querés が正しい。quierés は存在しない形。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "tú siéntate → vos ___ (voseo命令形)",
+            "answer": "sentate",
+            "options": [
+              "sentate",
+              "siéntese",
+              "sentáte",
+              "siéntate"
+            ],
+            "explanationJa": "voseo 命令形の再帰動詞：sentar → sentate。語幹母音変化なし + te が後ろに付く。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "アルゼンチンの接続法で「quiero que (tú/vos) hables」の一般的な形は？→ Quiero que ___ .",
+            "answer": "hables",
+            "options": [
+              "hablás",
+              "hablés",
+              "hables",
+              "hablas"
+            ],
+            "explanationJa": "アルゼンチンでは接続法は tú 形を使うのが一般的。vos の接続法形（hablés）は中米の一部で使われる。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "アルゼンチンで：Vos tienes que venir temprano.",
+            "answer": "Vos tenés que venir temprano.",
+            "explanationJa": "voseo では tú の活用（tienes）は使わない。vos + tenés。語幹母音変化なし + 最終音節アクセント。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "ラテンアメリカで：Vosotros tenéis que estudiar más.",
+            "answer": "Ustedes tienen que estudiar más.",
+            "explanationJa": "ラテンアメリカでは vosotros は使わない。ustedes + 3人称複数（tienen）が正しい。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "アルゼンチンの voseo 命令形：Vos viene acá.",
+            "answer": "Vos vení acá.",
+            "explanationJa": "voseo の命令形は viene ではなく vení。3人称現在形と命令形を混同している。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "メキシコで「今日コーヒーを飲んだ」：Hoy he tomado un café.",
+            "answer": "Hoy tomé un café.",
+            "explanationJa": "メキシコ（ラテンアメリカ）では「今日」でも点過去が自然。現在完了の多用はスペイン的で不自然に聞こえる。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Vos puedés hacerlo solo.",
+            "answer": "Vos podés hacerlo solo.",
+            "explanationJa": "voseo では語幹母音変化が起こらない。puedés は存在しない形。poder → podés（pue→po の変化なし）。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "voseo の直説法現在の最大の特徴は何か？",
+            "options": [
+              "語幹母音変化が二重に起こる",
+              "語幹母音変化が起こらず、アクセントが最終音節に来る",
+              "tú 形と完全に同じ活用をする",
+              "不規則動詞が存在しない"
+            ],
+            "answer": 1,
+            "explanationJa": "voseo の核心：語幹母音変化の消失（puedes→podés）+ アクセントの最終音節移動。この2点を覚えれば活用が予測可能。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "話者がアルゼンチン出身だと特定できる最も強い言語的手がかりは？",
+            "options": [
+              "voseo + žeísmo/šeísmo（ll/y を [ʒ]/[ʃ] で発音）の組み合わせ",
+              "seseo（s/c/z をすべて [s] で発音）",
+              "ustedes の使用",
+              "点過去の多用"
+            ],
+            "answer": 0,
+            "explanationJa": "voseo は中米でも使われるが、žeísmo/šeísmo と組み合わさるのはアルゼンチン・ウルグアイにほぼ限定。seseo や ustedes はラテンアメリカ全域の特徴。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "コロンビアの一部地域で親しい間柄でも usted を使うのはなぜか？",
+            "options": [
+              "文法的に tú を使えないから",
+              "スペインの影響",
+              "親しみと敬意を同時に表す地域的慣習であり、冷たさではない",
+              "相手を嫌っているから"
+            ],
+            "answer": 2,
+            "explanationJa": "ボゴタなどでは usted が親密さの表現にもなる。地域的な語用論的慣習であり、tú/vos を使わないことが距離を意味するわけではない。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "スペイン中北部で pretérito perfecto が使われる典型的な時間表現はどれか？",
+            "options": [
+              "mañana, la semana que viene（未来）",
+              "ayer, el año pasado, en 1990（完全に終わった過去）",
+              "hoy, esta semana, este mes（現在と繋がりのある期間）",
+              "時間表現なしの一般論"
+            ],
+            "answer": 2,
+            "explanationJa": "スペイン中北部では「今日」「今週」「今月」など現在と繋がりのある期間に現在完了を使う。完全に終わった過去には点過去。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "C2レベルの学習者として地域差にどう対応すべきか？",
+            "options": [
+              "地域差は無視してよい",
+              "自分の基本方言を持ちつつ、他の方言を認識・理解できる柔軟性を持つ",
+              "すべての方言を完璧に使い分ける",
+              "スペインのスペイン語のみを使う"
+            ],
+            "answer": 1,
+            "explanationJa": "全方言の完璧な使い分けは不要。自分の基本方言（tuteo か voseo か）を持ちつつ、他の変異を理解・認識できることがC2の証。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「おいで、座って、何があったか話して。」（voseo 命令形で）",
+            "answer": "Vení, sentate y contame qué pasó.",
+            "acceptableAnswers": [
+              "Vení, sentate acá y contame qué te pasó.",
+              "Dale, vení, sentate y contame todo."
+            ],
+            "explanationJa": "voseo 命令形3連発：vení（ven）、sentate（siéntate）、contame（cuéntame）。アルゼンチンの日常会話。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「君たちはもう少し待たなければならない。」（ラテンアメリカ式で）",
+            "answer": "Ustedes tienen que esperar un poco más.",
+            "acceptableAnswers": [
+              "Ustedes van a tener que esperar un rato más.",
+              "Tienen que esperar un poco más."
+            ],
+            "explanationJa": "ラテンアメリカでは vosotros は使わない。ustedes + 3人称複数活用（tienen）。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「今日スーパーで彼に会ったよ。」（スペイン中北部式で）",
+            "answer": "Hoy lo he visto en el supermercado.",
+            "acceptableAnswers": [
+              "Hoy le he visto en el súper.",
+              "Hoy me lo he encontrado en el supermercado."
+            ],
+            "explanationJa": "スペイン中北部では「今日」の出来事に現在完了（he visto）を使用。ラテンアメリカなら lo vi。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の tuteo の文を voseo に変換せよ：\nTú sabes que te quiero mucho, ¿verdad?",
+            "answer": "Vos sabés que te quiero mucho, ¿verdad?",
+            "explanationJa": "tú → vos、sabes → sabés（語幹母音変化なし + 最終音節アクセント）。te quiero はそのまま（目的語代名詞は変わらない）。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次のスペイン式の文をラテンアメリカ式に変換せよ：\nHoy habéis llegado tarde. ¿Qué ha pasado?",
+            "answer": "Hoy llegaron tarde. ¿Qué pasó?",
+            "explanationJa": "habéis（vosotros 現在完了）→ llegaron（ustedes 点過去）。ha pasado → pasó。vosotros 排除 + 現在完了→点過去の二重変換。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "voseo はアルゼンチン・中米で標準的。語幹母音変化が起こらず、アクセントが最終音節に来る（tenés, podés, querés）",
+      "ラテンアメリカでは vosotros は使われず、ustedes で統一。コロンビアの一部では親しい間柄でも usted を使う",
+      "スペイン中北部は「今日」に現在完了、ラテンアメリカは「今日」でも点過去を使う傾向がある",
+      "C2では地域差を「間違い」ではなく「変異」として認識し、テキストや話者の出身地域を特定できる力が必要",
+      "自分の基本方言を持ちつつ、他の方言を理解できる柔軟性がC2の証"
+    ]
+  }
+}

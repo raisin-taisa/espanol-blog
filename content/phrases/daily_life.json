@@ -1,0 +1,228 @@
+{
+  "scenario": "daily_life",
+  "titleJa": "日常生活で使えるスペイン語フレーズ",
+  "titleEs": "Frases útiles para la vida diaria",
+  "totalPhrases": 20,
+  "phrases": [
+    {
+      "id": "daily-001",
+      "spanishText": "¡Buenos días! ¿Dormiste bien?",
+      "japaneseTranslation": "おはよう！よく眠れた？",
+      "pronunciationHint": "ブエノス ディアス！ドルミステ ビエン？",
+      "formality": "informal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "朝、家族や同居人への挨拶。dormiste は dormir（眠る）の tú 過去形。",
+      "category": "morning_routine"
+    },
+    {
+      "id": "daily-002",
+      "spanishText": "Voy a ducharme y desayunar.",
+      "japaneseTranslation": "シャワーを浴びて朝食を食べます。",
+      "pronunciationHint": "ボイ ア ドゥチャールメ イ デサユナール",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "bañarme（中南米では bañarse = シャワーを浴びる、の意味でも使う）",
+      "contextNoteJa": "朝のルーティンを説明する表現。voy a + 動詞原形 =「〜するつもり」。スペインでは ducharse = シャワー、bañarse = お風呂。",
+      "category": "morning_routine"
+    },
+    {
+      "id": "daily-003",
+      "spanishText": "¿Me pasas la sal, por favor?",
+      "japaneseTranslation": "塩を取ってもらえる？",
+      "pronunciationHint": "メ パサス ラ サル、ポル ファボール？",
+      "formality": "informal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "食事中に使うカジュアルな表現。pasar = 渡す。丁寧に言うなら ¿Me pasa...?（usted形）。",
+      "category": "morning_routine"
+    },
+    {
+      "id": "daily-004",
+      "spanishText": "Tengo que irme. ¡Que te vaya bien!",
+      "japaneseTranslation": "行かなきゃ。うまくいくといいね！",
+      "pronunciationHint": "テンゴ ケ イルメ。ケ テ バヤ ビエン！",
+      "formality": "informal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "家を出るときの挨拶。tener que + 動詞原形 =「〜しなければならない」。",
+      "category": "morning_routine"
+    },
+    {
+      "id": "daily-005",
+      "spanishText": "¿Cuánto cuesta esto?",
+      "japaneseTranslation": "これはいくらですか？",
+      "pronunciationHint": "クアント クエスタ エスト？",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "¿Cuánto vale esto?（中南米では valer もよく使う）",
+      "contextNoteJa": "買い物で最も基本的な質問。esto = これ。複数なら ¿Cuánto cuestan estos?",
+      "category": "shopping"
+    },
+    {
+      "id": "daily-006",
+      "spanishText": "¿Tiene una talla más grande?",
+      "japaneseTranslation": "もう1サイズ大きいのはありますか？",
+      "pronunciationHint": "ティエネ ウナ タジャ マス グランデ？",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "服を買うときの表現。talla = サイズ。más pequeña = もっと小さい。",
+      "category": "shopping"
+    },
+    {
+      "id": "daily-007",
+      "spanishText": "Solo estoy mirando, gracias.",
+      "japaneseTranslation": "見ているだけです、ありがとう。",
+      "pronunciationHint": "ソロ エストイ ミランド、グラシアス",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "お店で声をかけられたときに使う定番表現。estar + 現在分詞で進行形。",
+      "category": "shopping"
+    },
+    {
+      "id": "daily-008",
+      "spanishText": "¿Aceptan tarjeta de crédito?",
+      "japaneseTranslation": "クレジットカードは使えますか？",
+      "pronunciationHint": "アセプタン タルヘタ デ クレディト？",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "支払い方法を確認するとき。en efectivo = 現金で。",
+      "category": "shopping"
+    },
+    {
+      "id": "daily-009",
+      "spanishText": "Me lo llevo. / Me lo quedo.",
+      "japaneseTranslation": "これにします。（これを買います）",
+      "pronunciationHint": "メ ロ ジェボ / メ ロ ケド",
+      "formality": "neutral",
+      "spainVariant": "Me lo quedo.（スペインでよく使う）",
+      "latamVariant": "Me lo llevo.（中南米でよく使う）",
+      "contextNoteJa": "商品を買うと決めたときの表現。どちらも「これにします」の意味。",
+      "category": "shopping"
+    },
+    {
+      "id": "daily-010",
+      "spanishText": "¿Qué tiempo hace hoy?",
+      "japaneseTranslation": "今日の天気はどうですか？",
+      "pronunciationHint": "ケ ティエンポ アセ オイ？",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "¿Cómo está el clima?（中南米でも使う表現）",
+      "contextNoteJa": "天気についてのスモールトーク。Hace calor（暑い）、Hace frío（寒い）、Llueve（雨が降っている）。",
+      "category": "small_talk"
+    },
+    {
+      "id": "daily-011",
+      "spanishText": "¿De dónde eres?",
+      "japaneseTranslation": "出身はどこ？",
+      "pronunciationHint": "デ ドンデ エレス？",
+      "formality": "informal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "初対面のスモールトーク。丁寧に言うなら ¿De dónde es usted? 答え方：Soy de Japón.",
+      "category": "small_talk"
+    },
+    {
+      "id": "daily-012",
+      "spanishText": "¿A qué te dedicas?",
+      "japaneseTranslation": "お仕事は何をしていますか？",
+      "pronunciationHint": "ア ケ テ デディカス？",
+      "formality": "informal",
+      "spainVariant": null,
+      "latamVariant": "¿En qué trabajas?（中南米ではこちらもよく使う）",
+      "contextNoteJa": "職業を聞くスモールトーク。dedicarse a... =「〜に従事する」。¿Qué haces? よりも丁寧。",
+      "category": "small_talk"
+    },
+    {
+      "id": "daily-013",
+      "spanishText": "¡Qué bonito día! ¿Verdad?",
+      "japaneseTranslation": "いい天気ですね！そうでしょう？",
+      "pronunciationHint": "ケ ボニート ディア！ベルダッ？",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "¡Qué lindo día!（中南米では lindo が一般的）",
+      "contextNoteJa": "天気のスモールトーク。¡Qué + 形容詞! =「なんて〜なんだ！」。¿Verdad? =「そうでしょう？」。",
+      "category": "small_talk"
+    },
+    {
+      "id": "daily-014",
+      "spanishText": "Me encanta la comida japonesa.",
+      "japaneseTranslation": "日本料理が大好きです。",
+      "pronunciationHint": "メ エンカンタ ラ コミダ ハポネサ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "好きなものについて話すとき。me gusta（好き）より強い表現。encantar =「大好き」。",
+      "category": "small_talk"
+    },
+    {
+      "id": "daily-015",
+      "spanishText": "Lo siento mucho.",
+      "japaneseTranslation": "本当にすみません。",
+      "pronunciationHint": "ロ シエント ムチョ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "真剣な謝罪。日常的な「すみません」には Perdón や Disculpe の方が自然。",
+      "category": "apologies"
+    },
+    {
+      "id": "daily-016",
+      "spanishText": "Perdón, ¿puedo pasar?",
+      "japaneseTranslation": "すみません、通ってもいいですか？",
+      "pronunciationHint": "ペルドン、プエド パサール？",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "Permiso（中南米では Permiso =「通してください」も一般的）",
+      "contextNoteJa": "人混みを通り抜けるときの表現。Perdón は軽い「すみません」。Con permiso も使えます。",
+      "category": "apologies"
+    },
+    {
+      "id": "daily-017",
+      "spanishText": "Disculpe, ¿tiene hora?",
+      "japaneseTranslation": "すみません、今何時かわかりますか？",
+      "pronunciationHint": "ディスクルペ、ティエネ オラ？",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "見知らぬ人に声をかけるときの丁寧な表現。Disculpe = すみません（usted形）。",
+      "category": "apologies"
+    },
+    {
+      "id": "daily-018",
+      "spanishText": "No te preocupes, no pasa nada.",
+      "japaneseTranslation": "心配しないで、大丈夫だよ。",
+      "pronunciationHint": "ノ テ プレオクペス、ノ パサ ナダ",
+      "formality": "informal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "相手が謝ったときの返答。「気にしないで」という意味。丁寧に言うなら No se preocupe.",
+      "category": "apologies"
+    },
+    {
+      "id": "daily-019",
+      "spanishText": "¡Muchas gracias! Eres muy amable.",
+      "japaneseTranslation": "ありがとうございます！とても親切ですね。",
+      "pronunciationHint": "ムチャス グラシアス！エレス ムイ アマブレ",
+      "formality": "informal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "感謝の表現。丁寧に言うなら Es usted muy amable. 短く言うなら Gracias だけでもOK。",
+      "category": "thanks"
+    },
+    {
+      "id": "daily-020",
+      "spanishText": "De nada. Ha sido un placer.",
+      "japaneseTranslation": "どういたしまして。こちらこそ嬉しいです。",
+      "pronunciationHint": "デ ナダ。ア シド ウン プラセール",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "Con gusto.（中南米、特にコロンビアでよく使う「どういたしまして」）",
+      "contextNoteJa": "お礼への返答。De nada =「どういたしまして」。中南米ではCon gusto、A la orden なども使います。",
+      "category": "thanks"
+    }
+  ]
+}

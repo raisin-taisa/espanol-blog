@@ -1,0 +1,477 @@
+{
+  "id": "c2-grammar-002",
+  "slug": "leismo-laismo-loismo",
+  "titleJa": "レイスモ・ライスモ・ロイスモ — スペイン語圏の代名詞バトル",
+  "titleEs": "Leísmo, laísmo y loísmo: variación pronominal en el mundo hispano",
+  "level": "c2",
+  "sortOrder": 2,
+  "hasRegionalVariants": true,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "代名詞の「正しい」使い方は地域によって違う",
+        "bodyJa": "スペイン語の3人称目的語代名詞は、教科書では明確なルールがあるように見えます。\n\n直接目的語（〜を）：lo / la / los / las\n間接目的語（〜に）：le / les\n\nしかし現実は、スペイン本国だけでも地域によって全く違う使い方をしています。\nこの「ずれ」が leísmo、laísmo、loísmo と呼ばれる現象です。\n\nC2レベルでは、単に「正しい形」を知るだけでなく、各地域の実際の使用パターンを理解し、文脈に応じた判断ができることが求められます。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "leísmo（レイスモ）：最も広く認められた「逸脱」",
+        "bodyJa": "leísmo とは、直接目的語に le/les を使うことです。\n\n標準形：Lo vi ayer.（彼を昨日見た）\nleísmo：Le vi ayer.（彼を昨日見た）\n\n重要な区別：\n\n1. leísmo de persona masculino singular（男性単数の人に対するレイスモ）\n   → RAE（王立アカデミー）が「許容」と認定。マドリード方言で標準的。\n   例：A Juan le vi en el parque.（フアンを公園で見かけた）\n\n2. leísmo de cosa（物に対するレイスモ）\n   → 非標準。RAEは認めていない。\n   例：El libro le dejé en la mesa.（❌ lo が正しい）\n\n3. leísmo de persona femenina（女性に対するレイスモ）\n   → 非標準だが一部の地域で使われる。\n   例：A María le llamé ayer.（❌ la が標準）\n\n日本語話者へのアドバイス：男性単数・人のleísmo だけは許容範囲ですが、試験では標準形（lo/la）を使うのが安全です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "laísmo（ライスモ）：マドリード近郊の特徴",
+        "bodyJa": "laísmo とは、間接目的語の女性形に la/las を使うことです。\n\n標準形：Le dije la verdad.（彼女に真実を言った）\nlaísmo：La dije la verdad.（彼女に真実を言った）\n\nlaísmo はカスティーリャ地方（マドリード、バリャドリード等）で広く見られますが、RAEは「非標準」としています。\n\n典型的な laísmo のパターン：\n・La di un regalo.（❌ → Le di un regalo.）彼女にプレゼントをあげた\n・La dije que viniera.（❌ → Le dije que viniera.）彼女に来るよう言った\n・La pregunté la hora.（❌ → Le pregunté la hora.）彼女に時間を聞いた\n\nラテンアメリカではlaísmo はほぼ存在しません。\nスペインでもフォーマルな文体では避けられます。\n\nDELE C2では、laísmo の文を見て「これはlaísmo だ」と認識し、標準形に直せることが重要です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "loísmo（ロイスモ）：最も非標準的な変異",
+        "bodyJa": "loísmo とは、間接目的語に lo/los を使うことです。\n\n標準形：Le dije que no.（彼にダメだと言った）\nloísmo：Lo dije que no.（彼にダメだと言った）\n\nloísmo は3つの中で最も stigmatized（社会的に低い評価を受ける）変異です。\nスペインの一部農村部でのみ見られ、教育を受けた話者はほぼ使いません。\n\nDELE C2では、loísmo を認識はできるが自分では使わない、というスタンスが正解です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "ラテンアメリカ vs スペイン：代名詞使用の地図",
+        "bodyJa": "大まかな地域分布を理解しておきましょう。\n\n【スペイン中北部（マドリード・カスティーリャ）】\n→ leísmo が普通。laísmo もよくある。lo/la の区別が曖昧。\n\n【スペイン南部（アンダルシア）・カナリア諸島】\n→ 標準的な lo/la/le の使い分け。leísmo は少ない。\n\n【メキシコ・中米】\n→ 基本的に標準形。leísmo は限定的。\n\n【コロンビア・ベネズエラ】\n→ 標準形だが、丁寧な le の使用あり。\n\n【アルゼンチン・ウルグアイ】\n→ 標準形。voseo との組み合わせに注意。\n\n【ペルー・エクアドル（アンデス地方）】\n→ ケチュア語の影響で独自のパターン。loísmo 的傾向も。\n\n試験対策としては標準形を使いつつ、各地域の特徴を理解しておくことが大切です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "判断に迷うケース：leが「正しい」直接目的語",
+        "bodyJa": "leísmo と混同しやすいですが、le を直接目的語として使うのが「正しい」ケースがあります。\n\n1. usted に対する敬意の le\nLe invito a pasar.（お通りください）\n→ lo invito でも正しいが、le の方が丁寧。\n\n2. 一部の動詞構文\npegar → Le pegó.（彼を殴った）※ lo pegó は「それを貼った」\nlllamar → Le llamé.（彼に電話した）※ lo llamé も可\n\n3. se との組み合わせ\nSe lo dije.（彼/彼女にそれを言った）\n→ le + lo → se lo に変化。性別は文脈で判断。\n\nこれらは leísmo ではなく、標準文法内の選択です。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "A mi hermano le vi en la estación. (leísmo aceptado)",
+            "ja": "兄を駅で見かけた。（許容されるレイスモ）",
+            "noteJa": "男性単数・人のleísmo。RAE許容。標準形は lo vi だが、マドリード方言では le vi が自然。"
+          },
+          {
+            "es": "La dije que no viniera. (laísmo, no estándar)",
+            "ja": "彼女に来ないよう言った。（ライスモ、非標準）",
+            "noteJa": "標準形は Le dije que no viniera. la は直接目的語用なので、間接目的語には le が正しい。"
+          },
+          {
+            "es": "El libro lo dejé en la mesa.",
+            "ja": "本はテーブルの上に置いた。",
+            "noteJa": "物（libro）の直接目的語は lo が正しい。le dejé は物に対するleísmo で非標準。"
+          },
+          {
+            "es": "A ella le regalé flores por su cumpleaños.",
+            "ja": "彼女の誕生日に花をプレゼントした。",
+            "noteJa": "間接目的語「彼女に」は le。la regalé（ライスモ）は非標準。a ella は le の指示対象を明確にする重複構文。"
+          },
+          {
+            "es": "¿La has visto? — Sí, la vi esta mañana en el mercado.",
+            "ja": "彼女を見た？ — うん、今朝市場で見たよ。",
+            "noteJa": "女性の直接目的語は la が標準。ここでは leísmo ではなく、正しい使用。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "El coche le compré ayer.",
+            "correct": "El coche lo compré ayer.",
+            "whyJa": "物（coche）に対する leísmo は非標準。物の直接目的語は lo/la を使います。leísmo が許容されるのは男性単数・人の場合のみ。"
+          },
+          {
+            "wrong": "A María la pregunté por el horario.",
+            "correct": "A María le pregunté por el horario.",
+            "whyJa": "preguntar は「人に（間接）何かを（直接）聞く」構文。間接目的語なので le が正しい。la を使うのは laísmo。"
+          },
+          {
+            "wrong": "A los niños los dije que se callaran.",
+            "correct": "A los niños les dije que se callaran.",
+            "whyJa": "decir a alguien que...は間接目的語。les が正しい。los を使うのは loísmo で、最も非標準的な変異。"
+          },
+          {
+            "wrong": "La pegaron en la escuela.",
+            "correct": "Le pegaron en la escuela.",
+            "whyJa": "pegar（殴る）の対象は間接目的語扱い。le が正しい。la pegaron は「彼女を（壁に）貼った」のように解釈される可能性も。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "地域差を実感する例",
+        "items": [
+          {
+            "es": "¿Le has visto? Estaba buscándole por todas partes.",
+            "ja": "彼に会った？あちこち探してたんだけど。",
+            "source": "conversation",
+            "sourceLabel": "マドリード話者の日常会話",
+            "noteJa": "典型的なマドリードの leísmo。標準では lo has visto / buscándolo が正しいが、カスティーリャでは完全に自然。"
+          },
+          {
+            "es": "La llamé ayer pero no me contestó.",
+            "ja": "昨日彼女に電話したけど出なかった。",
+            "source": "conversation",
+            "sourceLabel": "中南米話者の会話",
+            "noteJa": "llamar は直接目的語も間接目的語も取れる動詞。la llamé も le llamé も標準内。地域によって好みが分かれる。"
+          },
+          {
+            "es": "Se lo expliqué tres veces pero no lo entendió.",
+            "ja": "3回説明したけど理解しなかった。",
+            "source": "conversation",
+            "sourceLabel": "標準的な使用",
+            "noteJa": "se lo = le + lo の変化形。「彼/彼女にそれを」。lo entendió の lo は直接目的語「それを」。"
+          },
+          {
+            "es": "A usted le invito a tomar un café.",
+            "ja": "コーヒーでもいかがですか。",
+            "source": "formal",
+            "sourceLabel": "丁寧な招待表現",
+            "noteJa": "usted に対する le は敬意の表現として広く認められている。lo invito でも正しいが、le の方が丁寧。"
+          },
+          {
+            "es": "El loísmo está fuertemente estigmatizado en todos los registros.",
+            "ja": "ロイスモはあらゆるレジスターにおいて強く stigma を持つ。",
+            "source": "academic",
+            "sourceLabel": "RAE文法解説",
+            "noteJa": "言語学的にloísmo が最も社会的評価が低い変異であることを示す学術的記述。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "RAEが「許容」と認めているのはどれ？",
+            "options": [
+              "男性単数・人に対する leísmo（Le vi a Juan.）",
+              "loísmo（Lo dije que viniera.）",
+              "laísmo（La dije la verdad.）",
+              "物に対する leísmo（El libro le compré.）"
+            ],
+            "answer": 0,
+            "explanationJa": "RAEは男性単数・人に対するleísmo のみ「許容」としています。他の3つはすべて非標準です。"
+          },
+          {
+            "prompt": "A María ___ pregunté la dirección. (標準形)",
+            "options": [
+              "les",
+              "lo",
+              "le",
+              "la"
+            ],
+            "answer": 2,
+            "explanationJa": "preguntar algo a alguien：人は間接目的語。le が正しい。la を使うのは laísmo です。"
+          },
+          {
+            "prompt": "laísmo が最も多く見られる地域はどこ？",
+            "options": [
+              "カスティーリャ地方（マドリード・バリャドリード周辺）",
+              "アルゼンチン・ウルグアイ",
+              "アンダルシア地方",
+              "メキシコ・中米"
+            ],
+            "answer": 0,
+            "explanationJa": "laísmo はスペイン中北部、特にカスティーリャ地方で最もよく見られます。ラテンアメリカではほぼ存在しません。"
+          },
+          {
+            "prompt": "「本を彼女にあげた」の標準形は？",
+            "options": [
+              "Les di el libro.",
+              "Lo di el libro.",
+              "Le di el libro.",
+              "La di el libro."
+            ],
+            "answer": 2,
+            "explanationJa": "「彼女に」は間接目的語なので le。la di は laísmo。性別に関係なく間接目的語は le/les です。"
+          },
+          {
+            "prompt": "次のうち、leísmo ではなく標準的な用法はどれ？",
+            "options": [
+              "Los libros les compré en la librería.（複数物のleísmo）",
+              "El perro le encontré en el parque.（物のleísmo）",
+              "A ella le vi ayer.（女性のleísmo）",
+              "A usted le invito a cenar.（敬意のle）"
+            ],
+            "answer": 3,
+            "explanationJa": "usted に対する敬意の le は leísmo ではなく、標準的な丁寧表現として広く認められています。"
+          },
+          {
+            "prompt": "le + lo が連続するとき、どう変化する？",
+            "options": [
+              "se lo",
+              "le lo",
+              "lo le",
+              "les lo"
+            ],
+            "answer": 0,
+            "explanationJa": "スペイン語の発音規則により、le/les + lo/la → se + lo/la に変化します。le lo とは言えません。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "A mi hermana ___ llamé ayer por teléfono. (標準形)",
+            "answer": "la",
+            "options": [
+              "le",
+              "las",
+              "lo",
+              "la"
+            ],
+            "explanationJa": "llamar + 女性の直接目的語 → la が標準。le llamé も地域によって許容されるが、la が最も標準的。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "A los estudiantes ___ expliqué la lección tres veces. (標準形)",
+            "answer": "les",
+            "options": [
+              "los",
+              "les",
+              "las",
+              "le"
+            ],
+            "explanationJa": "explicar algo a alguien: 人は間接目的語。複数なので les。los を使うのは loísmo。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "El paquete ___ dejé en la recepción. (標準形)",
+            "answer": "lo",
+            "options": [
+              "la",
+              "le",
+              "lo",
+              "les"
+            ],
+            "explanationJa": "paquete は男性名詞で直接目的語。物の直接目的語には lo を使う。le は物に対する leísmo で非標準。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "A María ___ di un regalo por su cumpleaños. (標準形)",
+            "answer": "le",
+            "options": [
+              "la",
+              "les",
+              "lo",
+              "le"
+            ],
+            "explanationJa": "dar algo a alguien: 人は間接目的語。性別に関わらず le。la を使うのは laísmo。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "La novela ___ terminé de leer anoche. (標準形)",
+            "answer": "la",
+            "options": [
+              "la",
+              "le",
+              "lo",
+              "las"
+            ],
+            "explanationJa": "novela は女性名詞の直接目的語。la が正しい。lo は性の不一致。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "A usted ___ invito a cenar esta noche. (丁寧な表現)",
+            "answer": "le",
+            "options": [
+              "les",
+              "lo",
+              "la",
+              "le"
+            ],
+            "explanationJa": "usted への敬意を表す le は leísmo ではなく、標準的な丁寧表現として広く認められている。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "A los niños ___ pegaron en el colegio. (標準形)",
+            "answer": "les",
+            "options": [
+              "le",
+              "las",
+              "los",
+              "les"
+            ],
+            "explanationJa": "pegar（殴る）の対象は間接目的語扱い。複数なので les。los pegaron は「彼らを貼った」と解釈される可能性。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "El informe se ___ envié ayer al director. (標準形)",
+            "answer": "lo",
+            "options": [
+              "le",
+              "lo",
+              "la",
+              "se"
+            ],
+            "explanationJa": "enviar algo a alguien の algo（informe）が直接目的語。se は間接目的語 le の変化形、lo は直接目的語。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "A mis hijas ___ enseñé a nadar cuando eran pequeñas. (標準形)",
+            "answer": "les",
+            "options": [
+              "le",
+              "las",
+              "les",
+              "los"
+            ],
+            "explanationJa": "enseñar algo a alguien: 人は間接目的語。las を使うのは laísmo。性別に関わらず間接目的語は le/les。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Las llaves ___ encontré debajo del sofá. (標準形)",
+            "answer": "las",
+            "options": [
+              "las",
+              "le",
+              "les",
+              "los"
+            ],
+            "explanationJa": "llaves は女性複数の直接目的語。las が正しい。les は物に対する leísmo で非標準。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "A mi madre la dije que no se preocupara.",
+            "answer": "A mi madre le dije que no se preocupara.",
+            "explanationJa": "decir algo a alguien: 人は間接目的語。le が正しい。la を使うのは laísmo（カスティーリャ地方で多い）。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "El coche le compré la semana pasada.",
+            "answer": "El coche lo compré la semana pasada.",
+            "explanationJa": "物（coche）の直接目的語には lo を使う。le は物に対する leísmo で、RAE非許容。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "A los invitados los entregamos los regalos.",
+            "answer": "A los invitados les entregamos los regalos.",
+            "explanationJa": "entregar algo a alguien: 人は間接目的語。les が正しい。los を使うのは loísmo（最も非標準的な変異）。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Se los comuniqué a mis padres ayer. (「それを」が単数の場合)",
+            "answer": "Se lo comuniqué a mis padres ayer.",
+            "explanationJa": "se に「彼ら」の意味が含まれるので lo は変化しない。単数の直接目的語なら lo のまま。se los は直接目的語が複数の場合のみ。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "A ella le vi en el supermercado. (女性に対して)",
+            "answer": "A ella la vi en el supermercado.",
+            "explanationJa": "女性の直接目的語は la が標準。女性に対する leísmo は RAE 非許容。男性単数のみ許容。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "RAEが「許容」と認めているのはどのケースか？",
+            "options": [
+              "男性単数・人に対する leísmo（A Juan le vi ayer.）",
+              "laísmo（A ella la pregunté.）",
+              "loísmo（A él lo dije que viniera.）",
+              "物に対する leísmo（El libro le compré.）"
+            ],
+            "answer": 0,
+            "explanationJa": "RAEは男性単数・人に対するleísmo のみ「許容」。他はすべて非標準。これはC2の必須知識。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "laísmo が最も多く見られる地域はどこか？",
+            "options": [
+              "カスティーリャ地方（マドリード・バリャドリード周辺）",
+              "アルゼンチン・ウルグアイ",
+              "アンダルシア地方",
+              "メキシコ全域"
+            ],
+            "answer": 0,
+            "explanationJa": "laísmo はスペイン中北部のカスティーリャ地方に集中。ラテンアメリカではほぼ存在しない。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「A María le pegaron」の le は leísmo か？",
+            "options": [
+              "はい。女性に対する leísmo",
+              "いいえ。ただし la が正しい",
+              "いいえ。pegar（殴る）の対象は間接目的語扱いなので le は正しい",
+              "はい。直接目的語に le を使っているので leísmo"
+            ],
+            "answer": 2,
+            "explanationJa": "pegar（殴る）は対象を間接目的語として取る動詞。le は leísmo ではなく標準的な用法。la pegaron は「彼女を貼った」の意味になり得る。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "3つの変異（leísmo, laísmo, loísmo）のうち、社会的に最も低い評価を受ける（stigmatized）のはどれか？",
+            "options": [
+              "loísmo（間接目的語に lo を使う）",
+              "3つとも同程度の評価",
+              "leísmo（直接目的語に le を使う）",
+              "laísmo（間接目的語に la を使う）"
+            ],
+            "answer": 0,
+            "explanationJa": "loísmo は最も stigmatized な変異。スペインの一部農村部のみで見られ、教育を受けた話者はほぼ使わない。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「le + lo」が連続するとき、スペイン語ではどう変化するか？",
+            "options": [
+              "le を省略して lo だけにする",
+              "lo が le に吸収される",
+              "le が se に変化し se lo になる",
+              "変化しない（le lo のまま）"
+            ],
+            "answer": 2,
+            "explanationJa": "スペイン語の音韻規則により le/les + lo/la/los/las → se + lo/la/los/las。le lo とは発音できない。"
+          },
+          {
+            "type": "translation",
+            "prompt": "彼女にその手紙を渡した。（標準形で）",
+            "answer": "Le entregué la carta.",
+            "acceptableAnswers": [
+              "Le di la carta.",
+              "Le entregué la carta a ella.",
+              "Se la entregué."
+            ],
+            "explanationJa": "「彼女に」は間接目的語なので le。la entregué は laísmo。直接目的語が la carta で、代名詞にすると se la entregué。"
+          },
+          {
+            "type": "translation",
+            "prompt": "その映画を3回見た。（映画 = la película）",
+            "answer": "La vi tres veces.",
+            "acceptableAnswers": [
+              "La he visto tres veces.",
+              "La película la vi tres veces."
+            ],
+            "explanationJa": "película は女性名詞の直接目的語。la vi が標準。le vi は物に対する leísmo で非標準。"
+          },
+          {
+            "type": "translation",
+            "prompt": "生徒たちにそのことを3回説明した。",
+            "answer": "Se lo expliqué tres veces a los alumnos.",
+            "acceptableAnswers": [
+              "Les expliqué eso tres veces a los alumnos.",
+              "Se lo expliqué a los estudiantes tres veces."
+            ],
+            "explanationJa": "間接目的語 les + 直接目的語 lo → se lo。a los alumnos は重複構文で指示対象を明確にする。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文の名詞を代名詞に置き換えよ：\nDi el libro a mi hermana.",
+            "answer": "Se lo di.",
+            "explanationJa": "el libro（直接目的語）→ lo、a mi hermana（間接目的語）→ le → se（lo の前では le → se に変化）。Se lo di。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の laísmo を標準形に直せ：\nLa pregunté la hora y la dije que eran las tres.",
+            "answer": "Le pregunté la hora y le dije que eran las tres.",
+            "explanationJa": "preguntar/decir algo a alguien: 人は間接目的語。la → le。両方とも laísmo で、カスティーリャ方言的だが非標準。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "leísmo（直接目的語に le を使う）は男性単数・人の場合のみRAEが許容。物や女性に対するleísmo は非標準",
+      "laísmo（間接目的語に la を使う）はカスティーリャ地方に多いが、RAEは非標準としている",
+      "loísmo（間接目的語に lo を使う）は最も stigmatized な変異で、使用を避けるべき",
+      "ラテンアメリカでは標準的な lo/la/le の使い分けが主流。laísmo・loísmo はほぼない",
+      "DELE C2では標準形を使いつつ、各地域の変異を認識・分析できることが求められる",
+      "usted への敬意の le や、pegar/llamar などの動詞固有の le は leísmo ではない"
+    ]
+  }
+}

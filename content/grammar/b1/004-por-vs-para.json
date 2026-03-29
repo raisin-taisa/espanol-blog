@@ -1,0 +1,654 @@
+{
+  "id": "b1-004",
+  "slug": "por-vs-para",
+  "titleJa": "por と para の使い分け",
+  "titleEs": "Diferencia entre por y para",
+  "level": "b1",
+  "sortOrder": 4,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "日本語話者最大の壁：por と para",
+        "bodyJa": "por と para はどちらも日本語の「ために」「で」「に」などに訳されるため、日本語話者にとって最も混乱する前置詞です。\n\n大まかなイメージ：\n・por → 原因・理由・交換・通過・期間（「なぜ？」「何と引き換えに？」）\n・para → 目的・行き先・期限・対象（「何のために？」「どこへ？」「誰に？」）\n\nもっと簡単に言えば：\npor は「後ろを見る」（原因・過去・理由）\npara は「前を見る」（目的・未来・ゴール）\n\nこのイメージを持っておくと、判断に迷ったときに役立ちます。",
+        "bodyEs": "Por y para son dos preposiciones que los japoneses suelen confundir porque ambas pueden traducirse como ために, で o に. Por mira hacia atrás (causa, razón); para mira hacia adelante (propósito, destino)."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "por の6つの使い方",
+        "bodyJa": "1. 原因・理由（〜のせいで、〜のおかげで）\n   Llegué tarde por el tráfico.（渋滞のせいで遅刻した）\n   Gracias por tu ayuda.（助けてくれてありがとう）\n\n2. 交換（〜と引き換えに）\n   Pagué 50 euros por este libro.（この本に50ユーロ払った）\n   Cambié mi coche por uno nuevo.（車を新しいのに替えた）\n\n3. 期間・時間帯（〜の間、〜に）\n   Estudié español por tres años.（3年間スペイン語を勉強した）\n   Trabajo por la mañana.（午前中に働く）\n\n4. 通過・移動経路（〜を通って）\n   Pasé por tu casa.（君の家の前を通った）\n   Caminamos por el parque.（公園を歩いた）\n\n5. 手段・方法（〜で、〜によって）\n   Te llamo por teléfono.（電話で連絡する）\n   Envié el paquete por correo.（郵便で荷物を送った）\n\n6. 代理（〜の代わりに）\n   Hoy trabajo por mi compañero.（今日は同僚の代わりに働く）",
+        "bodyEs": "Usos de por: causa/razón, intercambio, duración, tránsito/movimiento, medio/modo, sustitución."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "para の5つの使い方",
+        "bodyJa": "1. 目的（〜するために、〜のために）\n   Estudio para aprobar el examen.（試験に受かるために勉強する）\n   Este cuchillo es para cortar pan.（このナイフはパンを切るためのものだ）\n\n2. 行き先・方向（〜へ、〜に向かって）\n   Salgo para Madrid mañana.（明日マドリードへ出発する）\n   Vamos para el centro.（中心部に向かおう）\n\n3. 期限（〜までに）\n   Necesito el informe para el viernes.（金曜までにレポートが必要）\n   El proyecto es para mañana.（プロジェクトは明日まで）\n\n4. 受取人・対象（〜のために、〜にとって）\n   Este regalo es para ti.（このプレゼントは君のためだよ）\n   Para mí, un café, por favor.（私にはコーヒーをお願いします）\n\n5. 意見（〜にとっては）\n   Para mí, es demasiado caro.（私にとっては高すぎる）\n   Para un principiante, hablas muy bien.（初心者にしては、とても上手に話すね）",
+        "bodyEs": "Usos de para: propósito/finalidad, destino/dirección, plazo/fecha límite, destinatario, opinión."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "よく使う慣用表現",
+        "bodyJa": "por を使う慣用表現：\n・por favor（お願いします）\n・por ejemplo（例えば）\n・por lo menos（少なくとも）\n・por supuesto（もちろん）\n・por eso（だから）\n・por fin（ついに、やっと）\n・por cierto（ところで）\n・¿por qué?（なぜ？）\n\npara を使う慣用表現：\n・para siempre（永遠に）\n・para nada（全然〜ない）\n・para colmo（おまけに、さらに悪いことに）\n・¿para qué?（何のために？）\n\n覚え方：¿por qué? は「なぜ？」（原因を聞く）、¿para qué? は「何のために？」（目的を聞く）。この違いを理解すれば、por と para の本質がわかります。",
+        "bodyEs": "Expresiones con por: por favor, por ejemplo, por lo menos, por supuesto, ¿por qué?. Expresiones con para: para siempre, para nada, ¿para qué?."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Estudio español para trabajar en España.",
+            "ja": "スペインで働くためにスペイン語を勉強している。",
+            "noteJa": "para + 動詞の原形 = 「〜するために」。目的を表す para。"
+          },
+          {
+            "es": "Gracias por venir a mi fiesta.",
+            "ja": "パーティーに来てくれてありがとう。",
+            "noteJa": "por + 動詞の原形 = 「〜してくれて」。理由・原因を表す por。gracias は por を使います。"
+          },
+          {
+            "es": "Pagué 100 dólares por estas zapatillas.",
+            "ja": "このスニーカーに100ドル払った。",
+            "noteJa": "交換の por。「〜と引き換えに」。"
+          },
+          {
+            "es": "Este regalo es para ti.",
+            "ja": "このプレゼントは君にだよ。",
+            "noteJa": "受取人の para。「〜のために」「〜に」。"
+          },
+          {
+            "es": "Caminamos por la playa toda la tarde.",
+            "ja": "午後ずっとビーチを歩いた。",
+            "noteJa": "通過・移動の por。「〜に沿って」「〜を通って」。"
+          },
+          {
+            "es": "Necesito terminar el proyecto para el lunes.",
+            "ja": "月曜までにプロジェクトを終わらせなきゃ。",
+            "noteJa": "期限の para。「〜までに」。"
+          },
+          {
+            "es": "Llamé por teléfono pero no contestó.",
+            "ja": "電話したけど出なかった。",
+            "noteJa": "手段の por。「〜で（方法）」。"
+          },
+          {
+            "es": "Para mí, la paella es el mejor plato español.",
+            "ja": "私にとって、パエリアはスペイン料理で一番美味しい。",
+            "noteJa": "意見の para。「〜にとっては」。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Estudio español por trabajar en España.",
+            "correct": "Estudio español para trabajar en España.",
+            "whyJa": "目的（〜するために）は para。por を使うと「スペインで働いたせいでスペイン語を勉強する」という不自然な意味になります。"
+          },
+          {
+            "wrong": "Gracias para tu ayuda.",
+            "correct": "Gracias por tu ayuda.",
+            "whyJa": "「ありがとう」の理由（〜してくれて、〜のおかげで）は por。感謝の対象ではなく原因を示しているので por です。"
+          },
+          {
+            "wrong": "Salgo por Madrid mañana.",
+            "correct": "Salgo para Madrid mañana.",
+            "whyJa": "行き先は para。por を使うと「マドリードを通って出発する」になります。destination（行き先）= para。"
+          },
+          {
+            "wrong": "El informe es por el viernes.",
+            "correct": "El informe es para el viernes.",
+            "whyJa": "期限（〜までに）は para。por は「〜の間」という期間を表します。deadline = para。"
+          },
+          {
+            "wrong": "Compré un regalo por mi madre.",
+            "correct": "Compré un regalo para mi madre.",
+            "whyJa": "受取人（〜のために）は para。por を使うと「母の代わりにプレゼントを買った」の意味に変わります。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "¡Por fin es viernes! 🎉 Esto hay que celebrarlo.",
+            "ja": "やっと金曜日！🎉 お祝いしなきゃ。",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "por fin は「ついに、やっと」。金曜日を待ちわびていた気持ちを表す定番表現。"
+          },
+          {
+            "es": "Hago ejercicio por la mañana para tener energía todo el día.",
+            "ja": "一日中エネルギーを持つために朝に運動する。",
+            "source": "conversation",
+            "sourceLabel": "健康トークの場面",
+            "context": "健康習慣について話している場面",
+            "noteJa": "por la mañana（時間帯の por）と para tener（目的の para）が1文に共存。por と para の違いがわかりやすい例。"
+          },
+          {
+            "es": "¿Por qué estudias japonés? — Para ver anime sin subtítulos 😂",
+            "ja": "なぜ日本語を勉強してるの？ — 字幕なしでアニメを見るためだよ😂",
+            "source": "conversation",
+            "sourceLabel": "言語交換パートナーとの会話",
+            "noteJa": "¿por qué?（原因・理由を聞く）に対して para + 動詞の原形（目的）で答えている。最も典型的な por / para の対比。"
+          },
+          {
+            "es": "Pasé por tu casa pero no estabas. Te dejé el paquete para ti en la puerta.",
+            "ja": "家の前を通ったけどいなかったよ。ドアの前に荷物置いといた。",
+            "source": "conversation",
+            "sourceLabel": "友達へのメッセージ",
+            "noteJa": "pasar por（通過の por）と para ti（受取人の para）。日常会話で自然に使い分けている例。"
+          },
+          {
+            "es": "Para mí, lo mejor de vivir en España es la comida. Sin duda. 🇪🇸🍷",
+            "ja": "私にとって、スペインに住む一番の良さは食事。間違いなく。🇪🇸🍷",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "para mí は「私にとって」（意見の para）。sin duda は「疑いなく」。",
+            "region": "spain"
+          },
+          {
+            "es": "Por eso te digo que no vayas solo, güey. Es por tu bien.",
+            "ja": "だから一人で行くなって言ってるだろ。お前のためだよ。",
+            "source": "conversation",
+            "sourceLabel": "メキシコの友達同士",
+            "noteJa": "por eso（だから＝理由の por）、por tu bien（君のため＝利益の por）。「利益のため」は por を使う例外的ケースです。",
+            "region": "latam"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "Estudio español ___ trabajar en España.",
+            "options": [
+              "para",
+              "de",
+              "por",
+              "a"
+            ],
+            "answer": 0,
+            "explanationJa": "目的（〜するために）→ para。「スペインで働くために勉強する」。"
+          },
+          {
+            "prompt": "Gracias ___ tu ayuda.",
+            "options": [
+              "con",
+              "por",
+              "para",
+              "de"
+            ],
+            "answer": 1,
+            "explanationJa": "感謝の理由 → por。「助けてくれたことに対して」ありがとう。"
+          },
+          {
+            "prompt": "Pagué 20 euros ___ esta camiseta.",
+            "options": [
+              "para",
+              "de",
+              "con",
+              "por"
+            ],
+            "answer": 3,
+            "explanationJa": "交換（〜と引き換えに）→ por。「このTシャツに20ユーロ払った」。"
+          },
+          {
+            "prompt": "Este regalo es ___ mi madre.",
+            "options": [
+              "por",
+              "con",
+              "de",
+              "para"
+            ],
+            "answer": 3,
+            "explanationJa": "受取人（〜のために）→ para。「母へのプレゼント」。"
+          },
+          {
+            "prompt": "Caminamos ___ el centro de la ciudad.",
+            "options": [
+              "para",
+              "por",
+              "en",
+              "a"
+            ],
+            "answer": 1,
+            "explanationJa": "通過・移動（〜を通って）→ por。「市内中心部を歩いた」。"
+          },
+          {
+            "prompt": "Necesito el informe ___ el viernes.",
+            "options": [
+              "de",
+              "para",
+              "por",
+              "en"
+            ],
+            "answer": 1,
+            "explanationJa": "期限（〜までに）→ para。「金曜までにレポートが必要」。"
+          },
+          {
+            "prompt": "Salgo ___ Madrid mañana a las ocho.",
+            "options": [
+              "para",
+              "en",
+              "de",
+              "por"
+            ],
+            "answer": 0,
+            "explanationJa": "行き先（〜へ向かって）→ para。「明日8時にマドリードへ出発する」。"
+          },
+          {
+            "prompt": "Trabajo ___ la mañana y estudio ___ la noche.",
+            "options": [
+              "por / por",
+              "para / para",
+              "para / por",
+              "por / para"
+            ],
+            "answer": 0,
+            "explanationJa": "時間帯（午前中に、夜に）→ por。por la mañana, por la tarde, por la noche。"
+          },
+          {
+            "prompt": "Hoy trabajo ___ mi compañero porque está enfermo.",
+            "options": [
+              "de",
+              "con",
+              "por",
+              "para"
+            ],
+            "answer": 2,
+            "explanationJa": "代理（〜の代わりに）→ por。「同僚の代わりに働く」。"
+          },
+          {
+            "prompt": "___ mí, la mejor comida es la japonesa.",
+            "options": [
+              "Por",
+              "En",
+              "De",
+              "Para"
+            ],
+            "answer": 3,
+            "explanationJa": "意見（〜にとっては）→ para。「私にとっては日本食が一番」。"
+          },
+          {
+            "prompt": "Te envío el documento ___ correo electrónico.",
+            "options": [
+              "por",
+              "para",
+              "en",
+              "con"
+            ],
+            "answer": 0,
+            "explanationJa": "手段（〜で）→ por。「メールで書類を送る」。"
+          },
+          {
+            "prompt": "Hago ejercicio ___ estar en forma.",
+            "options": [
+              "con",
+              "para",
+              "por",
+              "de"
+            ],
+            "answer": 1,
+            "explanationJa": "目的（〜するために）→ para。「体調を維持するために運動する」。"
+          },
+          {
+            "prompt": "Llegué tarde ___ el tráfico.",
+            "options": [
+              "para",
+              "con",
+              "de",
+              "por"
+            ],
+            "answer": 3,
+            "explanationJa": "原因・理由（〜のせいで）→ por。「渋滞のせいで遅刻した」。"
+          },
+          {
+            "prompt": "¿___ qué estudias español?",
+            "options": [
+              "De",
+              "Para",
+              "En",
+              "Por"
+            ],
+            "answer": 3,
+            "explanationJa": "¿Por qué? は「なぜ？」（理由を聞く）。¿Para qué? は「何のために？」（目的を聞く）。"
+          },
+          {
+            "prompt": "Compré flores ___ mi novia ___ su cumpleaños.",
+            "options": [
+              "por / por",
+              "por / para",
+              "para / por",
+              "para / para"
+            ],
+            "answer": 2,
+            "explanationJa": "para mi novia（受取人）、por su cumpleaños（理由・きっかけ）。「彼女の誕生日のお祝いに花を買った」。"
+          },
+          {
+            "prompt": "___ un principiante, hablas muy bien español.",
+            "options": [
+              "En",
+              "Para",
+              "Por",
+              "De"
+            ],
+            "answer": 1,
+            "explanationJa": "para + 人・基準 = 「〜にしては」。「初心者にしては上手」。"
+          },
+          {
+            "prompt": "___ fin terminé el examen. ¡Qué alivio!",
+            "options": [
+              "De",
+              "Para",
+              "En",
+              "Por"
+            ],
+            "answer": 3,
+            "explanationJa": "por fin = 「ついに、やっと」。慣用表現として丸暗記。"
+          },
+          {
+            "prompt": "Viví en España ___ cinco años.",
+            "options": [
+              "para",
+              "por",
+              "en",
+              "de"
+            ],
+            "answer": 1,
+            "explanationJa": "期間（〜の間）→ por。「5年間スペインに住んだ」。ただし durante cinco años とも言えます。"
+          },
+          {
+            "prompt": "「何のために日本語を勉強してるの？」を正しく訳すと？",
+            "options": [
+              "¿Para qué estudias japonés?",
+              "¿Para quién estudias japonés?",
+              "¿Por cuánto estudias japonés?",
+              "¿Por qué estudias japonés?"
+            ],
+            "answer": 0,
+            "explanationJa": "目的を聞く → ¿para qué?。¿por qué? だと「なぜ？（理由）」になり、微妙にニュアンスが違います。"
+          },
+          {
+            "prompt": "次の文で por と para の使い方が間違っているのはどれ？",
+            "options": [
+              "Llegué tarde por el tráfico.",
+              "Estudio para aprender.",
+              "Gracias para venir.",
+              "Gracias por venir."
+            ],
+            "answer": 2,
+            "explanationJa": "gracias の後は por。「来てくれて（理由）ありがとう」。para を使うのは間違いです。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Hago ejercicio ___ la mañana ___ estar en forma.",
+            "answer": "por / para",
+            "options": [
+              "para / por",
+              "para / para",
+              "por / para",
+              "por / por"
+            ],
+            "explanationJa": "por la mañana（時間帯の por）+ para estar en forma（目的の para）。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Gracias ___ invitarme a tu boda.",
+            "answer": "por",
+            "options": [
+              "de",
+              "por",
+              "para",
+              "con"
+            ],
+            "explanationJa": "感謝の理由 → por。「招待してくれて」ありがとう。gracias は常に por。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Este libro es ___ ti. Espero que te guste.",
+            "answer": "para",
+            "options": [
+              "de",
+              "a",
+              "por",
+              "para"
+            ],
+            "explanationJa": "受取人（〜のために、〜にあげる）→ para。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Llegamos tarde ___ el accidente en la autopista.",
+            "answer": "por",
+            "options": [
+              "de",
+              "por",
+              "con",
+              "para"
+            ],
+            "explanationJa": "原因（〜のせいで）→ por。高速道路の事故が原因。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Necesito terminar este informe ___ las cinco de la tarde.",
+            "answer": "para",
+            "options": [
+              "por",
+              "en",
+              "para",
+              "de"
+            ],
+            "explanationJa": "期限（〜までに）→ para。deadline は para。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Paseamos ___ la playa durante dos horas.",
+            "answer": "por",
+            "options": [
+              "para",
+              "en",
+              "por",
+              "a"
+            ],
+            "explanationJa": "通過・移動経路（〜に沿って）→ por。ビーチを散歩した。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Estudia mucho ___ sacar buenas notas.",
+            "answer": "para",
+            "options": [
+              "con",
+              "de",
+              "para",
+              "por"
+            ],
+            "explanationJa": "目的（〜するために）→ para。良い成績を取るために勉強する。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ mí, la comida mexicana es la mejor del mundo.",
+            "answer": "Para",
+            "options": [
+              "En",
+              "Por",
+              "De",
+              "Para"
+            ],
+            "explanationJa": "意見（〜にとっては）→ para。「私にとってはメキシコ料理が世界一」。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Cambié mi coche viejo ___ uno nuevo.",
+            "answer": "por",
+            "options": [
+              "con",
+              "para",
+              "de",
+              "por"
+            ],
+            "explanationJa": "交換（〜と引き換えに）→ por。古い車を新しいのに替えた。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Hoy trabajo ___ mi compañera porque está de vacaciones.",
+            "answer": "por",
+            "options": [
+              "de",
+              "con",
+              "para",
+              "por"
+            ],
+            "explanationJa": "代理（〜の代わりに）→ por。同僚の代わりに働く。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Estudio español por trabajar en una empresa española.",
+            "answer": "Estudio español para trabajar en una empresa española.",
+            "explanationJa": "目的（〜するために）→ para。por は原因・理由を表すので、ここでは不適切。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Gracias para todo lo que has hecho.",
+            "answer": "Gracias por todo lo que has hecho.",
+            "explanationJa": "gracias の後は必ず por。感謝の理由を示す por。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Salgo por Barcelona mañana a las ocho.",
+            "answer": "Salgo para Barcelona mañana a las ocho.",
+            "explanationJa": "行き先（〜へ向かって）→ para。por だと「バルセロナを通って出発する」の意味。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Compré un regalo por mi madre en su cumpleaños.",
+            "answer": "Compré un regalo para mi madre en su cumpleaños.",
+            "explanationJa": "受取人（〜のために）→ para。por を使うと「母の代わりにプレゼントを買った」の意味に。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "El informe es por el lunes.",
+            "answer": "El informe es para el lunes.",
+            "explanationJa": "期限（〜までに）→ para。por は期間を表す。deadline = para。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「¿Por qué estudias español?」と「¿Para qué estudias español?」の違いは？",
+            "options": [
+              "por qué=目的、para qué=理由",
+              "por qué=場所、para qué=時間",
+              "por qué=理由を聞く、para qué=目的を聞く",
+              "どちらも同じ意味"
+            ],
+            "answer": 2,
+            "explanationJa": "¿por qué? は「なぜ？」（原因・理由）。¿para qué? は「何のために？」（目的）。これが por と para の本質。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Pagué 50 euros ___ este libro.」の空欄に入るのは？",
+            "options": [
+              "por（交換の por）",
+              "con（手段の con）",
+              "para（目的の para）",
+              "de（出発の de）"
+            ],
+            "answer": 0,
+            "explanationJa": "交換（〜と引き換えに）→ por。値段を払う場面では por を使います。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次のうち por を使う慣用表現でないのはどれ？",
+            "options": [
+              "por ejemplo",
+              "por supuesto",
+              "por favor",
+              "para siempre"
+            ],
+            "answer": 3,
+            "explanationJa": "para siempre（永遠に）は para を使う慣用表現。他は全て por を使います。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Un café para mí, por favor.」の para は何を表している？",
+            "options": [
+              "期限",
+              "意見",
+              "受取人・対象",
+              "目的"
+            ],
+            "answer": 2,
+            "explanationJa": "para mí = 「私に」。注文するときの受取人を示す para。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Te envié el mensaje ___ correo electrónico.」の空欄は？",
+            "options": [
+              "para（目的の para）",
+              "por（手段の por）",
+              "en（場所の en）",
+              "con（道具の con）"
+            ],
+            "answer": 1,
+            "explanationJa": "手段・方法（〜で）→ por。メールで送った。por teléfono, por correo なども同じ。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「初心者にしては、スペイン語がとても上手ですね」",
+            "answer": "Para un principiante, hablas español muy bien.",
+            "acceptableAnswers": [
+              "Para ser principiante, hablas muy bien español.",
+              "Para un principiante, hablas muy bien el español."
+            ],
+            "explanationJa": "para + 基準 = 「〜にしては」。para un principiante = 「初心者にしては」。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「渋滞のせいで1時間遅刻した」",
+            "answer": "Llegué una hora tarde por el tráfico.",
+            "acceptableAnswers": [
+              "Por el tráfico, llegué una hora tarde.",
+              "Llegué una hora tarde por culpa del tráfico."
+            ],
+            "explanationJa": "原因（〜のせいで）→ por。por el tráfico = 渋滞のせいで。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「やっと金曜日だ！」",
+            "answer": "¡Por fin es viernes!",
+            "acceptableAnswers": [
+              "¡Por fin viernes!",
+              "¡Es viernes por fin!"
+            ],
+            "explanationJa": "por fin = 「ついに、やっと」。慣用表現として丸暗記。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "por → para に置き換え可能か判断: 「Trabajo por la mañana.」",
+            "answer": "置き換え不可。por la mañana（時間帯）は por の固定用法。para la mañana とは言わない。",
+            "explanationJa": "時間帯（午前中に、午後に、夜に）は常に por。por la mañana, por la tarde, por la noche。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "1文にまとめる: Compré flores. + Las flores son para mi novia. + El motivo fue su cumpleaños.",
+            "answer": "Compré flores para mi novia por su cumpleaños.",
+            "explanationJa": "para mi novia（受取人）+ por su cumpleaños（理由・きっかけ）。1文に por と para が共存。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "por は「原因・理由・交換・期間・通過・手段」（後ろを見る＝なぜ？）",
+      "para は「目的・行き先・期限・受取人・意見」（前を見る＝何のために？）",
+      "gracias + por、目的の「〜するために」= para + 動詞の原形",
+      "¿por qué?（なぜ？）と ¿para qué?（何のために？）の違いが本質",
+      "日本語ではどちらも「ために」だが、スペイン語では原因と目的で使い分ける",
+      "慣用表現は丸暗記：por favor, por ejemplo, por fin, para siempre, para nada"
+    ]
+  }
+}

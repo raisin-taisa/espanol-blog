@@ -1,0 +1,228 @@
+{
+  "scenario": "emergency",
+  "titleJa": "緊急時に使えるスペイン語フレーズ",
+  "titleEs": "Frases para emergencias",
+  "totalPhrases": 20,
+  "phrases": [
+    {
+      "id": "emer-001",
+      "spanishText": "¡Ayuda! ¡Por favor!",
+      "japaneseTranslation": "助けて！お願い！",
+      "pronunciationHint": "アユダ！ポル ファボール！",
+      "formality": "informal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "最も基本的な助けを求める表現。大声で叫ぶ場面で使います。",
+      "category": "basic"
+    },
+    {
+      "id": "emer-002",
+      "spanishText": "Llame a una ambulancia, por favor.",
+      "japaneseTranslation": "救急車を呼んでください。",
+      "pronunciationHint": "ジャメ ア ウナ アンブランシア ポル ファボール",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "Llame は llamar の命令形（usted）。緊急電話番号はスペイン 112、メキシコ 911。",
+      "category": "medical"
+    },
+    {
+      "id": "emer-003",
+      "spanishText": "Necesito un médico urgentemente.",
+      "japaneseTranslation": "至急医者が必要です。",
+      "pronunciationHint": "ネセシト ウン メディコ ウルヘンテメンテ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "Necesito un doctor urgentemente.",
+      "contextNoteJa": "スペインでは médico、中南米では doctor が一般的。どちらでも通じます。",
+      "category": "medical"
+    },
+    {
+      "id": "emer-004",
+      "spanishText": "Me duele mucho aquí.",
+      "japaneseTranslation": "ここがすごく痛いです。",
+      "pronunciationHint": "メ ドゥエレ ムチョ アキ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "doler は gustar と同じ構造。痛い場所を指さしながら使います。",
+      "category": "medical"
+    },
+    {
+      "id": "emer-005",
+      "spanishText": "Soy alérgico/a a este medicamento.",
+      "japaneseTranslation": "この薬にアレルギーがあります。",
+      "pronunciationHint": "ソイ アレルヒコ（ア）ア エステ メディカメント",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "男性は alérgico、女性は alérgica。病院で必ず伝えるべき重要情報です。",
+      "category": "medical"
+    },
+    {
+      "id": "emer-006",
+      "spanishText": "Me han robado la cartera.",
+      "japaneseTranslation": "財布を盗まれました。",
+      "pronunciationHint": "メ アン ロバド ラ カルテラ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "Me robaron la billetera.",
+      "contextNoteJa": "スペインでは cartera、中南米では billetera が「財布」。警察への届け出に必須。",
+      "category": "crime"
+    },
+    {
+      "id": "emer-007",
+      "spanishText": "Quiero denunciar un robo.",
+      "japaneseTranslation": "盗難届を出したいです。",
+      "pronunciationHint": "キエロ デヌンシアル ウン ロボ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "denunciar は「届け出る、通報する」。警察署（comisaría）で使います。",
+      "category": "crime"
+    },
+    {
+      "id": "emer-008",
+      "spanishText": "¿Dónde está la comisaría más cercana?",
+      "japaneseTranslation": "最寄りの警察署はどこですか？",
+      "pronunciationHint": "ドンデ エスタ ラ コミサリア マス セルカナ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "¿Dónde está la estación de policía más cercana?",
+      "contextNoteJa": "スペインでは comisaría、中南米では estación de policía が一般的。",
+      "category": "crime"
+    },
+    {
+      "id": "emer-009",
+      "spanishText": "He perdido mi pasaporte.",
+      "japaneseTranslation": "パスポートをなくしました。",
+      "pronunciationHint": "エ ペルディド ミ パサポルテ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "現在完了形で「なくした」。大使館（embajada）への連絡が必要になります。",
+      "category": "documents"
+    },
+    {
+      "id": "emer-010",
+      "spanishText": "¿Dónde está la embajada de Japón?",
+      "japaneseTranslation": "日本大使館はどこですか？",
+      "pronunciationHint": "ドンデ エスタ ラ エンバハダ デ ハポン",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "パスポート紛失時や重大なトラブル時に大使館へ。consulado（領事館）もあります。",
+      "category": "documents"
+    },
+    {
+      "id": "emer-011",
+      "spanishText": "¡Fuego! ¡Llamen a los bomberos!",
+      "japaneseTranslation": "火事だ！消防車を呼んで！",
+      "pronunciationHint": "フエゴ！ジャメン ア ロス ボンベロス！",
+      "formality": "informal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "bomberos は消防士。緊急時は短く叫びます。Llamen は複数の人への命令形。",
+      "category": "fire"
+    },
+    {
+      "id": "emer-012",
+      "spanishText": "Tengo seguro de viaje.",
+      "japaneseTranslation": "旅行保険に入っています。",
+      "pronunciationHint": "テンゴ セグロ デ ビアヘ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "seguro de viaje は「旅行保険」。病院で治療を受ける前に伝えましょう。",
+      "category": "medical"
+    },
+    {
+      "id": "emer-013",
+      "spanishText": "No hablo bien español. ¿Habla inglés?",
+      "japaneseTranslation": "スペイン語が上手に話せません。英語は話せますか？",
+      "pronunciationHint": "ノ アブロ ビエン エスパニョール。アブラ イングレス？",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "緊急時に通訳が必要な場合。¿Hay alguien que hable japonés?（日本語を話せる人はいますか？）も覚えておくと安心。",
+      "category": "communication"
+    },
+    {
+      "id": "emer-014",
+      "spanishText": "Estoy perdido/a. ¿Puede ayudarme?",
+      "japaneseTranslation": "道に迷いました。助けてもらえますか？",
+      "pronunciationHint": "エストイ ペルディド（ア）。プエデ アユダルメ？",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "男性は perdido、女性は perdida。道を尋ねる前に言うと親切に教えてもらいやすいです。",
+      "category": "lost"
+    },
+    {
+      "id": "emer-015",
+      "spanishText": "Me siento mal. Creo que voy a desmayarme.",
+      "japaneseTranslation": "気分が悪いです。気を失いそうです。",
+      "pronunciationHint": "メ シエント マル。クレオ ケ ボイ ア デスマジャルメ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "desmayarse は「気絶する」。ir a + 不定詞で近い未来を表します。",
+      "category": "medical"
+    },
+    {
+      "id": "emer-016",
+      "spanishText": "¿Puede llamar a este número?",
+      "japaneseTranslation": "この番号に電話してもらえますか？",
+      "pronunciationHint": "プエデ ジャマル ア エステ ヌメロ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "緊急連絡先のカードを見せながら使えます。ホテルや保険会社の番号など。",
+      "category": "communication"
+    },
+    {
+      "id": "emer-017",
+      "spanishText": "Necesito ir al hospital más cercano.",
+      "japaneseTranslation": "最寄りの病院に行く必要があります。",
+      "pronunciationHint": "ネセシト イル アル オスピタル マス セルカノ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "タクシーの運転手に伝える時にも使えます。ir al は ir a + el の縮約形。",
+      "category": "medical"
+    },
+    {
+      "id": "emer-018",
+      "spanishText": "Mi grupo sanguíneo es tipo A.",
+      "japaneseTranslation": "血液型はA型です。",
+      "pronunciationHint": "ミ グルポ サンギネオ エス ティポ ア",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "grupo sanguíneo は「血液型」。A, B, AB, O（セロ）。手術が必要な場合に重要。",
+      "category": "medical"
+    },
+    {
+      "id": "emer-019",
+      "spanishText": "No toque nada. Ya viene la policía.",
+      "japaneseTranslation": "何も触らないで。もうすぐ警察が来ます。",
+      "pronunciationHint": "ノ トケ ナダ。ジャ ビエネ ラ ポリシア",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "事故や犯罪現場で証拠を保全するため。toque は tocar の否定命令形。",
+      "category": "crime"
+    },
+    {
+      "id": "emer-020",
+      "spanishText": "¿Tiene un botiquín de primeros auxilios?",
+      "japaneseTranslation": "救急箱はありますか？",
+      "pronunciationHint": "ティエネ ウン ボティキン デ プリメロス アウクシリオス",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "botiquín de primeros auxilios は「応急処置キット」。ホテルやレストランで聞けます。",
+      "category": "medical"
+    }
+  ]
+}

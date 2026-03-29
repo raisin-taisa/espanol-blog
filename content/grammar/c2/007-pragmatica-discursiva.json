@@ -1,0 +1,475 @@
+{
+  "id": "c2-grammar-007",
+  "slug": "pragmatica-discursiva",
+  "titleJa": "語用論・談話分析 — 皮肉・控えめ表現・ポライトネス戦略",
+  "titleEs": "Pragmática discursiva: ironía, atenuación, marcadores y estrategias de cortesía",
+  "level": "c2",
+  "sortOrder": 7,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "語用論（pragmática）とは何か？",
+        "bodyJa": "文法的に正しい文が、実際のコミュニケーションでは全く違う意味を持つことがあります。\n\n例：¡Qué bonito!（なんてきれい！）\n→ 文字通りの意味：美しさへの感嘆\n→ 皮肉の場合：「ひどいね」「最悪だね」\n\nこの「文字通りの意味」と「実際の意図」のずれを研究するのが語用論（pragmática）です。\n\nC2レベルでは、文法・語彙の正確さだけでなく、以下の能力が問われます：\n\n1. 皮肉・反語を正確に読み取る\n2. 控えめ表現（atenuación）を使いこなす\n3. ポライトネス戦略を文化的に適切に使う\n4. 談話標識（marcadores discursivos）で会話の流れを操る\n\n日本語話者にとっての共通点：日本語も「察する文化」が強く、語用論的な能力が高い言語です。\nスペイン語の語用論は日本語とは方向性が違いますが、「言葉の裏を読む」スキルは活かせます。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "皮肉（ironía）の文法的・語用論的パターン",
+        "bodyJa": "スペイン語の皮肉には典型的なパターンがあります。\n\n1. 肯定形で否定の意味を表す\n¡Vaya, qué puntual eres!（まあ、なんて時間通りだこと！）\n→ 遅刻した人への皮肉。\n\n2. 感嘆文の反転使用\n¡Qué listo!（なんて賢いの！）\n→ 馬鹿なことをした人に。\n\n3. 過剰な丁寧さ\n¡Muchas gracias por tu ayuda!（手伝ってくれて本当にありがとう！）\n→ 実際は手伝わなかった人に。\n\n4. mira / fíjate の皮肉的使用\nMira quién habla.（誰が言ってるんだか ≒ お前が言うなよ）\nFíjate tú.（やれやれ / まあ驚きだ）\n\n5. 条件法の皮肉的使用\nYo diría que eso no es exactamente así.（それは必ずしもそうではないと言いたいところだが）\n→ 明らかに間違っている相手への控えめな反論。実際は「完全に違う」の意味。\n\n皮肉を見抜く手がかり：\n・イントネーション（口頭）\n・文脈との矛盾（書面）\n・過剰な表現と現実のギャップ"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "atenuación（控えめ表現）：直接的すぎないスペイン語",
+        "bodyJa": "スペイン語は「ストレート」な言語と思われがちですが、実は控えめ表現（atenuación）が豊富です。\n\n特に以下の場面で使われます：\n\n1. 否定的評価を和らげる\nNo está mal.（悪くないね）→ 実は「かなり良い」\nNo es exactamente lo que esperaba.（期待していたものと完全には一致しない）→「失望した」\n\n2. 依頼を和らげる\n¿No tendrías un bolígrafo?（ペン持ってたりしない？）\n→ 条件法 + 否定疑問で二重に控えめに。\n¿Te importaría echarme una mano?（手を貸してもらえたら困るかな？）\n→ importar + 条件法で「迷惑なら断って」のニュアンス。\n\n3. 意見を和らげる\nA lo mejor me equivoco, pero...（間違ってるかもしれないけど...）\nEs que, no sé, a mí me parece que...（その、なんというか、私には〜と思えるんだけど...）\n\n4. 縮小辞（diminutivo）による控えめ化\n¿Me das un momentito?（ちょっとだけ待ってくれる？）\nEstoy un poquito cansado.（ちょっとだけ疲れてる）→ 実際はかなり疲れている可能性\n\n日本語話者の注意：日本語の控えめ表現は「〜かもしれません」「〜と思います」など定型パターンが多いですが、スペイン語は文脈依存度が高く、パターンが多様です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "ポライトネス戦略（estrategias de cortesía）",
+        "bodyJa": "ブラウン＆レビンソンのポライトネス理論をスペイン語に適用します。\n\n【ポジティブ・ポライトネス】（相手との連帯感を示す）\nスペイン語文化で特に重要。\n\n・相手の意見に同調：Claro, tienes toda la razón.（もちろん、まさにその通り）\n・親しみの呼びかけ：cariño, tío/tía, amigo/a\n・冗談の共有：共同体意識を強化\n・ inclusive の nosotros：Vamos a ver...（見てみましょう...）→ 相手を含めて一体感\n\n【ネガティブ・ポライトネス】（相手の自由を侵害しない）\n日本語話者に馴染みやすい。\n\n・間接的な依頼：¿Podrías pasarme la sal?（塩を取ってもらえたりする？）\n・弁解の前置き：Perdona que te moleste, pero...（煩わせて悪いんだけど...）\n・選択肢の提示：Si te viene bien... / Cuando puedas...（都合がよければ / できるときに）\n\n【スペイン語文化の特徴】\nスペイン語圏は一般的にポジティブ・ポライトネスが優勢。\n日本語は一般的にネガティブ・ポライトネスが優勢。\n\nつまり、日本語話者は「遠慮しすぎ」、スペイン語話者は「馴れ馴れしすぎ」と感じ合うことがあります。\nこの文化的な違いを理解することもC2の重要なスキルです。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "C2レベルの談話標識（marcadores discursivos）",
+        "bodyJa": "C2で使いこなすべき高度な談話標識を機能別に整理します。\n\n【話題の導入・転換】\na propósito（そういえば）\nen lo que respecta a（〜に関して言えば）\ncambiando de tema（話は変わるが）\ndicho esto（そうは言ったものの）\n\n【情報の追加・強調】\nde hecho（実は / 実際のところ）\nes más（それどころか）\nno solo eso, sino que...（それだけでなく）\npor si fuera poco（それだけでは足りないかのように）\n\n【要約・結論】\nen resumidas cuentas（要するに）\na fin de cuentas（結局のところ）\nen cualquier caso（いずれにせよ）\ntotal, que...（結局は）\n\n【態度の表明】\nfrancamente（率直に言うと）\nque yo sepa（私の知る限り）\npor lo visto（どうやら / 見たところ）\nal parecer（どうやら）\n\n【時間稼ぎ・フィラー（口語）】\nbueno（ええと）\na ver（ええと / じゃあ）\npues nada（まあ / で、結局）\nes que（つまりその）"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "face-saving（面子を守る）戦略",
+        "bodyJa": "批判・反論・断りの場面で「相手の面子を守る」技法は、C2の会話力を左右します。\n\n【反論するとき】\n直接的（避ける）：Estás equivocado.（間違ってるよ）\n面子を守る：Entiendo tu punto de vista, pero quizás habría que considerar también...（君の視点はわかるけど、もしかしたら〜も考えた方が...）\n\n【断るとき】\n直接的（避ける）：No quiero.（嫌だ）\n面子を守る：Me encantaría, pero es que tengo un compromiso previo.（ぜひ行きたいんだけど、先約があって）\n→ me encantaría（ぜひ！）で好意を示してから断る\n\n【批判するとき】\n直接的（避ける）：Este trabajo es malo.（この仕事はダメだ）\n面子を守る：El trabajo tiene potencial, pero creo que podríamos mejorarlo en algunos aspectos.（可能性があるんだけど、いくつかの点で改善できると思う）\n→ tiene potencial で肯定してから批判（サンドイッチ法）\n\n日本語話者の強み：日本語は面子を守る戦略が非常に発達しているので、概念的には得意なはずです。\nスペイン語では日本語ほど婉曲にする必要はありませんが、C2レベルでは微妙な調整ができることが期待されます。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "¡Vaya, qué sorpresa verte aquí! (dicho a alguien que siempre viene)",
+            "ja": "まあ、ここであなたに会うとは驚きだわ！（いつも来る人に対して）",
+            "noteJa": "皮肉。文字通りは「驚き」だが、実際は「いつも通りだね」の意味。文脈との矛盾が皮肉の手がかり。"
+          },
+          {
+            "es": "No es que no me guste, es que... bueno, digamos que no es exactamente mi estilo.",
+            "ja": "嫌いってわけじゃなくて、その...まあ、正確には私の好みではないとでも言おうか。",
+            "noteJa": "atenuación の多重使用。no es que + 接続法、es que、bueno、digamos que、no exactamente。実際は「嫌い」だが何重にも和らげている。"
+          },
+          {
+            "es": "Que yo sepa, nadie ha dicho nada al respecto. Pero vamos, igual me equivoco.",
+            "ja": "私の知る限り、誰もそれについて何も言っていない。でもまあ、間違ってるかもしれないけど。",
+            "noteJa": "que yo sepa（知識の限界表明）+ igual me equivoco（自己修正のhedging）。断定を避ける会話戦略。"
+          },
+          {
+            "es": "Perdona que te moleste, pero ¿no tendrías por casualidad un cargador?",
+            "ja": "煩わせて悪いんだけど、もしかして充電器持ってたりしない？",
+            "noteJa": "ネガティブ・ポライトネスの詰め合わせ。Perdona + que te moleste + 否定疑問 + 条件法 + por casualidad。日本語の「すみません、もしよければ...」に相当。"
+          },
+          {
+            "es": "Mira, francamente, a mí me parece que estamos dando vueltas al asunto sin llegar a nada.",
+            "ja": "ねえ、率直に言うと、この件について堂々巡りして何も結論に至っていないように思うんだけど。",
+            "noteJa": "mira（注意喚起）+ francamente（率直さの宣言）+ a mí me parece（個人的意見の表明）。丁寧だが明確な批判。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "皮肉を文字通りに解釈して的外れな返答をしてしまう",
+            "correct": "イントネーション・文脈・過剰な表現を手がかりに皮肉を検出する",
+            "whyJa": "¡Qué bien! が本当に喜んでいるのか皮肉なのかは文脈で判断。C2のリスニングで最も差がつくポイント。"
+          },
+          {
+            "wrong": "日本語的な過剰な遠慮をスペイン語に持ち込む",
+            "correct": "スペイン語圏のポライトネスレベルに合わせる",
+            "whyJa": "日本語の「恐れ入りますが」レベルの遠慮はスペイン語では「距離を置かれている」と解釈される可能性。ポジティブ・ポライトネスを意識。"
+          },
+          {
+            "wrong": "談話標識なしで長い発言をする",
+            "correct": "bueno, pues, es que, a ver 等で会話のリズムを作る",
+            "whyJa": "談話標識なしのスペイン語は「不自然に直線的」に聞こえる。ネイティブは常に談話標識を挟んで会話のリズムを調整している。"
+          },
+          {
+            "wrong": "断るときに理由を言わず No, gracias. だけで済ませる",
+            "correct": "Me encantaría, pero... / Es que tengo... のように理由を添える",
+            "whyJa": "スペイン語圏では断りの際に理由を添えるのが礼儀。理由なしの断りは冷たく感じられます。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "日常会話・ビジネスでの実例",
+        "items": [
+          {
+            "es": "— ¿Te gustó la película? — Hombre, digamos que no era exactamente lo que esperaba.",
+            "ja": "「映画気に入った？」「うーん、期待してたものとは正確には違ったというか。」",
+            "source": "conversation",
+            "sourceLabel": "友達との会話",
+            "noteJa": "hombre（間投詞）+ digamos que（控えめ表現）+ no exactamente（否定の緩和）。実際は「つまらなかった」のを遠回しに。"
+          },
+          {
+            "es": "Mira quién habla de puntualidad. Tú que llegas siempre media hora tarde.",
+            "ja": "時間厳守について誰が言ってるんだか。いつも30分遅れで来るくせに。",
+            "source": "conversation",
+            "sourceLabel": "友人への皮肉",
+            "noteJa": "Mira quién habla（お前が言うな）は定型の皮肉表現。相手の矛盾を指摘する。"
+          },
+          {
+            "es": "Agradezco enormemente la invitación, pero lamentablemente me resulta imposible asistir en esa fecha.",
+            "ja": "ご招待に大変感謝いたしますが、残念ながらその日程には出席がかないません。",
+            "source": "formal",
+            "sourceLabel": "フォーマルな断り",
+            "noteJa": "フォーマルな断りの定型パターン。感謝 + 残念の表明 + 不可能の理由。lamentablemente と me resulta imposible が丁寧さを強化。"
+          },
+          {
+            "es": "Por lo visto, van a cerrar la oficina de la esquina. Total, que nos quedamos sin café decente.",
+            "ja": "どうやら角のあの店閉めるらしいよ。結局、まともなコーヒーが飲めなくなるわけだ。",
+            "source": "conversation",
+            "sourceLabel": "同僚との雑談",
+            "noteJa": "por lo visto（伝聞）+ total, que（結論のフィラー）。カジュアルな情報伝達と感想の組み合わせ。"
+          },
+          {
+            "es": "Entiendo perfectamente tu posición, y de hecho la comparto en gran medida. Ahora bien, ¿no crees que deberíamos también considerar la perspectiva del otro equipo?",
+            "ja": "あなたの立場は完全に理解していますし、実は大部分で同意しています。ただ、もう一方のチームの視点も考慮すべきではないでしょうか？",
+            "source": "business",
+            "sourceLabel": "ビジネス会議での反論",
+            "noteJa": "ポジティブ・ポライトネス（理解・同意を示す）→ ahora bien（転換）→ ネガティブ・ポライトネス（疑問形で提案）。見事なサンドイッチ構造。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "遅刻した同僚に「¡Qué puntual!」と言う場合、これは何の例？",
+            "options": [
+              "face-saving戦略",
+              "文字通りの称賛",
+              "皮肉（ironía）",
+              "控えめ表現（atenuación）"
+            ],
+            "answer": 2,
+            "explanationJa": "遅刻した人に「時間通りだね！」は皮肉。文字通りの意味と現実が矛盾している。"
+          },
+          {
+            "prompt": "「Me encantaría, pero es que tengo un compromiso previo.」が使う戦略は？",
+            "options": [
+              "atenuación による意見表明",
+              "直接的な拒否",
+              "ポジティブ・ポライトネス（好意表明）+ 理由付きの断り",
+              "皮肉による回避"
+            ],
+            "answer": 2,
+            "explanationJa": "me encantaría で「本当は行きたい」と好意を示した上で、理由を添えて断る。ポジティブ・ポライトネスの典型。"
+          },
+          {
+            "prompt": "「que yo sepa」の語用論的機能は？",
+            "options": [
+              "確信をもって断言する",
+              "自分の知識の限界を表明し、断定を避ける",
+              "相手の知識を批判する",
+              "話題を変える"
+            ],
+            "answer": 1,
+            "explanationJa": "que yo sepa は「私の知る限り」で、後続の情報が不完全かもしれないことを予防線として示す hedging 表現。"
+          },
+          {
+            "prompt": "スペイン語圏のポライトネスの一般的な特徴は？",
+            "options": [
+              "ポライトネスは存在しない",
+              "ネガティブ・ポライトネス（距離・遠慮）が優勢",
+              "ポジティブ・ポライトネス（連帯感・親しみ）が優勢",
+              "日本語と全く同じパターン"
+            ],
+            "answer": 2,
+            "explanationJa": "スペイン語圏は一般的にポジティブ・ポライトネス（連帯感、親しみ、共感の表明）が優勢。日本語はネガティブ・ポライトネスが優勢。"
+          },
+          {
+            "prompt": "「No está mal」が atenuación である理由は？",
+            "options": [
+              "文法的に間違った表現だから",
+              "文字通り「悪くない」という中立的評価だから",
+              "否定形を使って実際にはポジティブな評価を控えめに表現しているから",
+              "皮肉として使っているから"
+            ],
+            "answer": 2,
+            "explanationJa": "no está mal は litotes（緩叙法）の一種。「悪くない」=「かなり良い」と控えめに表現する atenuación です。"
+          },
+          {
+            "prompt": "ビジネスで反論するとき、最も適切な戦略は？",
+            "options": [
+              "まず相手の意見への理解・同意を示してから、別の視点を提案する",
+              "何も言わずに黙っている",
+              "即座に「それは間違いだ」と指摘する",
+              "皮肉で相手の間違いを示す"
+            ],
+            "answer": 0,
+            "explanationJa": "サンドイッチ法（理解→転換→提案）がビジネスでは最も効果的。ahora bien, sin embargo 等で転換する。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "遅刻した同僚に「¡Qué ___!」と言う場合、これは皮肉の例。(puntual)",
+            "answer": "puntual",
+            "options": [
+              "malo",
+              "puntual",
+              "lento",
+              "tarde"
+            ],
+            "explanationJa": "遅刻した人に「時間通りだね！」は皮肉（ironía）。文字通りの意味と現実が矛盾するのが手がかり。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "断るときの丁寧な前置き：「Me ___, pero es que tengo un compromiso previo.」(encantar - 条件法)",
+            "answer": "encantaría",
+            "options": [
+              "encantaría",
+              "encantó",
+              "encanta",
+              "encantara"
+            ],
+            "explanationJa": "me encantaría（ぜひそうしたい）で好意を示してから断る。ポジティブ・ポライトネスの典型パターン。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "知識の限界を表明する表現：「___ yo sepa, nadie ha dicho nada.」",
+            "answer": "Que",
+            "options": [
+              "Aunque",
+              "Si",
+              "Lo que",
+              "Que"
+            ],
+            "explanationJa": "que yo sepa（私の知る限り）は hedging 表現。後続の情報が不完全かもしれないことを予防線として示す。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "「___  quién habla de puntualidad.」（お前が言うな、の皮肉表現）",
+            "answer": "Mira",
+            "options": [
+              "Escucha",
+              "Ve",
+              "Oye",
+              "Mira"
+            ],
+            "explanationJa": "Mira quién habla（誰が言ってるんだか）は定型の皮肉表現。相手の矛盾を指摘する。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "「___, francamente, a mí me parece que estamos perdiendo el tiempo.」（注意喚起の談話標識）",
+            "answer": "Mira",
+            "options": [
+              "Mira",
+              "Total",
+              "Pues",
+              "Bueno"
+            ],
+            "explanationJa": "mira は注意喚起の談話標識。francamente（率直さの宣言）と組み合わせて丁寧だが明確な批判を導入。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "控えめな依頼：「¿No ___ un bolígrafo por casualidad?」(tener, tú - 条件法)",
+            "answer": "tendrías",
+            "options": [
+              "tienes",
+              "tengas",
+              "tendrías",
+              "tuvieras"
+            ],
+            "explanationJa": "条件法 + 否定疑問 + por casualidad のトリプル hedging。「ペン持ってたりしない？」という控えめな依頼表現。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "「___ lo visto, van a cerrar esa tienda.」（伝聞の談話標識）",
+            "answer": "Por",
+            "options": [
+              "De",
+              "A",
+              "Por",
+              "En"
+            ],
+            "explanationJa": "por lo visto（どうやら / 見たところ）は伝聞情報を示す談話標識。自分が直接確認していない情報であることを示す。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "「No está ___.」（「かなり良い」を控えめに表現する atenuación）",
+            "answer": "mal",
+            "options": [
+              "bueno",
+              "bien",
+              "mal",
+              "malo"
+            ],
+            "explanationJa": "no está mal（悪くない）は litotes（緩叙法）の一種。実際は「かなり良い」を控えめに表現する atenuación。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "「___ de cuentas, lo importante es que todos estemos bien.」（結局のところ）",
+            "answer": "A fin",
+            "options": [
+              "Al fin",
+              "Por fin",
+              "En fin",
+              "A fin"
+            ],
+            "explanationJa": "a fin de cuentas（結局のところ）は要約・結論の談話標識。en fin も近いが、a fin de cuentas の方が「すべてを考慮した上で」のニュアンスが強い。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "「___, que al final no pudimos ir.」（結局は、の口語的談話標識）",
+            "answer": "Total",
+            "options": [
+              "Bueno",
+              "Total",
+              "Mira",
+              "Pues"
+            ],
+            "explanationJa": "total, que...（結局は）は口語的な結論の談話標識。話のオチや結論を導入する。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "（断るとき）No, no quiero. （理由なしの直接的な断り）",
+            "answer": "Me encantaría, pero es que tengo un compromiso previo. / Lo siento mucho, pero me resulta imposible esta vez.",
+            "explanationJa": "スペイン語圏では断りの際に理由を添えるのが礼儀。me encantaría で好意を示してから理由を述べるパターンが適切。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "（反論するとき）Estás equivocado. Eso no es así.",
+            "answer": "Entiendo tu punto de vista, pero quizás habría que considerar también que...",
+            "explanationJa": "直接的な否定は face-threatening。まず相手の意見への理解を示し（ポジティブ・ポライトネス）、quizás + 条件法で別の視点を提案。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "（批判するとき）Este trabajo es malo y tiene muchos errores.",
+            "answer": "El trabajo tiene potencial, pero creo que podríamos mejorarlo en algunos aspectos.",
+            "explanationJa": "サンドイッチ法：肯定（tiene potencial）→ 転換（pero）→ 建設的提案（podríamos mejorarlo）。face-saving の基本戦略。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "皮肉を文字通りに解釈した返答：\nA:「¡Vaya, qué sorpresa verte aquí!」(いつも来る人に)\nB:「Sí, es una gran sorpresa, ¿verdad?」",
+            "answer": "B は皮肉を理解した上で返答すべき。例：「Ya ves, aquí estoy como siempre.」/「¿Qué esperabas?」",
+            "explanationJa": "A は皮肉（いつも来る人に「驚きだ」）。B は文字通りに受け取っている。皮肉を理解した上で、軽い自虐や反撃で返すのが自然。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "（依頼するとき）Dame un café.（談話標識なしの直接的命令）",
+            "answer": "Oye, ¿me pones un café, por favor? / Perdona, ¿te importaría ponerme un café?",
+            "explanationJa": "談話標識（oye/perdona）+ 疑問形 + por favor で控えめな依頼に変換。dame は親しい間柄以外では直接的すぎる。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「¡Qué bien cocinas!」が皮肉かどうかを判断する最大の手がかりは？",
+            "options": [
+              "使われている語彙の難易度",
+              "発話者の年齢",
+              "文法構造の複雑さ",
+              "文脈（料理が実際においしいか、まずいか）とイントネーション"
+            ],
+            "answer": 3,
+            "explanationJa": "皮肉は文字通りの意味と文脈の矛盾で成立する。料理がまずい場面で「上手だね！」はイントネーションと文脈で皮肉と判断。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "スペイン語圏で優勢なポライトネス戦略はどれか？",
+            "options": [
+              "日本語と同じパターン",
+              "ポジティブ・ポライトネス（連帯感・親しみ・共感の表明）",
+              "ネガティブ・ポライトネス（距離・遠慮・謝罪の多用）",
+              "ポライトネスを一切使わない直接性"
+            ],
+            "answer": 1,
+            "explanationJa": "スペイン語圏はポジティブ・ポライトネス優勢。親しみ・連帯感を示すことが礼儀。日本語のネガティブ・ポライトネス（遠慮・距離）とは方向性が異なる。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "談話標識 de hecho の主な機能は？",
+            "options": [
+              "相手の発言を否定する",
+              "会話を終わらせる",
+              "話題を完全に変える",
+              "先行する発言を補強・具体化する（実は / 実際のところ）"
+            ],
+            "answer": 3,
+            "explanationJa": "de hecho（実は / 実際のところ）は先行情報を強化・具体化する談話標識。「それどころか」のニュアンスで追加情報を導入。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「No es exactamente lo que esperaba」は実際に何を意味しているか？",
+            "options": [
+              "特に感想はない",
+              "失望した・期待はずれだった（atenuación による間接的な否定的評価）",
+              "期待通りだった",
+              "期待を上回った"
+            ],
+            "answer": 1,
+            "explanationJa": "no exactamente は atenuación の典型。「正確にはそうではない」= 実際は「かなり違う / 失望した」を控えめに表現。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "ビジネス会議で反論する際の最適な戦略は？",
+            "options": [
+              "黙って反対意見を飲み込む",
+              "相手への理解・同意を示した上で、ahora bien/sin embargo で転換し、別の視点を提案する",
+              "皮肉で相手の矛盾を突く",
+              "即座に「それは間違いだ」と指摘する"
+            ],
+            "answer": 1,
+            "explanationJa": "サンドイッチ法（理解→転換→提案）がビジネスで最も効果的。相手の面子を守りつつ自分の意見を伝える戦略。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「煩わせて申し訳ないのですが、もしかして充電器をお持ちだったりしませんか？」（ネガティブ・ポライトネスを使って）",
+            "answer": "Perdona que te moleste, pero ¿no tendrías por casualidad un cargador?",
+            "acceptableAnswers": [
+              "Disculpa la molestia, pero ¿tendrías un cargador por casualidad?",
+              "Siento molestarte, pero ¿no tendrás un cargador?"
+            ],
+            "explanationJa": "Perdona + que te moleste（接続法）+ 否定疑問 + 条件法 + por casualidad。ネガティブ・ポライトネスの詰め合わせ。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「あなたの立場は理解しますが、別の角度からも考えてみませんか？」（face-saving 戦略で）",
+            "answer": "Entiendo perfectamente tu posición, pero ¿no crees que deberíamos considerar también otra perspectiva?",
+            "acceptableAnswers": [
+              "Comprendo tu punto de vista, pero quizás convendría analizar el tema desde otro ángulo.",
+              "Entiendo lo que dices, pero ¿y si lo miramos desde otra perspectiva?"
+            ],
+            "explanationJa": "ポジティブ・ポライトネス（理解の表明）→ 転換（pero）→ 疑問形の提案。サンドイッチ構造の反論。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「どうやら来月から値上げするらしいよ。結局、もっと節約しなきゃいけないってことだ。」",
+            "answer": "Por lo visto, van a subir los precios a partir del mes que viene. Total, que vamos a tener que ahorrar más.",
+            "acceptableAnswers": [
+              "Al parecer, van a subir los precios el mes que viene. En fin, que tendremos que ahorrar más."
+            ],
+            "explanationJa": "por lo visto（伝聞）+ total, que（口語的結論）。カジュアルな情報伝達と個人的な結論を談話標識でつなぐ。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の直接的な批判を atenuación を使って和らげよ：\nEste restaurante es malo y la comida es terrible.",
+            "answer": "Bueno, digamos que no es exactamente el mejor restaurante de la zona. La comida, la verdad, no era lo que esperaba.",
+            "explanationJa": "malo → no es exactamente el mejor（litotes）、terrible → no era lo que esperaba（atenuación）。bueno/digamos que/la verdad で緩衝。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の談話標識なしの発言を、適切な談話標識を3つ以上追加して自然にせよ：\nLas cosas no van bien en la empresa. Hay problemas. Tenemos que hacer algo.",
+            "answer": "Bueno, mira, la verdad es que las cosas no van del todo bien en la empresa. De hecho, hay varios problemas que debemos abordar. A ver, creo que tenemos que hacer algo cuanto antes.",
+            "explanationJa": "bueno（導入）、mira（注意喚起）、la verdad es que（正直さの表明）、de hecho（補強）、a ver（考えの整理）。談話標識で会話のリズムが自然に。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "皮肉（ironía）は文脈との矛盾・過剰な表現・イントネーションで検出する。C2のリスニングで最も差がつくスキル",
+      "atenuación（控えめ表現）は条件法・否定疑問・縮小辞・digamos que 等で実現する。スペイン語も「ストレート」なだけではない",
+      "スペイン語圏はポジティブ・ポライトネス（連帯感・親しみ）が優勢。日本語話者は遠慮しすぎないよう調整が必要",
+      "談話標識（bueno, pues, es que, de hecho, a ver 等）は会話のリズムに不可欠。なしでは不自然に聞こえる",
+      "断りの際は me encantaría + 理由のパターンが礼儀。理由なしの No は冷たく感じられる",
+      "face-saving のサンドイッチ法（同意→転換→提案）はビジネスでも日常でも使える万能戦略"
+    ]
+  }
+}

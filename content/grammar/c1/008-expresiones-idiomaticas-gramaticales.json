@@ -1,0 +1,496 @@
+{
+  "id": "c1-grammar-008",
+  "slug": "expresiones-idiomaticas-gramaticales",
+  "titleJa": "文法的慣用表現（no es que, es que, por si acaso, a lo mejor）",
+  "titleEs": "Expresiones idiomáticas gramaticales",
+  "level": "c1",
+  "sortOrder": 8,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "ネイティブらしさの鍵：文法的慣用表現",
+        "bodyJa": "C1レベルのスペイン語では、教科書には載っていない「文法的慣用表現」を使いこなすことが重要です。\n\nこれらは単なるイディオムではなく、文法構造に組み込まれた表現です。\n接続法を使うかどうか、どの時制と組み合わせるかにルールがあります。\n\nこれらを使えるようになると、ネイティブから「この人スペイン語上手い！」と思われるレベルになります。\n\n今回は特に重要な表現を5つのグループに分けて学びます。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "no es que + 接続法：「〜というわけではない」",
+        "bodyJa": "no es que は「〜というわけではない」という否定を柔らかく表現するために使います。\n\nno es que + 接続法（否定の部分）、es que + 直説法（本当の理由）\n\nパターン：No es que + 接続法, es que + 直説法\n\n・No es que no me guste, es que no tengo hambre.\n  （好きじゃないってわけじゃなくて、お腹が空いてないんだ）\n・No es que sea tonto, es que no estudia.\n  （バカなんじゃなくて、勉強しないだけだ）\n・No es que no quiera ir, es que no puedo.\n  （行きたくないわけじゃなくて、行けないんだ）\n\nこの表現は誤解を避けたいとき、角の立たない言い方をしたいときに使います。\n\n日本語話者のポイント：日本語の「〜じゃなくて〜なんだ」にそっくりですが、no es que の後は必ず接続法を使うことを忘れないでください。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "es que...：「だって〜なんだもの」（理由・言い訳）",
+        "bodyJa": "es que は理由や言い訳を述べるときに使う非常に口語的な表現です。\n\nes que + 直説法\n\n・—¿Por qué llegas tarde? —Es que había mucho tráfico.\n  （なんで遅刻したの？ ─ だって渋滞がひどかったんだもん）\n・—¿No vienes a la fiesta? —Es que estoy cansado.\n  （パーティー来ないの？ ─ だって疲れてるんだよ）\n・Es que no sabía que era hoy.\n  （だって今日だって知らなかったんだもの）\n\nes que は「言い訳モード」に入るシグナルです。\nスペイン人は非常によく使います。\n\n疑問文で使うと「もしかして」の意味にもなります。\n・¿Es que no me has escuchado?（もしかして聞いてなかったの？）\n・¿Es que te has olvidado?（もしかして忘れてたの？）"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "por si acaso / por si：「念のために」「〜の場合に備えて」",
+        "bodyJa": "por si acaso は「念のため」、por si は「〜の場合に備えて」を表します。\n\npor si acaso（単独で副詞的に使える）：\n・Lleva un paraguas, por si acaso.（念のため傘を持っていきなさい）\n・Lo guardé, por si acaso.（念のためとっておいた）\n\npor si + 直説法（〜するかもしれないから）：\n・Llévate un abrigo por si hace frío.（寒いかもしれないからコートを持っていって）\n・Voy a preparar más comida por si vienen más personas.（もっと人が来るかもしれないから多めに料理を作る）\n\n注意：por si の後は通常直説法を使います。\nスペインの一部の地域や文学的な文脈では接続法も見られますが、現代の標準スペイン語では直説法が一般的です。\n\n日本語話者のポイント：日本語の「〜かもしれないから」に直訳できる便利な表現。日常会話で頻出します。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "a lo mejor, igual, lo mismo：「もしかしたら」（直説法）",
+        "bodyJa": "「もしかしたら〜かもしれない」を表す表現はいくつかありますが、使う法（直説法・接続法）が異なります。\n\na lo mejor + 直説法：もしかしたら〜かも\n・A lo mejor llueve mañana.（もしかしたら明日雨かも）\n・A lo mejor viene Juan.（もしかしたらフアンが来るかも）\n\nigual + 直説法：もしかしたら〜かも（スペインの口語）\n・Igual te llamo esta noche.（もしかしたら今夜電話するかも）\n\nlo mismo + 直説法：もしかしたら〜かも（スペインの口語）\n・Lo mismo me apunto al viaje.（もしかしたら旅行に参加するかも）\n\n比較：quizás / tal vez / puede que は接続法\n・Quizás llueva mañana.（もしかしたら明日雨かも）← 接続法\n・A lo mejor llueve mañana.（もしかしたら明日雨かも）← 直説法\n\n重要：a lo mejor は接続法を使わない！これはDELE C1で頻出のひっかけポイントです。\n\n確率のニュアンス（大→小）：\nseguramente > probablemente > posiblemente > quizás / tal vez > a lo mejor"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "その他の重要な文法的慣用表現",
+        "bodyJa": "C1レベルで知っておくべきその他の表現をまとめます。\n\nresulta que + 直説法：「実は〜なんだ」（意外な事実を述べる）\n・Resulta que ya se conocían.（実は彼らはすでに知り合いだった）\n\ntotal, que...：「結局〜」（口語的なまとめ）\n・Total, que al final no fuimos.（結局、最終的には行かなかった）\n\nno vaya a ser que + 接続法：「〜しないように」「〜したら大変だから」\n・Habla más bajo, no vaya a ser que nos oigan.（声を小さくして、聞かれたら大変だから）\n\nque yo sepa：「僕の知る限り」\n・Que yo sepa, no ha llegado todavía.（僕の知る限り、まだ到着していない）\n\ndiga lo que diga：「何を言おうとも」（接続法の反復構文）\n・Diga lo que diga, no le creo.（何を言おうと、信じない）\n・Pase lo que pase, estaré contigo.（何が起きようと、そばにいるよ）"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "No es que no quiera ayudarte, es que no sé cómo.",
+            "ja": "手伝いたくないわけじゃなくて、やり方がわからないんだ。",
+            "noteJa": "no es que + 接続法（quiera）。「〜じゃなくて〜なんだ」の定番パターン。"
+          },
+          {
+            "es": "—¿Por qué no viniste? —Es que se me olvidó por completo.",
+            "ja": "なんで来なかったの？ ─ だって完全に忘れてたんだもん。",
+            "noteJa": "es que + 直説法。言い訳を述べる口語表現。se me olvidó = 忘れてしまった。"
+          },
+          {
+            "es": "Lleva algo de dinero en efectivo, por si acaso.",
+            "ja": "念のため現金を少し持っていきなさい。",
+            "noteJa": "por si acaso を副詞的に使用。「万が一のために」。"
+          },
+          {
+            "es": "A lo mejor nos vemos el sábado.",
+            "ja": "もしかしたら土曜日に会えるかも。",
+            "noteJa": "a lo mejor + 直説法 nos vemos。接続法は使わない！"
+          },
+          {
+            "es": "Pase lo que pase, no me rindo.",
+            "ja": "何が起きようとも、諦めない。",
+            "noteJa": "接続法の反復構文。pase（pasar の接続法）が2回使われている。"
+          },
+          {
+            "es": "Habla bajo, no vaya a ser que nos escuche el jefe.",
+            "ja": "小声で話して、上司に聞かれたら大変だから。",
+            "noteJa": "no vaya a ser que + 接続法。「〜したら大変だから」という警告的な表現。"
+          },
+          {
+            "es": "Resulta que el restaurante estaba cerrado y tuvimos que ir a otro.",
+            "ja": "実はレストランが閉まってて、別の店に行かなきゃいけなかった。",
+            "noteJa": "resulta que + 直説法。意外な事実を述べる口語表現。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "No es que no me gusta, es que estoy lleno.",
+            "correct": "No es que no me guste, es que estoy lleno.",
+            "whyJa": "no es que の後は接続法。gusta は直説法なので間違い。guste が正しい。"
+          },
+          {
+            "wrong": "A lo mejor llueva mañana.",
+            "correct": "A lo mejor llueve mañana.",
+            "whyJa": "a lo mejor の後は直説法。接続法 llueva は quizás / tal vez と一緒に使う。DELE C1の頻出ひっかけ。"
+          },
+          {
+            "wrong": "Por si haga frío, llévate un abrigo.",
+            "correct": "Por si hace frío, llévate un abrigo.",
+            "whyJa": "por si の後は通常直説法。haga は接続法なので、標準スペイン語では使わない。"
+          },
+          {
+            "wrong": "Es que no quiero que sabe la verdad.",
+            "correct": "Es que no quiero que sepa la verdad.",
+            "whyJa": "es que の部分は直説法でOKだが、querer que の後は接続法。sepa が正しい。構文が入れ子になっても各部分のルールを守る。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "No es que sea antisocial, es que me gusta estar en mi casa 🏠😌",
+            "ja": "反社会的なんじゃなくて、家にいるのが好きなだけ🏠😌",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "no es que + 接続法（sea）。SNSの自己弁護あるある。"
+          },
+          {
+            "es": "—¿No has terminado el informe? —Es que tenía mil cosas que hacer...",
+            "ja": "報告書まだ終わってないの？ ─ だってやること山ほどあって…",
+            "source": "conversation",
+            "sourceLabel": "上司と部下の会話",
+            "noteJa": "es que + 直説法。職場でよく聞く言い訳パターン。mil cosas = たくさんのこと（誇張）。"
+          },
+          {
+            "es": "Voy a llevar snacks por si acaso, que luego siempre tenemos hambre 🍿",
+            "ja": "念のためお菓子持っていく、後でいつもお腹空くし🍿",
+            "source": "conversation",
+            "sourceLabel": "友達とのLINE",
+            "noteJa": "por si acaso。日常会話で「念のため」。que luego... = 「だって後で…」と理由を追加。"
+          },
+          {
+            "es": "A lo mejor me mudo a Barcelona el año que viene 🤔",
+            "ja": "もしかしたら来年バルセロナに引っ越すかも🤔",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "a lo mejor + 直説法（me mudo）。将来の不確実な計画を述べる。"
+          },
+          {
+            "es": "Digan lo que digan, esta es la mejor pizza de la ciudad 🍕👑",
+            "ja": "何と言われようと、これが市内最高のピザ👑🍕",
+            "source": "sns",
+            "sourceLabel": "レストランレビュー風",
+            "noteJa": "接続法の反復構文（digan lo que digan）。強い確信を表す。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "No es que no ___ ir, es que no puedo. (querer, yo)",
+            "options": [
+              "quiera",
+              "quisiera",
+              "quiero",
+              "querría"
+            ],
+            "answer": 0,
+            "explanationJa": "no es que の後は接続法。querer の接続法 yo 形は quiera。"
+          },
+          {
+            "prompt": "—¿Por qué no llamaste? —___ que se me olvidó.",
+            "options": [
+              "Es",
+              "No es",
+              "Sea",
+              "Fue"
+            ],
+            "answer": 0,
+            "explanationJa": "言い訳を述べる es que。「だって忘れてたんだもん」。直説法が続く。"
+          },
+          {
+            "prompt": "A lo mejor ___ a la fiesta. (venir, yo)",
+            "options": [
+              "viniera",
+              "venga",
+              "vengo",
+              "vendré"
+            ],
+            "answer": 2,
+            "explanationJa": "a lo mejor の後は直説法。vengo が正しい。接続法 venga は間違い。"
+          },
+          {
+            "prompt": "Llévate un paraguas por si ___. (llover)",
+            "options": [
+              "llueva",
+              "llueve",
+              "lloverá",
+              "lloviera"
+            ],
+            "answer": 1,
+            "explanationJa": "por si の後は通常直説法。llueve が標準。"
+          },
+          {
+            "prompt": "___ lo que ___, estaré a tu lado. (pasar, 何が起きようと)",
+            "options": [
+              "Pasará / pasará",
+              "Pasó / pasó",
+              "Pasa / pasa",
+              "Pase / pase"
+            ],
+            "answer": 3,
+            "explanationJa": "接続法の反復構文。「何が起きようとも」= Pase lo que pase。接続法を2回使う。"
+          },
+          {
+            "prompt": "「僕の知る限り、彼はまだ来ていない」の正しい表現は？",
+            "options": [
+              "Según yo sé, no ha llegado todavía.",
+              "Que yo sepa, no ha llegado todavía.",
+              "Como yo sé, no ha llegado todavía.",
+              "Que yo sé, no ha llegado todavía."
+            ],
+            "answer": 1,
+            "explanationJa": "que yo sepa は「僕の知る限り」の定型表現。sepa は接続法。直説法 sé は使わない。"
+          },
+          {
+            "prompt": "Habla bajo, no ___ a ser que nos oiga alguien. (ir)",
+            "options": [
+              "vaya",
+              "fue",
+              "irá",
+              "va"
+            ],
+            "answer": 0,
+            "explanationJa": "no vaya a ser que + 接続法。「〜したら大変だから」の警告表現。vaya は ir の接続法。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "No es que no me ___, es que estoy a dieta. (gustar)",
+            "answer": "guste",
+            "options": [
+              "gustara",
+              "guste",
+              "gustará",
+              "gusta"
+            ],
+            "explanationJa": "no es que の後は接続法。gustar の接続法は guste。「好きじゃないわけじゃなくて」。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "—¿Por qué no viniste? —___ que me quedé dormido.",
+            "answer": "Es",
+            "options": [
+              "Es",
+              "Sea",
+              "No es",
+              "Fue"
+            ],
+            "explanationJa": "es que + 直説法。言い訳を述べる口語表現。「だって寝過ごしたんだもん」。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "A lo mejor ___ mañana. (llover)",
+            "answer": "llueve",
+            "options": [
+              "llueve",
+              "llueva",
+              "lloverá",
+              "lloviera"
+            ],
+            "explanationJa": "a lo mejor の後は直説法。llueve が正しい。接続法は使わない。DELE頻出のひっかけ。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Llévate un abrigo por si ___ frío. (hacer)",
+            "answer": "hace",
+            "options": [
+              "hace",
+              "hiciera",
+              "hará",
+              "haga"
+            ],
+            "explanationJa": "por si の後は通常直説法。hace が標準。「寒いかもしれないから」。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ lo que ___, no cambiaré de opinión. (decir, ellos)",
+            "answer": "Digan / digan",
+            "options": [
+              "Dijeron / dijeron",
+              "Dicen / dicen",
+              "Dirán / dirán",
+              "Digan / digan"
+            ],
+            "explanationJa": "接続法の反復構文。「何を言おうとも」。digan は decir の接続法 ellos 形。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Que yo ___, todavía no han confirmado. (saber)",
+            "answer": "sepa",
+            "options": [
+              "sabía",
+              "sé",
+              "supiera",
+              "sepa"
+            ],
+            "explanationJa": "que yo sepa = 僕の知る限り。定型表現で接続法 sepa を使う。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Habla bajo, no ___ a ser que nos escuche el jefe. (ir)",
+            "answer": "vaya",
+            "options": [
+              "va",
+              "vaya",
+              "irá",
+              "fue"
+            ],
+            "explanationJa": "no vaya a ser que + 接続法。「上司に聞かれたら大変だから」。vaya は ir の接続法。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ que el restaurante estaba cerrado. (resultar)",
+            "answer": "Resulta",
+            "options": [
+              "Resultará",
+              "Resultó",
+              "Resulta",
+              "Resulte"
+            ],
+            "explanationJa": "resulta que = 実は〜なんだ。意外な事実を述べる口語表現。直説法が続く。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "No es que ___ tonto, es que no presta atención. (ser, él)",
+            "answer": "sea",
+            "options": [
+              "será",
+              "fuera",
+              "sea",
+              "es"
+            ],
+            "explanationJa": "no es que + 接続法。ser の接続法は sea。「バカなんじゃなくて」。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___, que al final no fuimos a la playa. (結局)",
+            "answer": "Total",
+            "options": [
+              "Final",
+              "En fin",
+              "Total",
+              "Resultado"
+            ],
+            "explanationJa": "total, que... = 結局〜。口語的なまとめ表現。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "No es que no me gusta, es que no tengo hambre.",
+            "answer": "No es que no me guste, es que no tengo hambre.",
+            "explanationJa": "no es que の後は接続法。gusta（直説法）→ guste（接続法）に修正。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "A lo mejor llueva mañana.",
+            "answer": "A lo mejor llueve mañana.",
+            "explanationJa": "a lo mejor + 直説法。接続法 llueva は間違い。quizás / tal vez なら接続法。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Por si haga frío, llévate un abrigo.",
+            "answer": "Por si hace frío, llévate un abrigo.",
+            "explanationJa": "por si の後は通常直説法。haga（接続法）→ hace（直説法）に修正。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Que yo sé, no ha llegado todavía.",
+            "answer": "Que yo sepa, no ha llegado todavía.",
+            "explanationJa": "que yo sepa は定型表現で接続法。sé（直説法）→ sepa（接続法）に修正。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Pasa lo que pasa, estaré contigo.",
+            "answer": "Pase lo que pase, estaré contigo.",
+            "explanationJa": "接続法の反復構文。pasa（直説法）→ pase（接続法）に修正。「何が起きようとも」。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "no es que + 接続法 / es que + 直説法 の目的は？",
+            "options": [
+              "命令する",
+              "質問する",
+              "否定を柔らかく表現し、本当の理由を述べる",
+              "過去を述べる"
+            ],
+            "answer": 2,
+            "explanationJa": "no es que は「〜じゃなくて」と否定を和らげ、es que で本当の理由を述べるパターン。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "a lo mejor と quizás の文法的な違いは？",
+            "options": [
+              "a lo mejor は過去、quizás は未来",
+              "a lo mejor は直説法、quizás は接続法",
+              "意味も文法も同じ",
+              "a lo mejor はフォーマル、quizás はカジュアル"
+            ],
+            "answer": 1,
+            "explanationJa": "a lo mejor + 直説法、quizás/tal vez + 接続法（直説法も可）。これがDELE C1の頻出ポイント。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "es que の主な用途は？",
+            "options": [
+              "命令する",
+              "理由や言い訳を述べる",
+              "質問する",
+              "提案する"
+            ],
+            "answer": 1,
+            "explanationJa": "es que は「だって〜なんだもん」と理由・言い訳を述べる口語表現。スペイン人が非常によく使う。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "no vaya a ser que の後に続くのは？",
+            "options": [
+              "不定詞",
+              "接続法",
+              "直説法",
+              "未来形"
+            ],
+            "answer": 1,
+            "explanationJa": "no vaya a ser que + 接続法。「〜したら大変だから」の警告的表現。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "resulta que の意味は？",
+            "options": [
+              "実は〜なんだ（意外な事実）",
+              "〜が結果だ",
+              "結果として",
+              "〜に結果する"
+            ],
+            "answer": 0,
+            "explanationJa": "resulta que + 直説法。意外な事実を述べる口語表現。「実は〜だったんだ」。"
+          },
+          {
+            "type": "translation",
+            "prompt": "怠けてるわけじゃなくて、疲れてるんだ。（no es que を使って）",
+            "answer": "No es que sea perezoso, es que estoy cansado.",
+            "acceptableAnswers": [
+              "No es que sea vago, es que estoy cansado."
+            ],
+            "explanationJa": "no es que + 接続法（sea）で否定を和らげ、es que で本当の理由。"
+          },
+          {
+            "type": "translation",
+            "prompt": "念のため傘を持っていきなさい。（por si acaso を使って）",
+            "answer": "Llévate un paraguas, por si acaso.",
+            "acceptableAnswers": [
+              "Lleva un paraguas, por si acaso.",
+              "Coge un paraguas, por si acaso."
+            ],
+            "explanationJa": "por si acaso を副詞的に使用。「万が一のために」。"
+          },
+          {
+            "type": "translation",
+            "prompt": "何が起きようとも、諦めない。（接続法の反復構文を使って）",
+            "answer": "Pase lo que pase, no me rindo.",
+            "acceptableAnswers": [
+              "Pase lo que pase, no voy a rendirme.",
+              "Pase lo que pase, no me rendiré."
+            ],
+            "explanationJa": "pase lo que pase = 接続法の反復構文。「何が起きようとも」。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "Quizás venga Juan mañana.（a lo mejor を使って書き換えなさい）",
+            "answer": "A lo mejor viene Juan mañana.",
+            "explanationJa": "quizás + 接続法 → a lo mejor + 直説法。意味は同じだが法が変わる。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "No me gusta esta comida, pero no quiero ser grosero.（no es que を使って書き換えなさい）",
+            "answer": "No es que me guste esta comida, pero no quiero ser grosero.",
+            "explanationJa": "no es que + 接続法（guste）で「この料理が好きってわけじゃないけど」と婉曲に表現。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "no es que + 接続法 / es que + 直説法：「〜じゃなくて、〜なんだ」",
+      "es que + 直説法：言い訳・理由を述べる口語表現",
+      "por si (acaso) + 直説法：「念のため」「〜の場合に備えて」",
+      "a lo mejor + 直説法：「もしかしたら」。接続法は使わない（DELE頻出のひっかけ）",
+      "接続法の反復構文（diga lo que diga, pase lo que pase）：「何を〜しようとも」",
+      "que yo sepa, resulta que, total que など口語的な文法慣用表現はC1必須"
+    ]
+  }
+}

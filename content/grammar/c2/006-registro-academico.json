@@ -1,0 +1,480 @@
+{
+  "id": "c2-grammar-006",
+  "slug": "registro-academico",
+  "titleJa": "学術レジスター — 論文・レポートで使うスペイン語の文法と表現",
+  "titleEs": "Registro académico: convenciones gramaticales para la escritura universitaria",
+  "level": "c2",
+  "sortOrder": 6,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "学術スペイン語とは？日常語との決定的な違い",
+        "bodyJa": "学術スペイン語（español académico）は、大学の論文・レポート・学会発表・学術雑誌で使われるレジスターです。\n\nC2レベルでは、この学術レジスターで「読む」だけでなく「書く」ことが求められます。\n\n日常スペイン語との主な違い：\n\n1. 主観性の排除：yo creo que → se considera que / cabe señalar que\n2. 非人称構文の多用：se + 動詞、受動態\n3. hedging（断定の緩和）：parece que, podría decirse que\n4. 名詞化：説明する → la explicación de\n5. 複雑な従属節構造\n6. 接続詞・談話標識の豊富な使用\n\n日本語話者にとって意外かもしれませんが、学術スペイン語では英語ほど受動態を使いません。\nその代わりに se 構文が圧倒的に好まれます。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "非人称 se の完全マスター",
+        "bodyJa": "学術スペイン語で最も重要な構文は se + 動詞（非人称の se）です。\n\n3つの se を区別しましょう：\n\n1. se impersonal（非人称の se）：行為者不特定\nSe dice que el español es fácil.（スペイン語は簡単だと言われている）\nEn este estudio se analiza la relación entre...（本研究では〜の関係を分析する）\n\n2. se pasiva refleja（受身的 se）：主語は物\nSe publicaron tres artículos.（3本の論文が出版された）\n→ artículos が主語なので動詞は複数形。\n\n3. se de involuntariedad（意図せずの se）：意図しない出来事\nSe me olvidó el nombre.（名前を忘れてしまった）\n→ 学術文ではあまり使わない。\n\n学術文で最頻出は 1 と 2 です。\n\n注意：se + 動詞 + 複数名詞の場合\nSe analizaron los datos.（データが分析された）→ se pasiva refleja、正式\nSe analizó los datos.（データを分析した）→ se impersonal、やや口語的\n\n学術文では複数一致（se analizaron）が好まれます。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "hedging（断定の緩和）：学術論文の必須技術",
+        "bodyJa": "学術文では断定を避け、慎重な表現をすることが求められます。\nこれを英語では hedging と呼びます。\n\nスペイン語の hedging 表現：\n\n【動詞による緩和】\nparece que...（〜のようである）\ncabe señalar que...（〜と指摘できる）\npodría decirse que...（〜と言えるかもしれない）\nse podría argumentar que...（〜と論じることも可能だろう）\nlos datos sugieren que...（データは〜を示唆している）\n\n【副詞・形容詞による緩和】\naparentemente...（見たところ）\npresumiblemente...（おそらく）\nen cierta medida...（ある程度）\nrelativamente...（比較的）\n\n【条件法による緩和】\nEsto explicaría la discrepancia.（これが矛盾を説明するだろう）\nSería necesario considerar...（〜を考慮する必要があるだろう）\nCabría preguntarse si...（〜かどうかを問うべきかもしれない）\n\n日本語話者の強み：日本語の学術文も「〜と考えられる」「〜の可能性がある」など hedging が多いので、概念的には理解しやすいです。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "名詞化（nominalización）：学術的に「重く」する",
+        "bodyJa": "学術文では動詞をそのまま使うよりも、名詞化した表現が好まれます。\n\n【動詞 → 名詞への変換】\nanalizar → el análisis（分析する → 分析）\nexplicar → la explicación（説明する → 説明）\ninvestigar → la investigación（研究する → 研究）\ndesarrollar → el desarrollo（発展させる → 発展）\nconcluir → la conclusión（結論づける → 結論）\n\n【文での比較】\n日常的：Analizamos los datos y encontramos que...\n学術的：El análisis de los datos reveló que...\n\n日常的：Porque los jóvenes usan mucho las redes sociales...\n学術的：Debido al elevado uso de las redes sociales por parte de los jóvenes...\n\n名詞化のメリット：\n1. 客観的な印象（行為者を消せる）\n2. 情報の圧縮（短い表現で多くを伝える）\n3. 学術的な格式\n\n注意：名詞化しすぎると読みにくくなる。バランスが大切です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "学術的な接続詞・談話標識",
+        "bodyJa": "論文の論理展開に不可欠な接続詞を、機能別に整理します。\n\n【追加・列挙】\nasimismo（同様に）\ndel mismo modo（同じように）\npor otra parte（他方）\ncabe añadir que（付け加えるべきは）\n\n【対比・譲歩】\nno obstante（それにもかかわらず）\nsin embargo（しかしながら）\na pesar de que（〜にもかかわらず）\nsi bien（〜とはいえ）\n\n【因果関係】\npor consiguiente（したがって）\nde ahí que + 接続法（そこから〜である）\nen virtud de（〜のおかげで）\ndado que（〜であることを考えると）\n\n【結論】\nen definitiva（結局のところ）\na modo de conclusión（結論として）\nen síntesis（要約すると）\ntodo lo anterior permite afirmar que（以上のことから〜と断言できる）\n\n注意：de ahí que の後は接続法です。\nDe ahí que sea necesario replantear el modelo.（それゆえモデルを再検討する必要がある）"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "受動態 vs se構文：どちらを使うべきか？",
+        "bodyJa": "英語の影響で受動態（ser + participio）を多用する学生がいますが、学術スペイン語では se 構文の方が自然です。\n\n【受動態（ser + participio）が適切な場面】\n行為者を明示したいとき：\nEste fenómeno fue descrito por Saussure en 1916.（この現象は1916年にソシュールによって記述された）\n\n【se構文が適切な場面（大半のケース）】\n行為者を隠したいとき：\nSe describió este fenómeno en 1916.（この現象は1916年に記述された）\n\n一般的な慣習：\nSe recomienda utilizar fuentes primarias.（一次資料の使用が推奨される）\n\n【estar + participio は結果の状態】\nEste tema ha sido ampliamente estudiado. → 完了の受動\nEste tema está ampliamente estudiado. → 現在の状態\n\nスペイン語の学術文で受動態を使うのは、行為者（por + 名詞）を明示するときだけ、と覚えておきましょう。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Se ha observado una correlación significativa entre el nivel socioeconómico y el rendimiento académico.",
+            "ja": "社会経済的レベルと学業成績の間に有意な相関が観察された。",
+            "noteJa": "se pasiva refleja + 現在完了。学術論文の典型的な結果報告文。correlación significativa は統計用語。"
+          },
+          {
+            "es": "Cabría preguntarse si los resultados obtenidos son generalizables a otros contextos culturales.",
+            "ja": "得られた結果が他の文化的文脈に一般化可能かどうかを問うべきかもしれない。",
+            "noteJa": "条件法（cabría）による hedging + se 不定詞。疑問の提起を丁寧かつ慎重に行う学術的表現。"
+          },
+          {
+            "es": "De ahí que sea imprescindible replantear las políticas educativas vigentes.",
+            "ja": "それゆえ、現行の教育政策を再検討することが不可欠である。",
+            "noteJa": "de ahí que + 接続法（sea）。因果関係を示す学術的接続詞。imprescindible は必須の意。"
+          },
+          {
+            "es": "El análisis pormenorizado de los datos permite concluir que la hipótesis inicial queda parcialmente confirmada.",
+            "ja": "データの詳細な分析により、初期仮説が部分的に確認されたと結論づけることができる。",
+            "noteJa": "名詞化（el análisis）+ hedging（parcialmente）+ 非人称表現（permite concluir）。学術文の模範的な結論文。"
+          },
+          {
+            "es": "Si bien los estudios previos han arrojado resultados prometedores, aún quedan interrogantes por resolver.",
+            "ja": "先行研究が有望な結果を示してきたとはいえ、解決すべき疑問がまだ残っている。",
+            "noteJa": "si bien（〜とはいえ）による譲歩 + 現在完了（han arrojado）。先行研究への言及と限界の指摘。"
+          },
+          {
+            "es": "Los datos recopilados sugieren, aunque de manera tentativa, que existe una relación causal entre ambas variables.",
+            "ja": "収集されたデータは、暫定的ではあるが、両変数間に因果関係が存在することを示唆している。",
+            "noteJa": "hedging の三重使用：sugieren（示唆する）+ aunque de manera tentativa（暫定的ではあるが）。断定を避ける学術的姿勢の好例。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Yo creo que los resultados demuestran que...",
+            "correct": "Los resultados parecen demostrar que... / Se podría argumentar que los resultados...",
+            "whyJa": "学術文で yo creo は主観的すぎる。非人称表現やhedging を使って客観性を保ちましょう。"
+          },
+          {
+            "wrong": "Los datos fueron analizados. (行為者なしの受動態)",
+            "correct": "Se analizaron los datos. / Los datos fueron analizados por el equipo investigador.",
+            "whyJa": "行為者を明示しない場合は se 構文が自然。受動態（ser + participio）は por + 行為者がある場合に限定するのがスペイン語の学術的慣習。"
+          },
+          {
+            "wrong": "De ahí que es necesario cambiar el enfoque.",
+            "correct": "De ahí que sea necesario cambiar el enfoque.",
+            "whyJa": "de ahí que の後は必ず接続法。es（直説法）→ sea（接続法）。学術文で頻出する間違い。"
+          },
+          {
+            "wrong": "En conclusión, hemos demostrado que nuestra teoría es correcta.",
+            "correct": "A modo de conclusión, los datos analizados parecen confirmar la validez de la hipótesis propuesta.",
+            "whyJa": "断定（hemos demostrado, es correcta）は学術文では避ける。hedging（parecen confirmar, validez）を使い、「仮説」として表現する。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "学術論文・レポートの実例",
+        "items": [
+          {
+            "es": "El presente trabajo tiene como objetivo analizar el impacto de la digitalización en los procesos de enseñanza-aprendizaje en el ámbito universitario.",
+            "ja": "本稿は、大学における教授・学習プロセスに対するデジタル化の影響を分析することを目的とする。",
+            "source": "academic",
+            "sourceLabel": "論文の序論",
+            "noteJa": "典型的な論文冒頭文。el presente trabajo（本稿）+ tiene como objetivo + 不定詞の構文。"
+          },
+          {
+            "es": "Asimismo, cabe destacar que las limitaciones metodológicas del estudio impiden la generalización de los resultados.",
+            "ja": "同様に、本研究の方法論的限界が結果の一般化を妨げていることを強調すべきである。",
+            "source": "academic",
+            "sourceLabel": "論文の限界セクション",
+            "noteJa": "asimismo（同様に）+ cabe destacar que（強調すべきは）。論文の限界を述べる定型表現。"
+          },
+          {
+            "es": "No obstante, sería prematuro extraer conclusiones definitivas sin un análisis más exhaustivo.",
+            "ja": "それにもかかわらず、より包括的な分析なしに最終的な結論を出すのは時期尚早であろう。",
+            "source": "academic",
+            "sourceLabel": "学術的考察",
+            "noteJa": "no obstante（しかしながら）+ 条件法（sería）による hedging。慎重な学術的態度の模範。"
+          },
+          {
+            "es": "En virtud de los hallazgos expuestos, se propone una revisión del marco teórico vigente.",
+            "ja": "提示された知見に基づき、現行の理論的枠組みの見直しを提案する。",
+            "source": "academic",
+            "sourceLabel": "論文の結論",
+            "noteJa": "en virtud de（〜に基づき）+ se propone（非人称）+ 名詞化（revisión, marco teórico）。格式の高い学術表現。"
+          },
+          {
+            "es": "Dado que la muestra es relativamente reducida, los resultados deben interpretarse con cautela.",
+            "ja": "サンプルが比較的少数であることから、結果は慎重に解釈されるべきである。",
+            "source": "academic",
+            "sourceLabel": "方法論の注意書き",
+            "noteJa": "dado que（〜であることから）+ hedging（relativamente, con cautela）。限界の正直な認識。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "学術スペイン語で行為者を明示しない場合、最も適切な構文は？",
+            "options": [
+              "estar + gerundio（進行形）",
+              "ser + participio（受動態）",
+              "yo + 直説法（能動態）",
+              "se + 動詞（se構文）"
+            ],
+            "answer": 3,
+            "explanationJa": "スペイン語の学術文では行為者を明示しない場合、se構文が最も自然。受動態は por + 行為者がある場合に限定。"
+          },
+          {
+            "prompt": "De ahí que ___ necesario investigar más. (ser)",
+            "options": [
+              "es",
+              "sería",
+              "sea",
+              "será"
+            ],
+            "answer": 2,
+            "explanationJa": "de ahí que の後は必ず接続法。sea が正解。es（直説法）は文法的に不可。"
+          },
+          {
+            "prompt": "「断定を避ける」hedging 表現として最も適切なのは？",
+            "options": [
+              "Los datos sugieren que...",
+              "Es evidente que...",
+              "Sin duda alguna...",
+              "Está claro que..."
+            ],
+            "answer": 0,
+            "explanationJa": "sugieren（示唆する）は hedging の典型。他の3つは断定表現であり、学術文では慎重さに欠ける。"
+          },
+          {
+            "prompt": "名詞化（nominalización）の例として正しいのは？",
+            "options": [
+              "explicar → la explicación",
+              "rápido → rápidamente",
+              "grande → más grande",
+              "hablar → hablando"
+            ],
+            "answer": 0,
+            "explanationJa": "名詞化は動詞を名詞に変換すること。explicar（動詞）→ la explicación（名詞）。他は比較級、副詞化、動名詞であり名詞化ではない。"
+          },
+          {
+            "prompt": "Se ___ los datos mediante un análisis estadístico. (analizar)",
+            "options": [
+              "analizando",
+              "analiza",
+              "analizaron",
+              "analizó"
+            ],
+            "answer": 2,
+            "explanationJa": "se pasiva refleja：los datos が主語なので動詞は複数一致。se analizaron los datos が学術文で最も正式な形。"
+          },
+          {
+            "prompt": "学術論文で「yo creo que」の代わりに使うべき表現は？",
+            "options": [
+              "En mi opinión personal...",
+              "Para mí...",
+              "Yo pienso que...",
+              "Se podría argumentar que..."
+            ],
+            "answer": 3,
+            "explanationJa": "学術文では主観的な1人称表現を避け、非人称 + hedging（se podría argumentar que）を使います。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "En el presente estudio se ___ la relación entre ambas variables. (analizar)",
+            "answer": "analiza",
+            "options": [
+              "analizó",
+              "analiza",
+              "analizan",
+              "analizará"
+            ],
+            "explanationJa": "se impersonal + 動詞単数形。学術論文の典型的な文型「本研究では〜を分析する」。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "De ahí que ___ imprescindible replantear el marco teórico. (ser)",
+            "answer": "sea",
+            "options": [
+              "sería",
+              "será",
+              "es",
+              "sea"
+            ],
+            "explanationJa": "de ahí que の後は必ず接続法。sea が正しい。es（直説法）は文法的に不可。学術文の因果関係表現。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Los datos ___ que existe una correlación significativa. (sugerir)",
+            "answer": "sugieren",
+            "options": [
+              "sugieren",
+              "confirman",
+              "demuestran",
+              "prueban"
+            ],
+            "explanationJa": "hedging（断定の緩和）。sugieren（示唆する）は demuestran（証明する）より慎重で学術的に適切。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ preguntarse si los resultados son generalizables. (caber - 条件法)",
+            "answer": "Cabría",
+            "options": [
+              "Cabrá",
+              "Cabría",
+              "Cabe",
+              "Cabió"
+            ],
+            "explanationJa": "条件法（cabría）による hedging。「〜を問うべきかもしれない」と慎重に疑問を提起する学術的表現。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Se ___ los datos mediante un análisis factorial. (recopilar)",
+            "answer": "recopilaron",
+            "options": [
+              "recopila",
+              "recopilan",
+              "recopilaron",
+              "recopiló"
+            ],
+            "explanationJa": "se pasiva refleja：los datos が主語なので動詞は複数一致。se recopilaron los datos が学術文の正式形。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ señalar que las limitaciones del estudio son considerables. (caber)",
+            "answer": "Cabe",
+            "options": [
+              "Cabría",
+              "Es",
+              "Hay que",
+              "Cabe"
+            ],
+            "explanationJa": "cabe señalar que（指摘すべきは）は学術文の定型表現。caber + 不定詞で「〜する余地がある / 〜すべき」。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "El ___ de los datos reveló patrones inesperados. (analizar → 名詞化)",
+            "answer": "análisis",
+            "options": [
+              "análisis",
+              "analizado",
+              "analizando",
+              "analizar"
+            ],
+            "explanationJa": "名詞化（nominalización）。動詞 analizar → 名詞 análisis。学術文では動詞より名詞化した表現が好まれる。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ bien los resultados son prometedores, aún quedan interrogantes. (接続詞：〜とはいえ)",
+            "answer": "Si",
+            "options": [
+              "Si",
+              "Porque",
+              "Aunque",
+              "Como"
+            ],
+            "explanationJa": "si bien（〜とはいえ）は学術的な譲歩接続詞。aunque も可能だが、si bien の方が学術的格式が高い。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Este fenómeno fue descrito ___ Chomsky en 1965. (行為者を示す前置詞)",
+            "answer": "por",
+            "options": [
+              "por",
+              "de",
+              "con",
+              "para"
+            ],
+            "explanationJa": "受動態（ser + participio）で行為者を明示する場合は por + 名詞。行為者を示すときのみ受動態が適切。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ lo anterior permite afirmar que la hipótesis queda confirmada. (接続詞：以上のことから)",
+            "answer": "Todo",
+            "options": [
+              "Con",
+              "Todo",
+              "Por",
+              "De"
+            ],
+            "explanationJa": "todo lo anterior permite afirmar que（以上のことから〜と断言できる）は学術論文の結論セクションの定型表現。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Yo creo que los resultados demuestran claramente nuestra teoría.",
+            "answer": "Los resultados parecen confirmar la hipótesis propuesta. / Se podría argumentar que los resultados apoyan la hipótesis.",
+            "explanationJa": "学術文の3つの問題：1) yo creo は主観的すぎる、2) demuestran は断定的すぎる、3) nuestra teoría は「仮説」として表現すべき。hedging + 非人称が必要。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Los datos fueron analizados y se encontraron diferencias significativas.",
+            "answer": "Se analizaron los datos y se encontraron diferencias significativas.",
+            "explanationJa": "行為者を明示しない受動態（fueron analizados）はスペイン語学術文では不自然。se構文（se analizaron）が好まれる。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "De ahí que es necesario realizar más investigaciones.",
+            "answer": "De ahí que sea necesario realizar más investigaciones.",
+            "explanationJa": "de ahí que の後は必ず接続法。es（直説法）→ sea（接続法）。学術文で頻出する文法ミス。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "En conclusión, hemos demostrado que nuestra teoría es correcta sin lugar a dudas.",
+            "answer": "A modo de conclusión, los datos analizados parecen confirmar la validez de la hipótesis propuesta.",
+            "explanationJa": "hemos demostrado（断定）、es correcta（断言）、sin lugar a dudas（疑いなく）はすべて hedging 不足。学術文では慎重な表現が必須。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Porque muchos jóvenes usan las redes sociales, el fenómeno crece.",
+            "answer": "Debido al elevado uso de las redes sociales por parte de los jóvenes, el fenómeno se intensifica.",
+            "explanationJa": "口語的な porque → 学術的な debido a + 名詞化。動詞 usan → 名詞 uso。学術レジスターへの変換。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "学術スペイン語で行為者を明示しない場合、最も適切な構文はどれか？",
+            "options": [
+              "yo + 能動態",
+              "estar + gerundio",
+              "ser + participio（受動態）",
+              "se + 動詞（se構文）"
+            ],
+            "answer": 3,
+            "explanationJa": "スペイン語学術文では受動態より se 構文が圧倒的に好まれる。受動態は por + 行為者がある場合に限定。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次のうち、hedging 表現として最も適切なのはどれか？",
+            "options": [
+              "Es evidente que hay una relación directa entre...",
+              "Los datos sugieren que podría existir una relación entre...",
+              "Claramente, la relación entre...es indiscutible.",
+              "Los datos demuestran sin duda que existe una relación entre..."
+            ],
+            "answer": 1,
+            "explanationJa": "sugieren（示唆）+ podría existir（条件法 + 可能性）の二重 hedging が学術的に最適。他は断定的すぎる。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "名詞化（nominalización）の学術的メリットとして正しくないのは？",
+            "options": [
+              "客観的な印象を与えること",
+              "文章が長くなり読みにくくなること",
+              "行為者を消して非人称にできること",
+              "情報を圧縮できること"
+            ],
+            "answer": 1,
+            "explanationJa": "名詞化のメリットは客観性・情報圧縮・非人称化。「読みにくくなる」はデメリットであり、過度な名詞化は実際に避けるべき。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Se publicaron tres artículos」の se はどの種類か？",
+            "options": [
+              "se reflexivo（再帰se）：自分自身に",
+              "se pasiva refleja（受身的se）：artículos が主語で動詞が複数一致",
+              "se impersonal（非人称se）：行為者不特定",
+              "se recíproco（相互se）：お互いに"
+            ],
+            "answer": 1,
+            "explanationJa": "tres artículos が主語（動詞 publicaron が複数一致）なので se pasiva refleja。se impersonal なら se publicó tres artículos（単数）になる。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "学術論文の冒頭で「El presente trabajo tiene como objetivo...」が使われる理由は？",
+            "options": [
+              "短くて簡潔だから",
+              "最新の学術トレンドだから",
+              "口語的で読者に親しみやすいから",
+              "非人称で客観的、かつ論文の目的を明確に提示する定型表現だから"
+            ],
+            "answer": 3,
+            "explanationJa": "el presente trabajo（本稿）は著者の1人称を避ける非人称表現。tiene como objetivo + 不定詞で目的を明示する論文冒頭の定型パターン。"
+          },
+          {
+            "type": "translation",
+            "prompt": "本研究は、デジタル技術が教育に与える影響を分析することを目的とする。",
+            "answer": "El presente estudio tiene como objetivo analizar el impacto de las tecnologías digitales en la educación.",
+            "acceptableAnswers": [
+              "El presente trabajo tiene como finalidad analizar el impacto de la tecnología digital en el ámbito educativo.",
+              "Este estudio se propone analizar el impacto de las tecnologías digitales en la educación."
+            ],
+            "explanationJa": "論文冒頭の定型パターン。el presente estudio + tiene como objetivo + 不定詞。名詞化（el impacto）で学術的な格式。"
+          },
+          {
+            "type": "translation",
+            "prompt": "得られた結果は、暫定的ではあるが、両変数間に相関関係があることを示唆している。",
+            "answer": "Los resultados obtenidos sugieren, aunque de manera tentativa, que existe una correlación entre ambas variables.",
+            "acceptableAnswers": [
+              "De manera tentativa, los resultados obtenidos sugieren la existencia de una correlación entre ambas variables."
+            ],
+            "explanationJa": "hedging の多重使用：sugieren（示唆）+ aunque de manera tentativa（暫定的ではあるが）。学術的慎重さの模範。"
+          },
+          {
+            "type": "translation",
+            "prompt": "それゆえ、現行の方法論を再検討する必要があると考えられる。",
+            "answer": "De ahí que sea necesario replantear la metodología vigente.",
+            "acceptableAnswers": [
+              "Por consiguiente, cabría replantear la metodología vigente.",
+              "De ahí que resulte necesario revisar la metodología actual."
+            ],
+            "explanationJa": "de ahí que + 接続法（sea）で因果関係。名詞化と hedging を含む学術的結論表現。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の口語的な文を学術レジスターに変換せよ：\nYo creo que la gente usa mucho el móvil porque tiene miedo de estar sola.",
+            "answer": "Se podría argumentar que el elevado uso de los dispositivos móviles se debe, en cierta medida, al temor al aislamiento social.",
+            "explanationJa": "yo creo → se podría argumentar（非人称+hedging）、la gente usa mucho → el elevado uso（名詞化）、tiene miedo → al temor（名詞化）、estar sola → aislamiento social（学術用語化）。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の受動態を se 構文に変換せよ：\nLos cuestionarios fueron distribuidos entre los participantes y las respuestas fueron recogidas en un plazo de dos semanas.",
+            "answer": "Se distribuyeron los cuestionarios entre los participantes y se recogieron las respuestas en un plazo de dos semanas.",
+            "explanationJa": "fueron distribuidos → se distribuyeron、fueron recogidas → se recogieron。行為者なしの受動態は se 構文に変換するのがスペイン語学術文の慣習。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "学術スペイン語では se 構文が受動態（ser + participio）より圧倒的に好まれる。受動態は行為者（por + 名詞）を明示するときに限定",
+      "hedging（断定の緩和）は学術文の必須技術。sugieren, parecen, podría decirse que 等を使い分ける",
+      "名詞化（nominalización）は学術文を客観的・簡潔にする。analizar → el análisis のように動詞を名詞に変換",
+      "de ahí que の後は接続法。学術文で頻出する因果関係の接続詞",
+      "日本語話者の強み：日本語の学術文も hedging が多いので概念的には理解しやすい。ただしスペイン語特有の se 構文には慣れが必要",
+      "yo creo / yo pienso は学術文では使わない。非人称構文で客観性を担保する"
+    ]
+  }
+}

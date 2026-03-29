@@ -1,0 +1,670 @@
+{
+  "id": "b1-003",
+  "slug": "condicional-si-clauses",
+  "titleJa": "条件法と仮定文（Si clauses）",
+  "titleEs": "Condicional y oraciones con si",
+  "level": "b1",
+  "sortOrder": 3,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "「もし〜なら」をスペイン語で言う3つのパターン",
+        "bodyJa": "日本語の「もし〜なら」は、スペイン語では si（もし）を使って表しますが、「どのくらい現実的か」によって3つのタイプに分かれます。\n\nタイプ1：現実的な条件（ありえる話）\nSi + 現在形, 未来形/現在形\n\nタイプ2：非現実の条件（今の事実に反する仮定）\nSi + 接続法過去形, 条件法\n\nタイプ3：過去の非現実（もうやり直せない仮定）\nSi + 接続法過去完了形, 条件法過去完了\n\n日本語で言えば：\nタイプ1 ≒「〜たら、〜する」\nタイプ2 ≒「〜だったら、〜するのに」\nタイプ3 ≒「〜だったら、〜したのに」\n\nB1ではタイプ1とタイプ2を中心に学びます。タイプ3はB2で深く扱います。",
+        "bodyEs": "Las oraciones con 'si' tienen tres tipos: Tipo 1 (real/posible), Tipo 2 (irreal presente), Tipo 3 (irreal pasado). Se diferencian por el grado de realidad de la condición."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "タイプ1：現実的な条件 — Si + 現在形, 未来形",
+        "bodyJa": "「十分ありえる」条件を表します。日本語の「〜したら」「〜すれば」に近いです。\n\n構造：Si + 直説法現在形, 直説法未来形（または現在形）\n\n例文：\n・Si llueve mañana, no iré a la playa.（明日雨が降ったら、ビーチに行かない）\n・Si tienes tiempo, ven a mi casa.（時間があったら、うちに来て）\n・Si estudias mucho, aprobarás el examen.（たくさん勉強すれば、試験に受かるよ）\n\n重要ルール：si の後に未来形は使えません！\n× Si lloverá mañana...（間違い）\n○ Si llueve mañana...（正しい）\n\nこれは日本語話者もよく間違えるポイントです。si の後は現在形、結果節が未来形と覚えましょう。",
+        "bodyEs": "Tipo 1: Si + presente de indicativo, futuro/presente. Expresa condiciones reales y posibles. Regla: NUNCA se usa futuro después de 'si'."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "条件法（Condicional）の作り方",
+        "bodyJa": "タイプ2の仮定文に必要な「条件法」の活用を覚えましょう。\n\n条件法は「〜するだろう」「〜するのに」という意味です。英語の would に相当します。\n\n作り方：動詞の原形にそのまま語尾をつける\n語尾：-ía, -ías, -ía, -íamos, -íais, -ían（線過去の -er/-ir と同じ！）\n\n・hablar → hablaría, hablarías, hablaría, hablaríamos, hablaríais, hablarían\n・comer → comería, comerías, comería, comeríamos, comeríais, comerían\n・vivir → viviría, vivirías, viviría, viviríamos, viviríais, vivirían\n\n不規則動詞（語幹が変わるもの）：\n・tener → tendría（tenería ではない）\n・poder → podría\n・salir → saldría\n・hacer → haría\n・decir → diría\n・querer → querría\n・saber → sabría\n・haber → habría\n・venir → vendría\n・poner → pondría\n\n覚え方：未来形と同じ語幹変化 + 線過去の語尾。未来形を知っていれば簡単です。",
+        "bodyEs": "El condicional se forma: infinitivo + -ía, -ías, -ía, -íamos, -íais, -ían. Los verbos irregulares tienen la misma raíz que el futuro: tener→tendría, poder→podría, hacer→haría, etc."
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "hablar（話す）",
+        "tense": "Condicional Simple",
+        "forms": {
+          "yo": "hablaría",
+          "tú": "hablarías",
+          "él/ella/usted": "hablaría",
+          "nosotros/as": "hablaríamos",
+          "vosotros/as": "hablaríais",
+          "ellos/ellas/ustedes": "hablarían"
+        },
+        "latamNote": "条件法は-ar, -er, -ir すべて同じ語尾（-ía系）です。",
+        "spainNote": null
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "tener（持つ）",
+        "tense": "Condicional Simple（不規則）",
+        "forms": {
+          "yo": "tendría",
+          "tú": "tendrías",
+          "él/ella/usted": "tendría",
+          "nosotros/as": "tendríamos",
+          "vosotros/as": "tendríais",
+          "ellos/ellas/ustedes": "tendrían"
+        },
+        "latamNote": "語幹が tendr- に変化。未来形（tendré）と同じ語幹です。",
+        "spainNote": null
+      },
+      {
+        "type": "explanation",
+        "headingJa": "タイプ2：非現実の条件 — Si + 接続法過去形, 条件法",
+        "bodyJa": "「今の事実に反する仮定」を表します。日本語の「〜だったら…するのに」に近いです。\n\n構造：Si + 接続法過去形（Imperfecto de Subjuntivo）, 条件法\n\n接続法過去形の作り方（-ra 形）：\n点過去の ellos 形から -ron を取って、-ra, -ras, -ra, -ramos, -rais, -ran をつける\n\n例：hablar → hablaron → habla- → hablara, hablaras, hablara...\n例：tener → tuvieron → tuvie- → tuviera, tuvieras, tuviera...\n例：ser → fueron → fue- → fuera, fueras, fuera...\n\n例文：\n・Si tuviera dinero, viajaría por el mundo.（お金があったら、世界を旅するのに）\n→ 実際はお金がない\n・Si hablara español perfectamente, trabajaría en España.（スペイン語が完璧なら、スペインで働くのに）\n→ 実際はまだ完璧ではない\n・Si fuera tú, no haría eso.（もし私が君なら、そうはしない）\n→ 実際は君ではない\n\n「Si fuera tú...」は日常会話で非常によく使うフレーズです。「もし私だったら」とアドバイスするときに最適。",
+        "bodyEs": "Tipo 2: Si + imperfecto de subjuntivo (-ra), condicional. Para situaciones contrarias a la realidad presente. 'Si fuera tú' = 'Si yo fuera tú' es muy común."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "タイプ3：過去の非現実（参考）",
+        "bodyJa": "「過去にやり直せない後悔」を表します。B2で詳しく学びますが、形だけ紹介します。\n\n構造：Si + 接続法過去完了形, 条件法過去完了\nSi + hubiera + 過去分詞, habría + 過去分詞\n\n例：Si hubiera estudiado más, habría aprobado el examen.\n（もっと勉強していたら、試験に受かっていたのに）\n\n日本語の「〜していたら、〜だったのに」に相当します。\n\nB1の段階ではタイプ1とタイプ2を完璧にすることが優先です。",
+        "bodyEs": "Tipo 3 (referencia): Si + pluscuamperfecto de subjuntivo (hubiera + participio), condicional compuesto (habría + participio). Se estudia en detalle en B2."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Si hace buen tiempo, iremos al parque.",
+            "ja": "天気が良ければ、公園に行くよ。",
+            "noteJa": "タイプ1：現実的な条件。si + 現在形, 未来形。"
+          },
+          {
+            "es": "Si tienes hambre, hay comida en la nevera.",
+            "ja": "お腹空いてたら、冷蔵庫に食べ物あるよ。",
+            "noteJa": "タイプ1：si + 現在形, 現在形。結果節は未来形でなくてもOK。"
+          },
+          {
+            "es": "Si tuviera más tiempo, estudiaría japonés.",
+            "ja": "もっと時間があったら、日本語を勉強するのに。",
+            "noteJa": "タイプ2：非現実。si + 接続法過去形, 条件法。実際は時間がない。"
+          },
+          {
+            "es": "Si fuera rico, compraría una casa en Barcelona.",
+            "ja": "もしお金持ちだったら、バルセロナに家を買うのに。",
+            "noteJa": "タイプ2：非現実。fuera は ser の接続法過去形。実際はお金持ちではない。"
+          },
+          {
+            "es": "Si yo fuera tú, hablaría con ella directamente.",
+            "ja": "もし僕が君なら、彼女に直接話すけどな。",
+            "noteJa": "タイプ2：「Si fuera tú」はアドバイスの定番表現。日常会話で頻出。"
+          },
+          {
+            "es": "Si pudiera volver al pasado, elegiría lo mismo.",
+            "ja": "もし過去に戻れたとしても、同じことを選ぶよ。",
+            "noteJa": "タイプ2：pudiera は poder の接続法過去形。elegiría は elegir の条件法。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Si lloverá mañana, no iré.",
+            "correct": "Si llueve mañana, no iré.",
+            "whyJa": "si の後に未来形は使えません！これはスペイン語の絶対ルール。si + 現在形 が正しい。日本語話者は「もし明日雨が降るだろうなら」と考えて未来形を入れがちですが、スペイン語では禁止です。"
+          },
+          {
+            "wrong": "Si tendría dinero, viajaría.",
+            "correct": "Si tuviera dinero, viajaría.",
+            "whyJa": "si の後に条件法は使えません！条件法は結果節（後半）に使います。si の後は接続法過去形（tuviera）。これも非常によくある間違いです。"
+          },
+          {
+            "wrong": "Si sería tú, no haría eso.",
+            "correct": "Si fuera tú, no haría eso.",
+            "whyJa": "si + 条件法は間違い。si の後は接続法。fuera（ser の接続法過去形）が正しい。"
+          },
+          {
+            "wrong": "Si estudio, aprobaré. / Si estudiaré, aprobaré.",
+            "correct": "Si estudio, aprobaré.",
+            "whyJa": "1つ目は正しい！2つ目は間違い。si の後に未来形は絶対に使えません。正しい形を覚えていても、つい未来形を入れてしまうことがあるので注意。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "Si me toca la lotería, dejo el trabajo y me voy a Japón 🇯🇵✈️",
+            "ja": "宝くじ当たったら仕事辞めて日本行く🇯🇵✈️",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "タイプ1。カジュアルなので結果節も現在形で書いています。SNSではこの方が自然。tocar la lotería は「宝くじが当たる」。"
+          },
+          {
+            "es": "Si yo fuera tú, le mandaría un mensaje. ¿Qué pierdes?",
+            "ja": "俺だったらメッセージ送るけどな。何失うの？",
+            "source": "conversation",
+            "sourceLabel": "友達へのアドバイス",
+            "context": "好きな人にメッセージを送るか迷っている友達へ",
+            "noteJa": "タイプ2の「Si fuera tú」はアドバイスの定番。¿Qué pierdes? は「失うものは何？」。"
+          },
+          {
+            "es": "Si pudiera vivir en cualquier país, elegiría Colombia. La gente es increíble 🇨🇴",
+            "ja": "どの国にでも住めるなら、コロンビアを選ぶ。人が最高🇨🇴",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "タイプ2。pudiera は poder の接続法過去形。「住める（可能性）」を仮定している。",
+            "region": "latam"
+          },
+          {
+            "es": "Si no llueve, quedamos en la terraza del bar, ¿vale?",
+            "ja": "雨降らなかったら、バーのテラスで集合ね？",
+            "source": "conversation",
+            "sourceLabel": "友達との約束",
+            "context": "週末の待ち合わせを決めている場面",
+            "noteJa": "タイプ1。quedar は「待ち合わせる」。¿vale? はスペインで「OK？」の意味。",
+            "region": "spain"
+          },
+          {
+            "es": "Si supiera cocinar como mi abuela, abriría un restaurante.",
+            "ja": "おばあちゃんみたいに料理できたら、レストラン開くのに。",
+            "source": "conversation",
+            "sourceLabel": "家族との会話",
+            "context": "おばあちゃんの料理を褒めている場面",
+            "noteJa": "タイプ2。supiera は saber の接続法過去形。abriría は abrir の条件法。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "Si ___ buen tiempo mañana, iremos a la playa. (hacer)",
+            "options": [
+              "hará",
+              "hace",
+              "hiciera",
+              "haría"
+            ],
+            "answer": 1,
+            "explanationJa": "タイプ1：si の後は現在形。hace が正しい。si の後に未来形（hará）は使えません。"
+          },
+          {
+            "prompt": "Si ___ dinero, viajaría por todo el mundo. (tener, yo)",
+            "options": [
+              "tengo",
+              "tendría",
+              "tendré",
+              "tuviera"
+            ],
+            "answer": 3,
+            "explanationJa": "タイプ2：非現実の仮定。si の後は接続法過去形 tuviera。tendría は条件法なので si の後には使えません。"
+          },
+          {
+            "prompt": "Si yo ___ tú, hablaría con el profesor. (ser)",
+            "options": [
+              "fui",
+              "soy",
+              "fuera",
+              "sería"
+            ],
+            "answer": 2,
+            "explanationJa": "タイプ2：「もし私が君なら」。si + 接続法過去形 fuera。sería は条件法なので si の後には使えません。"
+          },
+          {
+            "prompt": "Si tienes hambre, ___ algo en la nevera. (haber)",
+            "options": [
+              "hay",
+              "hubiera",
+              "habría",
+              "habrá"
+            ],
+            "answer": 0,
+            "explanationJa": "タイプ1：現実的な条件。結果節は現在形でOK。hay（ある）が最も自然。"
+          },
+          {
+            "prompt": "Si ___ español, trabajaría en Madrid. (hablar, yo)",
+            "options": [
+              "hablaré",
+              "hablo",
+              "hablara",
+              "hablaría"
+            ],
+            "answer": 2,
+            "explanationJa": "タイプ2：非現実。si + 接続法過去形 hablara。実際はスペイン語を話せない、という仮定。"
+          },
+          {
+            "prompt": "Si estudias mucho, ___ el examen. (aprobar, tú)",
+            "options": [
+              "aprobarías",
+              "aprobarás",
+              "apruebas",
+              "aprobaras"
+            ],
+            "answer": 1,
+            "explanationJa": "タイプ1：si + 現在形の条件には、未来形で結果を表すのが一般的。aprobarás が正解。"
+          },
+          {
+            "prompt": "Si ___ volver al pasado, ¿qué harías? (poder, tú)",
+            "options": [
+              "podrás",
+              "podrías",
+              "pudieras",
+              "puedes"
+            ],
+            "answer": 2,
+            "explanationJa": "タイプ2：非現実の仮定。si + 接続法過去形 pudieras。podrías は条件法なので si の後には使えません。"
+          },
+          {
+            "prompt": "Si ___ temprano, llegaremos a tiempo. (salir, nosotros)",
+            "options": [
+              "saldríamos",
+              "saldremos",
+              "saliéramos",
+              "salimos"
+            ],
+            "answer": 3,
+            "explanationJa": "タイプ1：si + 現在形 salimos。si の後に未来形は使えません。"
+          },
+          {
+            "prompt": "Si ___ más tiempo libre, aprendería a tocar la guitarra. (tener, yo)",
+            "options": [
+              "tendría",
+              "tuviera",
+              "tengo",
+              "tuve"
+            ],
+            "answer": 1,
+            "explanationJa": "タイプ2：非現実。si + 接続法過去形 tuviera。実際は時間がないという仮定。"
+          },
+          {
+            "prompt": "¿Qué ___ si fueras invisible por un día? (hacer, tú)",
+            "options": [
+              "harías",
+              "harás",
+              "hicieras",
+              "haces"
+            ],
+            "answer": 0,
+            "explanationJa": "タイプ2：結果節は条件法。harías（haría の tú 形）。si 節の fueras に対応する結果節。"
+          },
+          {
+            "prompt": "Si no ___, nos quedaremos en casa. (llover)",
+            "options": [
+              "lloverá",
+              "lloviese",
+              "llueve",
+              "lloviera"
+            ],
+            "answer": 2,
+            "explanationJa": "タイプ1：現実的な条件。否定文でも si + 現在形のルールは同じ。"
+          },
+          {
+            "prompt": "Si ___ rico, ___ una isla privada. (ser / comprar, yo)",
+            "options": [
+              "fuera / compro",
+              "fuera / compraría",
+              "soy / compro",
+              "sería / compraría"
+            ],
+            "answer": 1,
+            "explanationJa": "タイプ2：si + 接続法過去形 fuera、結果節は条件法 compraría。"
+          },
+          {
+            "prompt": "Si ella ___ la verdad, se enfadaría. (saber)",
+            "options": [
+              "supo",
+              "sabría",
+              "supiera",
+              "sabe"
+            ],
+            "answer": 2,
+            "explanationJa": "タイプ2：非現実。si + 接続法過去形 supiera。実際は彼女が真実を知らない。"
+          },
+          {
+            "prompt": "Si ___ calor, abre la ventana. (hacer)",
+            "options": [
+              "hace",
+              "haría",
+              "hará",
+              "hiciera"
+            ],
+            "answer": 0,
+            "explanationJa": "タイプ1：現実的な条件。si + 現在形 hace。結果節は命令形「窓を開けて」。"
+          },
+          {
+            "prompt": "Si ___ a Japón, visitaría Kioto primero. (ir, yo)",
+            "options": [
+              "fui",
+              "fuera",
+              "iría",
+              "voy"
+            ],
+            "answer": 1,
+            "explanationJa": "タイプ2：非現実の仮定。si + 接続法過去形 fuera（ir の接続法過去形）。"
+          },
+          {
+            "prompt": "「もし明日雨が降ったら、家にいる」を正しく訳すと？",
+            "options": [
+              "Si lloviera mañana, me quedaría en casa.",
+              "Si llueve mañana, me quedaría en casa.",
+              "Si llueve mañana, me quedo en casa.",
+              "Si lloverá mañana, me quedo en casa."
+            ],
+            "answer": 2,
+            "explanationJa": "タイプ1：明日の天気は「ありえる条件」なので si + 現在形。si の後に未来形は使えません。"
+          },
+          {
+            "prompt": "「もし私が社長だったら、金曜は休みにするのに」を正しく訳すと？",
+            "options": [
+              "Si sería el jefe, haría los viernes libres.",
+              "Si fuera el jefe, haría los viernes libres.",
+              "Si fuera el jefe, hago los viernes libres.",
+              "Si soy el jefe, hago los viernes libres."
+            ],
+            "answer": 1,
+            "explanationJa": "タイプ2：非現実の仮定（実際は社長ではない）。si + 接続法過去形 fuera、結果節は条件法 haría。"
+          },
+          {
+            "prompt": "次の文で si の後の動詞形が間違っているのはどれ？",
+            "options": [
+              "Si llueve, no salgo.",
+              "Si tuviera más dinero, viajaría.",
+              "Si tengo dinero, viajo.",
+              "Si tendría más dinero, viajaría."
+            ],
+            "answer": 3,
+            "explanationJa": "si の後に条件法（tendría）は使えません。正しくは si tuviera（接続法過去形）。"
+          },
+          {
+            "prompt": "Si me ___ en español, te entendería mejor. (hablar, tú)",
+            "options": [
+              "hablarías",
+              "hablas",
+              "hablarás",
+              "hablaras"
+            ],
+            "answer": 3,
+            "explanationJa": "タイプ2：si + 接続法過去形 hablaras。条件法 hablarías は結果節に使います。"
+          },
+          {
+            "prompt": "Si vienes a la fiesta, ___ muy contento. (estar, yo)",
+            "options": [
+              "estaría",
+              "estuviera",
+              "estuve",
+              "estaré"
+            ],
+            "answer": 3,
+            "explanationJa": "タイプ1：si + 現在形（vienes）なので、結果節は未来形 estaré。現実的な条件です。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Si ___ mañana, nos quedaremos en casa. (llover)",
+            "answer": "llueve",
+            "options": [
+              "llueva",
+              "lloviera",
+              "llueve",
+              "lloverá"
+            ],
+            "explanationJa": "タイプ1（現実的条件）。si の後は現在形。未来形は使えません。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si ___ más dinero, compraría una casa grande. (tener, yo)",
+            "answer": "tuviera",
+            "options": [
+              "tuve",
+              "tendría",
+              "tuviera",
+              "tengo"
+            ],
+            "explanationJa": "タイプ2（非現実の仮定）。si の後は接続法過去形 tuviera。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si ___ tiempo libre, iré al gimnasio. (tener, yo)",
+            "answer": "tengo",
+            "options": [
+              "tendría",
+              "tuviera",
+              "tendré",
+              "tengo"
+            ],
+            "explanationJa": "タイプ1。現実的な条件なので si + 現在形 tengo。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si yo ___ tú, le pediría perdón. (ser)",
+            "answer": "fuera",
+            "options": [
+              "sería",
+              "fui",
+              "soy",
+              "fuera"
+            ],
+            "explanationJa": "タイプ2。「Si fuera tú」はアドバイスの超定番表現。si + 接続法過去形。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¿Qué ___ si pudieras viajar a cualquier lugar? (hacer, tú)",
+            "answer": "harías",
+            "options": [
+              "haces",
+              "harás",
+              "harías",
+              "hicieras"
+            ],
+            "explanationJa": "タイプ2の結果節。pudieras（接続法過去形）に対する条件法 harías。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si ella ___ la verdad, se enfadaría muchísimo. (saber)",
+            "answer": "supiera",
+            "options": [
+              "sabe",
+              "supo",
+              "sabría",
+              "supiera"
+            ],
+            "explanationJa": "タイプ2。si + 接続法過去形 supiera。実際は彼女が真実を知らない。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si ___ buen tiempo este fin de semana, iremos de excursión. (hacer)",
+            "answer": "hace",
+            "options": [
+              "hace",
+              "hiciera",
+              "hará",
+              "haría"
+            ],
+            "explanationJa": "タイプ1。si + 現在形 hace。si の後に未来形は使えません。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si ___ hablar chino, trabajaría en una empresa china. (saber, yo)",
+            "answer": "supiera",
+            "options": [
+              "sé",
+              "sabré",
+              "supiera",
+              "sabría"
+            ],
+            "explanationJa": "タイプ2。非現実の仮定。si + 接続法過去形 supiera。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si vienes a mi casa, te ___ mi colección de manga. (enseñar, yo)",
+            "answer": "enseñaré",
+            "options": [
+              "enseñaré",
+              "enseñaría",
+              "enseño",
+              "enseñara"
+            ],
+            "explanationJa": "タイプ1。si + 現在形（vienes）の結果節は未来形 enseñaré。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si ___ invisible por un día, ¿adónde irías? (ser, tú)",
+            "answer": "fueras",
+            "options": [
+              "fueras",
+              "eres",
+              "fuiste",
+              "serías"
+            ],
+            "explanationJa": "タイプ2。空想的な質問。si + 接続法過去形 fueras。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Si lloverá mañana, me quedaré en casa.",
+            "answer": "Si llueve mañana, me quedaré en casa.",
+            "explanationJa": "si の後に未来形は使えません。これはスペイン語の絶対ルール。正しくは si + 現在形 llueve。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Si tendría más tiempo, viajaría por el mundo.",
+            "answer": "Si tuviera más tiempo, viajaría por el mundo.",
+            "explanationJa": "si の後に条件法は使えません。条件法は結果節に使います。si の後は接続法過去形 tuviera。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Si sería tú, hablaría con el profesor directamente.",
+            "answer": "Si fuera tú, hablaría con el profesor directamente.",
+            "explanationJa": "si + 条件法は間違い。si の後は接続法。ser の接続法過去形は fuera。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Si pudiera elegir, viviré en Japón.",
+            "answer": "Si pudiera elegir, viviría en Japón.",
+            "explanationJa": "タイプ2のsi節（接続法過去 pudiera）の結果節は条件法 viviría。未来形 viviré はタイプ1の結果節。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Si tuviera dinero, compro un coche nuevo.",
+            "answer": "Si tuviera dinero, compraría un coche nuevo.",
+            "explanationJa": "タイプ2のsi節（接続法過去 tuviera）には条件法の結果節が必要。現在形 compro はタイプ1。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「もし宝くじが当たったら仕事を辞めるのに」の正しい訳は？",
+            "options": [
+              "Si me tocara la lotería, dejo el trabajo.",
+              "Si me tocara la lotería, dejaría el trabajo.",
+              "Si me tocaría la lotería, dejaría el trabajo.",
+              "Si me toca la lotería, dejo el trabajo."
+            ],
+            "answer": 1,
+            "explanationJa": "「当たったら〜するのに」は非現実の仮定 → タイプ2。si + 接続法過去 + 条件法。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次の文はタイプ1とタイプ2のどちら？ 'Si hace calor, abrimos la ventana.'",
+            "options": [
+              "タイプ1（現実的な条件）",
+              "タイプ2（非現実の仮定）",
+              "タイプ3（過去の非現実）",
+              "文法的に間違い"
+            ],
+            "answer": 0,
+            "explanationJa": "si + 現在形（hace）+ 現在形（abrimos）→ タイプ1。「暑ければ窓を開ける」は現実的な条件。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "条件法の不規則語幹で正しいのはどれ？",
+            "options": [
+              "tener→tien-, poder→pued-, hacer→hac-",
+              "tener→tendr-, poder→podr-, hacer→har-",
+              "tener→tener-, poder→poder-, hacer→hacer-",
+              "tener→tuv-, poder→pud-, hacer→hic-"
+            ],
+            "answer": 1,
+            "explanationJa": "条件法の不規則語幹は未来形と同じ：tendr-, podr-, har-。語尾は -ía, -ías, -ía..."
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "si の後に絶対に使えない動詞形はどれ？",
+            "options": [
+              "未来形と条件法",
+              "線過去と点過去",
+              "現在形と接続法過去形",
+              "接続法現在と接続法過去"
+            ],
+            "answer": 0,
+            "explanationJa": "si の後に未来形（-rá）と条件法（-ría）は使えない。これはスペイン語の絶対ルールです。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Si fuera tú, ...」はどんな場面で使う？",
+            "options": [
+              "事実を述べるとき",
+              "相手にアドバイスするとき",
+              "過去を振り返るとき",
+              "自己紹介するとき"
+            ],
+            "answer": 1,
+            "explanationJa": "Si fuera tú = 「もし私が君なら」。アドバイスの超定番表現。日常会話で頻出。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「時間があったら、映画を見に行きたいのに」",
+            "answer": "Si tuviera tiempo, iría al cine.",
+            "acceptableAnswers": [
+              "Si tuviera tiempo, me gustaría ir al cine.",
+              "Si tuviese tiempo, iría al cine."
+            ],
+            "explanationJa": "タイプ2。非現実の仮定。si + 接続法過去 tuviera + 条件法 iría。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「明日雨が降らなかったら、ビーチに行こう」",
+            "answer": "Si no llueve mañana, vamos a la playa.",
+            "acceptableAnswers": [
+              "Si mañana no llueve, iremos a la playa.",
+              "Si no llueve mañana, iremos a la playa."
+            ],
+            "explanationJa": "タイプ1。現実的な条件。si + 現在形 llueve。結果節は未来形または現在形。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「もし私が鳥だったら、飛べるのに」",
+            "answer": "Si yo fuera un pájaro, podría volar.",
+            "acceptableAnswers": [
+              "Si fuera un pájaro, podría volar.",
+              "Si yo fuese un pájaro, podría volar."
+            ],
+            "explanationJa": "タイプ2。非現実の仮定。si + 接続法過去 fuera + 条件法 podría。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "タイプ1→タイプ2: Si tengo dinero, viajo. → Si ___ dinero, ___.",
+            "answer": "Si tuviera dinero, viajaría.",
+            "explanationJa": "タイプ1（現実的：tengo/viajo）→ タイプ2（非現実：tuviera/viajaría）。現在形→接続法過去、現在形→条件法。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "結果節を完成: Si hablara japonés perfectamente, ___. (trabajar en Tokio)",
+            "answer": "Si hablara japonés perfectamente, trabajaría en Tokio.",
+            "explanationJa": "タイプ2のsi節（接続法過去 hablara）に対応する条件法 trabajaría。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "タイプ1（現実的）：Si + 現在形, 未来形 — 「〜したら、〜する」",
+      "タイプ2（非現実）：Si + 接続法過去形, 条件法 — 「〜だったら、〜するのに」",
+      "絶対ルール：si の後に未来形・条件法は使えない",
+      "条件法の作り方：動詞の原形 + -ía, -ías, -ía...（不規則語幹は未来形と同じ）",
+      "「Si fuera tú...」はアドバイスの超定番表現",
+      "日本語の「〜たら」「〜れば」「〜なら」をタイプ別に使い分ける意識が重要"
+    ]
+  }
+}

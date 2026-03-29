@@ -1,0 +1,228 @@
+{
+  "scenario": "shopping",
+  "titleJa": "買い物で使えるスペイン語フレーズ",
+  "titleEs": "Frases útiles para ir de compras",
+  "totalPhrases": 20,
+  "phrases": [
+    {
+      "id": "shop-001",
+      "spanishText": "¿Cuánto cuesta esto?",
+      "japaneseTranslation": "これはいくらですか？",
+      "pronunciationHint": "クアント クエスタ エスト",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "買い物で最もよく使うフレーズ。esto（これ）の代わりに具体的な商品名を入れてもOK。",
+      "category": "price"
+    },
+    {
+      "id": "shop-002",
+      "spanishText": "¿Tiene una talla más grande?",
+      "japaneseTranslation": "もっと大きいサイズはありますか？",
+      "pronunciationHint": "ティエネ ウナ タジャ マス グランデ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "talla はサイズ。más pequeña（もっと小さい）に変えて小さいサイズも聞けます。",
+      "category": "clothing"
+    },
+    {
+      "id": "shop-003",
+      "spanishText": "¿Puedo pagar con tarjeta?",
+      "japaneseTranslation": "カードで払えますか？",
+      "pronunciationHint": "プエド パガル コン タルヘタ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "tarjeta は「カード」。tarjeta de crédito（クレジットカード）、tarjeta de débito（デビットカード）。",
+      "category": "payment"
+    },
+    {
+      "id": "shop-004",
+      "spanishText": "¿Dónde están los probadores?",
+      "japaneseTranslation": "試着室はどこですか？",
+      "pronunciationHint": "ドンデ エスタン ロス プロバドーレス",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "¿Dónde están los vestidores?",
+      "contextNoteJa": "スペインでは probadores、中南米では vestidores が一般的。",
+      "category": "clothing"
+    },
+    {
+      "id": "shop-005",
+      "spanishText": "Me lo llevo.",
+      "japaneseTranslation": "これにします。（これを買います）",
+      "pronunciationHint": "メ ロ ジェボ",
+      "formality": "informal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "直訳は「これを持っていきます」。買うことを決めた時の自然な表現。女性名詞なら me la llevo。",
+      "category": "purchase"
+    },
+    {
+      "id": "shop-006",
+      "spanishText": "¿Tiene descuento?",
+      "japaneseTranslation": "割引はありますか？",
+      "pronunciationHint": "ティエネ デスクエント",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "descuento は「割引」。市場（mercado）では値段交渉が一般的な文化です。",
+      "category": "price"
+    },
+    {
+      "id": "shop-007",
+      "spanishText": "Solo estoy mirando, gracias.",
+      "japaneseTranslation": "見ているだけです、ありがとう。",
+      "pronunciationHint": "ソロ エストイ ミランド グラシアス",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "店員に声をかけられた時に使える便利な表現。日本と同じく、見ているだけの時に。",
+      "category": "browsing"
+    },
+    {
+      "id": "shop-008",
+      "spanishText": "¿Lo tiene en otro color?",
+      "japaneseTranslation": "他の色はありますか？",
+      "pronunciationHint": "ロ ティエネ エン オトロ コロル",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "lo は男性名詞の代名詞。女性名詞の商品なら la を使います。",
+      "category": "clothing"
+    },
+    {
+      "id": "shop-009",
+      "spanishText": "¿Puedo probármelo?",
+      "japaneseTranslation": "試着してもいいですか？",
+      "pronunciationHint": "プエド プロバルメロ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "probarse は「試着する」の再帰動詞。me + lo が組み合わさっています。",
+      "category": "clothing"
+    },
+    {
+      "id": "shop-010",
+      "spanishText": "¿Aceptan efectivo?",
+      "japaneseTranslation": "現金は使えますか？",
+      "pronunciationHint": "アセプタン エフェクティボ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "efectivo は「現金」。ヨーロッパではカード決済が主流の店も多いです。",
+      "category": "payment"
+    },
+    {
+      "id": "shop-011",
+      "spanishText": "Es demasiado caro. ¿No puede bajar el precio?",
+      "japaneseTranslation": "高すぎます。値段を下げてもらえませんか？",
+      "pronunciationHint": "エス デマシアド カロ。ノ プエデ バハル エル プレシオ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "市場（mercado）やフリーマーケットでの値段交渉。正式な店では使いません。",
+      "category": "negotiation"
+    },
+    {
+      "id": "shop-012",
+      "spanishText": "¿Tiene una bolsa?",
+      "japaneseTranslation": "袋はありますか？",
+      "pronunciationHint": "ティエネ ウナ ボルサ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "¿Tiene una funda?",
+      "contextNoteJa": "スペインでは多くの店でレジ袋が有料（0.05〜0.15€）です。エコバッグを持参しましょう。",
+      "category": "purchase"
+    },
+    {
+      "id": "shop-013",
+      "spanishText": "¿Puedo devolver esto si no me queda bien?",
+      "japaneseTranslation": "合わなかったら返品できますか？",
+      "pronunciationHint": "プエド デボルベル エスト シ ノ メ ケダ ビエン",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "devolver は「返品する」。quedar は服の「合う・似合う」に使います。",
+      "category": "returns"
+    },
+    {
+      "id": "shop-014",
+      "spanishText": "¿Tienen ofertas hoy?",
+      "japaneseTranslation": "今日は何かセールはありますか？",
+      "pronunciationHint": "ティエネン オフェルタス オイ",
+      "formality": "neutral",
+      "spainVariant": "¿Tienen rebajas hoy?",
+      "latamVariant": null,
+      "contextNoteJa": "スペインでは rebajas（セール）、中南米では ofertas が一般的。",
+      "category": "price"
+    },
+    {
+      "id": "shop-015",
+      "spanishText": "Me queda un poco ajustado.",
+      "japaneseTranslation": "少しきついです。",
+      "pronunciationHint": "メ ケダ ウン ポコ アフスタド",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "quedar + 形容詞で「（服が）〜だ」。grande（大きい）、largo（長い）、corto（短い）も使えます。",
+      "category": "clothing"
+    },
+    {
+      "id": "shop-016",
+      "spanishText": "¿Puede envolvérmelo para regalo?",
+      "japaneseTranslation": "プレゼント用に包んでもらえますか？",
+      "pronunciationHint": "プエデ エンボルベルメロ パラ レガロ",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "envolver は「包む」。para regalo で「贈り物用に」。百貨店で使えます。",
+      "category": "purchase"
+    },
+    {
+      "id": "shop-017",
+      "spanishText": "¿A qué hora cierra la tienda?",
+      "japaneseTranslation": "お店は何時に閉まりますか？",
+      "pronunciationHint": "ア ケ オラ シエラ ラ ティエンダ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "cerrar は「閉める」。スペインでは14:00〜17:00にシエスタで閉まる店もあります。",
+      "category": "general"
+    },
+    {
+      "id": "shop-018",
+      "spanishText": "¿Dónde está la sección de electrónica?",
+      "japaneseTranslation": "電子機器売り場はどこですか？",
+      "pronunciationHint": "ドンデ エスタ ラ セクシオン デ エレクトロニカ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "sección は「売り場、セクション」。大型店やデパートで使います。",
+      "category": "general"
+    },
+    {
+      "id": "shop-019",
+      "spanishText": "Necesito el recibo, por favor.",
+      "japaneseTranslation": "レシートをください。",
+      "pronunciationHint": "ネセシト エル レシボ ポル ファボール",
+      "formality": "neutral",
+      "spainVariant": "Necesito el tique, por favor.",
+      "latamVariant": null,
+      "contextNoteJa": "recibo は「レシート」。スペインでは tique とも言います。免税手続きに必要。",
+      "category": "payment"
+    },
+    {
+      "id": "shop-020",
+      "spanishText": "¿Se puede pagar a plazos?",
+      "japaneseTranslation": "分割払いはできますか？",
+      "pronunciationHint": "セ プエデ パガル ア プラソス",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "¿Se puede pagar en cuotas?",
+      "contextNoteJa": "スペインでは a plazos、中南米では en cuotas が「分割払い」。高額商品の購入時に。",
+      "category": "payment"
+    }
+  ]
+}

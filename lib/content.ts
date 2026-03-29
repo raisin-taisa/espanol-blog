@@ -10,10 +10,7 @@ import type {
 import { LEVEL_LABELS } from "./constants";
 
 const CONTENT_DIR = path.join(process.cwd(), "content");
-const APP_CONTENT_DIR = path.resolve(
-  process.cwd(),
-  "../espanol-app/content"
-);
+const APP_CONTENT_DIR = CONTENT_DIR;
 
 // --------------- Grammar ---------------
 

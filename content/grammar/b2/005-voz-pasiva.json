@@ -1,0 +1,482 @@
+{
+  "id": "b2-grammar-005",
+  "slug": "voz-pasiva",
+  "titleJa": "受動態（ser受動態とse受動態）",
+  "titleEs": "Voz Pasiva",
+  "level": "b2",
+  "sortOrder": 5,
+  "hasRegionalVariants": true,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "スペイン語の受動態：2つのタイプを理解しよう",
+        "bodyJa": "スペイン語には受動態が2種類あります。\n\n1. ser + 過去分詞（pasiva con ser）：英語の be + past participle と同じ\n   El libro fue escrito por Cervantes.\n   （その本はセルバンテスによって書かれた）\n\n2. se + 動詞（pasiva refleja）：スペイン語に特有の受動表現\n   Se habla español en muchos países.\n   （多くの国でスペイン語が話されている）\n\n日本語話者にとってのポイント：\n日本語は受動態をよく使いますが、スペイン語では ser 受動態は比較的フォーマルで、日常会話では se 受動態の方がはるかに多用されます。\n\n英語の感覚で ser 受動態を多用すると、「硬い」「不自然」と思われることがあります。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "ser + 過去分詞：フォーマルな受動態",
+        "bodyJa": "ser受動態の構造は英語とほぼ同じです。\n\n主語 + ser + 過去分詞 + por + 動作主\n\n例：\nLa carta fue enviada por María.\n（手紙はマリアによって送られた）\n\nEl edificio fue construido en 1920.\n（その建物は1920年に建てられた）\n\n重要ルール：過去分詞は主語の性・数に一致します。\nLa puerta fue abierta.（ドアが開けられた）← 女性単数\nLos documentos fueron firmados.（書類が署名された）← 男性複数\nLas ventanas fueron cerradas.（窓が閉められた）← 女性複数\n\nser受動態が使われる場面：\n・ニュース、報道\n・学術論文、公式文書\n・歴史的記述\n・動作主（por +人）を明示したいとき"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "se + 動詞（pasiva refleja）：日常で最も使う受動態",
+        "bodyJa": "se受動態はスペイン語で最もよく使われる受動表現です。\n\nse + 動詞の3人称（単数または複数）\n\n例：\nSe vende esta casa.（この家は売りに出されている）\nSe hablan tres idiomas en Suiza.（スイスでは3言語が話されている）\nSe necesitan profesores.（教師が必要とされている）\n\n動詞の数は意味上の主語に合わせます。\nSe vende una casa.（1軒→単数）\nSe venden dos casas.（2軒→複数）\n\nse受動態が使われる場面：\n・看板、掲示（Se alquila: 貸します、Se busca: 求む）\n・一般的な事実（En Japón se come mucho arroz.）\n・料理のレシピ（Se cortan las verduras.）\n・規則やルール（No se permite fumar.）\n\n日常会話ではこちらが圧倒的に自然です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "ser受動態 vs se受動態：どう使い分ける？",
+        "bodyJa": "2つの受動態の使い分けは、以下の基準で判断できます。\n\nser受動態を使うとき：\n・動作主（誰が行ったか）を言いたいとき\n  La novela fue escrita por García Márquez.\n・過去の一回限りの出来事\n  El ladrón fue capturado por la policía.\n・フォーマルな文脈（ニュース、論文）\n\nse受動態を使うとき：\n・動作主が不明・不重要なとき\n  Se vendieron todas las entradas.\n・一般的な習慣・ルール\n  En España se cena tarde.\n・掲示・看板\n  Se busca camarero.\n\n判断のコツ：「誰がやったか」を言いたい → ser受動態。言わなくていい → se受動態。\n\n迷ったら se受動態を使えば大体自然です。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "El Quijote fue escrito por Miguel de Cervantes.",
+            "ja": "『ドン・キホーテ』はミゲル・デ・セルバンテスによって書かれた。",
+            "noteJa": "ser受動態。動作主（por Cervantes）を明示。歴史的事実の記述。"
+          },
+          {
+            "es": "Se habla español en más de 20 países.",
+            "ja": "スペイン語は20以上の国で話されている。",
+            "noteJa": "se受動態。一般的な事実。動作主は不特定。"
+          },
+          {
+            "es": "Se necesitan camareros con experiencia.",
+            "ja": "経験のあるウェイターを募集しています。",
+            "noteJa": "se受動態。camareros が複数なので動詞も複数形（necesitan）。求人でよく見る表現。"
+          },
+          {
+            "es": "La reunión fue cancelada por el director.",
+            "ja": "会議はディレクターによって中止された。",
+            "noteJa": "ser受動態。動作主を明示。フォーマルな報告。"
+          },
+          {
+            "es": "Se prohibe fumar en este edificio.",
+            "ja": "この建物内は禁煙です。",
+            "noteJa": "se受動態。規則・ルールの表現。看板でよく見ます。"
+          },
+          {
+            "es": "En Japón se come mucho pescado crudo.",
+            "ja": "日本では生の魚がたくさん食べられる。",
+            "noteJa": "se受動態。文化的な一般論。「日本ではこうする」の定番。"
+          },
+          {
+            "es": "Las pirámides fueron construidas hace miles de años.",
+            "ja": "ピラミッドは何千年も前に建てられた。",
+            "noteJa": "ser受動態。歴史的記述。過去分詞は主語に一致（construidas: 女性複数）。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Se vende casas.",
+            "correct": "Se venden casas.",
+            "whyJa": "se受動態では動詞は意味上の主語（casas: 複数）に合わせます。「家が売られている」のでvenden（複数）。日本語話者は「se + 動詞」を固定セットと考えがちですが、動詞は後ろの名詞に一致します。"
+          },
+          {
+            "wrong": "El libro fue escribido por el autor.",
+            "correct": "El libro fue escrito por el autor.",
+            "whyJa": "escribir の過去分詞は escrito（不規則）。escribido は存在しません。不規則過去分詞を確認しましょう。"
+          },
+          {
+            "wrong": "La carta fue enviada de María.",
+            "correct": "La carta fue enviada por María.",
+            "whyJa": "動作主は por で導入します。de ではありません。日本語の「〜によって」= por。"
+          },
+          {
+            "wrong": "Se alquila pisos.",
+            "correct": "Se alquilan pisos.",
+            "whyJa": "pisos は複数なので alquilan（複数）。看板では Se alquila piso（単数）もよく見ますが、文法的にはpisos なら alquilan です。"
+          },
+          {
+            "wrong": "La ventana fue abierto.",
+            "correct": "La ventana fue abierta.",
+            "whyJa": "過去分詞は主語の性に一致。ventana は女性名詞なので abierta（女性形）。日本語には性の一致がないため忘れやすいポイントです。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！受動態の日常表現",
+        "items": [
+          {
+            "es": "SE BUSCA: Persona con experiencia en marketing digital 📢",
+            "ja": "【求む】デジタルマーケティング経験者📢",
+            "source": "sns",
+            "sourceLabel": "求人掲示風",
+            "noteJa": "se受動態の典型。看板や掲示で SE BUSCA / SE NECESITA は定番。"
+          },
+          {
+            "es": "¿Cómo se dice 'ありがとう' en español?",
+            "ja": "「ありがとう」はスペイン語で何と言いますか？",
+            "noteJa": "¿Cómo se dice...? は超頻出の se受動態。「〜は何と言う？」の決まり文句。",
+            "source": "conversation",
+            "sourceLabel": "語学学習の場面"
+          },
+          {
+            "es": "Se rumorea que van a cerrar esa tienda.",
+            "ja": "あの店が閉まるという噂がある。",
+            "source": "conversation",
+            "sourceLabel": "近所の噂話",
+            "noteJa": "se rumorea que... は「〜という噂がある」。動作主が不明な場合の定番。"
+          },
+          {
+            "es": "Aquí se come muy bien y a buen precio.",
+            "ja": "ここは安くて美味しく食べられるよ。",
+            "source": "conversation",
+            "sourceLabel": "レストランのおすすめ",
+            "context": "友人にお店を勧める場面",
+            "noteJa": "se + 動詞で一般的な状況を表す。「ここでは良く食べられる」= 「美味しい」。"
+          },
+          {
+            "es": "El nuevo estadio fue inaugurado por el presidente del club.",
+            "ja": "新スタジアムはクラブ会長によって開業された。",
+            "source": "sns",
+            "sourceLabel": "ニュース記事風",
+            "noteJa": "ser受動態。ニュースや公式報告で動作主を明示するときに使う。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "Se ___ español en Argentina. (hablar)",
+            "options": [
+              "hable",
+              "es hablado",
+              "hablan",
+              "habla"
+            ],
+            "answer": 3,
+            "explanationJa": "se受動態。español は単数なので habla（単数）。"
+          },
+          {
+            "prompt": "La novela fue ___ por un autor japonés. (escribir)",
+            "options": [
+              "escribiendo",
+              "escrito",
+              "escribida",
+              "escrita"
+            ],
+            "answer": 3,
+            "explanationJa": "escribir の過去分詞は escrito。novela は女性名詞なので escrita。"
+          },
+          {
+            "prompt": "Se ___ profesores de inglés. (necesitar)",
+            "options": [
+              "necesita",
+              "necesitan",
+              "necesite",
+              "necesitaron"
+            ],
+            "answer": 1,
+            "explanationJa": "profesores は複数なので necesitan（複数）。"
+          },
+          {
+            "prompt": "¿Cómo se ___ 'thank you' en japonés?",
+            "options": [
+              "decir",
+              "dicen",
+              "dice",
+              "dijo"
+            ],
+            "answer": 2,
+            "explanationJa": "¿Cómo se dice...? は「〜は何と言う？」の決まり文句。thank you は単数なので dice。"
+          },
+          {
+            "prompt": "Las puertas ___ cerradas a las 10. (ser)",
+            "options": [
+              "era",
+              "fue",
+              "fueron",
+              "eran"
+            ],
+            "answer": 2,
+            "explanationJa": "ser受動態。puertas は女性複数なので fueron cerradas。cerradas も女性複数に一致。"
+          },
+          {
+            "prompt": "次の文で最も自然なのはどれ？「この部屋では喫煙禁止です」",
+            "options": [
+              "No se permite fumar en esta sala.",
+              "Fumar no es permitido en esta sala.",
+              "No se permiten fumar en esta sala.",
+              "Fumar fue prohibido en esta sala."
+            ],
+            "answer": 0,
+            "explanationJa": "se + permite + 不定詞がルール・禁止の定番。日常的にはse受動態が最も自然。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Se ___ español en más de 20 países. (hablar)",
+            "answer": "habla",
+            "options": [
+              "habla",
+              "hable",
+              "hablan",
+              "hablado"
+            ],
+            "explanationJa": "se受動態。español は単数なので habla（単数形）。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "La carta fue ___ por el presidente. (firmar)",
+            "answer": "firmada",
+            "options": [
+              "firmando",
+              "firmada",
+              "firmadas",
+              "firmado"
+            ],
+            "explanationJa": "ser受動態。carta は女性単数なので過去分詞も firmada（女性形）。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Se ___ profesores con experiencia. (necesitar)",
+            "answer": "necesitan",
+            "options": [
+              "necesitan",
+              "necesite",
+              "necesita",
+              "necesitó"
+            ],
+            "explanationJa": "se受動態。profesores は複数なので necesitan（複数形）。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Las ventanas fueron ___ por el viento. (romper)",
+            "answer": "rotas",
+            "options": [
+              "rompidas",
+              "rotas",
+              "roto",
+              "rotos"
+            ],
+            "explanationJa": "romper の過去分詞は roto（不規則）。ventanas は女性複数なので rotas。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Se ___ mucho café en Colombia. (producir)",
+            "answer": "produce",
+            "options": [
+              "produzca",
+              "producen",
+              "producido",
+              "produce"
+            ],
+            "explanationJa": "se受動態。café は単数なので produce（単数形）。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "El libro fue ___ por un autor japonés. (escribir)",
+            "answer": "escrito",
+            "options": [
+              "escribido",
+              "escrito",
+              "escrita",
+              "escribiendo"
+            ],
+            "explanationJa": "escribir の過去分詞は escrito（不規則）。libro は男性単数なので escrito。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "No se ___ fumar en este restaurante. (permitir)",
+            "answer": "permite",
+            "options": [
+              "permita",
+              "permiten",
+              "permitió",
+              "permite"
+            ],
+            "explanationJa": "se + permite + 不定詞。禁止のルール。fumar は単数扱い。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Los documentos fueron ___ por el juez. (revisar)",
+            "answer": "revisados",
+            "options": [
+              "revisados",
+              "revisadas",
+              "revisando",
+              "revisado"
+            ],
+            "explanationJa": "ser受動態。documentos は男性複数なので revisados。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¿Cómo se ___ 'ありがとう' en español? (decir)",
+            "answer": "dice",
+            "options": [
+              "dicen",
+              "dicho",
+              "dice",
+              "dijo"
+            ],
+            "explanationJa": "¿Cómo se dice...? は超頻出の定型表現。「〜は何と言いますか？」"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Se ___ dos casas en esta calle el mes pasado. (vender)",
+            "answer": "vendieron",
+            "options": [
+              "vendió",
+              "vendieron",
+              "vendido",
+              "venden"
+            ],
+            "explanationJa": "se受動態の過去形。casas は複数なので vendieron（複数・点過去）。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Se vende casas baratas en este barrio.",
+            "answer": "Se venden casas baratas en este barrio.",
+            "explanationJa": "casas は複数なので venden（複数形）。se受動態では動詞は意味上の主語に一致。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "La novela fue escribida por Gabriel García Márquez.",
+            "answer": "La novela fue escrita por Gabriel García Márquez.",
+            "explanationJa": "escribir の過去分詞は escrito/escrita（不規則）。escribida は存在しない形。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "La puerta fue abierto por el conserje.",
+            "answer": "La puerta fue abierta por el conserje.",
+            "explanationJa": "puerta は女性名詞なので過去分詞も女性形 abierta。性の一致を忘れない。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "El edificio fue construido de un arquitecto famoso.",
+            "answer": "El edificio fue construido por un arquitecto famoso.",
+            "explanationJa": "動作主は por で導入。de ではなく por が正しい。「〜によって」= por。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Se alquila tres apartamentos en el centro.",
+            "answer": "Se alquilan tres apartamentos en el centro.",
+            "explanationJa": "apartamentos は複数なので alquilan（複数形）。se受動態の動詞は名詞に一致。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "ser受動態とse受動態、日常会話でより自然なのはどちら？",
+            "options": [
+              "どちらも使わない",
+              "se受動態の方が圧倒的に自然",
+              "どちらも同じくらい",
+              "ser受動態の方が自然"
+            ],
+            "answer": 1,
+            "explanationJa": "日常会話ではse受動態が圧倒的に多い。ser受動態はフォーマルな場面向け。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Se busca camarero」はどんな場面で使う？",
+            "options": [
+              "求人の看板",
+              "レストランの予約",
+              "ウェイターを探している客",
+              "ウェイターへの命令"
+            ],
+            "answer": 0,
+            "explanationJa": "Se busca = 「求む」。看板や掲示の定番表現。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "ser受動態で過去分詞が変化するルールはどれ？",
+            "options": [
+              "常に男性単数形",
+              "動作主の性に一致する",
+              "主語の性・数に一致する",
+              "変化しない"
+            ],
+            "answer": 2,
+            "explanationJa": "ser受動態の過去分詞は主語に一致。La carta fue enviada.（女性単数）、Los libros fueron vendidos.（男性複数）。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "動作主を明示したいときはどちらの受動態？",
+            "options": [
+              "ser受動態（+ por）",
+              "受動態は使わない",
+              "se受動態",
+              "どちらでも同じ"
+            ],
+            "answer": 0,
+            "explanationJa": "動作主（誰が行ったか）を言いたい → ser受動態 + por。se受動態は動作主を示さない。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「En Japón se come mucho arroz.」のse受動態は何を表している？",
+            "options": [
+              "特定の人の行動",
+              "一般的な事実・習慣",
+              "過去の出来事",
+              "命令"
+            ],
+            "answer": 1,
+            "explanationJa": "se + 動詞で一般的な事実を述べる。「日本では米がたくさん食べられる」= 文化的な一般論。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「この建物は1920年に建てられた」",
+            "answer": "Este edificio fue construido en 1920.",
+            "acceptableAnswers": [
+              "El edificio fue construido en 1920.",
+              "Este edificio se construyó en 1920."
+            ],
+            "explanationJa": "ser受動態。歴史的記述。construir の過去分詞は construido（規則）。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「多くの国でスペイン語が話されている」",
+            "answer": "Se habla español en muchos países.",
+            "acceptableAnswers": [
+              "El español se habla en muchos países.",
+              "En muchos países se habla español."
+            ],
+            "explanationJa": "se受動態。一般的な事実。動作主は不特定。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「この部屋での喫煙は禁止です」",
+            "answer": "Se prohibe fumar en esta sala.",
+            "acceptableAnswers": [
+              "No se permite fumar en esta sala.",
+              "Está prohibido fumar en esta sala."
+            ],
+            "explanationJa": "se受動態。ルール・禁止事項の表現。看板でよく見る形。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "能動態→受動態（ser）: Los estudiantes leyeron el libro. → El libro ___.",
+            "answer": "El libro fue leído por los estudiantes.",
+            "explanationJa": "ser受動態：ser + 過去分詞 + por + 動作主。leer の過去分詞は leído。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "ser受動態→se受動態: La tienda fue cerrada a las 9. → Se ___ la tienda a las 9.",
+            "answer": "Se cerró la tienda a las 9.",
+            "explanationJa": "ser受動態からse受動態へ。動作主を省略し、se + 動詞3人称。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "ser受動態（ser + 過去分詞）はフォーマル。動作主（por + 人）を示したいときに使う",
+      "se受動態（se + 動詞3人称）は日常会話で圧倒的に多い。動作主が不明・不重要なときに使う",
+      "se受動態の動詞は意味上の主語の数に一致する（Se vende una casa / Se venden dos casas）",
+      "ser受動態の過去分詞は主語の性・数に一致する（fue escrita, fueron construidos）",
+      "迷ったらse受動態を使う方が自然。ser受動態の多用は不自然に聞こえる",
+      "¿Cómo se dice...? Se busca... Se prohibe... など、se受動態の定型表現を覚える"
+    ]
+  }
+}

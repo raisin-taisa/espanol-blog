@@ -1,0 +1,701 @@
+{
+  "id": "a1-004",
+  "slug": "genero-numero",
+  "titleJa": "名詞の性と数",
+  "titleEs": "Género y número de los sustantivos",
+  "level": "a1",
+  "sortOrder": 4,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "スペイン語の名詞にはすべて「性別」がある",
+        "bodyJa": "日本語には名詞の文法的な性別がありません。「机」「本」「水」に男女の区別はありませんよね。\n\nしかしスペイン語では、すべての名詞が男性名詞か女性名詞のどちらかに分類されます。これは人や動物だけでなく、物や概念にも当てはまります。\n\n・libro（本）→ 男性名詞\n・mesa（テーブル）→ 女性名詞\n・sol（太陽）→ 男性名詞\n・luna（月）→ 女性名詞\n\nなぜ「テーブルが女性」なのかに論理的な理由はありません。これは覚えるしかないルールです。ただし、いくつかの便利なパターンがあります。",
+        "bodyEs": "En español, todos los sustantivos tienen género gramatical: masculino o femenino. Esto incluye objetos y conceptos abstractos, no solo personas y animales."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "男性名詞の見分け方",
+        "bodyJa": "以下の語尾を持つ名詞は、ほとんどが男性名詞です。\n\n1. -o で終わる名詞 → ほぼ男性名詞\n・el libro（本）、el gato（猫）、el vaso（グラス）、el zapato（靴）\n\n2. -or で終わる名詞\n・el color（色）、el calor（暑さ）、el amor（愛）\n\n3. -aje で終わる名詞\n・el viaje（旅行）、el paisaje（風景）、el mensaje（メッセージ）\n\n4. -ón で終わる名詞\n・el corazón（心臓）、el avión（飛行機）、el balón（ボール）\n\n5. 曜日：el lunes, el martes...\n6. 月名：enero, febrero...（冠詞なしで使うことが多い）\n7. 色の名前：el rojo（赤）、el azul（青）",
+        "bodyEs": "La mayoría de los sustantivos terminados en -o, -or, -aje y -ón son masculinos."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "女性名詞の見分け方",
+        "bodyJa": "以下の語尾を持つ名詞は、ほとんどが女性名詞です。\n\n1. -a で終わる名詞 → ほぼ女性名詞\n・la casa（家）、la mesa（テーブル）、la ventana（窓）、la silla（椅子）\n\n2. -ción / -sión で終わる名詞\n・la estación（駅・季節）、la información（情報）、la televisión（テレビ）\n\n3. -dad / -tad で終わる名詞\n・la ciudad（都市）、la universidad（大学）、la libertad（自由）\n\n4. -eza で終わる名詞\n・la belleza（美しさ）、la naturaleza（自然）\n\n5. -ía で終わる名詞\n・la energía（エネルギー）、la filosofía（哲学）",
+        "bodyEs": "La mayoría de los sustantivos terminados en -a, -ción/-sión, -dad/-tad, -eza e -ía son femeninos."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "重要な例外を覚えよう",
+        "bodyJa": "-o で終わるのに女性名詞：\n・la mano（手）→ 最も重要な例外！\n・la foto（写真）→ fotografía の略\n・la moto（バイク）→ motocicleta の略\n・la radio（ラジオ）\n\n-a で終わるのに男性名詞：\n・el problema（問題）\n・el tema（テーマ）\n・el sistema（システム）\n・el programa（プログラム）\n・el idioma（言語）\n・el mapa（地図）\n・el día（日）\n→ -ma で終わるギリシャ語由来の名詞は男性名詞が多い\n→ el día も重要な例外\n\n性別が変わると意味が変わる名詞：\n・el capital（資本）↔ la capital（首都）\n・el orden（順序）↔ la orden（命令・注文）\n・el cura（神父）↔ la cura（治療）",
+        "bodyEs": "Excepciones importantes: la mano (femenino con -o), el problema/tema/sistema (masculinos con -a, de origen griego). Algunos sustantivos cambian de significado según el género."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "複数形の作り方",
+        "bodyJa": "スペイン語の複数形は、語尾によってルールが決まっています。\n\n1. 母音（a, e, i, o, u）で終わる → -s をつける\n・libro → libros（本）\n・casa → casas（家）\n・estudiante → estudiantes（学生）\n\n2. 子音で終わる → -es をつける\n・ciudad → ciudades（都市）\n・profesor → profesores（先生）\n・color → colores（色）\n\n3. -z で終わる → -z を -ces に変える\n・lápiz → lápices（鉛筆）\n・vez → veces（回）\n・feliz → felices（幸せな）\n・pez → peces（魚）\n\n4. アクセント記号の変化\n・estación → estaciones（アクセント記号が消える）\n・joven → jóvenes（アクセント記号が追加される）\n\n5. 複数形でも変わらない名詞（-s で終わる曜日など）\n・el lunes → los lunes（月曜日）\n・la crisis → las crisis（危機）",
+        "bodyEs": "Para formar el plural: se añade -s tras vocal, -es tras consonante, y -z cambia a -ces."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "人を表す名詞の性変化",
+        "bodyJa": "人を表す名詞は、性別によって形が変わることがあります。\n\n1. -o → -a に変える\n・el amigo → la amiga（友達）\n・el hermano → la hermana（兄弟 → 姉妹）\n・el niño → la niña（男の子 → 女の子）\n\n2. -or → -ora に変える\n・el profesor → la profesora（先生）\n・el doctor → la doctora（医師）\n\n3. 男女同形の名詞（冠詞だけ変わる）\n・el/la estudiante（学生）\n・el/la artista（アーティスト）\n・el/la periodista（ジャーナリスト）\n・el/la turista（観光客）\n\n4. 完全に異なる形\n・el padre → la madre（父 → 母）\n・el hombre → la mujer（男性 → 女性）\n・el rey → la reina（王 → 女王）",
+        "bodyEs": "Los sustantivos que designan personas pueden cambiar de género: -o/-a, -or/-ora, o ser invariables (el/la estudiante). Algunos tienen formas completamente diferentes (padre/madre)."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Los libros están en la mesa.",
+            "ja": "本はテーブルの上にあります。",
+            "noteJa": "libro（男性）の複数形 libros。mesa は女性名詞。"
+          },
+          {
+            "es": "Las ciudades de España son muy bonitas.",
+            "ja": "スペインの都市はとても美しいです。",
+            "noteJa": "ciudad（女性）の複数形 ciudades。子音で終わるので -es をつけます。"
+          },
+          {
+            "es": "Necesito dos lápices rojos.",
+            "ja": "赤い鉛筆が2本必要です。",
+            "noteJa": "lápiz の複数形は lápices。-z が -ces に変わります。"
+          },
+          {
+            "es": "El mapa de Japón es grande.",
+            "ja": "日本の地図は大きいです。",
+            "noteJa": "mapa は -a で終わりますが男性名詞です。el mapa が正しい形。"
+          },
+          {
+            "es": "La profesora habla tres idiomas.",
+            "ja": "その女性の先生は3つの言語を話します。",
+            "noteJa": "profesora は profesor の女性形。idioma は男性名詞です。"
+          },
+          {
+            "es": "Dame la mano.",
+            "ja": "手を出して（握手して）。",
+            "noteJa": "mano は -o で終わりますが女性名詞。la mano が正しい形。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "El mano está fría.",
+            "correct": "La mano está fría.",
+            "whyJa": "mano は -o で終わりますが女性名詞です。la mano が正しい形です。"
+          },
+          {
+            "wrong": "La problema es difícil.",
+            "correct": "El problema es difícil.",
+            "whyJa": "problema は -a で終わりますが男性名詞です（ギリシャ語由来の -ma）。"
+          },
+          {
+            "wrong": "Los lápizes son míos.",
+            "correct": "Los lápices son míos.",
+            "whyJa": "-z で終わる名詞の複数形は -zes ではなく -ces です。"
+          },
+          {
+            "wrong": "Las ciudads están lejos.",
+            "correct": "Las ciudades están lejos.",
+            "whyJa": "子音で終わる名詞の複数形は -s ではなく -es をつけます。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "Tenemos un problemón con el sistema. Llama al técnico.",
+            "ja": "システムにデカい問題が出た。技術者呼んで。",
+            "source": "conversation",
+            "sourceLabel": "職場での会話",
+            "noteJa": "problema → problemón（-ón をつけると「大きい問題」）。増大辞も男性形のまま。el sistema も男性名詞。"
+          },
+          {
+            "es": "Las fotos del viaje quedaron increíbles 📸",
+            "ja": "旅行の写真めっちゃよく撮れた📸",
+            "source": "sns",
+            "sourceLabel": "Instagram投稿風",
+            "noteJa": "foto は -o で終わるけど女性名詞（fotografía の略）。las fotos が正しい形。los fotos は間違い！"
+          },
+          {
+            "es": "Dame la mano, que nos vamos.",
+            "ja": "手をつないで、行くよ。",
+            "source": "drama",
+            "sourceLabel": "ドラマ風セリフ",
+            "context": "親が子供に言っている場面",
+            "noteJa": "la mano：-o で終わるのに女性名詞。日常で超頻出。「手をつなぐ」= dar la mano / tomar de la mano。"
+          },
+          {
+            "es": "Hay dos peces en el acuario. Antes había tres, pero uno se murió 😢",
+            "ja": "水槽に魚が2匹いる。前は3匹いたけど1匹死んじゃった😢",
+            "source": "conversation",
+            "sourceLabel": "子供との会話",
+            "noteJa": "pez → peces（-z が -ces に変化）。これは複数形の重要パターン。lápiz → lápices も同じ。"
+          },
+          {
+            "es": "Mi padre es doctor y mi madre es doctora. Los dos trabajan en el mismo hospital.",
+            "ja": "父も母も医者で、2人とも同じ病院で働いてる。",
+            "source": "conversation",
+            "sourceLabel": "家族の紹介",
+            "noteJa": "doctor → doctora：-or で終わる名詞は -ora で女性形。padre/madre は完全に形が違うパターン。"
+          },
+          {
+            "es": "¿Cuántos idiomas hablas? — Tres: japonés, inglés y un poco de español.",
+            "ja": "何ヶ国語話せる？ — 3つ。日本語と英語と、スペイン語ちょっと。",
+            "source": "conversation",
+            "sourceLabel": "初対面の定番質問",
+            "noteJa": "idioma は -a で終わるけど男性名詞（ギリシャ語由来）。cuántos idiomas（男性複数）が正しい形。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "___ libro es interesante.",
+            "options": [
+              "Las",
+              "Los",
+              "El",
+              "La"
+            ],
+            "answer": 2,
+            "explanationJa": "libro は -o で終わる男性名詞です。el libro が正解。"
+          },
+          {
+            "prompt": "casa（家）の複数形は？",
+            "options": [
+              "casas",
+              "casis",
+              "casaes",
+              "cases"
+            ],
+            "answer": 0,
+            "explanationJa": "母音 -a で終わるので -s をつけるだけです。casas が正解。"
+          },
+          {
+            "prompt": "___ mesa es grande.",
+            "options": [
+              "Un",
+              "El",
+              "La",
+              "Los"
+            ],
+            "answer": 2,
+            "explanationJa": "mesa は -a で終わる女性名詞です。la mesa が正解。"
+          },
+          {
+            "prompt": "ciudad（都市）の複数形は？",
+            "options": [
+              "ciudades",
+              "ciudaes",
+              "ciudads",
+              "ciudás"
+            ],
+            "answer": 0,
+            "explanationJa": "子音 -d で終わる名詞は -es をつけます。ciudades が正解。"
+          },
+          {
+            "prompt": "lápiz（鉛筆）の複数形は？",
+            "options": [
+              "lápices",
+              "lápizs",
+              "lápizces",
+              "lápizes"
+            ],
+            "answer": 0,
+            "explanationJa": "-z で終わる名詞は -z を -ces に変えて複数形にします。lápices が正解。"
+          },
+          {
+            "prompt": "___ gato duerme en el sofá.",
+            "options": [
+              "Los",
+              "El",
+              "La",
+              "Las"
+            ],
+            "answer": 1,
+            "explanationJa": "gato は -o で終わる男性名詞です。el gato が正解。"
+          },
+          {
+            "prompt": "estudiante（学生）の複数形は？",
+            "options": [
+              "estudiantas",
+              "estudiantees",
+              "estudiantses",
+              "estudiantes"
+            ],
+            "answer": 3,
+            "explanationJa": "母音 -e で終わるので -s をつけるだけです。estudiantes が正解。"
+          },
+          {
+            "prompt": "___ estación está cerca.",
+            "options": [
+              "El",
+              "Las",
+              "Los",
+              "La"
+            ],
+            "answer": 3,
+            "explanationJa": "-ción で終わる名詞は女性名詞です。la estación が正解。"
+          },
+          {
+            "prompt": "profesor の女性形は？",
+            "options": [
+              "profesorа",
+              "profesoresa",
+              "profesorisa",
+              "profesora"
+            ],
+            "answer": 3,
+            "explanationJa": "-or で終わる名詞は -ora をつけて女性形にします。profesora が正解。"
+          },
+          {
+            "prompt": "pez（魚）の複数形は？",
+            "options": [
+              "pezs",
+              "peces",
+              "pezes",
+              "pecis"
+            ],
+            "answer": 1,
+            "explanationJa": "-z で終わる名詞は -z を -ces に変えます。peces が正解。"
+          },
+          {
+            "prompt": "___ mano está fría.",
+            "options": [
+              "El",
+              "La",
+              "Las",
+              "Los"
+            ],
+            "answer": 1,
+            "explanationJa": "mano は -o で終わりますが例外的に女性名詞です。la mano が正解。"
+          },
+          {
+            "prompt": "「問題」を表す名詞 problema の冠詞は？",
+            "options": [
+              "el",
+              "la",
+              "las",
+              "los"
+            ],
+            "answer": 0,
+            "explanationJa": "problema はギリシャ語由来の -ma で終わる男性名詞です。el problema が正解。"
+          },
+          {
+            "prompt": "___ tema de la clase es difícil.",
+            "options": [
+              "Los",
+              "La",
+              "Las",
+              "El"
+            ],
+            "answer": 3,
+            "explanationJa": "tema もギリシャ語由来の -ma で終わる男性名詞です。el tema が正解。"
+          },
+          {
+            "prompt": "___ mapa de Europa es muy detallado.",
+            "options": [
+              "El",
+              "Los",
+              "La",
+              "Las"
+            ],
+            "answer": 0,
+            "explanationJa": "mapa は -a で終わりますがギリシャ語由来の男性名詞です。el mapa が正解。"
+          },
+          {
+            "prompt": "___ día está nublado.",
+            "options": [
+              "El",
+              "Los",
+              "Las",
+              "La"
+            ],
+            "answer": 0,
+            "explanationJa": "día は -a で終わりますが例外的に男性名詞です。el día が正解。"
+          },
+          {
+            "prompt": "次の文の誤りはどこですか？「Compré los fotos del viaje.」",
+            "options": [
+              "viaje → viaja",
+              "fotos → fotoes",
+              "Compré が間違い",
+              "los → las"
+            ],
+            "answer": 3,
+            "explanationJa": "foto は fotografía の略で女性名詞です。las fotos が正解。los fotos は間違いです。"
+          },
+          {
+            "prompt": "___ moto roja es de mi hermano.",
+            "options": [
+              "La",
+              "Las",
+              "Los",
+              "El"
+            ],
+            "answer": 0,
+            "explanationJa": "moto は motocicleta の略で女性名詞です。la moto が正解。"
+          },
+          {
+            "prompt": "___ radio no funciona.",
+            "options": [
+              "Los",
+              "El",
+              "Las",
+              "La"
+            ],
+            "answer": 3,
+            "explanationJa": "radio は -o で終わりますが女性名詞です。la radio が正解。"
+          },
+          {
+            "prompt": "「首都」を意味するのはどちら？",
+            "options": [
+              "la capital",
+              "el capital",
+              "las capitales",
+              "los capitales"
+            ],
+            "answer": 0,
+            "explanationJa": "la capital は「首都」、el capital は「資本・資金」。冠詞の性で意味が変わります。"
+          },
+          {
+            "prompt": "「命令」を意味する場合、正しいのは？",
+            "options": [
+              "un orden",
+              "la orden",
+              "el orden",
+              "los órdenes"
+            ],
+            "answer": 1,
+            "explanationJa": "la orden は「命令・注文」、el orden は「順序」。意味によって性が変わります。"
+          },
+          {
+            "prompt": "análisis（分析）の複数形は？",
+            "options": [
+              "análisises",
+              "analises",
+              "analisises",
+              "análisis"
+            ],
+            "answer": 3,
+            "explanationJa": "-sis で終わる名詞は単数と複数が同じ形です。冠詞で区別します：el análisis → los análisis。"
+          },
+          {
+            "prompt": "___ crisis económica afecta a todo el país.",
+            "options": [
+              "El",
+              "Las",
+              "Los",
+              "La"
+            ],
+            "answer": 3,
+            "explanationJa": "crisis は女性名詞です。la crisis が正解。複数形も las crisis で形は変わりません。"
+          },
+          {
+            "prompt": "régimen（体制・政権）の複数形は？",
+            "options": [
+              "régimenes",
+              "régimens",
+              "regímenes",
+              "regimens"
+            ],
+            "answer": 2,
+            "explanationJa": "régimen の複数形は regímenes です。アクセントの位置が移動する不規則な変化に注意。"
+          },
+          {
+            "prompt": "carácter（性格）の複数形は？",
+            "options": [
+              "carácters",
+              "caracteres",
+              "caractéres",
+              "carácterеs"
+            ],
+            "answer": 1,
+            "explanationJa": "carácter の複数形は caracteres です。アクセント記号が消え、アクセント位置が移動します。"
+          },
+          {
+            "prompt": "hipótesis（仮説）の複数形は？",
+            "options": [
+              "hipóteses",
+              "hipotéses",
+              "hipótesis",
+              "hipótesises"
+            ],
+            "answer": 2,
+            "explanationJa": "-sis で終わる名詞は単複同形です。la hipótesis → las hipótesis。冠詞で数を区別します。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "___ casa es grande. (冠詞)",
+            "answer": "La",
+            "options": [
+              "Las",
+              "El",
+              "La",
+              "Los"
+            ],
+            "explanationJa": "casaは-aで終わる女性名詞。定冠詞laを使います。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ viaje fue maravilloso. (冠詞)",
+            "answer": "El",
+            "options": [
+              "Los",
+              "El",
+              "La",
+              "Las"
+            ],
+            "explanationJa": "viajeは-ajeで終わる男性名詞。el viajeが正解。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Necesito tres ___. (lápiz の複数形)",
+            "answer": "lápices",
+            "options": [
+              "lápices",
+              "lápizes",
+              "lápizs",
+              "lápis"
+            ],
+            "explanationJa": "-zで終わる名詞の複数形は-zを-cesに変えます。lápiz → lápices。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Las ___ de España son bonitas. (ciudad の複数形)",
+            "answer": "ciudades",
+            "options": [
+              "ciudades",
+              "ciudaes",
+              "ciudads",
+              "ciudás"
+            ],
+            "explanationJa": "子音-dで終わる名詞は-esをつけます。ciudad → ciudades。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ mano está fría. (冠詞)",
+            "answer": "La",
+            "options": [
+              "El",
+              "Los",
+              "Las",
+              "La"
+            ],
+            "explanationJa": "manoは-oで終わりますが例外的に女性名詞。la manoが正解。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ día está nublado hoy. (冠詞)",
+            "answer": "El",
+            "options": [
+              "La",
+              "El",
+              "Las",
+              "Los"
+            ],
+            "explanationJa": "díaは-aで終わりますが例外的に男性名詞。el díaが正解。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Mi ___ es doctora. (hermano の女性形)",
+            "answer": "hermana",
+            "options": [
+              "hermana",
+              "hermane",
+              "hermanoa",
+              "hermano"
+            ],
+            "explanationJa": "-oで終わる名詞は-aに変えて女性形にします。hermano → hermana。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ información es importante. (冠詞)",
+            "answer": "La",
+            "options": [
+              "Los",
+              "El",
+              "Las",
+              "La"
+            ],
+            "explanationJa": "informaciónは-ciónで終わる女性名詞。la informaciónが正解。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Hay dos ___ en el acuario. (pez の複数形)",
+            "answer": "peces",
+            "options": [
+              "pezs",
+              "pecis",
+              "peces",
+              "pezes"
+            ],
+            "explanationJa": "-zで終わる名詞は-zを-cesに変えます。pez → peces。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ moto roja es de mi padre. (冠詞)",
+            "answer": "La",
+            "options": [
+              "Las",
+              "La",
+              "Los",
+              "El"
+            ],
+            "explanationJa": "motoはmotocicletaの略で女性名詞。-oで終わりますがla motoが正解。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "El mano está frío.",
+            "answer": "La mano está fría.",
+            "explanationJa": "manoは女性名詞。冠詞も形容詞も女性形に合わせます。la mano + fría。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Los lápizes son míos.",
+            "answer": "Los lápices son míos.",
+            "explanationJa": "-zで終わる名詞の複数形は-zesではなく-cesです。lápiz → lápices。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "La sistema no funciona.",
+            "answer": "El sistema no funciona.",
+            "explanationJa": "sistemaはギリシャ語由来の男性名詞。el sistemaが正しい形。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Compré los fotos del viaje.",
+            "answer": "Compré las fotos del viaje.",
+            "explanationJa": "fotoはfotografíaの略で女性名詞。las fotosが正しい形。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "La idioma español es bonita.",
+            "answer": "El idioma español es bonito.",
+            "explanationJa": "idiomaはギリシャ語由来の男性名詞。el idioma + bonitoが正しい形。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次のうち女性名詞はどれ？",
+            "options": [
+              "problema",
+              "día",
+              "mapa",
+              "mano"
+            ],
+            "answer": 3,
+            "explanationJa": "manoは-oで終わりますが例外的に女性名詞。problema, día, mapaは全て男性名詞です。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次のうち男性名詞はどれ？",
+            "options": [
+              "tema",
+              "universidad",
+              "estación",
+              "libertad"
+            ],
+            "answer": 0,
+            "explanationJa": "temaはギリシャ語由来の-maで終わる男性名詞。他は全て女性名詞です。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "crisis（危機）の複数形は？",
+            "options": [
+              "crisis",
+              "crises",
+              "crisises",
+              "crisises"
+            ],
+            "answer": 0,
+            "explanationJa": "-sisで終わる名詞は単複同形です。la crisis → las crisis。冠詞で数を区別します。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「首都」を意味するのは？",
+            "options": [
+              "el capital",
+              "los capitales",
+              "un capital",
+              "la capital"
+            ],
+            "answer": 3,
+            "explanationJa": "la capital = 首都。el capital = 資本・資金。冠詞の性で意味が変わります。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "profesorの女性形は？",
+            "options": [
+              "profesora",
+              "profesorisa",
+              "profesoresa",
+              "profesore"
+            ],
+            "answer": 0,
+            "explanationJa": "-orで終わる名詞は-oraをつけて女性形にします。profesor → profesora。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「手を出して（握手して）」をスペイン語に訳しなさい。",
+            "answer": "Dame la mano.",
+            "acceptableAnswers": [
+              "Dame la mano."
+            ],
+            "explanationJa": "manoは女性名詞なのでla mano。dar la mano = 手をつなぐ・握手する。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「赤い鉛筆が2本必要です」をスペイン語に訳しなさい。",
+            "answer": "Necesito dos lápices rojos.",
+            "acceptableAnswers": [
+              "Necesito dos lápices rojos."
+            ],
+            "explanationJa": "lápizの複数形はlápices（-z → -ces）。rojos = 男性複数の形容詞。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「日本の地図は大きい」をスペイン語に訳しなさい。",
+            "answer": "El mapa de Japón es grande.",
+            "acceptableAnswers": [
+              "El mapa de Japón es grande."
+            ],
+            "explanationJa": "mapaは男性名詞なのでel mapa。grandeは男女同形です。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文を複数形にしなさい: La ciudad es grande.",
+            "answer": "Las ciudades son grandes.",
+            "explanationJa": "la → las、ciudad → ciudades（子音+es）、es → son、grande → grandes。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文の名詞を女性形にしなさい: El doctor trabaja en el hospital.",
+            "answer": "La doctora trabaja en el hospital.",
+            "explanationJa": "doctor → doctora（-or → -ora）、el → la。hospitalは場所なので変わりません。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "スペイン語のすべての名詞は男性名詞か女性名詞に分類される",
+      "-o で終わる名詞はほぼ男性、-a で終わる名詞はほぼ女性（例外に注意）",
+      "重要な例外：la mano（手）、el problema / tema / sistema / mapa / día",
+      "複数形：母音の後は -s、子音の後は -es、-z は -ces に変化",
+      "人を表す名詞は -o/-a や -or/-ora で性別を表す",
+      "名詞の性がわからないときは、冠詞と一緒にセットで覚えるのがコツ"
+    ]
+  }
+}

@@ -1,0 +1,498 @@
+{
+  "id": "b2-grammar-008",
+  "slug": "conectores-discursivos",
+  "titleJa": "談話標識（ディスコースマーカー）",
+  "titleEs": "Conectores Discursivos",
+  "level": "b2",
+  "sortOrder": 8,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "談話標識とは？文と文をつなぐ「接着剤」",
+        "bodyJa": "談話標識（conectores discursivos）は、文と文の論理的な関係を示す接続表現です。\n\n日本語の「しかし」「したがって」「つまり」「一方」に相当します。\n\nなぜ重要か：\n・DELE B2の作文と口頭試験で、評価基準の大きな部分を占めます\n・これがないと、文がぶつ切りになり「A1レベルの作文」に聞こえます\n・ネイティブの会話でも頻繁に使われます\n\n日本語話者が陥りがちな問題：\n日本語は接続詞が比較的少なくても文脈で伝わりますが、スペイン語では論理の接続を明示しないと「何が言いたいのかわからない」と思われます。\n\n意識的に談話標識を使う練習が必要です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "対比・逆接：「しかし」「一方で」",
+        "bodyJa": "前の文と反対のことや対照的なことを述べるときに使います。\n\n1. sin embargo（しかし、しかしながら）\n   Es caro. Sin embargo, la calidad es excelente.\n   （高い。しかし、品質は優れている）\n   ※最もフォーマルで万能な「しかし」。DELE作文で必須。\n\n2. no obstante（それにもかかわらず）\n   Llovía mucho. No obstante, salimos de excursión.\n   （大雨だった。それにもかかわらず、遠足に出かけた）\n   ※sin embargo とほぼ同義。よりフォーマル。\n\n3. en cambio（一方、それに対して）\n   A mi hermano le gusta el fútbol. Yo, en cambio, prefiero el tenis.\n   （兄はサッカーが好きだ。一方、私はテニスの方が好きだ）\n   ※対比を強調。2つのものを比べるときに最適。\n\n4. por el contrario（それどころか、それに反して）\n   No me molestó. Por el contrario, me hizo mucha gracia.\n   （嫌ではなかった。それどころか、とても面白かった）\n   ※前の内容と正反対のことを述べる。\n\n5. aunque（〜にもかかわらず、〜だけど）\n   Aunque estaba cansado, siguió trabajando.\n   （疲れていたが、働き続けた）\n   ※接続詞。文中で使う。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "結果・結論：「したがって」「つまり」",
+        "bodyJa": "前の文から導かれる結果や結論を述べるときに使います。\n\n1. por lo tanto（したがって）\n   No estudió. Por lo tanto, suspendió el examen.\n   （勉強しなかった。したがって、試験に落ちた）\n   ※フォーマル。論理的な結果。\n\n2. por eso（だから）\n   Estaba lloviendo, por eso me quedé en casa.\n   （雨が降っていた。だから家にいた）\n   ※口語的。日常会話で最もよく使う「だから」。\n\n3. así que（そういうわけで、だから）\n   Se me rompió el coche, así que fui en tren.\n   （車が壊れた。だから電車で行った）\n   ※口語的。por eso とほぼ同義。\n\n4. en consecuencia（結果として）\n   La empresa tuvo pérdidas. En consecuencia, despidieron a 50 empleados.\n   （会社は損失を出した。結果として、50人が解雇された）\n   ※非常にフォーマル。ニュース・論文向け。\n\n5. por consiguiente（従って）\n   No cumple los requisitos. Por consiguiente, no puede participar.\n   （要件を満たしていない。従って、参加できない）\n   ※フォーマル。法律・公式文書で使用。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "追加・補足：「さらに」「その上」",
+        "bodyJa": "前の文に情報を追加するときに使います。\n\n1. además（さらに、その上）\n   Es inteligente. Además, es muy simpática.\n   （頭がいい。さらに、とても感じがいい）\n   ※最もよく使う追加の表現。\n\n2. también（〜も）\n   Me gusta el café. También me gusta el té.\n   （コーヒーが好きだ。紅茶も好きだ）\n   ※基本的だが重要。\n\n3. es más（それどころか、しかも）\n   No solo es bueno, es más, es el mejor del equipo.\n   （良いだけでなく、しかもチームで一番だ）\n   ※前の内容をさらに強調。\n\n4. aparte de eso（それ以外に）\n   Aparte de eso, no hay ningún problema.\n   （それ以外に問題はない）\n\n5. encima（おまけに）\n   Llegó tarde y encima no pidió perdón.\n   （遅刻した上に、おまけに謝りもしなかった）\n   ※口語的。不満・驚きのニュアンス。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "説明・言い換え：「つまり」「要するに」",
+        "bodyJa": "前の文を別の言い方で説明し直すときに使います。\n\n1. es decir（つまり、すなわち）\n   Vivo en la capital, es decir, en Madrid.\n   （首都に住んでいる。つまり、マドリードだ）\n   ※最もよく使う言い換え表現。\n\n2. o sea（つまり、要するに）\n   No viene, o sea, que estamos solos.\n   （来ないんだ。つまり、俺たちだけってことだ）\n   ※口語的。日常会話で非常に頻繁に使う。\n\n3. en otras palabras（言い換えれば）\n   No está interesado. En otras palabras, no va a participar.\n   （興味がない。言い換えれば、参加しないということだ）\n   ※フォーマル。\n\n4. dicho de otro modo（別の言い方をすると）\n   Dicho de otro modo, no hay presupuesto.\n   （別の言い方をすると、予算がないということだ）\n   ※フォーマル。en otras palabras とほぼ同義。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "順序・構成：「まず」「最後に」",
+        "bodyJa": "話や文章の構成を示すときに使います。DELE B2の口頭試験で特に重要です。\n\n1. en primer lugar（まず第一に）\n   En primer lugar, me gustaría agradecer a todos.\n   （まず第一に、皆さんに感謝したい）\n\n2. en segundo lugar（第二に）\n   En segundo lugar, quiero hablar sobre el presupuesto.\n   （第二に、予算について話したい）\n\n3. por un lado... por otro lado（一方では...他方では）\n   Por un lado, quiero viajar. Por otro lado, necesito ahorrar.\n   （一方では旅行したい。他方では貯金する必要がある）\n\n4. por último / finalmente（最後に）\n   Por último, quiero mencionar un punto importante.\n   （最後に、重要な点を述べたい）\n\n5. en resumen / en conclusión（要約すると / 結論として）\n   En resumen, la propuesta es viable.\n   （要約すると、その提案は実行可能だ）\n\nDELE B2のタスク2（プレゼンテーション）では、これらを使って論理的に話を構成することが求められます。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "El restaurante es caro. Sin embargo, la comida es excelente.",
+            "ja": "そのレストランは高い。しかし、料理は素晴らしい。",
+            "noteJa": "sin embargo = 「しかし」。逆接の最も基本的な表現。"
+          },
+          {
+            "es": "No tenía paraguas, así que me mojé.",
+            "ja": "傘を持っていなかった。だから濡れた。",
+            "noteJa": "así que = 「だから」。口語的な因果関係。"
+          },
+          {
+            "es": "A Juan le gusta el verano. En cambio, a mí me encanta el invierno.",
+            "ja": "フアンは夏が好きだ。一方、私は冬が大好きだ。",
+            "noteJa": "en cambio = 「一方」。2つの対照的なものを比べる。"
+          },
+          {
+            "es": "Es muy inteligente. Además, habla cuatro idiomas.",
+            "ja": "とても頭がいい。さらに、4か国語を話す。",
+            "noteJa": "además = 「さらに」。情報の追加。"
+          },
+          {
+            "es": "No estudió nada. Por lo tanto, suspendió todas las asignaturas.",
+            "ja": "全く勉強しなかった。したがって、全科目不合格だった。",
+            "noteJa": "por lo tanto = 「したがって」。論理的な結果。"
+          },
+          {
+            "es": "Trabaja en finanzas, o sea, gana mucho dinero.",
+            "ja": "金融で働いている。つまり、たくさん稼いでいる。",
+            "noteJa": "o sea = 「つまり」。口語で最も使われる言い換え表現。"
+          },
+          {
+            "es": "En primer lugar, vamos a analizar el problema. En segundo lugar, buscaremos soluciones.",
+            "ja": "まず問題を分析しよう。次に、解決策を探そう。",
+            "noteJa": "en primer lugar / en segundo lugar。プレゼンやディスカッションの構成に必須。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Me gusta España. Pero sin embargo, prefiero Italia.",
+            "correct": "Me gusta España. Sin embargo, prefiero Italia.",
+            "whyJa": "pero と sin embargo は同じ逆接の機能を持つので重複します。どちらか一方を使いましょう。日本語の「でも、しかし」を両方訳してしまいがちです。"
+          },
+          {
+            "wrong": "No tenía dinero. Encima, fui de compras.",
+            "correct": "No tenía dinero. Aun así, fui de compras.",
+            "whyJa": "encima は「追加の不満・悪い状況」を述べるときに使います。「お金がないけど買い物に行った」は対比なので aun así（それでも）が適切。encima は「そのうえ」のネガティブな追加。"
+          },
+          {
+            "wrong": "Por eso que no vine.",
+            "correct": "Por eso no vine.",
+            "whyJa": "por eso の後に que は不要です。日本語の「だから〜した」をそのまま訳すときに que を入れてしまう癖があります。"
+          },
+          {
+            "wrong": "En primer lugar quiero decir que... En primer lugar también...",
+            "correct": "En primer lugar quiero decir que... En segundo lugar...",
+            "whyJa": "順序マーカーは正しい順番で使います。primer が2回来たら意味がありません。日本語話者は「まず...まず...」と言いがちですが、スペイン語では numbering を正確に。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！談話標識の日常会話",
+        "items": [
+          {
+            "es": "Quería ir a la playa, pero llovía. Así que nos quedamos viendo Netflix.",
+            "ja": "ビーチに行きたかったけど雨だった。だからNetflix見てた。",
+            "source": "conversation",
+            "sourceLabel": "友人との週末の報告",
+            "noteJa": "así que は日常会話で最も使われる「だから」。カジュアルな場面に最適。"
+          },
+          {
+            "es": "El examen era difícil. Sin embargo, creo que me fue bien.",
+            "ja": "試験は難しかった。でも、うまくいったと思う。",
+            "source": "conversation",
+            "sourceLabel": "試験後のクラスメートとの会話",
+            "noteJa": "sin embargo はフォーマルだが、日常会話でも普通に使います。"
+          },
+          {
+            "es": "A mis padres les gusta el campo. Yo, en cambio, soy más de ciudad.",
+            "ja": "両親は田舎が好き。私は逆に、都会派だ。",
+            "source": "conversation",
+            "sourceLabel": "自己紹介の場面",
+            "noteJa": "en cambio で自分と他者の対比。soy más de... は「〜派だ」の口語表現。"
+          },
+          {
+            "es": "No solo llegó tarde, encima no trajo nada para la fiesta 😤",
+            "ja": "遅刻した上に、おまけにパーティーに何も持ってこなかった😤",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "no solo... encima... = 「〜だけでなく、おまけに」。不満を爆発させる定番。"
+          },
+          {
+            "es": "O sea, ¿me estás diciendo que no vienes? Pues vale.",
+            "ja": "つまり、来ないってこと？じゃあいいよ。",
+            "source": "conversation",
+            "sourceLabel": "友人との電話",
+            "noteJa": "o sea は口語で超頻出。確認・言い換えに使う。pues vale = 「じゃあいいよ」。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "El hotel era caro. ___, la ubicación era perfecta.",
+            "options": [
+              "Sin embargo",
+              "Además",
+              "Es decir",
+              "Por lo tanto"
+            ],
+            "answer": 0,
+            "explanationJa": "「高い」→「でも場所は完璧」。逆接なので sin embargo。"
+          },
+          {
+            "prompt": "No estudió nada. ___, suspendió el examen.",
+            "options": [
+              "Sin embargo",
+              "Por lo tanto",
+              "O sea",
+              "En cambio"
+            ],
+            "answer": 1,
+            "explanationJa": "「勉強しなかった」→「だから落ちた」。因果関係なので por lo tanto。"
+          },
+          {
+            "prompt": "A Juan le gusta el fútbol. ___, a mí me gusta el béisbol.",
+            "options": [
+              "Es decir",
+              "En cambio",
+              "Además",
+              "Por eso"
+            ],
+            "answer": 1,
+            "explanationJa": "2つの対照的な好みを比べている。対比なので en cambio。"
+          },
+          {
+            "prompt": "Es muy simpática. ___, es muy inteligente.",
+            "options": [
+              "Por lo tanto",
+              "Además",
+              "Sin embargo",
+              "En cambio"
+            ],
+            "answer": 1,
+            "explanationJa": "良い特徴を追加している。追加なので además。"
+          },
+          {
+            "prompt": "Vivo en la capital, ___, en Madrid.",
+            "options": [
+              "en cambio",
+              "por lo tanto",
+              "sin embargo",
+              "es decir"
+            ],
+            "answer": 3,
+            "explanationJa": "「首都」=「マドリード」と言い換えている。言い換えなので es decir。"
+          },
+          {
+            "prompt": "次のうち、最もカジュアルな「つまり」はどれ？",
+            "options": [
+              "en otras palabras",
+              "o sea",
+              "dicho de otro modo",
+              "es decir"
+            ],
+            "answer": 1,
+            "explanationJa": "o sea が最もカジュアル。日常会話で非常に頻繁に使います。"
+          },
+          {
+            "prompt": "DELE B2の口頭試験で話の順序を示すのに最適な表現は？",
+            "options": [
+              "Para empezar... Para terminar...",
+              "Uno... Dos...",
+              "En primer lugar... En segundo lugar...",
+              "Primero... Después..."
+            ],
+            "answer": 2,
+            "explanationJa": "en primer lugar / en segundo lugar がフォーマルで試験に最適。primero / después はカジュアル。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "El hotel era caro. ___, la ubicación era perfecta.",
+            "answer": "Sin embargo",
+            "options": [
+              "Sin embargo",
+              "Además",
+              "Es decir",
+              "Por lo tanto"
+            ],
+            "explanationJa": "「高い」→「でも場所は完璧」。逆接なので sin embargo（しかし）。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "No estudió nada. ___, suspendió todas las asignaturas.",
+            "answer": "Por lo tanto",
+            "options": [
+              "Por lo tanto",
+              "En cambio",
+              "Sin embargo",
+              "Además"
+            ],
+            "explanationJa": "「勉強しなかった」→「だから落ちた」。因果関係なので por lo tanto。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "A mi madre le gusta el campo. Yo, ___, prefiero la ciudad.",
+            "answer": "en cambio",
+            "options": [
+              "es decir",
+              "en cambio",
+              "por eso",
+              "además"
+            ],
+            "explanationJa": "母と自分の好みの対比 → en cambio（一方、それに対して）。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Es muy inteligente. ___, habla cinco idiomas.",
+            "answer": "Además",
+            "options": [
+              "Por lo tanto",
+              "En cambio",
+              "Además",
+              "Sin embargo"
+            ],
+            "explanationJa": "良い特徴の追加 → además（さらに、その上）。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Vivo en la capital de Japón, ___, en Tokio.",
+            "answer": "es decir",
+            "options": [
+              "por lo tanto",
+              "sin embargo",
+              "es decir",
+              "en cambio"
+            ],
+            "explanationJa": "「首都」=「東京」と言い換え → es decir（つまり）。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Llovía mucho. ___, salimos de excursión.",
+            "answer": "No obstante",
+            "options": [
+              "No obstante",
+              "Además",
+              "Por eso",
+              "Es decir"
+            ],
+            "explanationJa": "大雨にもかかわらず出かけた → no obstante（それにもかかわらず）。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Estaba lloviendo, ___ me quedé en casa.",
+            "answer": "así que",
+            "options": [
+              "así que",
+              "sin embargo",
+              "en cambio",
+              "además"
+            ],
+            "explanationJa": "雨だった → だから家にいた。口語的な因果関係 → así que。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Llegó tarde y ___ no pidió perdón.",
+            "answer": "encima",
+            "options": [
+              "por lo tanto",
+              "sin embargo",
+              "encima",
+              "es decir"
+            ],
+            "explanationJa": "遅刻した上に謝らなかった → encima（おまけに）。ネガティブな追加。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ lugar, vamos a analizar el problema. ___ lugar, buscaremos soluciones.",
+            "answer": "En primer / En segundo",
+            "options": [
+              "Al / Al",
+              "Primero / Después",
+              "En primer / En segundo",
+              "Por un / Por otro"
+            ],
+            "explanationJa": "順序マーカー。en primer lugar → en segundo lugar。プレゼンの構成に必須。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "No solo llegó tarde, ___ no trajo nada para la fiesta.",
+            "answer": "encima",
+            "options": [
+              "es decir",
+              "por lo tanto",
+              "encima",
+              "sin embargo"
+            ],
+            "explanationJa": "no solo... encima... = 「〜だけでなく、おまけに」。不満の表現。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Me gusta España. Pero sin embargo, prefiero Italia.",
+            "answer": "Me gusta España. Sin embargo, prefiero Italia.",
+            "explanationJa": "pero と sin embargo は同じ逆接機能で重複。どちらか一方を使う。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Por eso que no pude ir a la fiesta.",
+            "answer": "Por eso no pude ir a la fiesta.",
+            "explanationJa": "por eso の後に que は不要。「だから〜した」= por eso + 動詞。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "En primer lugar quiero hablar de A. En primer lugar también quiero hablar de B.",
+            "answer": "En primer lugar quiero hablar de A. En segundo lugar quiero hablar de B.",
+            "explanationJa": "順序マーカーは正しい順番で。primer が2回は不可。segundo, tercero... と続ける。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "No tenía dinero. Encima, fui de compras y me divertí mucho.",
+            "answer": "No tenía dinero. Aun así, fui de compras y me divertí mucho.",
+            "explanationJa": "encima はネガティブな追加。「お金がないけど楽しんだ」は対比なので aun así（それでも）が適切。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "El restaurante es barato. En cambio, la comida es deliciosa.",
+            "answer": "El restaurante es barato. Además, la comida es deliciosa.",
+            "explanationJa": "「安い」+「美味しい」は対比ではなく追加。en cambio ではなく además。en cambio は対照的な内容に使う。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "最もカジュアルな「つまり」はどれ？",
+            "options": [
+              "en otras palabras",
+              "o sea",
+              "es decir",
+              "dicho de otro modo"
+            ],
+            "answer": 1,
+            "explanationJa": "o sea が最もカジュアル。日常会話で超頻出。es decir はやや改まった場面。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "DELE B2の口頭試験で話の順序を示すのに最適な表現は？",
+            "options": [
+              "Y... Y... Y...",
+              "Uno... Dos... Tres...",
+              "En primer lugar... En segundo lugar... Por último...",
+              "Primero... Después... Al final..."
+            ],
+            "answer": 2,
+            "explanationJa": "en primer lugar / en segundo lugar / por último がフォーマルで試験に最適。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "encima はどんなニュアンスで使う？",
+            "options": [
+              "不満・ネガティブな追加（おまけに悪いことが）",
+              "ポジティブな追加",
+              "結論",
+              "逆接"
+            ],
+            "answer": 0,
+            "explanationJa": "encima = 「おまけに」。ネガティブな状況がさらに悪化するときに使う。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「por un lado... por otro lado...」はどんな場面で使う？",
+            "options": [
+              "結論を出すとき",
+              "言い換えるとき",
+              "2つの側面を比べるとき",
+              "理由を述べるとき"
+            ],
+            "answer": 2,
+            "explanationJa": "por un lado... por otro lado... = 「一方では...他方では...」。メリットとデメリットなど。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「en resumen」と「en conclusión」の使い分けは？",
+            "options": [
+              "resumen=冒頭で使う、conclusión=途中で使う",
+              "resumen=要約、conclusión=結論（ほぼ同義で使い分け可能）",
+              "resumen=口語、conclusión=文語",
+              "全く違う意味"
+            ],
+            "answer": 1,
+            "explanationJa": "en resumen = 「要約すると」、en conclusión = 「結論として」。どちらも締めに使え、ほぼ同義。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「試験は難しかった。しかし、合格したと思う」",
+            "answer": "El examen fue difícil. Sin embargo, creo que aprobé.",
+            "acceptableAnswers": [
+              "El examen era difícil. Sin embargo, creo que lo aprobé.",
+              "El examen fue difícil. No obstante, creo que aprobé."
+            ],
+            "explanationJa": "逆接 → sin embargo / no obstante。「しかし」の最も基本的な表現。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「彼は頭がいい。さらに、4か国語を話す」",
+            "answer": "Es muy inteligente. Además, habla cuatro idiomas.",
+            "acceptableAnswers": [
+              "Es muy listo. Además, habla cuatro lenguas.",
+              "Es inteligente. Además, domina cuatro idiomas."
+            ],
+            "explanationJa": "追加 → además。ポジティブな情報を付け加える。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「つまり、来ないってこと？」",
+            "answer": "O sea, ¿no vienes?",
+            "acceptableAnswers": [
+              "O sea, ¿que no vienes?",
+              "Es decir, ¿no vienes?"
+            ],
+            "explanationJa": "口語的な言い換え → o sea。確認のニュアンス。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "2文を談話標識でつなぐ: No tenía paraguas. + Me mojé. →（因果関係）",
+            "answer": "No tenía paraguas, así que me mojé.",
+            "explanationJa": "傘がなかった → だから濡れた。口語的な因果関係 → así que / por eso。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "2文を談話標識でつなぐ: Juan prefiere el café. + María prefiere el té. →（対比）",
+            "answer": "Juan prefiere el café. En cambio, María prefiere el té.",
+            "explanationJa": "2人の好みの対比 → en cambio。「一方、マリアは紅茶が好きだ」。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "逆接：sin embargo（しかし）、en cambio（一方）、no obstante（それにもかかわらず）",
+      "結果：por lo tanto（したがって）、así que / por eso（だから）",
+      "追加：además（さらに）、encima（おまけに・ネガティブ）",
+      "言い換え：es decir（つまり）、o sea（つまり・口語）",
+      "順序：en primer lugar → en segundo lugar → por último / finalmente",
+      "pero + sin embargo は重複。どちらか一方だけ使う",
+      "DELE B2の作文・口頭試験では談話標識の使用が高得点の鍵"
+    ]
+  }
+}

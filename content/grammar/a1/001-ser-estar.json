@@ -1,0 +1,736 @@
+{
+  "id": "a1-001",
+  "slug": "ser-estar",
+  "titleJa": "ser と estar の使い分け",
+  "titleEs": "Diferencia entre ser y estar",
+  "level": "a1",
+  "sortOrder": 1,
+  "hasRegionalVariants": true,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "スペイン語には「です」が2つある！",
+        "bodyJa": "日本語の「です・いる・ある」にあたる動詞が、スペイン語には2つあります。ser（セール）と estar（エスタール）です。\n\nどちらも英語の be動詞に相当しますが、使い分けのルールがあります。\n\n・ser → 本質的・恒常的な性質を表す（国籍、職業、性格、素材、時間など）\n・estar → 一時的な状態や位置を表す（場所、気分、体調、天気の体感など）\n\n簡単に覚えるコツ：「ずっとそうなら ser」「今だけなら estar」と考えましょう。",
+        "bodyEs": "En español hay dos verbos que equivalen al verbo \"ser\" en japonés: ser y estar. Ser se usa para características permanentes o inherentes, mientras que estar se usa para estados temporales o ubicaciones."
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "ser",
+        "tense": "Presente de Indicativo",
+        "forms": {
+          "yo": "soy",
+          "tú": "eres",
+          "él/ella/usted": "es",
+          "nosotros/as": "somos",
+          "vosotros/as": "sois",
+          "ellos/ellas/ustedes": "son"
+        },
+        "latamNote": "中南米では vosotros/as は使いません。代わりに ustedes + son を使います。",
+        "spainNote": null
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "estar",
+        "tense": "Presente de Indicativo",
+        "forms": {
+          "yo": "estoy",
+          "tú": "estás",
+          "él/ella/usted": "está",
+          "nosotros/as": "estamos",
+          "vosotros/as": "estáis",
+          "ellos/ellas/ustedes": "están"
+        },
+        "latamNote": "中南米では vosotros/as は使いません。代わりに ustedes + están を使います。",
+        "spainNote": null
+      },
+      {
+        "type": "explanation",
+        "headingJa": "ser を使う場面",
+        "bodyJa": "ser は「その人・物の本質」を表すときに使います。\n\n1. 国籍・出身地：Soy japonés.（私は日本人です）\n2. 職業：Ella es profesora.（彼女は先生です）\n3. 性格・特徴：Mi padre es alto.（父は背が高いです）\n4. 素材：La mesa es de madera.（そのテーブルは木製です）\n5. 時間・日付：Son las tres.（3時です）\n6. 関係：Él es mi hermano.（彼は私の兄です）\n\nポイント：これらはすべて「簡単には変わらない情報」です。",
+        "bodyEs": "Ser se usa para expresar características esenciales: nacionalidad, profesión, personalidad, material, hora y relaciones."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "estar を使う場面",
+        "bodyJa": "estar は「今の状態」や「場所」を表すときに使います。\n\n1. 場所：Estoy en Tokio.（私は東京にいます）\n2. 気分・体調：Estoy cansado.（疲れています）\n3. 一時的な状態：La sopa está caliente.（スープは熱いです）\n4. 進行形と一緒に：Estoy estudiando.（勉強しています）\n\nポイント：「今はそうだけど、後で変わるかもしれない」ときに estar を使います。",
+        "bodyEs": "Estar se usa para expresar estados temporales, ubicaciones, condiciones momentáneas y con el gerundio para formar el presente continuo."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "ser と estar で意味が変わる形容詞",
+        "bodyJa": "同じ形容詞でも、ser と estar で意味が大きく変わることがあります。\n\n・ser alegre（陽気な性格の人だ）↔ estar alegre（今、楽しい気分だ）\n・ser listo（賢い人だ）↔ estar listo（準備ができている）\n・ser malo（悪い人だ）↔ estar malo（体調が悪い）\n・ser rico（裕福だ）↔ estar rico（おいしい）\n・ser aburrido（退屈な人だ）↔ estar aburrido（退屈している）\n\nこれは日本語話者にとって難しいポイントですが、「性格・本質」か「今の状態」かで判断しましょう。",
+        "bodyEs": "Algunos adjetivos cambian de significado según se usen con ser o estar. Por ejemplo: ser listo (ser inteligente) vs estar listo (estar preparado)."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Yo soy japonés.",
+            "ja": "私は日本人です。",
+            "noteJa": "国籍は本質的な属性なので ser を使います。"
+          },
+          {
+            "es": "Ella es profesora.",
+            "ja": "彼女は先生です。",
+            "noteJa": "職業は ser を使います。"
+          },
+          {
+            "es": "Estoy en Tokio.",
+            "ja": "私は東京にいます。",
+            "noteJa": "場所を表すときは estar を使います。主語の yo は省略可能です。"
+          },
+          {
+            "es": "Estoy cansado.",
+            "ja": "疲れています。",
+            "noteJa": "一時的な体調は estar を使います。"
+          },
+          {
+            "es": "Es alegre.",
+            "ja": "（その人は）陽気な人だ。",
+            "noteJa": "ser + alegre で「性格として陽気」という意味になります。"
+          },
+          {
+            "es": "Está alegre.",
+            "ja": "（今）楽しそうだ。",
+            "noteJa": "estar + alegre で「今の気分が楽しい」という意味になります。"
+          },
+          {
+            "es": "La fiesta es en mi casa.",
+            "ja": "パーティーは私の家で行われます。",
+            "noteJa": "イベントの開催場所は ser を使います（estar ではありません）。"
+          },
+          {
+            "es": "Mi madre está en el hospital.",
+            "ja": "母は病院にいます。",
+            "noteJa": "人がいる場所は estar を使います。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Yo soy cansado.",
+            "correct": "Yo estoy cansado.",
+            "whyJa": "「疲れている」は一時的な状態なので estar を使います。ser を使うと「疲れやすい性質の人」という不自然な意味になります。"
+          },
+          {
+            "wrong": "Ella está profesora.",
+            "correct": "Ella es profesora.",
+            "whyJa": "職業は本質的な属性なので ser を使います。"
+          },
+          {
+            "wrong": "El libro está interesante.",
+            "correct": "El libro es interesante.",
+            "whyJa": "本の内容が面白いのは恒常的な特徴なので ser を使います。ただし「この本、今読んでて面白い」という感想なら estar も可能です。"
+          },
+          {
+            "wrong": "La fiesta está en mi casa.",
+            "correct": "La fiesta es en mi casa.",
+            "whyJa": "イベントの開催場所は ser を使います。建物の場所なら estar ですが、イベントは ser です。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "¿Estás bien? No, no estoy bien. Estoy harta de todo.",
+            "ja": "大丈夫？ ううん、大丈夫じゃない。もう全部うんざり。",
+            "source": "drama",
+            "sourceLabel": "ドラマ風セリフ",
+            "context": "友達同士の会話。女性が愚痴を言っている場面",
+            "noteJa": "「harta（うんざりした）」は一時的な感情なので estar を使います。ser harta とは言いません。"
+          },
+          {
+            "es": "Soy de México pero estoy en España por trabajo.",
+            "ja": "メキシコ出身だけど、仕事でスペインにいるよ。",
+            "source": "conversation",
+            "sourceLabel": "日常会話",
+            "context": "自己紹介の場面。出身地と今いる場所の両方を伝えている",
+            "noteJa": "出身地（本質）= ser、今いる場所（一時的）= estar の使い分けが1文に凝縮されています。"
+          },
+          {
+            "es": "Esta paella está riquísima 🤤🇪🇸",
+            "ja": "このパエリアめっちゃうまい🤤🇪🇸",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "「おいしい」と食べた感想を言うときは estar rico/a。ser rico だと「（食材が）高級だ」や「裕福だ」の意味になります。",
+            "region": "spain"
+          },
+          {
+            "es": "Estos tacos están buenísimos, güey 🌮",
+            "ja": "このタコスまじうまい🌮",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "メキシコのカジュアルな表現。güey（ゲイ）は「やつ・おまえ」的なスラング。食べ物の感想は estar bueno/a。",
+            "region": "latam"
+          },
+          {
+            "es": "La fiesta es en casa de Lucía. ¿Estás listo?",
+            "ja": "パーティーはルシアの家だよ。準備できた？",
+            "source": "conversation",
+            "sourceLabel": "友達との会話",
+            "context": "週末のパーティーに誘っている場面",
+            "noteJa": "イベントの場所 = ser。準備ができている（一時的状態）= estar listo。ser listo なら「賢い」の意味に変わります。"
+          },
+          {
+            "es": "Mi jefe es muy serio, pero hoy está súper contento porque es viernes.",
+            "ja": "上司はすごく真面目な人なんだけど、今日は金曜だからめっちゃ上機嫌。",
+            "source": "conversation",
+            "sourceLabel": "同僚との雑談",
+            "noteJa": "性格（本質）= ser serio、今の気分（一時的）= estar contento。1文で ser/estar の違いが完璧に出ています。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "María ___ profesora.",
+            "options": [
+              "está",
+              "estoy",
+              "soy",
+              "es"
+            ],
+            "answer": 3,
+            "explanationJa": "職業は恒常的な属性なので ser を使います。主語が María（三人称単数）なので es が正解です。"
+          },
+          {
+            "prompt": "Nosotros ___ en Madrid.",
+            "options": [
+              "estamos",
+              "son",
+              "somos",
+              "están"
+            ],
+            "answer": 0,
+            "explanationJa": "「マドリードにいる」は場所を表すので estar を使います。主語が nosotros なので estamos が正解です。"
+          },
+          {
+            "prompt": "Mi hermano ___ alto.",
+            "options": [
+              "está",
+              "es",
+              "estoy",
+              "soy"
+            ],
+            "answer": 1,
+            "explanationJa": "「背が高い」は身体的特徴（恒常的）なので ser を使います。"
+          },
+          {
+            "prompt": "Hoy yo ___ muy contento.",
+            "options": [
+              "está",
+              "soy",
+              "es",
+              "estoy"
+            ],
+            "answer": 3,
+            "explanationJa": "「今日はとても嬉しい」は一時的な感情なので estar を使います。hoy（今日）がヒントです。"
+          },
+          {
+            "prompt": "___ las dos de la tarde.",
+            "options": [
+              "Están",
+              "Son",
+              "Está",
+              "Es"
+            ],
+            "answer": 1,
+            "explanationJa": "時間を表すときは ser を使います。2時以上は複数形なので son が正解です。"
+          },
+          {
+            "prompt": "Yo ___ japonés.",
+            "options": [
+              "estoy",
+              "es",
+              "está",
+              "soy"
+            ],
+            "answer": 3,
+            "explanationJa": "国籍は本質的な属性なので ser を使います。主語が yo なので soy が正解です。"
+          },
+          {
+            "prompt": "La sopa ___ caliente.",
+            "options": [
+              "están",
+              "es",
+              "está",
+              "son"
+            ],
+            "answer": 2,
+            "explanationJa": "スープが「熱い」のは今の一時的な状態なので estar を使います。冷めれば変わりますよね。"
+          },
+          {
+            "prompt": "Ellos ___ estudiantes.",
+            "options": [
+              "es",
+              "están",
+              "son",
+              "somos"
+            ],
+            "answer": 2,
+            "explanationJa": "「学生である」は身分・属性なので ser を使います。主語が ellos（三人称複数）なので son です。"
+          },
+          {
+            "prompt": "¿Dónde ___ el baño?",
+            "options": [
+              "están",
+              "son",
+              "está",
+              "es"
+            ],
+            "answer": 2,
+            "explanationJa": "物の場所を尋ねるときは estar を使います。「トイレはどこですか？」は旅行でも必須フレーズです。"
+          },
+          {
+            "prompt": "La mesa ___ de madera.",
+            "options": [
+              "está",
+              "son",
+              "es",
+              "están"
+            ],
+            "answer": 2,
+            "explanationJa": "素材（木製である）は恒常的な性質なので ser を使います。テーブルの素材は変わりません。"
+          },
+          {
+            "prompt": "Este proyecto ___ imprescindible para la empresa.",
+            "options": [
+              "es",
+              "son",
+              "están",
+              "está"
+            ],
+            "answer": 0,
+            "explanationJa": "imprescindible（不可欠な）はプロジェクトの本質的な評価なので ser を使います。「このプロジェクトは会社にとって不可欠だ」という意味です。"
+          },
+          {
+            "prompt": "Después de la reunión, todos ___ agotados.",
+            "options": [
+              "es",
+              "están",
+              "son",
+              "somos"
+            ],
+            "answer": 1,
+            "explanationJa": "agotado（疲弊した・消耗した）は一時的な状態なので estar を使います。会議の後に疲れているのは今だけの状態です。"
+          },
+          {
+            "prompt": "El director ___ desconcertado por los resultados.",
+            "options": [
+              "está",
+              "es",
+              "son",
+              "están"
+            ],
+            "answer": 0,
+            "explanationJa": "desconcertado（困惑した・当惑した）は結果を見た今の感情・状態なので estar を使います。"
+          },
+          {
+            "prompt": "Este negocio ___ muy rentable.",
+            "options": [
+              "es",
+              "está",
+              "están",
+              "son"
+            ],
+            "answer": 0,
+            "explanationJa": "rentable（収益性がある）はビジネスの本質的な特性なので ser を使います。「このビジネスはとても収益性が高い」という意味です。"
+          },
+          {
+            "prompt": "¿Los documentos ya ___ disponibles?",
+            "options": [
+              "es",
+              "está",
+              "son",
+              "están"
+            ],
+            "answer": 3,
+            "explanationJa": "disponible（利用可能な）は「今」使える状態かどうかを表すので estar を使います。ya（もう）が一時的状態のヒントです。"
+          },
+          {
+            "prompt": "La situación económica ___ insostenible.",
+            "options": [
+              "son",
+              "es",
+              "están",
+              "está"
+            ],
+            "answer": 3,
+            "explanationJa": "insostenible（持続不可能な）は現在の経済状況という一時的な状態を表すので estar を使います。状況は変わりうるものです。"
+          },
+          {
+            "prompt": "Mi abuela ___ muy lúcida a pesar de su edad.",
+            "options": [
+              "están",
+              "es",
+              "son",
+              "está"
+            ],
+            "answer": 3,
+            "explanationJa": "lúcido/a（意識がはっきりしている）は年齢を考慮した今の状態を表すので estar を使います。「年齢の割にしっかりしている」という一時的な評価です。"
+          },
+          {
+            "prompt": "次の文で正しいのはどれ？「その映画は退屈だ」",
+            "options": [
+              "La película es aburrido.",
+              "La película está aburrida.",
+              "La película es aburrida.",
+              "La película está aburrido."
+            ],
+            "answer": 2,
+            "explanationJa": "映画が「退屈だ」はその映画の本質的な評価なので ser を使います。また película は女性名詞なので aburrida（女性形）が正しいです。"
+          },
+          {
+            "prompt": "El paciente ___ estable después de la operación.",
+            "options": [
+              "están",
+              "son",
+              "es",
+              "está"
+            ],
+            "answer": 3,
+            "explanationJa": "estable（安定した）は手術後の患者の一時的な状態を表すので estar を使います。容態は変わりうるものです。"
+          },
+          {
+            "prompt": "次の文で間違っているのはどれ？",
+            "options": [
+              "Ella es inteligente.",
+              "La reunión está en la oficina.",
+              "Él está enfermo.",
+              "Nosotros estamos preocupados."
+            ],
+            "answer": 1,
+            "explanationJa": "会議（reunión）はイベントなので、開催場所は ser を使います。正しくは「La reunión es en la oficina.」です。イベントの場所 = ser、物や人の場所 = estar と覚えましょう。"
+          },
+          {
+            "prompt": "「彼は賢い人だ」を正しく訳すと？",
+            "options": [
+              "Él está listo.",
+              "Él está inteligente.",
+              "Él es listado.",
+              "Él es listo."
+            ],
+            "answer": 3,
+            "explanationJa": "ser listo = 賢い（性格・本質）、estar listo = 準備ができている（一時的状態）。「賢い人だ」は本質なので ser listo が正解です。"
+          },
+          {
+            "prompt": "「この料理おいしい！」を正しく訳すと？",
+            "options": [
+              "Este plato es rico.",
+              "Este plato está ser rico.",
+              "Este plato está rico.",
+              "Este plato es delicioso permanente."
+            ],
+            "answer": 2,
+            "explanationJa": "食べた感想として「おいしい」は今の一時的な感覚なので estar rico を使います。ser rico だと「（食材が）高級だ」や「裕福だ」の意味になります。"
+          },
+          {
+            "prompt": "El concierto ___ en el estadio nacional.",
+            "options": [
+              "es",
+              "son",
+              "está",
+              "están"
+            ],
+            "answer": 0,
+            "explanationJa": "コンサート（concierto）はイベントなので、開催場所は ser を使います。「コンサートは国立スタジアムで行われる」。イベントの場所は estar ではなく ser です。"
+          },
+          {
+            "prompt": "Ella ___ leyendo una novela muy compleja.",
+            "options": [
+              "son",
+              "están",
+              "es",
+              "está"
+            ],
+            "answer": 3,
+            "explanationJa": "進行形（estar + 現在分詞）は必ず estar を使います。leyendo は leer（読む）の現在分詞です。「彼女はとても複雑な小説を読んでいる」という意味です。"
+          },
+          {
+            "prompt": "次の文で正しいのはどれ？「彼は悪い人だ」",
+            "options": [
+              "Él es malo.",
+              "Él está malo.",
+              "Él es mal.",
+              "Él está mal persona."
+            ],
+            "answer": 0,
+            "explanationJa": "ser malo = 悪い人だ（性格・本質）、estar malo = 体調が悪い（一時的状態）。「悪い人だ」は本質的な性格を述べているので ser malo が正解です。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Yo ___ estudiante. (ser)",
+            "answer": "soy",
+            "options": [
+              "es",
+              "soy",
+              "estoy",
+              "está"
+            ],
+            "explanationJa": "「私は学生です」。職業・身分にはserを使います。yo → soy。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "El café ___ caliente. (estar)",
+            "answer": "está",
+            "options": [
+              "es",
+              "está",
+              "son",
+              "están"
+            ],
+            "explanationJa": "「コーヒーは熱い」。一時的な温度の状態にはestarを使います。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Nosotros ___ de Japón. (ser)",
+            "answer": "somos",
+            "options": [
+              "son",
+              "estamos",
+              "somos",
+              "están"
+            ],
+            "explanationJa": "「私たちは日本出身です」。出身地は本質的属性なのでserを使います。nosotros → somos。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "La tienda ___ cerrada hoy. (estar)",
+            "answer": "está",
+            "options": [
+              "están",
+              "son",
+              "está",
+              "es"
+            ],
+            "explanationJa": "「店は今日閉まっている」。開閉状態は一時的なのでestarを使います。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ las cinco de la tarde. (ser)",
+            "answer": "Son",
+            "options": [
+              "Están",
+              "Son",
+              "Es",
+              "Está"
+            ],
+            "explanationJa": "「午後5時です」。時間の表現にはserを使います。2時以降は複数形sonです。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Mis padres ___ en el hospital. (estar)",
+            "answer": "están",
+            "options": [
+              "es",
+              "está",
+              "son",
+              "están"
+            ],
+            "explanationJa": "「両親は病院にいます」。人がいる場所にはestarを使います。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Esta mesa ___ de madera. (ser)",
+            "answer": "es",
+            "options": [
+              "son",
+              "es",
+              "están",
+              "está"
+            ],
+            "explanationJa": "「このテーブルは木製です」。素材は恒常的な性質なのでserを使います。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Mi madre ___ cansada después del trabajo. (estar)",
+            "answer": "está",
+            "options": [
+              "está",
+              "es",
+              "son",
+              "están"
+            ],
+            "explanationJa": "「母は仕事の後疲れている」。疲労は一時的な状態なのでestarを使います。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Él ___ mi mejor amigo. (ser)",
+            "answer": "es",
+            "options": [
+              "estoy",
+              "está",
+              "es",
+              "soy"
+            ],
+            "explanationJa": "「彼は私の親友です」。関係性は本質的属性なのでserを使います。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¿Dónde ___ el baño, por favor? (estar)",
+            "answer": "está",
+            "options": [
+              "son",
+              "está",
+              "están",
+              "es"
+            ],
+            "explanationJa": "「トイレはどこですか？」。物の場所にはestarを使います。旅行で必須フレーズです。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Yo estoy profesora.",
+            "answer": "Yo soy profesora.",
+            "explanationJa": "職業にはserを使います。estarは状態・場所に使います。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "La fiesta está en mi casa.",
+            "answer": "La fiesta es en mi casa.",
+            "explanationJa": "イベントの開催場所にはserを使います。人や物の場所はestarですが、イベントは例外です。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Nosotros somos en Madrid ahora.",
+            "answer": "Nosotros estamos en Madrid ahora.",
+            "explanationJa": "「今マドリードにいる」は場所＋一時的状態なのでestarを使います。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "El libro está interesante.",
+            "answer": "El libro es interesante.",
+            "explanationJa": "本の内容が面白いのは恒常的な特徴なのでserを使います。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Yo soy muy contento hoy.",
+            "answer": "Yo estoy muy contento hoy.",
+            "explanationJa": "「今日はとても嬉しい」は一時的な感情なのでestarを使います。hoy（今日）がヒントです。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「彼女は背が高い」を正しく言うと？",
+            "options": [
+              "Ella tiene alta.",
+              "Ella es alta.",
+              "Ella está alta.",
+              "Ella hay alta."
+            ],
+            "answer": 1,
+            "explanationJa": "身体的特徴の描写は恒常的な性質なのでserを使います。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「この料理おいしい！」を正しく言うと？",
+            "options": [
+              "Este plato es rico.",
+              "Este plato tiene rico.",
+              "Este plato ser rico.",
+              "Este plato está rico."
+            ],
+            "answer": 3,
+            "explanationJa": "食べた感想として「おいしい」は今の一時的な感覚なのでestar ricoを使います。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「彼は賢い人だ」を正しく言うと？",
+            "options": [
+              "Él ser listo.",
+              "Él tiene listo.",
+              "Él es listo.",
+              "Él está listo."
+            ],
+            "answer": 2,
+            "explanationJa": "ser listo = 賢い（性格・本質）。estar listo = 準備ができている（一時的状態）。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「コンサートは国立スタジアムで行われる」を正しく言うと？",
+            "options": [
+              "El concierto ser en el estadio.",
+              "El concierto está en el estadio.",
+              "El concierto es en el estadio.",
+              "El concierto hay en el estadio."
+            ],
+            "answer": 2,
+            "explanationJa": "イベントの開催場所にはserを使います。物の場所はestarですが、イベントは例外です。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次の文で正しいのはどれ？",
+            "options": [
+              "Mi jefe está serio pero hoy es contento.",
+              "Mi jefe es serio pero hoy está contento.",
+              "Mi jefe estar serio pero hoy está contento.",
+              "Mi jefe es serio pero hoy ser contento."
+            ],
+            "answer": 1,
+            "explanationJa": "性格（本質）= ser serio、今の気分（一時的）= estar contento。serとestarの典型的な使い分けです。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「私たちは疲れています」をスペイン語に訳しなさい。",
+            "answer": "Estamos cansados.",
+            "acceptableAnswers": [
+              "Estamos cansados.",
+              "Estamos cansadas.",
+              "Nosotros estamos cansados."
+            ],
+            "explanationJa": "一時的な状態（疲れている）にはestarを使います。nosotros → estamos。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「彼女は日本人です」をスペイン語に訳しなさい。",
+            "answer": "Ella es japonesa.",
+            "acceptableAnswers": [
+              "Ella es japonesa.",
+              "Es japonesa."
+            ],
+            "explanationJa": "国籍は本質的な属性なのでserを使います。ella → es。japonesaは女性形です。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「私は東京にいます」をスペイン語に訳しなさい。",
+            "answer": "Estoy en Tokio.",
+            "acceptableAnswers": [
+              "Estoy en Tokio.",
+              "Yo estoy en Tokio."
+            ],
+            "explanationJa": "場所にはestarを使います。yo → estoy。主語yoは省略可能です。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文を否定文にしなさい: Ella es alta.",
+            "answer": "Ella no es alta.",
+            "explanationJa": "否定文は動詞の前にnoを置きます。「彼女は背が高くない」。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文を疑問文にしなさい: Tú estás enfermo.",
+            "answer": "¿Tú estás enfermo?",
+            "explanationJa": "疑問文は¿...?で囲みます。スペイン語では語順を変えずに疑問文を作れます。「君は具合が悪いの？」"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "ser は本質的・恒常的な性質を表す（国籍、職業、性格、素材、時間）",
+      "estar は一時的な状態や場所を表す（気分、体調、位置）",
+      "同じ形容詞でも ser と estar で意味が変わることがある",
+      "イベントの場所は ser、人や物の場所は estar を使う",
+      "迷ったら「ずっとそう？→ ser」「今だけ？→ estar」で判断する"
+    ]
+  }
+}

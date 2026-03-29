@@ -1,0 +1,486 @@
+{
+  "id": "c1-grammar-002",
+  "slug": "oraciones-concesivas",
+  "titleJa": "譲歩文（aunque, a pesar de que, por más que）",
+  "titleEs": "Oraciones concesivas",
+  "level": "c1",
+  "sortOrder": 2,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "譲歩文とは？「〜だけど」「〜にもかかわらず」",
+        "bodyJa": "譲歩文とは「〜だけど」「〜にもかかわらず」のように、ある事実や状況を認めつつも、それに反する結果を述べる構文です。\n\n日本語では「〜けれど」「〜のに」「〜にもかかわらず」で済みますが、スペイン語では直説法と接続法の使い分けが重要になります。\n\nC1レベルでは、この使い分けを完璧にし、さらに多様な譲歩表現を使いこなせるようになることが目標です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "aunque の核心：直説法 vs 接続法",
+        "bodyJa": "aunque は最も基本的な譲歩の接続詞ですが、直説法と接続法で意味が変わります。\n\naunque + 直説法 = 事実を認めた上での譲歩（「実際に〜だけど」）\naunque + 接続法 = 仮定・未確認の譲歩（「たとえ〜だとしても」）\n\n比較してみましょう。\n・Aunque llueve, salgo.（雨が降っているけど、出かける）← 実際に雨が降っている\n・Aunque llueva, salgo.（たとえ雨が降っても、出かける）← 降るかどうかわからない／仮定\n\n・Aunque es caro, lo compro.（高いけど買う）← 実際に高い\n・Aunque sea caro, lo compro.（たとえ高くても買う）← まだ値段を知らない／仮定\n\nこの区別はDELE C1で頻出です。日本語話者は「〜けど」を全部直説法で言いがちですが、仮定のニュアンスがあるときは接続法を使います。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "a pesar de que：フォーマルな「〜にもかかわらず」",
+        "bodyJa": "a pesar de que は aunque よりフォーマルで、書き言葉やニュースで多く使われます。\n\na pesar de que も直説法・接続法の使い分けがあります（aunque と同じルール）。\n\na pesar de que + 直説法：「〜にもかかわらず」（事実）\na pesar de que + 接続法：「たとえ〜だとしても」（仮定）\n\n・A pesar de que trabaja mucho, no gana bien.（たくさん働いているにもかかわらず、稼ぎが良くない）\n・A pesar de que trabajara más, no ganaría lo suficiente.（たとえもっと働いたとしても、十分には稼げないだろう）\n\n主語が同じ場合は a pesar de + 不定詞も使えます。\n・A pesar de estudiar mucho, no aprobó.（たくさん勉強したにもかかわらず、合格しなかった）"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "por más que, por mucho que：「いくら〜しても」",
+        "bodyJa": "por más que と por mucho que は「いくら〜しても」「どんなに〜しても」という強い譲歩を表します。\n\n基本的に接続法を使いますが、繰り返しの事実を述べるときは直説法も可能です。\n\n接続法（仮定・一般論）：\n・Por más que estudies, si no descansas no rendirás.（いくら勉強しても、休まなければ成果は出ない）\n・Por mucho que lo intente, no lo consigo.（どんなに試みても、うまくいかない）\n\n直説法（経験済みの事実）：\n・Por más que le digo, no me hace caso.（いくら言っても、聞いてくれない）\n\npor muy + 形容詞/副詞 + que も同じパターンです。\n・Por muy difícil que sea, no me rindo.（どんなに難しくても、諦めない）\n・Por muy rápido que corras, no llegarás a tiempo.（どんなに速く走っても間に合わない）"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "その他の譲歩表現：si bien, aun cuando, así",
+        "bodyJa": "C1レベルでは、以下の譲歩表現も使いこなせるようになりましょう。\n\nsi bien + 直説法：「〜ではあるが」（書き言葉・フォーマル）\n・Si bien la economía ha mejorado, el desempleo sigue alto.（経済は改善したものの、失業率は依然高い）\n\naun cuando + 接続法：「たとえ〜であっても」（フォーマル）\n・Aun cuando no estés de acuerdo, debes respetar su decisión.（たとえ賛成でなくても、彼の決定を尊重すべきだ）\n\nasi + 接続法：「たとえ〜しても」（口語的・強調）\n・Así me lo pida de rodillas, no le perdono.（たとえひざまずいて頼まれても、許さない）\n\nこれらは頻度は低いですが、DELE C1の読解やリスニングで登場するので、理解できるようにしておきましょう。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Aunque estoy cansado, voy al gimnasio.",
+            "ja": "疲れているけど、ジムに行く。",
+            "noteJa": "aunque + 直説法。実際に疲れているという事実を認めた上での譲歩。"
+          },
+          {
+            "es": "Aunque esté cansado, iré al gimnasio.",
+            "ja": "たとえ疲れていても、ジムに行く。",
+            "noteJa": "aunque + 接続法。疲れるかどうかは未確認。「たとえ〜でも」の仮定。"
+          },
+          {
+            "es": "A pesar de que le avisamos, no vino a la reunión.",
+            "ja": "知らせたにもかかわらず、会議に来なかった。",
+            "noteJa": "a pesar de que + 直説法。事実として「知らせた」ことを述べている。"
+          },
+          {
+            "es": "Por más que lo intento, no consigo entender esta gramática.",
+            "ja": "いくら試みても、この文法が理解できない。",
+            "noteJa": "por más que + 直説法（繰り返しの事実）。「何度も試している」経験を述べている。"
+          },
+          {
+            "es": "Por muy inteligente que seas, no puedes saberlo todo.",
+            "ja": "どんなに頭が良くても、すべてを知ることはできない。",
+            "noteJa": "por muy + 形容詞 + que + 接続法。一般論としての譲歩。"
+          },
+          {
+            "es": "Si bien es cierto que ha llovido, la sequía no ha terminado.",
+            "ja": "雨が降ったのは事実だが、干ばつは終わっていない。",
+            "noteJa": "si bien + 直説法。フォーマルな書き言葉。ニュースや論文でよく見る表現。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Aunque llueva, no salgo. （実際に雨が降っている状況で）",
+            "correct": "Aunque llueve, no salgo.",
+            "whyJa": "実際に雨が降っている事実を述べるなら直説法。接続法は「たとえ降っても」という仮定の意味になってしまう。"
+          },
+          {
+            "wrong": "A pesar de que tiene dinero, no es feliz. を a pesar de tener dinero, no es feliz. に言い換えると意味が変わる？",
+            "correct": "A pesar de tener dinero, no es feliz.（同じ意味）",
+            "whyJa": "主語が同じ場合、a pesar de que + 直説法と a pesar de + 不定詞は同じ意味。ただし不定詞の方がすっきりした文になります。"
+          },
+          {
+            "wrong": "Por mucho que estudia, no aprueba.（仮定として言いたい場合）",
+            "correct": "Por mucho que estudie, no aprobará.",
+            "whyJa": "「たとえ勉強しても」という仮定なら接続法 estudie。直説法 estudia は「実際に勉強しているのに」という事実の意味になる。"
+          },
+          {
+            "wrong": "Aunque sea caro, lo compré.（過去の話）",
+            "correct": "Aunque era caro, lo compré.",
+            "whyJa": "過去の事実について述べるなら直説法過去。「実際に高かったけど買った」。接続法現在 sea は過去の文と合わない。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "Aunque me caiga mal, tengo que ser profesional 😑",
+            "ja": "嫌いでも、プロフェッショナルでいなきゃ😑",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "aunque + 接続法。「嫌いだとしても」という譲歩。caer mal は「嫌いである」の口語表現。"
+          },
+          {
+            "es": "A pesar de que le dije mil veces, sigue llegando tarde...",
+            "ja": "何千回言ったにもかかわらず、相変わらず遅刻してくる…",
+            "source": "conversation",
+            "sourceLabel": "同僚との愚痴",
+            "noteJa": "a pesar de que + 直説法。事実として「何度も言った」ことを述べている。mil veces は誇張表現。"
+          },
+          {
+            "es": "Por más que busco, no encuentro las llaves. ¡Ayuda! 🔑😱",
+            "ja": "いくら探しても鍵が見つからない。助けて！🔑😱",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "por más que + 直説法。現在進行中の事実。busco（探している）は直説法。"
+          },
+          {
+            "es": "Aunque no me guste, tengo que admitir que tiene razón.",
+            "ja": "気に入らなくても、彼が正しいことは認めなきゃ。",
+            "source": "conversation",
+            "sourceLabel": "友達との議論",
+            "noteJa": "aunque + 接続法。「気に入らないとしても」という心理的な譲歩。"
+          },
+          {
+            "es": "Por muy tarde que sea, contéstame al menos con un emoji 😅",
+            "ja": "どんなに遅くても、せめて絵文字で返事して😅",
+            "source": "conversation",
+            "sourceLabel": "恋人へのメッセージ",
+            "noteJa": "por muy + 形容詞 + que + 接続法。日常的なお願いに譲歩構文を使う例。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "Aunque ___ (llover), voy a salir. ← 実際に雨が降っている場合",
+            "options": [
+              "llueva",
+              "llueve",
+              "lloverá",
+              "lloviera"
+            ],
+            "answer": 1,
+            "explanationJa": "実際に雨が降っている事実を述べているので直説法 llueve。接続法 llueva は仮定の意味になる。"
+          },
+          {
+            "prompt": "Aunque ___ (llover), voy a salir. ← 降るかどうかわからない場合",
+            "options": [
+              "lloverá",
+              "llueve",
+              "llovió",
+              "llueva"
+            ],
+            "answer": 3,
+            "explanationJa": "まだ降るかわからない仮定なので接続法 llueva。「たとえ降っても」の意味。"
+          },
+          {
+            "prompt": "A pesar de que ___ mucho, no aprobó el examen. (estudiar, él)",
+            "options": [
+              "estudió",
+              "estudia",
+              "estudie",
+              "estudiara"
+            ],
+            "answer": 0,
+            "explanationJa": "過去の事実を述べているので直説法過去 estudió。「たくさん勉強したにもかかわらず」。"
+          },
+          {
+            "prompt": "Por muy ___ que ___, no debes rendirte. (difícil / ser)",
+            "options": [
+              "difícil / sea",
+              "difícilmente / sea",
+              "difícil / es",
+              "difícil / será"
+            ],
+            "answer": 0,
+            "explanationJa": "por muy + 形容詞 + que + 接続法。「どんなに難しくても」。sea は ser の接続法。"
+          },
+          {
+            "prompt": "Por más que le ___, no me escucha. (decir, yo) ← 事実として",
+            "options": [
+              "digo",
+              "dijera",
+              "diga",
+              "diré"
+            ],
+            "answer": 0,
+            "explanationJa": "繰り返しの事実を述べているので直説法 digo も可。「いくら言っても聞いてくれない」。"
+          },
+          {
+            "prompt": "「たとえ高くても買う」を正しく訳すと？",
+            "options": [
+              "Aunque fue caro, lo compro.",
+              "Aunque sea caro, lo compro.",
+              "Aunque será caro, lo compro.",
+              "Aunque es caro, lo compro."
+            ],
+            "answer": 1,
+            "explanationJa": "「たとえ〜でも」は仮定なので aunque + 接続法 sea。直説法 es なら「実際に高いけど」の意味になる。"
+          },
+          {
+            "prompt": "Si bien la situación ___ complicada, encontraremos una solución. (ser)",
+            "options": [
+              "será",
+              "sea",
+              "es",
+              "fuera"
+            ],
+            "answer": 2,
+            "explanationJa": "si bien の後は直説法。「状況が複雑であるとはいえ」。フォーマルな譲歩表現。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Aunque ___ cansado, iré al gimnasio. (estar, yo) ← 仮定",
+            "answer": "esté",
+            "options": [
+              "estaré",
+              "estoy",
+              "estuve",
+              "esté"
+            ],
+            "explanationJa": "仮定の譲歩（「たとえ疲れていても」）なので接続法 esté。直説法 estoy は事実を述べる場合。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Aunque ___ mucho, no adelgaza. (correr, ella) ← 事実",
+            "answer": "corre",
+            "options": [
+              "corriera",
+              "correrá",
+              "corre",
+              "corra"
+            ],
+            "explanationJa": "事実（実際に走っている）を述べているので直説法 corre。接続法は仮定の場合。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "A pesar de que le ___ muchas veces, no entiende. (repetir, yo)",
+            "answer": "repito",
+            "options": [
+              "repita",
+              "repetiré",
+              "repito",
+              "repitiera"
+            ],
+            "explanationJa": "事実の繰り返し（実際に何度も繰り返している）なので直説法 repito。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Por mucho que ___, no conseguirás ese puesto. (esforzarse, tú)",
+            "answer": "te esfuerces",
+            "options": [
+              "te esforzaste",
+              "te esforzarás",
+              "te esfuerces",
+              "te esfuerzas"
+            ],
+            "explanationJa": "por mucho que + 接続法。esforzarse の接続法 tú 形は te esfuerces。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Por muy ___ que ___, necesita experiencia. (inteligente / ser, él)",
+            "answer": "inteligente / sea",
+            "options": [
+              "inteligente / es",
+              "inteligente / sea",
+              "inteligentemente / sea",
+              "inteligente / será"
+            ],
+            "explanationJa": "por muy + 形容詞 + que + 接続法。sea は ser の接続法。形容詞は変化しない。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Aunque ___ el examen, no estaba contento. (aprobar, él) ← 過去の事実",
+            "answer": "aprobó",
+            "options": [
+              "apruebe",
+              "aprobara",
+              "aprobará",
+              "aprobó"
+            ],
+            "explanationJa": "過去の事実を述べているので直説法過去 aprobó。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si bien la situación ___ difícil, encontraremos una solución. (ser)",
+            "answer": "es",
+            "options": [
+              "fuera",
+              "sea",
+              "será",
+              "es"
+            ],
+            "explanationJa": "si bien の後は直説法。「状況が難しいとはいえ」というフォーマルな譲歩。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Aun cuando no ___ de acuerdo, debes escuchar. (estar, tú)",
+            "answer": "estés",
+            "options": [
+              "estuvieras",
+              "estés",
+              "estás",
+              "estarás"
+            ],
+            "explanationJa": "aun cuando + 接続法。「たとえ賛成でなくても」。estés は estar の接続法 tú 形。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "A pesar de que ___ mucho dinero, vive modestamente. (tener, él)",
+            "answer": "tiene",
+            "options": [
+              "tiene",
+              "tuviera",
+              "tenga",
+              "tendrá"
+            ],
+            "explanationJa": "事実（実際にお金を持っている）を述べているので直説法 tiene。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Por más que lo ___, no consigo resolverlo. (intentar, yo)",
+            "answer": "intento",
+            "options": [
+              "intentara",
+              "intente",
+              "intento",
+              "intentaré"
+            ],
+            "explanationJa": "繰り返しの事実（実際に何度も試みている）を述べているので直説法 intento も可。接続法 intente も可。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Aunque llueva, no salgo. (実際に雨が降っている場合)",
+            "answer": "Aunque llueve, no salgo.",
+            "explanationJa": "実際に雨が降っている事実を述べるなら直説法 llueve。接続法 llueva は「たとえ降っても」の仮定。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Aunque sea caro, lo compré. (過去の事実)",
+            "answer": "Aunque era caro, lo compré.",
+            "explanationJa": "過去の事実は直説法過去。era caro（実際に高かった）が正しい。接続法現在 sea は過去文に合わない。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Por mucho que estudia, no aprobará. (仮定として)",
+            "answer": "Por mucho que estudie, no aprobará.",
+            "explanationJa": "「たとえ勉強しても」の仮定なら接続法 estudie。直説法 estudia は事実の繰り返し。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "A pesar de que tiene dinero, no es feliz. を不定詞で言い換えると A pesar de tener dinero, no es feliz. は正しい？ 正しければそのまま、主語が異なるなら修正。",
+            "answer": "A pesar de tener dinero, no es feliz.（正しい。主語が同じ場合は不定詞で言い換え可能）",
+            "explanationJa": "主語が同じ（él tiene / él no es feliz）なので a pesar de + 不定詞で正しく言い換えられる。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Si bien la economía mejora, pero el desempleo sigue alto.",
+            "answer": "Si bien la economía mejora, el desempleo sigue alto.",
+            "explanationJa": "si bien 自体が「〜ではあるが」の意味なので pero は不要。二重接続詞になってしまう。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "aunque + 接続法はどんなときに使う？",
+            "options": [
+              "未来の確実な予定を述べるとき",
+              "仮定・未確認の譲歩（「たとえ〜でも」）",
+              "事実を認めた上での譲歩（「〜だけど」）",
+              "過去の事実を述べるとき"
+            ],
+            "answer": 1,
+            "explanationJa": "aunque + 接続法は「たとえ〜でも」の仮定。事実なら直説法。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次のうち、常に直説法を伴う譲歩表現はどれ？",
+            "options": [
+              "por muy... que",
+              "por mucho que",
+              "si bien",
+              "aun cuando"
+            ],
+            "answer": 2,
+            "explanationJa": "si bien は常に直説法。フォーマルな書き言葉で使う譲歩表現。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「いくら言っても聞いてくれない」（事実の繰り返し）の正しい訳は？",
+            "options": [
+              "Por más que le digo, no me escucha.",
+              "Por más que le dijera, no me escucha.",
+              "Por más que le diré, no me escucha.",
+              "Por más que le diga, no me escucha."
+            ],
+            "answer": 0,
+            "explanationJa": "事実の繰り返しなので直説法 digo も可。por más que は事実を述べる場合に直説法を取れる。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "a pesar de que と aunque の違いは主に何？",
+            "options": [
+              "a pesar de que は仮定にしか使えない",
+              "aunque は書き言葉でしか使えない",
+              "意味が全く異なる",
+              "a pesar de que の方がフォーマル"
+            ],
+            "answer": 3,
+            "explanationJa": "a pesar de que は aunque よりフォーマル。書き言葉やニュースで多用。直説法/接続法の使い分けルールは同じ。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「どんなに速く走っても間に合わない」の正しい表現は？",
+            "options": [
+              "Por muy rápido que corras, no llegarás a tiempo.",
+              "Muy rápido que corras, no llegarás a tiempo.",
+              "Por mucho rápido que corras, no llegarás a tiempo.",
+              "Por muy rápido que corres, no llegarás a tiempo."
+            ],
+            "answer": 0,
+            "explanationJa": "por muy + 副詞 + que + 接続法の構文。corras は correr の接続法 tú 形。"
+          },
+          {
+            "type": "translation",
+            "prompt": "お金があるけど幸せじゃない。（aunque + 事実）",
+            "answer": "Aunque tiene dinero, no es feliz.",
+            "acceptableAnswers": [
+              "Aunque tiene mucho dinero, no es feliz."
+            ],
+            "explanationJa": "事実を述べているので aunque + 直説法。tiene は tener の直説法。"
+          },
+          {
+            "type": "translation",
+            "prompt": "たとえ難しくても諦めない。（aunque + 仮定）",
+            "answer": "Aunque sea difícil, no me rindo.",
+            "acceptableAnswers": [
+              "Aunque sea difícil, no voy a rendirme.",
+              "Aunque sea difícil, no me rendiré."
+            ],
+            "explanationJa": "仮定（「たとえ〜でも」）なので aunque + 接続法。sea は ser の接続法。"
+          },
+          {
+            "type": "translation",
+            "prompt": "どんなに頑張っても結果は変わらない。（por mucho que を使って）",
+            "answer": "Por mucho que te esfuerces, el resultado no cambiará.",
+            "acceptableAnswers": [
+              "Por mucho que te esfuerces, el resultado no va a cambiar.",
+              "Por mucho que nos esforcemos, el resultado no cambiará."
+            ],
+            "explanationJa": "por mucho que + 接続法。esforzarse の接続法 tú 形は te esfuerces。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "Es muy inteligente, pero necesita estudiar.（por muy... que を使って書き換えなさい）",
+            "answer": "Por muy inteligente que sea, necesita estudiar.",
+            "explanationJa": "por muy + 形容詞 + que + 接続法で「どんなに〜でも」に書き換え。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "Trabaja mucho. Sin embargo, no gana bien.（a pesar de que を使って一文にしなさい）",
+            "answer": "A pesar de que trabaja mucho, no gana bien.",
+            "explanationJa": "a pesar de que + 直説法で「〜にもかかわらず」。事実を述べているので直説法。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "aunque + 直説法 =「実際に〜だけど」（事実）、aunque + 接続法 =「たとえ〜でも」（仮定）",
+      "a pesar de que は aunque よりフォーマル。主語が同じなら a pesar de + 不定詞も可",
+      "por más que / por mucho que は「いくら〜しても」。基本は接続法だが、事実の繰り返しなら直説法も可",
+      "por muy + 形容詞 + que + 接続法で「どんなに〜でも」",
+      "si bien + 直説法はフォーマルな書き言葉で使う譲歩表現",
+      "DELE C1では aunque の直説法/接続法の使い分けが頻出"
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "scenario": "medical",
+  "titleJa": "病院・医療で使えるスペイン語フレーズ",
+  "titleEs": "Frases para situaciones médicas",
+  "totalPhrases": 20,
+  "phrases": [
+    {
+      "id": "med-001",
+      "spanishText": "Tengo cita con el doctor a las tres.",
+      "japaneseTranslation": "3時に医者の予約があります。",
+      "pronunciationHint": "テンゴ シタ コン エル ドクトル ア ラス トレス",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "cita は「予約」。病院だけでなく歯医者（dentista）でも使います。",
+      "category": "appointment"
+    },
+    {
+      "id": "med-002",
+      "spanishText": "Me duele la cabeza desde ayer.",
+      "japaneseTranslation": "昨日から頭が痛いです。",
+      "pronunciationHint": "メ ドゥエレ ラ カベサ デスデ アジェル",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "doler は gustar 型動詞。体の部位には定冠詞（la, el）を使います。mi cabeza とは言いません。",
+      "category": "symptoms"
+    },
+    {
+      "id": "med-003",
+      "spanishText": "Tengo fiebre y escalofríos.",
+      "japaneseTranslation": "熱があって寒気がします。",
+      "pronunciationHint": "テンゴ フィエブレ イ エスカロフリオス",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "fiebre は「熱」、escalofríos は「悪寒」。tengo + 症状 で体調を伝えます。",
+      "category": "symptoms"
+    },
+    {
+      "id": "med-004",
+      "spanishText": "Estoy tomando estos medicamentos.",
+      "japaneseTranslation": "これらの薬を服用しています。",
+      "pronunciationHint": "エストイ トマンド エストス メディカメントス",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "薬のリストや実物を見せながら伝えましょう。tomar は「飲む」だけでなく「服用する」の意味も。",
+      "category": "medication"
+    },
+    {
+      "id": "med-005",
+      "spanishText": "¿Necesito una receta para este medicamento?",
+      "japaneseTranslation": "この薬に処方箋は必要ですか？",
+      "pronunciationHint": "ネセシト ウナ レセタ パラ エステ メディカメント",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "receta は「処方箋」。スペインでは farmacia（薬局）で相談もできます。",
+      "category": "pharmacy"
+    },
+    {
+      "id": "med-006",
+      "spanishText": "Tengo náuseas y no puedo comer.",
+      "japaneseTranslation": "吐き気がして食べられません。",
+      "pronunciationHint": "テンゴ ナウセアス イ ノ プエド コメル",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "náuseas は「吐き気」。vómitos（嘔吐）、diarrea（下痢）も覚えておくと便利。",
+      "category": "symptoms"
+    },
+    {
+      "id": "med-007",
+      "spanishText": "¿Cada cuántas horas debo tomar la pastilla?",
+      "japaneseTranslation": "何時間おきに薬を飲めばいいですか？",
+      "pronunciationHint": "カダ クアンタス オラス デボ トマル ラ パスティジャ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "cada は「毎〜」。pastilla は「錠剤」。cápsula（カプセル）、jarabe（シロップ）も。",
+      "category": "pharmacy"
+    },
+    {
+      "id": "med-008",
+      "spanishText": "Me he torcido el tobillo.",
+      "japaneseTranslation": "足首を捻挫しました。",
+      "pronunciationHint": "メ エ トルシド エル トビジョ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "torcerse は「捻る」。tobillo（足首）、muñeca（手首）、rodilla（膝）。",
+      "category": "injury"
+    },
+    {
+      "id": "med-009",
+      "spanishText": "¿Es grave?",
+      "japaneseTranslation": "深刻ですか？",
+      "pronunciationHint": "エス グラベ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "シンプルだけど大事な質問。grave は「深刻な、重い」。leve は「軽い」。",
+      "category": "diagnosis"
+    },
+    {
+      "id": "med-010",
+      "spanishText": "¿Cuánto tiempo durará la recuperación?",
+      "japaneseTranslation": "回復にどのくらいかかりますか？",
+      "pronunciationHint": "クアント ティエンポ ドゥララ ラ レクペラシオン",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "recuperación は「回復」。未来形 durará で「かかるでしょう」。",
+      "category": "diagnosis"
+    },
+    {
+      "id": "med-011",
+      "spanishText": "Necesito renovar mi receta.",
+      "japaneseTranslation": "処方箋を更新する必要があります。",
+      "pronunciationHint": "ネセシト レノバル ミ レセタ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "renovar は「更新する」。長期滞在者が定期的な薬をもらう時に使います。",
+      "category": "pharmacy"
+    },
+    {
+      "id": "med-012",
+      "spanishText": "Tengo una erupción en el brazo.",
+      "japaneseTranslation": "腕に発疹が出ています。",
+      "pronunciationHint": "テンゴ ウナ エルプシオン エン エル ブラソ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "erupción は「発疹」。picazón（かゆみ）、hinchazón（腫れ）も症状を伝える時に使えます。",
+      "category": "symptoms"
+    },
+    {
+      "id": "med-013",
+      "spanishText": "¿Tiene un médico que hable japonés?",
+      "japaneseTranslation": "日本語を話せる医者はいますか？",
+      "pronunciationHint": "ティエネ ウン メディコ ケ アブレ ハポネス",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "接続法 hable を使った丁寧な質問。英語（inglés）を話せる医者もまず聞いてみましょう。",
+      "category": "communication"
+    },
+    {
+      "id": "med-014",
+      "spanishText": "Estoy embarazada de tres meses.",
+      "japaneseTranslation": "妊娠3ヶ月です。",
+      "pronunciationHint": "エストイ エンバラサダ デ トレス メセス",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "embarazada は「妊娠している」。日本人がよく間違える語：embarrassed（英語の恥ずかしい）ではありません！",
+      "category": "special"
+    },
+    {
+      "id": "med-015",
+      "spanishText": "¿Dónde puedo hacerme un análisis de sangre?",
+      "japaneseTranslation": "どこで血液検査を受けられますか？",
+      "pronunciationHint": "ドンデ プエド アセルメ ウン アナリシス デ サングレ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "¿Dónde puedo hacerme un examen de sangre?",
+      "contextNoteJa": "スペインでは análisis、中南米では examen が一般的。sangre は「血液」。",
+      "category": "tests"
+    },
+    {
+      "id": "med-016",
+      "spanishText": "Soy diabético/a y necesito insulina.",
+      "japaneseTranslation": "糖尿病で、インスリンが必要です。",
+      "pronunciationHint": "ソイ ディアベティコ（ア）イ ネセシト インスリナ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "持病を伝える重要な表現。hipertensión（高血圧）、asma（喘息）も覚えておくと安心。",
+      "category": "chronic"
+    },
+    {
+      "id": "med-017",
+      "spanishText": "¿Cuánto costará el tratamiento?",
+      "japaneseTranslation": "治療費はいくらかかりますか？",
+      "pronunciationHint": "クアント コスタラ エル トラタミエント",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "旅行保険がない場合は重要な質問。tratamiento は「治療」。",
+      "category": "costs"
+    },
+    {
+      "id": "med-018",
+      "spanishText": "Me he cortado y no para de sangrar.",
+      "japaneseTranslation": "切り傷があって出血が止まりません。",
+      "pronunciationHint": "メ エ コルタド イ ノ パラ デ サングラル",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "sangrar は「出血する」。parar de + 不定詞で「〜するのを止める」。",
+      "category": "injury"
+    },
+    {
+      "id": "med-019",
+      "spanishText": "¿Puedo conducir después de tomar este medicamento?",
+      "japaneseTranslation": "この薬を飲んだ後、運転しても大丈夫ですか？",
+      "pronunciationHint": "プエド コンドゥシル デスプエス デ トマル エステ メディカメント",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "¿Puedo manejar después de tomar este medicamento?",
+      "contextNoteJa": "スペインでは conducir、中南米では manejar が「運転する」。",
+      "category": "medication"
+    },
+    {
+      "id": "med-020",
+      "spanishText": "Necesito un certificado médico para mi empresa.",
+      "japaneseTranslation": "会社に提出する診断書が必要です。",
+      "pronunciationHint": "ネセシト ウン セルティフィカド メディコ パラ ミ エンプレサ",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "certificado médico は「診断書」。海外で体調を崩した時に必要になることがあります。",
+      "category": "documents"
+    }
+  ]
+}

@@ -1,0 +1,706 @@
+{
+  "id": "a1-005",
+  "slug": "pronombres-personales",
+  "titleJa": "人称代名詞",
+  "titleEs": "Pronombres personales sujeto",
+  "level": "a1",
+  "sortOrder": 5,
+  "hasRegionalVariants": true,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "スペイン語の人称代名詞一覧",
+        "bodyJa": "スペイン語には以下の主語人称代名詞があります。\n\n【単数】\n・yo（ヨ）＝ 私\n・tú（トゥ）＝ 君 ※親しい相手に使う\n・él（エル）＝ 彼\n・ella（エジャ）＝ 彼女\n・usted（ウステッ）＝ あなた ※丁寧な表現。略して Ud. と書くことも\n\n【複数】\n・nosotros（ノソトロス）＝ 私たち（男性・混合）\n・nosotras（ノソトラス）＝ 私たち（全員女性の場合）\n・vosotros（ボソトロス）＝ 君たち（男性・混合）※スペインのみ\n・vosotras（ボソトラス）＝ 君たち（全員女性）※スペインのみ\n・ellos（エジョス）＝ 彼ら（男性・混合）\n・ellas（エジャス）＝ 彼女たち\n・ustedes（ウステデス）＝ あなたたち。略して Uds. と書くことも",
+        "bodyEs": "Los pronombres personales sujeto en español son: yo, tú, él/ella/usted, nosotros/as, vosotros/as, ellos/ellas/ustedes."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "スペインと中南米の大きな違い：tú / vos / vosotros / ustedes",
+        "bodyJa": "スペイン語圏の地域によって、使う代名詞が異なります。これは非常に重要なポイントです。\n\n【スペイン（スペイン本国）】\n・親しい相手（単数）→ tú\n・親しい相手（複数）→ vosotros/as\n・丁寧な相手（単数）→ usted\n・丁寧な相手（複数）→ ustedes\n\n【中南米の大部分（メキシコ、コロンビアなど）】\n・親しい相手（単数）→ tú\n・親しい相手・丁寧な相手（複数）→ ustedes（vosotros は使わない）\n・丁寧な相手（単数）→ usted\n\n【アルゼンチン・ウルグアイ・中米の一部】\n・親しい相手（単数）→ vos（tú の代わり）\n・複数 → ustedes\n\nvos の活用は tú と少し異なります：\n・tú hablas → vos hablás\n・tú comes → vos comés\n・tú vivís → vos vivís\n\n最初は tú を覚えておけば大丈夫です。vos は理解できれば十分です。",
+        "bodyEs": "En España se usa tú/vosotros. En Latinoamérica no se usa vosotros (solo ustedes). En Argentina y otros países se usa vos en lugar de tú, con conjugaciones propias."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "主語を省略するのが自然（日本語と同じ！）",
+        "bodyJa": "スペイン語では、動詞の活用形で主語がわかるため、主語の代名詞を省略するのが普通です。\n\nこれは日本語と似ています！日本語でも「私は毎日勉強します」より「毎日勉強します」の方が自然ですよね。\n\n・Hablo japonés.（日本語を話します）→ yo は省略\n・¿Hablas español?（スペイン語を話しますか？）→ tú は省略\n・Vivimos en Tokio.（東京に住んでいます）→ nosotros は省略\n\n主語をあえて言う場面：\n1. 強調するとき：Yo soy japonés.（私は日本人です ← 他の人は違うけど「私は」）\n2. 対比するとき：Él estudia medicina y ella estudia derecho.（彼は医学、彼女は法律を勉強している）\n3. 曖昧さを避けるとき：三人称は él/ella/usted が同じ活用なので区別が必要な場合",
+        "bodyEs": "En español, los pronombres sujeto se omiten frecuentemente porque la conjugación verbal indica la persona. Se usan para énfasis, contraste o desambiguación."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "usted / ustedes の丁寧さ（日本語の敬語との比較）",
+        "bodyJa": "日本語には複雑な敬語体系がありますが、スペイン語の丁寧表現はもっとシンプルです。\n\n・tú → 友人、家族、同年代、子供に対して使う（タメ口に近い）\n・usted → 初対面の大人、年上の人、お客様、ビジネスの場面で使う（です・ます調に近い）\n\n重要：usted は「二人称（あなた）」の意味ですが、動詞は三人称と同じ活用をします。\n・tú hablas（君は話す）\n・usted habla（あなたは話す）← 動詞は él/ella と同じ形！\n\n国による違い：\n・スペイン：若い人同士はほぼ全員 tú。usted はかなりフォーマル\n・コロンビア：usted を親しい間柄でも使う地域がある\n・メキシコ：初対面は usted → 打ち解けたら tú に切り替え\n\n日本語の敬語ほど複雑ではないので安心してください！",
+        "bodyEs": "Usted es la forma de cortesía (equivalente al keigo japonés simplificado). Usa la misma conjugación verbal que él/ella. El uso varía según el país y la región."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Yo soy de Japón.",
+            "ja": "私は日本出身です。",
+            "noteJa": "yo を使って「私は」を強調しています。省略して Soy de Japón. でも自然です。"
+          },
+          {
+            "es": "¿Tú hablas inglés?",
+            "ja": "君は英語を話せる？",
+            "noteJa": "tú を使ったカジュアルな質問。¿Hablas inglés? でも同じ意味。"
+          },
+          {
+            "es": "¿Usted habla japonés?",
+            "ja": "あなたは日本語を話されますか？",
+            "noteJa": "usted を使った丁寧な質問。動詞は三人称と同じ habla の形。"
+          },
+          {
+            "es": "Nosotras somos estudiantes.",
+            "ja": "私たち（女性）は学生です。",
+            "noteJa": "全員が女性の場合は nosotras を使います。"
+          },
+          {
+            "es": "Él estudia español y ella estudia japonés.",
+            "ja": "彼はスペイン語を、彼女は日本語を勉強しています。",
+            "noteJa": "対比のために主語を明示しています。"
+          },
+          {
+            "es": "¿De dónde son ustedes?",
+            "ja": "あなたたちはどちらの出身ですか？",
+            "noteJa": "ustedes は複数の「あなた」。中南米では丁寧さに関係なく複数の相手に使います。"
+          },
+          {
+            "es": "Vos hablás muy bien.",
+            "ja": "君はとても上手に話すね。",
+            "noteJa": "アルゼンチンなどで使う vos の形。tú hablas の代わり。"
+          },
+          {
+            "es": "Vosotros sois muy amables.",
+            "ja": "君たちはとても親切だね。",
+            "noteJa": "スペインでのみ使う vosotros の形。中南米では ustedes son muy amables と言います。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Yo hablo japonés. Yo vivo en Tokio. Yo estudio español.",
+            "correct": "Hablo japonés. Vivo en Tokio. Estudio español.",
+            "whyJa": "主語を毎文つけるのは不自然です。動詞の語尾で「私」とわかるので省略しましょう。"
+          },
+          {
+            "wrong": "Usted hablas japonés.",
+            "correct": "Usted habla japonés.",
+            "whyJa": "usted の動詞活用は三人称（él/ella）と同じです。hablas は tú の活用形なので間違いです。"
+          },
+          {
+            "wrong": "Nosotros es profesores.",
+            "correct": "Nosotros somos profesores.",
+            "whyJa": "nosotros に対応する ser の活用は somos です。es は三人称単数の形です。"
+          },
+          {
+            "wrong": "Ellos habla español.",
+            "correct": "Ellos hablan español.",
+            "whyJa": "ellos（三人称複数）には -an の語尾をつけます。habla は三人称単数の形です。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "¿Tú qué opinas? — Yo creo que tiene razón.",
+            "ja": "君はどう思う？ — 僕はあの人が正しいと思う。",
+            "source": "conversation",
+            "sourceLabel": "友達同士の議論",
+            "noteJa": "ここでは tú と yo をあえて使っています。理由：「君は？」「僕は〜」と対比しているから。普段は省略するけど、意見を聞くときは主語をつけるのが自然。"
+          },
+          {
+            "es": "Disculpe, ¿usted sabe dónde está la estación?",
+            "ja": "すみません、駅がどこかご存知ですか？",
+            "source": "conversation",
+            "sourceLabel": "道を聞く場面",
+            "context": "年上の人や初対面の人に道を聞いている",
+            "noteJa": "usted + sabe（三人称活用）。tú を使うと「ねえ、駅どこか知ってる？」になってカジュアルすぎる場面。"
+          },
+          {
+            "es": "Che, ¿vos venís esta noche o qué?",
+            "ja": "おい、今夜来るの来ないの？",
+            "source": "conversation",
+            "sourceLabel": "アルゼンチンの友達同士",
+            "context": "パーティーに誘っている場面",
+            "noteJa": "vos venís = tú vienes のアルゼンチン版。「che」はアルゼンチンの口癖で「おい・ねえ」の意味。",
+            "region": "latam"
+          },
+          {
+            "es": "Venga, ¿vosotros venís o no?",
+            "ja": "ほら、君たち来るの来ないの？",
+            "source": "conversation",
+            "sourceLabel": "スペインの友達グループ",
+            "noteJa": "vosotros venís：スペインでのみ使う二人称複数。中南米では「¿Ustedes vienen o no?」と言います。",
+            "region": "spain"
+          },
+          {
+            "es": "Ella habla cinco idiomas. ¡Cinco! Yo apenas hablo dos 😂",
+            "ja": "彼女5ヶ国語話せるんだよ。5つ！俺なんてやっと2つ😂",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "ella を明示して「彼女は（すごい）」と強調。yo も「俺なんて」と自分との対比で使っています。強調と対比の典型例。"
+          },
+          {
+            "es": "Nosotras también queremos ir. ¿Por qué solo invitan a ellos?",
+            "ja": "私たちも行きたいんだけど。なんで彼らだけ誘うの？",
+            "source": "conversation",
+            "sourceLabel": "女性グループの不満",
+            "noteJa": "nosotras（女性のみのグループ）と ellos（男性グループ）の対比。性別による代名詞の使い分けがリアルに出ている例。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "「あなた（丁寧）」を表すスペイン語は？",
+            "options": [
+              "él",
+              "vos",
+              "usted",
+              "tú"
+            ],
+            "answer": 2,
+            "explanationJa": "usted は「あなた」の丁寧な形です。tú はカジュアル、vos はアルゼンチンなどで使う形です。"
+          },
+          {
+            "prompt": "「私たち」を表すスペイン語は？",
+            "options": [
+              "nosotros",
+              "ellos",
+              "vosotros",
+              "ustedes"
+            ],
+            "answer": 0,
+            "explanationJa": "nosotros は「私たち」を意味します。ellos は「彼ら」、ustedes は「あなたたち」、vosotros は「君たち（スペイン）」です。"
+          },
+          {
+            "prompt": "___ soy estudiante. (私は学生です)",
+            "options": [
+              "Ella",
+              "Yo",
+              "Él",
+              "Tú"
+            ],
+            "answer": 1,
+            "explanationJa": "「私は」= yo です。soy は ser の一人称単数活用なので yo と一致します。"
+          },
+          {
+            "prompt": "¿___ hablas japonés? (君は日本語を話す？)",
+            "options": [
+              "Él",
+              "Tú",
+              "Usted",
+              "Yo"
+            ],
+            "answer": 1,
+            "explanationJa": "hablas は二人称単数（tú）の活用形です。カジュアルな「君」にあたります。"
+          },
+          {
+            "prompt": "___ vive en Madrid. (彼はマドリードに住んでいる)",
+            "options": [
+              "Nosotros",
+              "Tú",
+              "Él",
+              "Yo"
+            ],
+            "answer": 2,
+            "explanationJa": "vive は三人称単数の活用形で、él（彼）に対応します。"
+          },
+          {
+            "prompt": "Hablo español. この文の主語は？",
+            "options": [
+              "usted",
+              "yo",
+              "él",
+              "tú"
+            ],
+            "answer": 1,
+            "explanationJa": "hablo は一人称単数の活用形なので、省略されている主語は yo（私）です。"
+          },
+          {
+            "prompt": "___ son de Colombia. (彼らはコロンビア出身です)",
+            "options": [
+              "Él",
+              "Ellos",
+              "Usted",
+              "Nosotros"
+            ],
+            "answer": 1,
+            "explanationJa": "son は ser の三人称複数活用で、ellos（彼ら）に対応します。"
+          },
+          {
+            "prompt": "「Ella ___ profesora. (彼女は先生です)」のser活用は？",
+            "options": [
+              "eres",
+              "somos",
+              "es",
+              "soy"
+            ],
+            "answer": 2,
+            "explanationJa": "ella は三人称単数なので、ser の活用は es になります。"
+          },
+          {
+            "prompt": "中南米で「君たち」を表すのに使う代名詞は？",
+            "options": [
+              "vosotros",
+              "nosotros",
+              "ellos",
+              "ustedes"
+            ],
+            "answer": 3,
+            "explanationJa": "中南米では vosotros を使わず、ustedes を使います。親しい間柄でもフォーマルな場面でも ustedes です。"
+          },
+          {
+            "prompt": "次の文で主語を省略しても意味が通じるのはどれ？",
+            "options": [
+              "Yo hablo tres idiomas.",
+              "Él es médico y ella es abogada.",
+              "Usted tiene razón.",
+              "Ella canta bien — ¿ella o él?"
+            ],
+            "answer": 0,
+            "explanationJa": "Hablo tres idiomas. だけで「私が話す」とわかります。他の選択肢は対比や曖昧さ回避のために主語が必要です。"
+          },
+          {
+            "prompt": "Usted ___ de México. (ser)",
+            "options": [
+              "soy",
+              "somos",
+              "es",
+              "eres"
+            ],
+            "answer": 2,
+            "explanationJa": "usted は丁寧な「あなた」ですが、動詞は三人称単数と同じ活用をします。ser → es です。"
+          },
+          {
+            "prompt": "アルゼンチンで tú の代わりに使う代名詞は？",
+            "options": [
+              "usted",
+              "él",
+              "vos",
+              "vosotros"
+            ],
+            "answer": 2,
+            "explanationJa": "アルゼンチンやウルグアイなどでは tú の代わりに vos を使います。活用も少し異なります（hablás, comés など）。"
+          },
+          {
+            "prompt": "全員女性のグループで「私たち」は？",
+            "options": [
+              "ellas",
+              "nosotros",
+              "nosotras",
+              "vosotras"
+            ],
+            "answer": 2,
+            "explanationJa": "全員が女性の場合は nosotras を使います。男性が1人でもいれば nosotros になります。"
+          },
+          {
+            "prompt": "スペインでのみ使う「君たち」の代名詞は？",
+            "options": [
+              "ustedes",
+              "vosotros",
+              "nosotros",
+              "ellos"
+            ],
+            "answer": 1,
+            "explanationJa": "vosotros / vosotras はスペイン本国でのみ使われます。中南米では ustedes に統一されています。"
+          },
+          {
+            "prompt": "「Ustedes ___ muy amables. (あなたたちはとても親切です)」の ser 活用は？",
+            "options": [
+              "son",
+              "somos",
+              "sois",
+              "es"
+            ],
+            "answer": 0,
+            "explanationJa": "ustedes は三人称複数と同じ活用をとるため、ser → son です。sois は vosotros に対応するスペインの形です。"
+          },
+          {
+            "prompt": "Vos hablás muy rápido. — この文の tú バージョンは？",
+            "options": [
+              "Tú hablais muy rápido.",
+              "Tú hablás muy rápido.",
+              "Tú habla muy rápido.",
+              "Tú hablas muy rápido."
+            ],
+            "answer": 3,
+            "explanationJa": "vos hablás → tú hablas です。vos の活用はアクセントの位置が異なります（hablás vs hablas）。"
+          },
+          {
+            "prompt": "「彼女たちは疲れている」 — Ellas ___ cansadas. (estar)",
+            "options": [
+              "están",
+              "estáis",
+              "estamos",
+              "está"
+            ],
+            "answer": 0,
+            "explanationJa": "ellas は三人称複数なので、estar → están です。cansadas と女性形になっている点にも注目。"
+          },
+          {
+            "prompt": "コロンビアのある地域で、友達同士でも使われることがある丁寧な代名詞は？",
+            "options": [
+              "usted",
+              "vos",
+              "tú",
+              "vosotros"
+            ],
+            "answer": 0,
+            "explanationJa": "コロンビアの一部の地域では、親しい間柄でも usted を使うことがあります。これは地域的な習慣です。"
+          },
+          {
+            "prompt": "次のうち、主語を省略できないのはどれ？",
+            "options": [
+              "Vivimos en Tokio.",
+              "Estudio medicina.",
+              "Él es ingeniero y ella es arquitecta.",
+              "Hablo español."
+            ],
+            "answer": 2,
+            "explanationJa": "「彼はエンジニア、彼女は建築家」と対比しているため、主語を省略すると誰のことかわからなくなります。"
+          },
+          {
+            "prompt": "「私たちはこのプロジェクトに満足しています」 — ___ estamos satisfechos con este proyecto.",
+            "options": [
+              "Nosotros",
+              "Ustedes",
+              "Ellos",
+              "Yo"
+            ],
+            "answer": 0,
+            "explanationJa": "estamos は一人称複数（nosotros）の活用形です。satisfechos は「満足している」という形容詞です。"
+          },
+          {
+            "prompt": "上司に「あなたはこの報告書を確認する必要があります」と言う場合、正しいのは？",
+            "options": [
+              "Vos necesitás revisar este informe.",
+              "Él necesita revisar este informe.",
+              "Usted necesita revisar este informe.",
+              "Tú necesitas revisar este informe."
+            ],
+            "answer": 2,
+            "explanationJa": "上司に対してはフォーマルな usted を使います。necesita は三人称単数の活用で、usted に対応します。revisar は「確認する」、informe は「報告書」です。"
+          },
+          {
+            "prompt": "「Tiene mucha experiencia en el ámbito empresarial. (ビジネス分野で豊富な経験がある)」— 省略された主語として最も適切なのは？",
+            "options": [
+              "él / ella / usted",
+              "yo",
+              "nosotros",
+              "tú"
+            ],
+            "answer": 0,
+            "explanationJa": "tiene は三人称単数の活用なので、主語は él, ella, または usted のいずれかです。文脈で判断する必要があります。ámbito empresarial は「ビジネス分野」という意味です。"
+          },
+          {
+            "prompt": "就職面接で面接官に「私はチームワークが得意です」と言いたい。最も適切なのは？",
+            "options": [
+              "Nosotros somos buenos trabajando en equipo.",
+              "Yo soy bueno trabajando en equipo.",
+              "Soy bueno trabajando en equipo.",
+              "Tú eres bueno trabajando en equipo."
+            ],
+            "answer": 1,
+            "explanationJa": "面接では自己アピールの場面なので、yo を明示して「私は」と強調するのが自然です。equipo は「チーム」です。"
+          },
+          {
+            "prompt": "警察官に道を聞く場面。「あなたは最寄りの病院がどこかご存知ですか？」の正しい形は？",
+            "options": [
+              "¿Usted sabe dónde queda el hospital más cercano?",
+              "¿Vos sabés dónde queda el hospital más cercano?",
+              "¿Tú sabes dónde queda el hospital más cercano?",
+              "¿Él sabe dónde queda el hospital más cercano?"
+            ],
+            "answer": 0,
+            "explanationJa": "警察官など初対面の公的な相手には usted を使います。sabe は三人称単数活用（usted に対応）。cercano は「近い」、queda は「位置する」です。"
+          },
+          {
+            "prompt": "バーで友達と話している場面。「お前ら今夜の試合についてどう思う？」— スペインではどう言う？",
+            "options": [
+              "¿Usted qué opina del partido de esta noche?",
+              "¿Vosotros qué opináis del partido de esta noche?",
+              "¿Ustedes qué opinan del partido de esta noche?",
+              "¿Ellos qué opinan del partido de esta noche?"
+            ],
+            "answer": 1,
+            "explanationJa": "スペインで友達に対して「君たち」は vosotros です。opináis は opinar（意見を言う）の vosotros 活用。partido は「試合」です。中南米なら ustedes qué opinan になります。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "___ soy de Japón. (私は)",
+            "answer": "Yo",
+            "options": [
+              "Ella",
+              "Yo",
+              "Él",
+              "Tú"
+            ],
+            "explanationJa": "「私は」= yo。soyはserのyo形です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ hablas muy bien español. (君は)",
+            "answer": "Tú",
+            "options": [
+              "Yo",
+              "Tú",
+              "Usted",
+              "Él"
+            ],
+            "explanationJa": "「君は」= tú。hablasはhablarのtú形です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ es ingeniero. (彼は)",
+            "answer": "Él",
+            "options": [
+              "Él",
+              "Yo",
+              "Nosotros",
+              "Tú"
+            ],
+            "explanationJa": "「彼は」= él。esはserの三人称単数形です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¿___ habla japonés? (あなたは・丁寧)",
+            "answer": "Usted",
+            "options": [
+              "Él",
+              "Tú",
+              "Vos",
+              "Usted"
+            ],
+            "explanationJa": "丁寧な「あなた」= usted。hablaは三人称単数と同じ活用です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ vivimos en Tokio. (私たちは)",
+            "answer": "Nosotros",
+            "options": [
+              "Ustedes",
+              "Vosotros",
+              "Ellos",
+              "Nosotros"
+            ],
+            "explanationJa": "「私たちは」= nosotros。vivimosはvivirのnosotros形です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ son de Colombia. (彼らは)",
+            "answer": "Ellos",
+            "options": [
+              "Ellos",
+              "Usted",
+              "Nosotros",
+              "Él"
+            ],
+            "explanationJa": "「彼らは」= ellos。sonはserの三人称複数形です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ estudian medicina. (彼女たちは)",
+            "answer": "Ellas",
+            "options": [
+              "Ellas",
+              "Ustedes",
+              "Ella",
+              "Nosotras"
+            ],
+            "explanationJa": "「彼女たちは」= ellas。全員女性のグループ。estudianは三人称複数形です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¿___ venís esta noche? (君たちは・スペイン)",
+            "answer": "Vosotros",
+            "options": [
+              "Ellos",
+              "Nosotros",
+              "Vosotros",
+              "Ustedes"
+            ],
+            "explanationJa": "スペインで「君たち」= vosotros。venísuはvenirのvosotros形です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Hablo tres idiomas. この文の省略された主語は？",
+            "answer": "yo",
+            "options": [
+              "nosotros",
+              "yo",
+              "tú",
+              "él"
+            ],
+            "explanationJa": "habloの語尾-oは一人称単数（yo）。語尾で主語がわかるので省略されています。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ ___ profesora. (彼女は先生です / ser)",
+            "answer": "Ella es",
+            "options": [
+              "Ella es",
+              "Él es",
+              "Ella está",
+              "Ella ser"
+            ],
+            "explanationJa": "「彼女は」= ella。職業にはserを使い、ella → esです。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Yo hablo japonés. Yo vivo en Tokio. Yo estudio español.",
+            "answer": "Hablo japonés. Vivo en Tokio. Estudio español.",
+            "explanationJa": "主語を毎文つけるのは不自然。動詞の語尾でyoとわかるので省略しましょう。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Usted hablas japonés.",
+            "answer": "Usted habla japonés.",
+            "explanationJa": "ustedの動詞活用は三人称（él/ella）と同じ。hablasはtúの形なので間違い。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Nosotros es estudiantes.",
+            "answer": "Nosotros somos estudiantes.",
+            "explanationJa": "nosotrosに対応するserの活用はsomos。esは三人称単数の形です。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Ellos habla español.",
+            "answer": "Ellos hablan español.",
+            "explanationJa": "ellos（三人称複数）には-anの語尾。hablaは三人称単数の形です。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Ustedes sois muy amables.",
+            "answer": "Ustedes son muy amables.",
+            "explanationJa": "ustedesは三人称複数と同じ活用。soisはvosotrosの形（スペインのみ）です。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "中南米で「君たち」を表すのに使う代名詞は？",
+            "options": [
+              "vosotros",
+              "nosotros",
+              "ellos",
+              "ustedes"
+            ],
+            "answer": 3,
+            "explanationJa": "中南米ではvosotrosを使わず、ustedesを使います。親しい間柄でも同じです。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "アルゼンチンでtúの代わりに使う代名詞は？",
+            "options": [
+              "vos",
+              "él",
+              "usted",
+              "vosotros"
+            ],
+            "answer": 0,
+            "explanationJa": "アルゼンチンやウルグアイではtúの代わりにvosを使います。活用も少し異なります。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "全員女性のグループで「私たち」は？",
+            "options": [
+              "ellas",
+              "nosotros",
+              "nosotras",
+              "vosotras"
+            ],
+            "answer": 2,
+            "explanationJa": "全員女性の場合はnosotras。男性が1人でもいればnosotrosになります。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次のうち主語を省略できない文はどれ？",
+            "options": [
+              "Él es ingeniero y ella es arquitecta.",
+              "Estudio medicina.",
+              "Hablo español.",
+              "Vivimos en Tokio."
+            ],
+            "answer": 0,
+            "explanationJa": "「彼はエンジニア、彼女は建築家」と対比しているため、主語省略すると誰かわからなくなります。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "上司に話しかけるとき使うべき代名詞は？",
+            "options": [
+              "tú",
+              "usted",
+              "vos",
+              "vosotros"
+            ],
+            "answer": 1,
+            "explanationJa": "上司など丁寧さが必要な場面ではustedを使います。動詞は三人称と同じ活用。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「あなたは日本語を話されますか？」をスペイン語に訳しなさい。（丁寧に）",
+            "answer": "¿Usted habla japonés?",
+            "acceptableAnswers": [
+              "¿Usted habla japonés?",
+              "¿Habla japonés?",
+              "¿Habla usted japonés?"
+            ],
+            "explanationJa": "丁寧な場面ではustedを使います。hablaは三人称単数と同じ活用です。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「彼女は5ヶ国語話せる」をスペイン語に訳しなさい。",
+            "answer": "Ella habla cinco idiomas.",
+            "acceptableAnswers": [
+              "Ella habla cinco idiomas.",
+              "Habla cinco idiomas."
+            ],
+            "explanationJa": "ella → habla。idiomaは男性名詞なのでcinco idiomas。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「私たちは学生です」をスペイン語に訳しなさい。",
+            "answer": "Somos estudiantes.",
+            "acceptableAnswers": [
+              "Somos estudiantes.",
+              "Nosotros somos estudiantes."
+            ],
+            "explanationJa": "nosotros → somos。職業・身分にはserを使います。主語省略が自然。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文をtúからustedに変えなさい: ¿Tú hablas español?",
+            "answer": "¿Usted habla español?",
+            "explanationJa": "tú → usted、hablas → habla。ustedは三人称単数と同じ活用をします。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文を複数形にしなさい: Yo estudio español.",
+            "answer": "Nosotros estudiamos español.",
+            "explanationJa": "yo → nosotros、estudio → estudiamos。-ar動詞のnosotros形は-amos。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "主語人称代名詞：yo, tú, él/ella/usted, nosotros/as, vosotros/as, ellos/ellas/ustedes",
+      "スペイン語は動詞の語尾で主語がわかるため、主語を省略するのが自然（日本語と同じ）",
+      "usted は丁寧な「あなた」だが、動詞の活用は三人称と同じ",
+      "中南米では vosotros を使わず ustedes のみ使う",
+      "アルゼンチンなどでは tú の代わりに vos を使う（活用も少し異なる）",
+      "主語を明示するのは、強調・対比・曖昧さ回避のときだけ"
+    ]
+  }
+}

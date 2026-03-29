@@ -1,0 +1,480 @@
+{
+  "id": "c1-grammar-005",
+  "slug": "registro-formal",
+  "titleJa": "フォーマルレジスター（敬語的表現・書き言葉・ビジネススペイン語）",
+  "titleEs": "Registro formal",
+  "level": "c1",
+  "sortOrder": 5,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "スペイン語のレジスター：フォーマル vs カジュアル",
+        "bodyJa": "スペイン語には、場面に応じた「レジスター」（言語の格式レベル）があります。\n\n日本語ほど敬語が体系化されていませんが、ビジネスメール、学術論文、公式文書では明らかに異なる文体を使います。\n\nC1レベルでは、このフォーマルレジスターを自在に使い分けられることが求められます。\n\nフォーマルレジスターの特徴：\n1. usted/ustedes の使用\n2. 接続法の多用\n3. 受動態・非人称構文\n4. 丁寧な依頼表現\n5. 書き言葉特有の接続詞・表現"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "フォーマルな依頼：接続法を使った丁寧表現",
+        "bodyJa": "フォーマルな場面での依頼は、直接的な命令ではなく、接続法を使った婉曲表現を使います。\n\nカジュアル → フォーマルの対比：\n\n・Dime cuándo puedes. → Le ruego que me indique su disponibilidad.\n （いつ空いてるか教えて → ご都合をお知らせいただけますよう、お願い申し上げます）\n\n・Mándame el documento. → Le agradecería que me enviara el documento.\n （書類送って → 書類をお送りいただけましたら幸いです）\n\n・Ven a la reunión. → Le rogamos que asista a la reunión.\n （会議に来て → 会議にご出席くださいますようお願い申し上げます）\n\nフォーマルな依頼の定番パターン：\n・Le ruego que + 接続法（〜くださいますようお願い申し上げます）\n・Le agradecería que + 接続法過去（〜いただけましたら幸いです）\n・Sería tan amable de + 不定詞（〜していただけませんか）\n・Tenga la bondad de + 不定詞（恐れ入りますが〜してください）"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "ビジネスメールの定番表現",
+        "bodyJa": "スペイン語のビジネスメールには、決まった書き出しと締めの表現があります。\n\n書き出し：\n・Estimado/a Sr./Sra. [姓]:（〜様）\n・Muy estimado/a colega:（同僚の方へ）\n・A quien corresponda:（ご担当者様へ）\n・Me dirijo a usted para...（〜の件でご連絡いたします）\n・Por medio de la presente...（本状にて…）\n\n本文の定番表現：\n・En relación con su consulta...（お問い合わせに関しまして…）\n・Adjunto encontrará...（添付にて〜をお送りいたします）\n・Le informo de que...（〜についてお知らせいたします）\n・Quedo a su disposición para...（〜のためにいつでもお申し付けください）\n\n締め：\n・Atentamente,（敬具）\n・Reciba un cordial saludo,（敬意をこめて）\n・Sin otro particular, le saluda atentamente,（他に用件はございませんが、敬具）\n・Quedo a la espera de su respuesta.（ご返答をお待ちしております）"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "非人称構文：se + 動詞、受動態",
+        "bodyJa": "フォーマルな文章では、主語を曖昧にする非人称構文がよく使われます。\n\nse + 動詞（受身的 se）：\n・Se recomienda llegar con antelación.（事前にお越しになることをお勧めします）\n・Se ruega silencio.（お静かにお願いします）\n・Se prohibe fumar.（喫煙禁止）\n・Se informa a los clientes de que...（お客様にお知らせいたします…）\n\n受動態（ser + 過去分詞）：\n・La propuesta fue aprobada por unanimidad.（提案は全会一致で承認された）\n・El informe será presentado mañana.（報告書は明日提出される予定です）\n\nes + 形容詞 + que + 接続法（非人称評価）：\n・Es imprescindible que se cumplan los plazos.（期限を守ることが不可欠です）\n・Es conveniente que reserve con antelación.（事前にご予約されることをお勧めします）\n\n日本語話者のポイント：日本語は元々主語を省略しやすい言語ですが、スペイン語のフォーマル文では se 構文で意図的に主語を消します。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "フォーマルな接続詞・副詞表現",
+        "bodyJa": "フォーマルな文章で使われる接続詞・副詞表現を覚えましょう。\n\nカジュアル → フォーマル：\n・pero → no obstante, sin embargo（しかしながら）\n・además → asimismo, igualmente（同様に、加えて）\n・por eso → por consiguiente, en consecuencia（従って）\n・al final → en definitiva, finalmente（結局のところ）\n・o sea → es decir, esto es（すなわち）\n・según → conforme a, de acuerdo con（〜に従って）\n\nフォーマル文特有の表現：\n・en lo que respecta a...（〜に関しては）\n・con respecto a...（〜に関して）\n・dado que...（〜であることを考慮すると）\n・a efectos de...（〜の目的で）\n・en virtud de...（〜に基づいて）\n\nこれらは DELE C1の読解問題で頻出します。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "学術的文章の特徴",
+        "bodyJa": "学術論文やレポートでは、さらに特殊な文体が使われます。\n\n特徴1：三人称で書く\n× Yo creo que...（私は思う）\n○ Se puede considerar que...（〜と考えられる）\n○ Cabe señalar que...（〜と指摘できる）\n\n特徴2：名詞化を多用\n× Cuando analizamos los datos...（データを分析すると）\n○ Tras el análisis de los datos...（データの分析の後）\n\n特徴3：主張の緩和（hedging）\n・Parece indicar que...（〜を示唆しているようだ）\n・Los resultados sugieren que...（結果は〜を示唆している）\n・Es posible que + 接続法（〜の可能性がある）\n・Podría afirmarse que...（〜と言えるかもしれない）\n\n日本語の学術文体に通じるものがありますが、スペイン語ではより積極的に se 構文と接続法を使います。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Le agradecería que me enviara la información lo antes posible.",
+            "ja": "できるだけ早く情報をお送りいただけましたら幸いです。",
+            "noteJa": "Le agradecería que + 接続法過去。最もフォーマルな依頼表現の一つ。enviara は enviar の接続法過去。"
+          },
+          {
+            "es": "Me dirijo a usted para solicitar información sobre el programa.",
+            "ja": "プログラムについての情報を伺いたく、ご連絡いたします。",
+            "noteJa": "ビジネスメールの書き出し定番。me dirijo a usted = 「ご連絡いたします」。"
+          },
+          {
+            "es": "Se ruega a los asistentes que apaguen sus teléfonos móviles.",
+            "ja": "出席者の皆様は携帯電話の電源をお切りくださいますようお願いいたします。",
+            "noteJa": "se ruega que + 接続法。公式なアナウンスの定番表現。apaguen は apagar の接続法。"
+          },
+          {
+            "es": "No obstante, cabe señalar que los resultados son preliminares.",
+            "ja": "しかしながら、結果が予備的なものであることを指摘しておく必要がある。",
+            "noteJa": "no obstante = しかしながら。cabe señalar que = 指摘できる。学術的な文体。"
+          },
+          {
+            "es": "En lo que respecta a su solicitud, le informamos de que ha sido aprobada.",
+            "ja": "ご申請に関しましては、承認されたことをお知らせいたします。",
+            "noteJa": "en lo que respecta a = 〜に関しては。le informamos de que = お知らせいたします。"
+          },
+          {
+            "es": "Quedo a su disposición para cualquier consulta adicional.",
+            "ja": "何かご不明な点がございましたら、いつでもお申し付けください。",
+            "noteJa": "メール締めの定番。quedo a su disposición = いつでもお申し付けください。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Mándame el informe antes del viernes.（上司へのメールで）",
+            "correct": "Le agradecería que me enviara el informe antes del viernes.",
+            "whyJa": "ビジネスメールで tú の命令形は失礼。接続法過去を使った婉曲表現が適切。"
+          },
+          {
+            "wrong": "Hola, quiero saber sobre el curso.（公式な問い合わせで）",
+            "correct": "Estimados señores: Me dirijo a ustedes para solicitar información sobre el curso.",
+            "whyJa": "公式な問い合わせは Estimados señores の書き出しが必要。quiero saber は直接的すぎる。"
+          },
+          {
+            "wrong": "Por eso, los datos muestran que...（学術論文で）",
+            "correct": "Por consiguiente, los datos sugieren que...",
+            "whyJa": "学術文では por eso より por consiguiente が適切。また muestran（示す）より sugieren（示唆する）の方が学術的な慎重さがある。"
+          },
+          {
+            "wrong": "Yo pienso que el resultado es bueno.（学術論文で）",
+            "correct": "Cabe considerar que el resultado es satisfactorio.",
+            "whyJa": "学術文では一人称を避け、非人称構文を使う。bueno より satisfactorio がフォーマル。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "実際のビジネスシーンではこう使う！",
+        "items": [
+          {
+            "es": "Estimada Sra. García: Adjunto encontrará el presupuesto solicitado. Quedo a su disposición. Atentamente, Miguel.",
+            "ja": "ガルシア様：ご依頼いただいたお見積もりを添付いたします。何かございましたらお申し付けください。敬具 ミゲル",
+            "source": "email",
+            "sourceLabel": "ビジネスメール",
+            "noteJa": "ビジネスメールの典型的な構成。Adjunto encontrará（添付にて）、Quedo a su disposición（お申し付けください）。"
+          },
+          {
+            "es": "Se comunica a los empleados que las oficinas permanecerán cerradas el lunes.",
+            "ja": "従業員の皆様にお知らせいたします。月曜日は事務所を閉鎖いたします。",
+            "source": "notice",
+            "sourceLabel": "社内通知",
+            "noteJa": "se comunica a + 対象 + que... の非人称構文。公式通知の定番。"
+          },
+          {
+            "es": "Los resultados obtenidos sugieren que existe una correlación significativa entre ambas variables.",
+            "ja": "得られた結果は、両変数間に有意な相関が存在することを示唆している。",
+            "source": "academic",
+            "sourceLabel": "学術論文",
+            "noteJa": "学術文体の典型。sugieren（示唆する）で断定を避け、名詞化（los resultados obtenidos）を使っている。"
+          },
+          {
+            "es": "Le rogamos que confirme su asistencia antes del 15 de marzo.",
+            "ja": "3月15日までにご出席のご確認をお願い申し上げます。",
+            "source": "email",
+            "sourceLabel": "フォーマルな招待状",
+            "noteJa": "le rogamos que + 接続法。confirme は confirmar の接続法。最も丁寧な依頼の一つ。"
+          },
+          {
+            "es": "Sin otro particular y a la espera de su pronta respuesta, le saluda atentamente.",
+            "ja": "他に用件はございませんが、早急なご返答をお待ちしております。敬具。",
+            "source": "email",
+            "sourceLabel": "ビジネスメール締め",
+            "noteJa": "メール締めの最もフォーマルな表現。pronta respuesta = 早急な返答。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "「情報をお送りいただけましたら幸いです」の正しい表現は？",
+            "options": [
+              "Mándame la información.",
+              "Quiero que me envíes la información.",
+              "Le agradecería que me enviara la información.",
+              "Envíame la información, por favor."
+            ],
+            "answer": 2,
+            "explanationJa": "Le agradecería que + 接続法過去が最もフォーマルな依頼表現。条件法 + 接続法過去の組み合わせ。"
+          },
+          {
+            "prompt": "ビジネスメールの書き出しとして最も適切なのは？",
+            "options": [
+              "Querido Sr. López:",
+              "Buenas, Sr. López.",
+              "Hola Sr. López,",
+              "Estimado Sr. López:"
+            ],
+            "answer": 3,
+            "explanationJa": "Estimado/a が最もフォーマル。Hola は カジュアル、Querido は親しい関係、Buenas は口語。"
+          },
+          {
+            "prompt": "「出席者は携帯電話をお切りください」のフォーマルな表現は？",
+            "options": [
+              "Se ruega a los asistentes que apaguen sus teléfonos.",
+              "Hay que apagar los teléfonos.",
+              "Apagad vuestros teléfonos.",
+              "Los asistentes tienen que apagar sus teléfonos."
+            ],
+            "answer": 0,
+            "explanationJa": "se ruega que + 接続法が最もフォーマル。非人称構文で丁寧さを表す。"
+          },
+          {
+            "prompt": "「しかしながら」のフォーマルな表現は？",
+            "options": [
+              "Bueno, pero",
+              "Aunque",
+              "No obstante",
+              "Pero"
+            ],
+            "answer": 2,
+            "explanationJa": "no obstante はフォーマルな「しかしながら」。pero はニュートラル、bueno pero はカジュアル。"
+          },
+          {
+            "prompt": "学術論文で「〜と考えられる」を表すのに最も適切なのは？",
+            "options": [
+              "Pienso que...",
+              "Para mí...",
+              "Cabe considerar que...",
+              "Yo creo que..."
+            ],
+            "answer": 2,
+            "explanationJa": "cabe considerar que は非人称で学術的。一人称（yo creo, pienso）は学術文では避ける。"
+          },
+          {
+            "prompt": "メールの締めとして最もフォーマルなのは？",
+            "options": [
+              "Chao.",
+              "Un abrazo.",
+              "Nos vemos.",
+              "Reciba un cordial saludo."
+            ],
+            "answer": 3,
+            "explanationJa": "Reciba un cordial saludo はフォーマル。Un abrazo は友人向け、Nos vemos / Chao はカジュアル。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Le ___ que me enviara el documento lo antes posible. (agradecer, yo, 条件法)",
+            "answer": "agradecería",
+            "options": [
+              "agradecería",
+              "agradezco",
+              "agradeceré",
+              "agradecí"
+            ],
+            "explanationJa": "フォーマルな依頼表現。Le agradecería que + 接続法過去。条件法で丁寧さを表す。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Se ___ a los asistentes que apaguen sus teléfonos. (rogar)",
+            "answer": "ruega",
+            "options": [
+              "ruega",
+              "roga",
+              "rogó",
+              "ruegan"
+            ],
+            "explanationJa": "se ruega que + 接続法。公式なアナウンスの定番表現。非人称構文。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ encontrará el informe solicitado. (添付にて)",
+            "answer": "Adjunto",
+            "options": [
+              "Incluido",
+              "Junto",
+              "Adjunto",
+              "Anexo"
+            ],
+            "explanationJa": "Adjunto encontrará... はビジネスメールで「添付にて〜をお送りいたします」の定番。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Me ___ a usted para solicitar información. (dirigir, yo)",
+            "answer": "dirijo",
+            "options": [
+              "dirigiré",
+              "dirigí",
+              "dirigo",
+              "dirijo"
+            ],
+            "explanationJa": "Me dirijo a usted para... はビジネスメールの書き出し。「ご連絡いたします」。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ a su disposición para cualquier consulta. (quedar, yo)",
+            "answer": "Quedo",
+            "options": [
+              "Soy",
+              "Estoy",
+              "Me pongo",
+              "Quedo"
+            ],
+            "explanationJa": "Quedo a su disposición はメール締めの定番。「いつでもお申し付けください」。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ obstante, los resultados son preliminares. (しかしながら)",
+            "answer": "No",
+            "options": [
+              "Por",
+              "Sin",
+              "No",
+              "Con"
+            ],
+            "explanationJa": "No obstante = しかしながら。フォーマルな逆接の表現。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Los datos ___ que existe una correlación. (示唆する)",
+            "answer": "sugieren",
+            "options": [
+              "sugieren",
+              "enseñan",
+              "dicen",
+              "muestran"
+            ],
+            "explanationJa": "学術文では sugieren（示唆する）が muestran（示す）より慎重で適切。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ señalar que los datos son limitados. (〜と指摘できる)",
+            "answer": "Cabe",
+            "options": [
+              "Cabe",
+              "Puede",
+              "Es",
+              "Hay"
+            ],
+            "explanationJa": "Cabe señalar que = 〜と指摘できる。学術的な非人称表現。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Le ___ que confirme su asistencia antes del viernes. (rogar, nosotros)",
+            "answer": "rogamos",
+            "options": [
+              "rogámos",
+              "ruegamos",
+              "pedimos",
+              "rogamos"
+            ],
+            "explanationJa": "Le rogamos que + 接続法。最も丁寧な依頼の一つ。rogamos は rogar の直説法 nosotros 形。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "En lo que ___ a su solicitud, ha sido aprobada. (〜に関しては)",
+            "answer": "respecta",
+            "options": [
+              "concierne",
+              "respeta",
+              "respecta",
+              "refiere"
+            ],
+            "explanationJa": "en lo que respecta a = 〜に関しては。フォーマルな定型表現。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Mándame el informe antes del viernes. (上司へのビジネスメール)",
+            "answer": "Le agradecería que me enviara el informe antes del viernes.",
+            "explanationJa": "ビジネスメールでは tú の命令形は不適切。Le agradecería que + 接続法過去がフォーマル。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Hola, quiero saber sobre el programa de becas. (公式な問い合わせ)",
+            "answer": "Estimados señores: Me dirijo a ustedes para solicitar información sobre el programa de becas.",
+            "explanationJa": "公式な問い合わせは Estimados señores の書き出しが必要。Hola は不適切。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Yo creo que los resultados son buenos. (学術論文で)",
+            "answer": "Cabe considerar que los resultados son satisfactorios.",
+            "explanationJa": "学術文では一人称を避け非人称構文を使う。bueno より satisfactorio がフォーマル。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Por eso, la hipótesis es correcta. (学術論文で)",
+            "answer": "Por consiguiente, la hipótesis parece ser correcta.",
+            "explanationJa": "por eso → por consiguiente がフォーマル。また parece ser で断定を緩和する（hedging）。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Un abrazo. (ビジネスメールの締めとして)",
+            "answer": "Reciba un cordial saludo.",
+            "explanationJa": "Un abrazo は友人向け。ビジネスメールでは Reciba un cordial saludo や Atentamente が適切。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "最もフォーマルな依頼表現はどれ？",
+            "options": [
+              "Envíame la información, por favor.",
+              "Me puedes mandar la información.",
+              "Quiero que me envíes la información.",
+              "Le agradecería que me enviara la información."
+            ],
+            "answer": 3,
+            "explanationJa": "Le agradecería que + 接続法過去が最もフォーマル。条件法 + 接続法過去の組み合わせ。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "ビジネスメールの書き出しとして「ご担当者様へ」は？",
+            "options": [
+              "Querido señor:",
+              "Buenos días:",
+              "A quien corresponda:",
+              "Hola:"
+            ],
+            "answer": 2,
+            "explanationJa": "A quien corresponda = ご担当者様へ。担当者名がわからない場合のフォーマルな宛名。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "フォーマルな文章で pero の代わりに使う表現は？",
+            "options": [
+              "Bueno, pero",
+              "Aunque",
+              "No obstante / Sin embargo",
+              "Y eso que"
+            ],
+            "answer": 2,
+            "explanationJa": "No obstante / Sin embargo はフォーマルな「しかしながら」。pero はニュートラル。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "非人称構文 se recomienda の意味は？",
+            "options": [
+              "勧められた",
+              "私が勧めます",
+              "勧めてください",
+              "〜することをお勧めします"
+            ],
+            "answer": 3,
+            "explanationJa": "se + 動詞の非人称構文。主語を曖昧にして丁寧さを表す。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "学術論文で「〜を示唆している」に最も適切な表現は？",
+            "options": [
+              "Los resultados dicen que...",
+              "Los resultados muestran que...",
+              "Los resultados prueban que...",
+              "Los resultados sugieren que..."
+            ],
+            "answer": 3,
+            "explanationJa": "sugieren（示唆する）は学術文で最も適切。dicen は口語的、prueban は断定的すぎる。"
+          },
+          {
+            "type": "translation",
+            "prompt": "できるだけ早くご返答いただけましたら幸いです。",
+            "answer": "Le agradecería que me respondiera lo antes posible.",
+            "acceptableAnswers": [
+              "Le agradecería que me contestara lo antes posible.",
+              "Le agradecería una pronta respuesta."
+            ],
+            "explanationJa": "Le agradecería que + 接続法過去。フォーマルな依頼表現。"
+          },
+          {
+            "type": "translation",
+            "prompt": "3月15日までにご出席のご確認をお願い申し上げます。",
+            "answer": "Le rogamos que confirme su asistencia antes del 15 de marzo.",
+            "acceptableAnswers": [
+              "Le ruego que confirme su asistencia antes del 15 de marzo."
+            ],
+            "explanationJa": "Le rogamos que + 接続法。最も丁寧な依頼の一つ。confirme は confirmar の接続法。"
+          },
+          {
+            "type": "translation",
+            "prompt": "〜の件でご連絡いたします。",
+            "answer": "Me dirijo a usted en relación con...",
+            "acceptableAnswers": [
+              "Me dirijo a usted para tratar el asunto de...",
+              "Me pongo en contacto con usted en relación con..."
+            ],
+            "explanationJa": "Me dirijo a usted はビジネスメールの書き出し定番。en relación con = 〜に関して。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "Creo que hay un error en la factura.（よりフォーマルに書き換えなさい）",
+            "answer": "Le informo de que parece haber un error en la factura.",
+            "explanationJa": "一人称の creo を避け、le informo de que + parece haber（〜があるようです）で丁寧かつ慎重な表現に。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "Dime cuándo puedes venir.（フォーマルに書き換えなさい）",
+            "answer": "Le ruego que me indique su disponibilidad.",
+            "explanationJa": "Le ruego que + 接続法で丁寧な依頼。indique は indicar の接続法。disponibilidad = ご都合。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "フォーマルな依頼は Le agradecería que + 接続法過去、Le ruego que + 接続法 を使う",
+      "ビジネスメールの書き出しは Estimado/a、締めは Atentamente や Reciba un cordial saludo",
+      "非人称構文（se + 動詞）はフォーマルな文章の基本ツール",
+      "学術文では一人称を避け、cabe señalar que, se puede considerar que などを使う",
+      "カジュアルな接続詞（pero, por eso）はフォーマルでは no obstante, por consiguiente に置き換える",
+      "DELE C1では、フォーマル/カジュアルのレジスター使い分けが直接問われる"
+    ]
+  }
+}

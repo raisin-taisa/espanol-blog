@@ -1,0 +1,503 @@
+{
+  "id": "c2-grammar-001",
+  "slug": "matices-subjuntivo",
+  "titleJa": "接続法のニュアンス極み — 文学的接続法・願望の過去完了・微妙な使い分け",
+  "titleEs": "Matices del subjuntivo: uso literario, pluscuamperfecto de deseo y distinciones sutiles",
+  "level": "c2",
+  "sortOrder": 1,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "C2レベルの接続法とは？「文法的に正しい」の先にあるもの",
+        "bodyJa": "B2までで接続法の基本形と主なトリガーは学びました。\nC2レベルでは「正しいか正しくないか」ではなく、「どの接続法を選ぶとどんなニュアンスになるか」が問われます。\n\n例えば、同じ「願望」でも：\n・Ojalá llueva.（雨が降るといいな）→ 実現可能な希望\n・Ojalá lloviera.（雨が降ればいいのに）→ 可能性が低い希望\n・Ojalá hubiera llovido.（雨が降っていればよかったのに）→ 実現しなかった後悔\n\nこの3つの違いを「感覚で」選べるかどうかがC2の分かれ目です。\n\n日本語話者にとっての難関は、日本語の「〜ればよかった」が1パターンなのに対し、スペイン語は時制と法の組み合わせで微妙にニュアンスが変わる点です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "接続法過去 -ra形 vs -se形：本当に同じなのか？",
+        "bodyJa": "多くの教科書では「-ra形と-se形は同じ意味」と説明されます。\nしかしC2レベルではその違いを理解する必要があります。\n\n1. 日常会話では-ra形が圧倒的に優勢（特にラテンアメリカ）\n2. -se形は文学・法律文書・フォーマルな文体で好まれる\n3. 重要な例外：-ra形だけが直説法過去完了の代用として使える\n\nこの3番目が最重要ポイントです。\n\n例：El libro que me dieras ayer...（昨日君がくれた本...）\n→ ここでの diera は接続法ではなく、直説法過去完了 habías dado の文学的代用です。\n→ dieseに置き換えは不可。\n\nこの用法はセルバンテスやガルシア・マルケスの小説に頻出します。\nDELE C2のリーディングで出題される可能性が高いので、認識できるようにしておきましょう。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "接続法過去完了の3つの顔",
+        "bodyJa": "接続法過去完了（hubiera/hubiese + 過去分詞）には、C2で区別すべき3つの用法があります。\n\n1. 反実仮想の帰結節\nSi hubiera estudiado más, habría aprobado.\n（もっと勉強していたら、合格していただろう）\n→ habría の代わりに hubiera も使える：Si hubiera estudiado, hubiera aprobado.\n\n2. 実現しなかった願望\nOjalá hubiera ido a esa fiesta.\n（あのパーティーに行っていればよかった）\n\n3. 感情・評価の過去\nMe alegré de que hubieran llegado a tiempo.\n（彼らが間に合ったことを嬉しく思った）\n\n注意：1の「hubiera + hubiera」構文は口語で非常によく使われますが、RAE（スペイン王立アカデミー）は「habría + hubiera」を推奨しています。\n試験では habría を使い、実際の会話では hubiera も理解できるようにしましょう。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "文学的接続法：futuro de subjuntivo（接続法未来）",
+        "bodyJa": "現代スペイン語ではほぼ消滅した時制ですが、C2では知っておく必要があります。\n\n接続法未来の形：\nhablar → hablare, hablares, hablare, habláremos, hablareis, hablaren\n\n現在も生きている場面：\n1. 法律文書：「El que robare será castigado.」（盗みを働いた者は罰せられる）\n2. ことわざ：「Donde fueres, haz lo que vieres.」（郷に入っては郷に従え）\n3. 慣用表現：「Sea lo que fuere」（何であれ）、「venga lo que viniere」（何が起ころうとも）\n\n現代語では接続法現在に置き換わっています：\n古：Donde fueres, haz lo que vieres.\n現代：Donde vayas, haz lo que veas.\n\nDELE C2のリーディングや文学作品で出会ったとき、意味がわかれば十分です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "接続法のニュアンス対比表",
+        "bodyJa": "同じ状況で異なる接続法を使うとどう変わるか、対比で見てみましょう。\n\n【願望の度合い】\nQuiero que venga.（来てほしい）→ 普通の要求\nEspero que venga.（来ることを期待している）→ 希望\nOjalá venga.（来るといいな）→ 実現可能な強い願望\nOjalá viniera.（来ればいいのに）→ 可能性が低い\nOjalá hubiera venido.（来ていればよかったのに）→ 後悔\n\n【確信度の段階】\nCreo que viene.（来ると思う）→ 直説法・確信あり\nNo creo que venga.（来るとは思わない）→ 接続法・否定の推量\nDudo que venga.（来るか疑わしい）→ 接続法・疑い\nEs imposible que venga.（来るのはあり得ない）→ 接続法・不可能\n\nこの「グラデーション」を使いこなせることがC2の証です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "como si + 接続法：C2レベルの精密な使い分け",
+        "bodyJa": "como si（まるで〜のように）は常に接続法を取りますが、時制によって意味が変わります。\n\n1. como si + 接続法過去 → 現在の非現実\nHabla como si supiera todo.（まるで全部知っているかのように話す）\n→ 実際は知らない。現在の状況への比喩。\n\n2. como si + 接続法過去完了 → 過去の非現実\nMe miró como si hubiera visto un fantasma.（まるで幽霊を見たかのように私を見た）\n→ 実際は幽霊は見ていない。過去の出来事への比喩。\n\n日本語話者の落とし穴：\n日本語の「まるで〜のように」には時制の区別がないため、como si の後ろの時制選択を間違えやすいです。\n\n判断基準：比喩の内容が「今」のことか「過去」のことかで決めます。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Ojalá hubiera sabido la verdad antes de tomar esa decisión.",
+            "ja": "その決断をする前に真実を知っていればよかったのに。",
+            "noteJa": "接続法過去完了で「実現しなかった過去への後悔」。hubiera sabido = 知っていたら（実際は知らなかった）。"
+          },
+          {
+            "es": "Si me lo hubieras dicho, habría actuado de otra manera.",
+            "ja": "もし言ってくれていたら、違うふうに行動していただろう。",
+            "noteJa": "Si + 接続法過去完了, 条件法過去。反実仮想の典型パターン。口語では habría の代わりに hubiera も使われる。"
+          },
+          {
+            "es": "Habla como si fuera el dueño del lugar, pero solo es un empleado.",
+            "ja": "まるでオーナーであるかのように話すが、ただの従業員だ。",
+            "noteJa": "como si + 接続法過去。現在の非現実的比喩。fuera = あたかも〜であるように。"
+          },
+          {
+            "es": "No es que no quiera ayudarte, es que no puedo.",
+            "ja": "手伝いたくないわけじゃなくて、できないんだ。",
+            "noteJa": "no es que + 接続法。否定の訂正表現。quiera は接続法だが、puedo は直説法（事実の断言）。"
+          },
+          {
+            "es": "Quienquiera que haya escrito esto, tenía un talento extraordinario.",
+            "ja": "これを書いた人が誰であれ、非凡な才能を持っていた。",
+            "noteJa": "quienquiera que + 接続法。不定の関係節。haya escrito は接続法現在完了。"
+          },
+          {
+            "es": "Por mucho que se esforzara, nunca lograba satisfacer las expectativas.",
+            "ja": "どれだけ努力しても、期待に応えることはできなかった。",
+            "noteJa": "por mucho que + 接続法過去。譲歩節。se esforzara の-ra形は過去の習慣的状況を表す。"
+          },
+          {
+            "es": "Hubiera preferido que no me lo dijeras.",
+            "ja": "言わないでほしかった。",
+            "noteJa": "hubiera preferido = habría preferido の口語的代用。条件法過去の代わりに接続法過去完了を使っている。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Si habría estudiado más, habría aprobado.",
+            "correct": "Si hubiera estudiado más, habría aprobado.",
+            "whyJa": "si節の中に条件法（habría）は使えません。si + 接続法過去完了（hubiera）が正しい形。これはネイティブでも間違える人がいるほど頻出の誤りです。"
+          },
+          {
+            "wrong": "Ojalá que vendría mañana.",
+            "correct": "Ojalá que viniera mañana. / Ojalá que venga mañana.",
+            "whyJa": "ojalá の後に条件法は使えません。可能性が高い場合は接続法現在（venga）、低い場合は接続法過去（viniera）を使います。"
+          },
+          {
+            "wrong": "Me miró como si vio un fantasma.",
+            "correct": "Me miró como si hubiera visto un fantasma.",
+            "whyJa": "como si の後は必ず接続法。直説法の vio は不可。過去の非現実なので接続法過去完了 hubiera visto が正しい。"
+          },
+          {
+            "wrong": "No es que no quiero, es que no puedo.",
+            "correct": "No es que no quiera, es que no puedo.",
+            "whyJa": "no es que の後は接続法。quiero（直説法）→ quiera（接続法）。一方、es que の後は直説法の puedo で正しい。"
+          },
+          {
+            "wrong": "Quienquiera que escribió esto...",
+            "correct": "Quienquiera que haya escrito esto...",
+            "whyJa": "quienquiera que の後は接続法が必要。escribió は直説法の点過去。haya escrito（接続法現在完了）が正しい。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "文学作品・実際の使用例",
+        "items": [
+          {
+            "es": "Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo.",
+            "ja": "銃殺隊の前に立たされたとき、アウレリアノ・ブエンディア大佐は、父に連れられて氷を見に行った遠い午後を思い出すことになった。",
+            "source": "literature",
+            "sourceLabel": "ガルシア・マルケス『百年の孤独』冒頭",
+            "noteJa": "había de + 不定詞は文学的表現で「〜することになる運命だった」。直説法だが、この文体的選択がマジックリアリズムの雰囲気を作る。"
+          },
+          {
+            "es": "Si yo me hubiese quedado en aquel pueblo, mi vida habría sido completamente distinta.",
+            "ja": "もしあの町に残っていたら、私の人生はまったく違うものになっていただろう。",
+            "source": "literature",
+            "sourceLabel": "文学的表現",
+            "noteJa": "hubiese は hubiera の文学的バリエーション（-se形）。フォーマルな文章や小説で好まれる。"
+          },
+          {
+            "es": "Donde fueres, haz lo que vieres.",
+            "ja": "郷に入っては郷に従え。",
+            "source": "proverb",
+            "sourceLabel": "スペインのことわざ",
+            "noteJa": "接続法未来（fueres, vieres）の現存例。現代語では Donde vayas, haz lo que veas."
+          },
+          {
+            "es": "Sea como fuere, la decisión ya está tomada.",
+            "ja": "いずれにせよ、決定はすでになされた。",
+            "source": "formal",
+            "sourceLabel": "フォーマルな議論",
+            "noteJa": "接続法未来 fuere の慣用表現。現代語では sea como sea も使うが、fuere の方が格式が高い。"
+          },
+          {
+            "es": "Quisiera que me explicaras por qué tomaste esa decisión.",
+            "ja": "なぜその決断をしたのか説明してほしいのですが。",
+            "source": "formal",
+            "sourceLabel": "フォーマルな依頼",
+            "noteJa": "quisiera は querer の接続法過去で、querría（条件法）より丁寧な依頼表現。C2レベルの丁寧さの使い分け。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "「あのパーティーに行っていればよかったのに」の正しい訳は？",
+            "options": [
+              "Ojalá fui a esa fiesta.",
+              "Ojalá vaya a esa fiesta.",
+              "Ojalá hubiera ido a esa fiesta.",
+              "Ojalá iría a esa fiesta."
+            ],
+            "answer": 2,
+            "explanationJa": "実現しなかった過去の願望には ojalá + 接続法過去完了（hubiera ido）を使います。fui は直説法、iría は条件法で、ojalá の後には使えません。"
+          },
+          {
+            "prompt": "Si ___ más dinero, habría comprado esa casa. (tener, yo)",
+            "options": [
+              "tuviera",
+              "habría tenido",
+              "hubiera tenido",
+              "tendría"
+            ],
+            "answer": 2,
+            "explanationJa": "si節の中には条件法は使えません。過去の反実仮想には si + 接続法過去完了（hubiera tenido）を使います。"
+          },
+          {
+            "prompt": "次の文の -ra形を-se形に置き換えられないのはどれ？",
+            "options": [
+              "Si yo tuviera más tiempo...",
+              "El premio que me diera el director.（=直説法過去完了の文学的代用）",
+              "Ojalá pudiera volar.",
+              "Quisiera un café, por favor."
+            ],
+            "answer": 1,
+            "explanationJa": "-ra形が直説法過去完了の代用として使われている場合、-se形への置き換えは不可能です。diese では文学的代用の意味が消えます。"
+          },
+          {
+            "prompt": "Habla como si ___ todo. (saber)",
+            "options": [
+              "sabría",
+              "sabe",
+              "supiera",
+              "sepa"
+            ],
+            "answer": 2,
+            "explanationJa": "como si の後は接続法過去（現在の非現実比喩）または接続法過去完了（過去の非現実比喩）。supiera が正解。"
+          },
+          {
+            "prompt": "接続法未来（fuere, hiciere等）が現代でも使われる場面はどれ？",
+            "options": [
+              "法律文書・ことわざ・慣用表現",
+              "ビジネスメール・プレゼンテーション",
+              "歌詞・広告コピー",
+              "日常会話・SNS"
+            ],
+            "answer": 0,
+            "explanationJa": "接続法未来は現代の日常語ではほぼ死語ですが、法律文書・ことわざ・一部の慣用表現（sea lo que fuere等）には残っています。"
+          },
+          {
+            "prompt": "No es que no ___ ayudarte, es que no puedo. (querer, yo)",
+            "options": [
+              "quiera",
+              "quiero",
+              "querría",
+              "quisiera"
+            ],
+            "answer": 0,
+            "explanationJa": "no es que の後は接続法。quiera（接続法現在）が正しい。quiero は直説法なので不可。"
+          },
+          {
+            "prompt": "「quisiera」と「querría」の違いについて正しいのは？",
+            "options": [
+              "完全に同じ意味で互換性がある",
+              "quisiera の方がより丁寧で控えめな依頼になる",
+              "quisiera は口語でのみ使い、書き言葉では使えない",
+              "querría の方がフォーマルである"
+            ],
+            "answer": 1,
+            "explanationJa": "quisiera（接続法過去）は querría（条件法）より丁寧で控えめなニュアンスがあります。レストランでの注文や目上への依頼で好まれます。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Ojalá ___ más tiempo para despedirme. (haber tenido)",
+            "answer": "hubiera tenido",
+            "options": [
+              "tendría",
+              "hubiera tenido",
+              "tuviera",
+              "habría tenido"
+            ],
+            "explanationJa": "実現しなかった過去の願望には ojalá + 接続法過去完了（hubiera tenido）を使います。条件法は ojalá の後に使えません。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si te lo ___ antes, habrías reaccionado de otra forma. (decir, yo)",
+            "answer": "hubiera dicho",
+            "options": [
+              "diría",
+              "habría dicho",
+              "hubiera dicho",
+              "dijera"
+            ],
+            "explanationJa": "si節には条件法は不可。過去の反実仮想では si + 接続法過去完了（hubiera dicho）が正しい形です。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Actúa como si no ___ nada de lo ocurrido. (saber)",
+            "answer": "supiera",
+            "options": [
+              "sepa",
+              "sabe",
+              "sabría",
+              "supiera"
+            ],
+            "explanationJa": "como si の後は接続法過去（現在の非現実比喩）。supiera で「まるで知らないかのように」の意味。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "No es que no ___ ir, es que no me han invitado. (querer, yo)",
+            "answer": "quiera",
+            "options": [
+              "quiera",
+              "querría",
+              "quisiera",
+              "quiero"
+            ],
+            "explanationJa": "no es que の後は接続法現在。「行きたくないわけじゃない」という否定の訂正表現。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Quienquiera que ___ responsable, deberá asumir las consecuencias. (ser)",
+            "answer": "sea",
+            "options": [
+              "fuera",
+              "sea",
+              "será",
+              "es"
+            ],
+            "explanationJa": "quienquiera que + 接続法。不定の関係節で、誰であれという意味。現在の状況なので接続法現在 sea。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Por mucho que ___ , no lograrás convencerme. (insistir, tú)",
+            "answer": "insistas",
+            "options": [
+              "insistirías",
+              "insistieras",
+              "insistes",
+              "insistas"
+            ],
+            "explanationJa": "por mucho que + 接続法。現在の譲歩を表す。現在の状況なので接続法現在 insistas。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Me miró como si ___ visto un fantasma. (haber)",
+            "answer": "hubiera",
+            "options": [
+              "hubiera",
+              "ha",
+              "había",
+              "habría"
+            ],
+            "explanationJa": "como si + 接続法過去完了で過去の非現実比喩。hubiera visto = まるで見たかのように（実際は見ていない）。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ lo que ___ , no cambiaré de opinión. (ser/ser - 接続法未来の慣用句)",
+            "answer": "Sea lo que fuere",
+            "options": [
+              "Es lo que es",
+              "Sea lo que fuere",
+              "Sea lo que sea",
+              "Será lo que será"
+            ],
+            "explanationJa": "Sea lo que fuere は接続法未来を含む格式の高い慣用表現。現代語では sea lo que sea も使うが、fuere の方が文学的。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ que me explicaras por qué no viniste. (querer - 丁寧な依頼)",
+            "answer": "Quisiera",
+            "options": [
+              "Quisiera",
+              "Quería",
+              "Quiero",
+              "Querría"
+            ],
+            "explanationJa": "quisiera（接続法過去）は querría（条件法）より丁寧で控えめな依頼。「〜していただきたいのですが」のニュアンス。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si yo ___ en tu lugar, habría actuado igual. (estar)",
+            "answer": "hubiera estado",
+            "options": [
+              "estaría",
+              "estuviera",
+              "hubiera estado",
+              "habría estado"
+            ],
+            "explanationJa": "過去の反実仮想の si 節には接続法過去完了。hubiera estado で「もしいたなら」（実際はいなかった）。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Si habría llegado a tiempo, no habríamos perdido el tren.",
+            "answer": "Si hubiera llegado a tiempo, no habríamos perdido el tren.",
+            "explanationJa": "si節に条件法（habría）は不可。接続法過去完了 hubiera llegado が正しい。ネイティブでも間違える頻出エラー。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Ojalá que vendría a mi fiesta este sábado.",
+            "answer": "Ojalá que viniera a mi fiesta este sábado. / Ojalá que venga a mi fiesta este sábado.",
+            "explanationJa": "ojalá の後に条件法（vendría）は不可。可能性が低ければ接続法過去（viniera）、実現可能なら接続法現在（venga）。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Me trató como si soy su enemigo.",
+            "answer": "Me trató como si fuera su enemigo.",
+            "explanationJa": "como si の後は必ず接続法。直説法現在 soy は不可。現在の非現実比喩なので接続法過去 fuera。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "No es que no puedo, es que no quiero.",
+            "answer": "No es que no pueda, es que no quiero.",
+            "explanationJa": "no es que の後は接続法が必要。puedo（直説法）→ pueda（接続法）。es que の後は事実の断言なので直説法 quiero で正しい。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Dondequiera que vas, te seguiré.",
+            "answer": "Dondequiera que vayas, te seguiré.",
+            "explanationJa": "dondequiera que の後は接続法が必要。vas（直説法）→ vayas（接続法現在）。不定の場所を表す表現。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Si yo hubiera sabido, hubiera actuado diferente」の hubiera actuado は文法的にどう分析されるか？",
+            "options": [
+              "文法的に完全に誤った表現",
+              "帰結節での条件法過去（habría actuado）の口語的代用",
+              "接続法過去完了の標準的用法",
+              "直説法過去完了の文学的用法"
+            ],
+            "answer": 1,
+            "explanationJa": "帰結節の hubiera は habría の口語的代用。RAEは habría を推奨するが、hubiera...hubiera は口語で広く使われている。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次のうち、-se形に置き換えられないのはどの -ra形か？",
+            "options": [
+              "La casa que me diera mi abuelo...（直説法過去完了の文学的代用）",
+              "Ojalá lloviera mañana.（願望の接続法過去）",
+              "Quería que hablaras conmigo.（名詞節の接続法過去）",
+              "Si pudiera volar, sería feliz.（条件文の接続法過去）"
+            ],
+            "answer": 0,
+            "explanationJa": "-ra形が直説法過去完了の文学的代用として機能する場合、-se形（diese）には置き換えられません。他の3つは-se形で代用可能。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Ojalá pudiera」と「Ojalá pueda」の違いは何か？",
+            "options": [
+              "pudiera は過去、pueda は現在の出来事を指す",
+              "pudiera はフォーマル、pueda はカジュアルである",
+              "意味は同じだが地域差がある",
+              "pudiera は可能性が低い希望、pueda は実現可能な希望を表す"
+            ],
+            "answer": 3,
+            "explanationJa": "接続法過去（pudiera）は可能性が低い・非現実的な希望、接続法現在（pueda）は実現可能な希望を表す。時制ではなく「確率のグラデーション」。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "接続法未来（hablare, supiere 等）が現代スペイン語で生きている場面はどれか？",
+            "options": [
+              "ビジネスメールの定型表現",
+              "SNSやチャットの略語",
+              "新聞記事の見出し",
+              "法律文書、ことわざ、慣用表現（sea lo que fuere 等）"
+            ],
+            "answer": 3,
+            "explanationJa": "接続法未来はほぼ死語だが、法律（El que robare...）、ことわざ（Donde fueres...）、慣用句（sea lo que fuere）に現存。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Quisiera un café」が「Querría un café」より丁寧とされる理由は？",
+            "options": [
+              "quisiera の方が古語的で格式高いため",
+              "接続法の「現実から距離を置く」効果が丁寧さを生むため",
+              "接続法が命令のニュアンスを持つため",
+              "条件法は口語的すぎるため"
+            ],
+            "answer": 1,
+            "explanationJa": "接続法過去は「非現実・仮定」の世界に属し、それが直接的な要求から距離を取る効果を生む。この「距離 = 丁寧さ」が言語学的な説明。"
+          },
+          {
+            "type": "translation",
+            "prompt": "もし彼がもっと早く到着していたら、悲劇は避けられていただろう。",
+            "answer": "Si hubiera llegado antes, se habría evitado la tragedia.",
+            "acceptableAnswers": [
+              "Si hubiera llegado más temprano, la tragedia se habría evitado.",
+              "Si hubiese llegado antes, se habría evitado la tragedia.",
+              "Si hubiera llegado antes, se hubiera evitado la tragedia."
+            ],
+            "explanationJa": "過去の反実仮想：si + 接続法過去完了, 条件法過去。hubiera...habría が推奨形だが、hubiera...hubiera も口語で可。"
+          },
+          {
+            "type": "translation",
+            "prompt": "どれだけお金を積まれても、あの秘密は明かさなかっただろう。",
+            "answer": "Por mucho dinero que me hubieran ofrecido, no habría revelado ese secreto.",
+            "acceptableAnswers": [
+              "Por más dinero que me hubieran dado, no habría revelado aquel secreto.",
+              "Por mucho que me hubieran pagado, no habría revelado ese secreto."
+            ],
+            "explanationJa": "por mucho que + 接続法過去完了で過去の譲歩。帰結節は条件法過去（habría revelado）。"
+          },
+          {
+            "type": "translation",
+            "prompt": "まるで何年も住んでいたかのように、その街のことをよく知っている。",
+            "answer": "Conoce la ciudad como si hubiera vivido allí durante años.",
+            "acceptableAnswers": [
+              "Conoce esa ciudad como si hubiese vivido ahí por años.",
+              "Conoce la ciudad como si hubiera vivido allí muchos años."
+            ],
+            "explanationJa": "como si + 接続法過去完了で過去の非現実比喩。「住んでいたかのように」（実際は住んでいなかった）。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文を「si + 接続法過去完了, 条件法過去」の反実仮想に変換せよ：\nEstudié poco y suspendí el examen.",
+            "answer": "Si hubiera estudiado más, no habría suspendido el examen.",
+            "explanationJa": "「少ししか勉強しなかったから落ちた」→「もっと勉強していたら落ちなかっただろう」。hubiera + habría のパターン。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文を como si を使った比喩表現に変換せよ：\nNo me conoce, pero me habla con mucha confianza.",
+            "answer": "Me habla como si me conociera de toda la vida.",
+            "explanationJa": "「知らないのに親しげに話す」→「まるでずっと知っているかのように話す」。como si + 接続法過去で現在の非現実比喩。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "接続法過去の-ra形と-se形は基本的に互換可能だが、-ra形のみ直説法過去完了の文学的代用として使える",
+      "ojalá + 接続法現在（実現可能）vs 接続法過去（可能性低い）vs 接続法過去完了（後悔）のグラデーションを使い分ける",
+      "como si の後の時制選択は、比喩の内容が「今」か「過去」かで決まる",
+      "接続法未来は現代ではほぼ死語だが、法律文書・ことわざ・慣用表現に残存しており、C2では認識できる必要がある",
+      "si節に条件法（habría）を入れるのはネイティブでもやりがちな誤り。si + 接続法が鉄則",
+      "quisiera は querría より丁寧な依頼表現。接続法が持つ「現実から距離を置く」効果が丁寧さを生む"
+    ]
+  }
+}

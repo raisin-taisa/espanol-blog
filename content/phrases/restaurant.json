@@ -1,0 +1,228 @@
+{
+  "scenario": "restaurant",
+  "titleJa": "レストランで使えるスペイン語フレーズ",
+  "titleEs": "Frases útiles en el restaurante",
+  "totalPhrases": 20,
+  "phrases": [
+    {
+      "id": "rest-001",
+      "spanishText": "Una mesa para dos, por favor.",
+      "japaneseTranslation": "2人用のテーブルをお願いします。",
+      "pronunciationHint": "ウナ メサ パラ ドス ポル ファボール",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "レストランに入って最初に言う定番フレーズ。人数を変えるだけで応用できます。",
+      "category": "seating"
+    },
+    {
+      "id": "rest-002",
+      "spanishText": "¿Me puede traer la cuenta, por favor?",
+      "japaneseTranslation": "お会計をお願いできますか？",
+      "pronunciationHint": "メ プエデ トラエール ラ クエンタ ポル ファボール",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "食事が終わった後にウェイターに言う表現。la cuenta は「お会計」。",
+      "category": "payment"
+    },
+    {
+      "id": "rest-003",
+      "spanishText": "¿Qué me recomienda?",
+      "japaneseTranslation": "おすすめは何ですか？",
+      "pronunciationHint": "ケ メ レコミエンダ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "メニューに迷ったときに使う便利なフレーズ。ウェイターとの会話のきっかけにも。",
+      "category": "ordering"
+    },
+    {
+      "id": "rest-004",
+      "spanishText": "¿Tienen menú del día?",
+      "japaneseTranslation": "日替わりメニューはありますか？",
+      "pronunciationHint": "ティエネン メヌ デル ディア",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "¿Tienen almuerzo ejecutivo?",
+      "contextNoteJa": "スペインでは menú del día（ランチセット）が定番。中南米では almuerzo ejecutivo と呼ぶことも。",
+      "category": "ordering"
+    },
+    {
+      "id": "rest-005",
+      "spanishText": "Para mí, el filete a la plancha.",
+      "japaneseTranslation": "私はグリルステーキで。",
+      "pronunciationHint": "パラ ミ エル フィレテ ア ラ プランチャ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "注文するときの定番パターン。Para mí + 料理名で「私は〜で」。Quiero は少し直接的。",
+      "category": "ordering"
+    },
+    {
+      "id": "rest-006",
+      "spanishText": "¿Me pone otra cerveza, por favor?",
+      "japaneseTranslation": "ビールをもう一杯お願いします。",
+      "pronunciationHint": "メ ポネ オトラ セルベサ ポル ファボール",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": "¿Me trae otra cerveza, por favor?",
+      "contextNoteJa": "スペインでは poner（置く）を使い、中南米では traer（持ってくる）を使うことが多い。",
+      "category": "drinks"
+    },
+    {
+      "id": "rest-007",
+      "spanishText": "¿Podría traerme un vaso de agua, por favor?",
+      "japaneseTranslation": "お水を一杯いただけますか？",
+      "pronunciationHint": "ポドリア トラエルメ ウン バソ デ アグア ポル ファボール",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "条件法 podría を使うことで丁寧さが増します。vaso は「グラス」。",
+      "category": "drinks"
+    },
+    {
+      "id": "rest-008",
+      "spanishText": "Soy alérgico/a a los frutos secos.",
+      "japaneseTranslation": "ナッツアレルギーがあります。",
+      "pronunciationHint": "ソイ アレルヒコ ア ロス フルトス セコス",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "アレルギーを伝える重要表現。男性は alérgico、女性は alérgica。frutos secos はナッツ類の総称。",
+      "category": "dietary"
+    },
+    {
+      "id": "rest-009",
+      "spanishText": "¿Este plato lleva gluten?",
+      "japaneseTranslation": "この料理にはグルテンが入っていますか？",
+      "pronunciationHint": "エステ プラト ジェバ グルテン",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "食物アレルギーの確認。llevar は「含む」の意味。lactosa（乳糖）なども同様に聞けます。",
+      "category": "dietary"
+    },
+    {
+      "id": "rest-010",
+      "spanishText": "Está todo riquísimo.",
+      "japaneseTranslation": "全部とてもおいしいです。",
+      "pronunciationHint": "エスタ トド リキシモ",
+      "formality": "informal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "料理を褒めるとき。riquísimo は rico の最上級で「最高においしい」。シェフやウェイターに喜ばれます。",
+      "category": "compliments"
+    },
+    {
+      "id": "rest-011",
+      "spanishText": "¿Nos puede traer más pan, por favor?",
+      "japaneseTranslation": "パンをもう少しいただけますか？",
+      "pronunciationHint": "ノス プエデ トラエール マス パン ポル ファボール",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "スペインではパンが無料でつくことが多い。nos は「私たちに」。",
+      "category": "ordering"
+    },
+    {
+      "id": "rest-012",
+      "spanishText": "¿Aceptan tarjeta?",
+      "japaneseTranslation": "カード払いはできますか？",
+      "pronunciationHint": "アセプタン タルヘタ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "支払い方法の確認。tarjeta は「カード」。efectivo（現金）と合わせて覚えましょう。",
+      "category": "payment"
+    },
+    {
+      "id": "rest-013",
+      "spanishText": "Quisiera reservar una mesa para esta noche.",
+      "japaneseTranslation": "今夜のテーブルを予約したいのですが。",
+      "pronunciationHint": "キシエラ レセルバール ウナ メサ パラ エスタ ノチェ",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "電話での予約。quisiera は querer の接続法過去で非常に丁寧な表現。",
+      "category": "reservation"
+    },
+    {
+      "id": "rest-014",
+      "spanishText": "¿Tienen carta de vinos?",
+      "japaneseTranslation": "ワインリストはありますか？",
+      "pronunciationHint": "ティエネン カルタ デ ビノス",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "carta de vinos は「ワインリスト」。スペインはワイン大国なので必須フレーズ。",
+      "category": "drinks"
+    },
+    {
+      "id": "rest-015",
+      "spanishText": "¿Podemos sentarnos en la terraza?",
+      "japaneseTranslation": "テラス席に座ってもいいですか？",
+      "pronunciationHint": "ポデモス センタルノス エン ラ テラサ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "スペインのバルやレストランではテラス席（terraza）が人気。天気がいい日に。",
+      "category": "seating"
+    },
+    {
+      "id": "rest-016",
+      "spanishText": "De postre, quiero un flan, por favor.",
+      "japaneseTranslation": "デザートにプリンをお願いします。",
+      "pronunciationHint": "デ ポストレ キエロ ウン フラン ポル ファボール",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "デザートの注文。flan はスペイン語圏の定番デザート。日本のプリンに似ていますが大きめ。",
+      "category": "ordering"
+    },
+    {
+      "id": "rest-017",
+      "spanishText": "Perdone, esto no es lo que he pedido.",
+      "japaneseTranslation": "すみません、注文したものと違います。",
+      "pronunciationHint": "ペルドネ エスト ノ エス ロ ケ エ ペディド",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "注文が間違っていたとき。丁寧に伝えることが大切。perdone（すみません）で切り出す。",
+      "category": "complaints"
+    },
+    {
+      "id": "rest-018",
+      "spanishText": "¿La propina está incluida?",
+      "japaneseTranslation": "チップは含まれていますか？",
+      "pronunciationHint": "ラ プロピナ エスタ インクルイダ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "スペインではチップは義務ではなく端数を残す程度。中南米では10%が一般的な国も。",
+      "category": "payment"
+    },
+    {
+      "id": "rest-019",
+      "spanishText": "¿Tienen algo vegetariano?",
+      "japaneseTranslation": "ベジタリアン向けのものはありますか？",
+      "pronunciationHint": "ティエネン アルゴ ベヘタリアノ",
+      "formality": "neutral",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "食事制限の確認。vegano（ビーガン）、sin lactosa（乳糖なし）なども応用可能。",
+      "category": "dietary"
+    },
+    {
+      "id": "rest-020",
+      "spanishText": "Nos ha encantado todo. Felicite al chef de nuestra parte.",
+      "japaneseTranslation": "全部最高でした。シェフに私たちからお伝えください。",
+      "pronunciationHint": "ノス ア エンカンタド トド フェリシテ アル チェフ デ ヌエストラ パルテ",
+      "formality": "formal",
+      "spainVariant": null,
+      "latamVariant": null,
+      "contextNoteJa": "食事後の最高の褒め言葉。ウェイターもシェフも喜ぶ上級者向けフレーズ。",
+      "category": "compliments"
+    }
+  ]
+}

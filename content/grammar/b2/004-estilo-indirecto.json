@@ -1,0 +1,472 @@
+{
+  "id": "b2-grammar-004",
+  "slug": "estilo-indirecto",
+  "titleJa": "間接話法（時制の一致）",
+  "titleEs": "Estilo Indirecto",
+  "level": "b2",
+  "sortOrder": 4,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "間接話法とは？「〜と言った」を正しく伝える技術",
+        "bodyJa": "間接話法（estilo indirecto）は、誰かが言ったことを別の人に伝えるときの文法です。\n\n直接話法：María dijo: \"Estoy cansada.\"（マリアは「疲れている」と言った）\n間接話法：María dijo que estaba cansada.（マリアは疲れていると言った）\n\n英語の reported speech と同じ概念ですが、スペイン語では時制の変化がさらに複雑です。\n\n日本語は「〜と言った」と引用するだけで時制がほとんど変わらないため、日本語話者はこの時制変化を忘れがちです。\n\nポイント：主節の動詞が過去形のとき、que 以下の時制も1つ後ろにずれます。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "時制の一致ルール：6つの変化パターン",
+        "bodyJa": "主節が過去形（dijo, comentó, explicó...）のとき、que 以下の時制は以下のように変化します。\n\n1. 現在形 → 線過去\n   \"Estoy cansada\" → dijo que estaba cansada\n\n2. 現在完了 → 過去完了\n   \"He comido\" → dijo que había comido\n\n3. 点過去 → 過去完了\n   \"Fui al cine\" → dijo que había ido al cine\n\n4. 未来形 → 条件法\n   \"Vendré mañana\" → dijo que vendría al día siguiente\n\n5. 未来完了 → 条件法複合\n   \"Habré terminado\" → dijo que habría terminado\n\n6. 命令法 → 接続法過去\n   \"Estudia más\" → me dijo que estudiara más\n\n注意：主節が現在形（dice que...）のときは時制は変わりません。\nDice que está cansada.（疲れていると言っている）"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "時間・場所の表現も変わる！",
+        "bodyJa": "間接話法では時制だけでなく、時間や場所を示す表現も変化します。\n\nhoy（今日） → ese día / aquel día（その日）\nmañana（明日） → al día siguiente（翌日）\nayer（昨日） → el día anterior（前日）\naquí（ここ） → allí（あそこ）\neste（この） → ese / aquel（その / あの）\nahora（今） → entonces / en ese momento（そのとき）\n\n例：\n直接：\"Vendré aquí mañana.\"\n間接：Dijo que iría allí al día siguiente.\n（翌日そこに行くと言った）\n\nこれは日本語の「ここ→そこ」「今日→その日」と同じ感覚です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "疑問文の間接話法：queとsiの使い分け",
+        "bodyJa": "疑問文を間接話法にするときは、疑問詞の有無で構造が変わります。\n\n疑問詞ありの疑問文：疑問詞をそのまま使う\n直接：\"¿Dónde vives?\"（どこに住んでいるの？）\n間接：Me preguntó dónde vivía.（どこに住んでいるか聞かれた）\n\n疑問詞なし（Yes/No疑問文）：si を使う\n直接：\"¿Tienes hambre?\"（お腹空いてる？）\n間接：Me preguntó si tenía hambre.（お腹が空いているか聞かれた）\n\n注意：この si は条件文の si ではなく「〜かどうか」の si です。\n日本語の「〜かどうか」とほぼ同じ使い方です。\n\nまた、間接疑問文では疑問符（¿?）は使いません。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Juan dijo que estaba enfermo y que no podía ir a trabajar.",
+            "ja": "フアンは病気で仕事に行けないと言った。",
+            "noteJa": "現在形→線過去。está→estaba, puede→podía。2つの que で接続。"
+          },
+          {
+            "es": "Mi jefe me dijo que terminara el informe antes del viernes.",
+            "ja": "上司に金曜日までにレポートを終えるように言われた。",
+            "noteJa": "命令→接続法過去。\"Termina el informe\" → que terminara。"
+          },
+          {
+            "es": "María me preguntó si quería ir al cine con ella.",
+            "ja": "マリアが一緒に映画に行きたいか聞いてきた。",
+            "noteJa": "Yes/No疑問文→si。\"¿Quieres ir al cine?\" → si quería ir。"
+          },
+          {
+            "es": "El profesor explicó que habría un examen la semana siguiente.",
+            "ja": "先生は翌週試験があると説明した。",
+            "noteJa": "未来→条件法。habrá→habría。la próxima semana→la semana siguiente。"
+          },
+          {
+            "es": "Me contó que había vivido en Tokio durante tres años.",
+            "ja": "3年間東京に住んでいたと話してくれた。",
+            "noteJa": "点過去/現在完了→過去完了。vivió/ha vivido→había vivido。"
+          },
+          {
+            "es": "Le pregunté cuánto costaba el billete.",
+            "ja": "チケットがいくらか聞いた。",
+            "noteJa": "疑問詞ありの疑問文。cuánto はそのまま残る。cuesta→costaba。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Juan dijo que está enfermo.",
+            "correct": "Juan dijo que estaba enfermo.",
+            "whyJa": "主節が過去（dijo）のとき、que以下の現在形は線過去に変わります。日本語では「病気だと言った」と時制が変わらないため、この変化を忘れやすいです。"
+          },
+          {
+            "wrong": "Me dijo que vendrá mañana.",
+            "correct": "Me dijo que vendría al día siguiente.",
+            "whyJa": "vendrá（未来）→ vendría（条件法）、mañana → al día siguiente。時制と時間表現の両方を変える必要があります。"
+          },
+          {
+            "wrong": "Me preguntó que si tenía hambre.",
+            "correct": "Me preguntó si tenía hambre.",
+            "whyJa": "si を使う間接疑問では que は不要。preguntó si... が正しい形です。que si の形は口語で使われることもありますが、文法的には不正確です。"
+          },
+          {
+            "wrong": "Me dijo que estudie más.",
+            "correct": "Me dijo que estudiara más.",
+            "whyJa": "命令の間接話法で主節が過去のとき、接続法現在（estudie）ではなく接続法過去（estudiara）を使います。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！間接話法の日常",
+        "items": [
+          {
+            "es": "Mi madre me dijo que limpiara mi habitación antes de salir. Yo le dije que ya la había limpiado. 🙄",
+            "ja": "母に出かける前に部屋を掃除しろと言われた。もう掃除したって言ったのに。🙄",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "命令→接続法過去（limpiara）、現在完了→過去完了（había limpiado）の連続使用。"
+          },
+          {
+            "es": "El médico me dijo que dejara de fumar y que hiciera más ejercicio.",
+            "ja": "医者にタバコをやめて運動をもっとしろと言われた。",
+            "source": "conversation",
+            "sourceLabel": "友人への報告",
+            "context": "健康診断の結果を伝える場面",
+            "noteJa": "命令の間接話法が2つ連続。dejara, hiciera ともに接続法過去。"
+          },
+          {
+            "es": "Me preguntó dónde había aprendido español y le dije que lo estaba estudiando por mi cuenta.",
+            "ja": "どこでスペイン語を習ったか聞かれて、独学で勉強中だと答えた。",
+            "source": "conversation",
+            "sourceLabel": "スペイン人との会話",
+            "noteJa": "疑問詞付き疑問文（dónde）+ 現在進行→線過去進行（estaba estudiando）。"
+          },
+          {
+            "es": "El profe nos avisó de que habría examen el lunes siguiente.",
+            "ja": "先生が翌週の月曜に試験があると知らせてくれた。",
+            "source": "conversation",
+            "sourceLabel": "学校での会話",
+            "noteJa": "avisar de que + 条件法（habría）。lunes siguiente で時間表現も変化。"
+          },
+          {
+            "es": "Le dije que no me esperara, que llegaría tarde.",
+            "ja": "待たなくていい、遅くなるからって言った。",
+            "source": "conversation",
+            "sourceLabel": "電話での会話",
+            "noteJa": "命令（no esperes→no me esperara）+ 未来（llegaré→llegaría）。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "María dijo: \"Estoy contenta.\" → María dijo que ___ contenta.",
+            "options": [
+              "estaba",
+              "esté",
+              "está",
+              "estaría"
+            ],
+            "answer": 0,
+            "explanationJa": "現在形→線過去。主節が過去（dijo）なので、está は estaba に変わります。"
+          },
+          {
+            "prompt": "\"Vendré mañana\" → Dijo que ___ al día siguiente.",
+            "options": [
+              "vendrá",
+              "vendría",
+              "viniera",
+              "viene"
+            ],
+            "answer": 1,
+            "explanationJa": "未来形→条件法。vendré → vendría。mañana → al día siguiente。"
+          },
+          {
+            "prompt": "\"¿Tienes hambre?\" → Me preguntó ___ tenía hambre.",
+            "options": [
+              "qué",
+              "que si",
+              "si",
+              "que"
+            ],
+            "answer": 2,
+            "explanationJa": "Yes/No疑問文の間接話法は si を使います。「〜かどうか」の意味。"
+          },
+          {
+            "prompt": "\"Estudia más\" → Mi padre me dijo que ___ más. (estudiar)",
+            "options": [
+              "estudie",
+              "estudia",
+              "estudiaba",
+              "estudiara"
+            ],
+            "answer": 3,
+            "explanationJa": "命令法→接続法過去（主節が過去のとき）。estudia → estudiara。"
+          },
+          {
+            "prompt": "\"He terminado el trabajo\" → Dijo que ___ el trabajo.",
+            "options": [
+              "ha terminado",
+              "terminaba",
+              "había terminado",
+              "terminó"
+            ],
+            "answer": 2,
+            "explanationJa": "現在完了→過去完了。he terminado → había terminado。"
+          },
+          {
+            "prompt": "\"¿Dónde vives?\" → Me preguntó dónde ___.",
+            "options": [
+              "vivía",
+              "vivo",
+              "viva",
+              "viviría"
+            ],
+            "answer": 0,
+            "explanationJa": "疑問詞ありの間接疑問文。疑問詞（dónde）はそのまま残り、時制が変わる。vives→vivía。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Ella dijo: \"Estoy cansada.\" → Ella dijo que ___ cansada.",
+            "answer": "estaba",
+            "options": [
+              "estaría",
+              "esté",
+              "estaba",
+              "está"
+            ],
+            "explanationJa": "現在形→線過去。主節が過去（dijo）なので está → estaba。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "\"Vendré mañana.\" → Dijo que ___ al día siguiente.",
+            "answer": "vendría",
+            "options": [
+              "vendrá",
+              "viene",
+              "viniera",
+              "vendría"
+            ],
+            "explanationJa": "未来形→条件法。vendré → vendría。mañana → al día siguiente。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "\"He terminado el proyecto.\" → Dijo que ___ el proyecto.",
+            "answer": "había terminado",
+            "options": [
+              "ha terminado",
+              "había terminado",
+              "terminó",
+              "terminaría"
+            ],
+            "explanationJa": "現在完了→過去完了。he terminado → había terminado。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "\"Estudia más.\" → Mi padre me dijo que ___ más. (estudiar)",
+            "answer": "estudiara",
+            "options": [
+              "estudiaba",
+              "estudie",
+              "estudiara",
+              "estudia"
+            ],
+            "explanationJa": "命令法→接続法過去。主節が過去なので estudia → estudiara。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "\"¿Tienes hambre?\" → Me preguntó ___ tenía hambre.",
+            "answer": "si",
+            "options": [
+              "qué",
+              "que si",
+              "si",
+              "que"
+            ],
+            "explanationJa": "Yes/No疑問文の間接話法は si を使う。「〜かどうか」の意味。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "\"¿Dónde vives?\" → Me preguntó dónde ___.",
+            "answer": "vivía",
+            "options": [
+              "vivía",
+              "vivo",
+              "viva",
+              "viviría"
+            ],
+            "explanationJa": "疑問詞ありの間接疑問文。dónde はそのまま残り、vives → vivía。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "\"Fui al cine ayer.\" → Dijo que ___ al cine el día anterior.",
+            "answer": "había ido",
+            "options": [
+              "fue",
+              "había ido",
+              "iría",
+              "iba"
+            ],
+            "explanationJa": "点過去→過去完了。fui → había ido。ayer → el día anterior。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "\"Estamos preparando la cena.\" → Dijeron que ___ preparando la cena.",
+            "answer": "estaban",
+            "options": [
+              "estuvieron",
+              "estaban",
+              "estarían",
+              "están"
+            ],
+            "explanationJa": "現在進行形→線過去進行形。estamos → estaban。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "\"No vengas tarde.\" → Me dijo que no ___ tarde.",
+            "answer": "llegara",
+            "options": [
+              "llegara",
+              "llego",
+              "llegaría",
+              "llegue"
+            ],
+            "explanationJa": "否定命令→接続法過去。no vengas → que no llegara（同義の動詞で変換）。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "\"Ya habré terminado para las cinco.\" → Dijo que ya ___ para las cinco.",
+            "answer": "habría terminado",
+            "options": [
+              "terminaría",
+              "habría terminado",
+              "había terminado",
+              "habrá terminado"
+            ],
+            "explanationJa": "未来完了→条件法複合。habré terminado → habría terminado。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Juan dijo que está enfermo y no puede venir.",
+            "answer": "Juan dijo que estaba enfermo y no podía venir.",
+            "explanationJa": "主節が過去（dijo）→ 時制の一致。está→estaba、puede→podía。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Me dijo que vendrá mañana.",
+            "answer": "Me dijo que vendría al día siguiente.",
+            "explanationJa": "vendrá→vendría（未来→条件法）、mañana→al día siguiente（時間表現も変化）。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Me preguntó que si quería ir al cine.",
+            "answer": "Me preguntó si quería ir al cine.",
+            "explanationJa": "si を使う間接疑問では que は不要。preguntó si... が正しい形。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "El profesor me dijo que estudie más para el examen.",
+            "answer": "El profesor me dijo que estudiara más para el examen.",
+            "explanationJa": "主節が過去（dijo）→ 命令の間接話法は接続法過去 estudiara。接続法現在 estudie ではない。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "María contó que ha viajado a Japón el año pasado.",
+            "answer": "María contó que había viajado a Japón el año anterior.",
+            "explanationJa": "ha viajado→había viajado（現在完了→過去完了）、el año pasado→el año anterior。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "間接話法で「hoy」はどう変わる？",
+            "options": [
+              "mañana",
+              "ahora",
+              "ese día / aquel día",
+              "ayer"
+            ],
+            "answer": 2,
+            "explanationJa": "hoy（今日）→ ese día / aquel día（その日）。時間表現も変化する。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "主節が現在形（dice que...）のとき、時制は変わる？",
+            "options": [
+              "線過去に変わる",
+              "未来形に変わる",
+              "変わらない",
+              "接続法に変わる"
+            ],
+            "answer": 2,
+            "explanationJa": "dice que... のように主節が現在形なら時制の一致は不要。Dice que está cansada.（そのまま）。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "間接話法で「aquí」はどう変わる？",
+            "options": [
+              "ahí",
+              "allí",
+              "acá",
+              "aquí（変わらない）"
+            ],
+            "answer": 1,
+            "explanationJa": "aquí（ここ）→ allí（あそこ）。場所の表現も視点が変わる。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "\"¿Cuánto cuesta?\" の間接話法はどれ？",
+            "options": [
+              "Me preguntó que cuánto cuesta.",
+              "Me preguntó cuánto cuesta.",
+              "Me preguntó si cuánto costaba.",
+              "Me preguntó cuánto costaba."
+            ],
+            "answer": 3,
+            "explanationJa": "疑問詞ありの間接疑問文。cuánto はそのまま残り、cuesta → costaba。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "間接話法で命令文の時制変化パターンはどれ？",
+            "options": [
+              "命令法→接続法過去",
+              "命令法→変化なし",
+              "命令法→線過去",
+              "命令法→条件法"
+            ],
+            "answer": 0,
+            "explanationJa": "命令法（Estudia más）→ 接続法過去（que estudiara más）。命令の伝達。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「マリアは翌日戻ると言った」",
+            "answer": "María dijo que volvería al día siguiente.",
+            "acceptableAnswers": [
+              "María dijo que regresaría al día siguiente.",
+              "María nos dijo que volvería al día siguiente."
+            ],
+            "explanationJa": "未来→条件法（volverá→volvería）、mañana→al día siguiente。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「医者に運動するように言われた」",
+            "answer": "El médico me dijo que hiciera ejercicio.",
+            "acceptableAnswers": [
+              "El médico me dijo que hiciera más ejercicio.",
+              "Mi médico me dijo que hiciera deporte."
+            ],
+            "explanationJa": "命令→接続法過去。dijo（過去）+ que + hiciera（接続法過去）。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「どこでスペイン語を学んだか聞かれた」",
+            "answer": "Me preguntó dónde había aprendido español.",
+            "acceptableAnswers": [
+              "Me preguntaron dónde había aprendido español.",
+              "Me preguntó dónde había estudiado español."
+            ],
+            "explanationJa": "疑問詞あり。dónde はそのまま。aprendí/he aprendido → había aprendido。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "直接話法→間接話法: \"Estoy muy contento\" → Juan dijo que ___.",
+            "answer": "Juan dijo que estaba muy contento.",
+            "explanationJa": "現在形→線過去。estoy → estaba。主節が過去なので時制が1つずれる。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "直接話法→間接話法: \"¿Puedes ayudarme mañana?\" → Me preguntó ___.",
+            "answer": "Me preguntó si podía ayudarle al día siguiente.",
+            "explanationJa": "Yes/No疑問文→si。puedes→podía、me→le（視点変化）、mañana→al día siguiente。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "主節が過去のとき、que以下の時制は1つ後ろにずれる（時制の一致）",
+      "現在→線過去、未来→条件法、命令→接続法過去が主要パターン",
+      "Yes/No疑問文の間接話法は si を使う（条件文の si とは別物）",
+      "疑問詞ありの疑問文は疑問詞をそのまま残す",
+      "時間・場所の表現も変化する（hoy→ese día, mañana→al día siguiente）",
+      "主節が現在形（dice que...）のときは時制は変わらない"
+    ]
+  }
+}

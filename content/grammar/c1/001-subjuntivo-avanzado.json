@@ -1,0 +1,496 @@
+{
+  "id": "c1-grammar-001",
+  "slug": "subjuntivo-avanzado",
+  "titleJa": "接続法の高度な用法（como si, para que, a menos que...）",
+  "titleEs": "Usos avanzados del subjuntivo",
+  "level": "c1",
+  "sortOrder": 1,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "C1レベルの接続法：「なんとなく」から「完全制覇」へ",
+        "bodyJa": "B1・B2で接続法の基本（quiero que, es posible que など）は学びました。\nしかしC1レベルでは、接続法はもっと複雑な構文の中で登場します。\n\nここで扱うのは、ネイティブが日常的に使う「接続法を必ず伴う接続詞・構文」です。\nこれらをマスターすると、スペイン語の表現力が一気に広がります。\n\nC1レベルの接続法のポイントは「接続詞とセットで覚える」こと。\n特定の接続詞の後は、必ず接続法になるというルールがあります。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "como si + 接続法過去：「まるで〜かのように」",
+        "bodyJa": "como si は「まるで〜かのように」という非現実の比較を表します。\n\ncomo si の後は必ず接続法過去（imperfecto de subjuntivo）を使います。\n接続法現在は使えません。これは現実ではないことを表すからです。\n\n・Habla como si fuera nativo.（まるでネイティブかのように話す）\n・Me mira como si no me conociera.（まるで僕を知らないかのように見る）\n・Gasta dinero como si fuera millonario.（まるで億万長者かのように金を使う）\n\n日本語話者のポイント：日本語の「まるで〜みたい」に近いですが、スペイン語では動詞の形を必ず接続法過去にしなければなりません。\n\nさらに過去の非現実には como si + 接続法大過去も使います。\n・Actuó como si no hubiera pasado nada.（まるで何も起きなかったかのように振る舞った）"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "目的を表す接続詞：para que, a fin de que",
+        "bodyJa": "「〜するために」という目的を表す接続詞の後は接続法です。\n\npara que + 接続法：最も一般的な「〜するために」\na fin de que + 接続法：よりフォーマルな「〜するために」\n\n・Te lo explico para que entiendas.（理解してもらうために説明するよ）\n・Habla más alto para que todos te oigan.（みんなに聞こえるようにもっと大きな声で話して）\n・Se creó esta ley a fin de que se protegieran los derechos.（権利を守るためにこの法律が作られた）\n\n重要：主語が同じ場合は para + 不定詞を使います。\n・Estudio para aprobar.（合格するために勉強する）← 主語が同じなので不定詞\n・Estudio para que mi madre esté contenta.（母が喜ぶように勉強する）← 主語が違うので接続法\n\nこの「主語が同じなら不定詞、違えば接続法」のルールは非常に重要です。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "条件・制限の接続詞：a menos que, a no ser que, con tal de que",
+        "bodyJa": "「〜でない限り」「〜する限り」という条件を表す接続詞も接続法を伴います。\n\na menos que + 接続法：「〜でない限り」\na no ser que + 接続法：「〜でない限り」（a menos queとほぼ同義）\ncon tal de que + 接続法：「〜しさえすれば」「〜する限り」\nsiempre que + 接続法：「〜する限り」（条件の意味の場合）\nsiempre y cuando + 接続法：「〜する限り」（con tal de queより強調）\n\n・No iré a menos que me invites.（招待してくれない限り行かない）\n・Puedes salir con tal de que termines los deberes.（宿題を終わらせさえすれば外出していいよ）\n・Te ayudo siempre y cuando tú también te esfuerces.（君も努力する限り手伝うよ）\n\n注意：siempre que が「〜するたびに」の意味のときは直説法を使います。\n・Siempre que voy a Madrid, visito el Prado.（マドリードに行くたびにプラド美術館を訪れる）"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "por mucho que, por más que：「どんなに〜しても」",
+        "bodyJa": "「どんなに〜しても」という譲歩を表す表現も接続法を使います。\n\npor mucho que + 接続法：「どんなに〜しても」\npor más que + 接続法：「いくら〜しても」\npor muy + 形容詞/副詞 + que + 接続法：「どんなに〜でも」\n\n・Por mucho que estudies, si no practicas no aprenderás.（どんなに勉強しても、練習しなければ上達しない）\n・Por más que le explique, no entiende.（いくら説明しても理解しない）\n・Por muy inteligente que sea, necesita estudiar.（どんなに頭が良くても勉強は必要だ）\n\nこれらは「〜しても無駄だ」「〜しても結果は変わらない」というニュアンスで使われることが多いです。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Habla español como si hubiera vivido en España toda su vida.",
+            "ja": "まるで一生スペインに住んでいたかのようにスペイン語を話す。",
+            "noteJa": "como si + 接続法大過去。過去の非現実を表します。hubiera vivido = vivir の接続法大過去。"
+          },
+          {
+            "es": "Te doy las instrucciones para que no te pierdas.",
+            "ja": "迷わないように道順を教えるね。",
+            "noteJa": "para que + 接続法。pierdas は perder の接続法 tú 形。主語が異なる（yo doy / tú te pierdas）ので接続法。"
+          },
+          {
+            "es": "No firmaré el contrato a menos que cambien las condiciones.",
+            "ja": "条件を変えてくれない限り契約にサインしない。",
+            "noteJa": "a menos que + 接続法。cambien は cambiar の接続法 ellos 形。"
+          },
+          {
+            "es": "Puedes usar mi coche con tal de que lo cuides.",
+            "ja": "大事に使ってくれさえすれば車を貸すよ。",
+            "noteJa": "con tal de que + 接続法。cuides は cuidar の接続法 tú 形。"
+          },
+          {
+            "es": "Por mucho que insistas, no voy a cambiar de opinión.",
+            "ja": "どんなにしつこく言っても、意見は変えないよ。",
+            "noteJa": "por mucho que + 接続法。insistas は insistir の接続法。「譲歩＋否定」のパターン。"
+          },
+          {
+            "es": "Hice todo eso a fin de que comprendieran la situación.",
+            "ja": "状況を理解してもらうためにそのすべてをした。",
+            "noteJa": "a fin de que + 接続法過去。フォーマルな目的表現。comprendieran は comprender の接続法過去 ellos 形。"
+          },
+          {
+            "es": "Actúa como si no le importara nada.",
+            "ja": "まるで何も気にしていないかのように振る舞う。",
+            "noteJa": "como si + 接続法過去。importara は importar の接続法過去。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Habla como si es nativo.",
+            "correct": "Habla como si fuera nativo.",
+            "whyJa": "como si の後は必ず接続法過去。直説法現在の es は使えません。fuera（ser の接続法過去）が正しい。"
+          },
+          {
+            "wrong": "Te explico para que entiendes.",
+            "correct": "Te explico para que entiendas.",
+            "whyJa": "para que の後は接続法。entiendes は直説法。entiendas（entender の接続法）が正しい。"
+          },
+          {
+            "wrong": "No iré a menos que me invitas.",
+            "correct": "No iré a menos que me invites.",
+            "whyJa": "a menos que の後は接続法。invitas は直説法。invites が正しい。日本語話者は条件文で直説法を使いがちです。"
+          },
+          {
+            "wrong": "Estudio para que yo aprenda.",
+            "correct": "Estudio para aprender.",
+            "whyJa": "主語が同じ（yo estudio / yo aprenda）場合は para + 不定詞を使います。para que + 接続法は主語が異なるときだけ。"
+          },
+          {
+            "wrong": "Por mucho que estudias, no aprendes.",
+            "correct": "Por mucho que estudies, no aprendes.",
+            "whyJa": "por mucho que の後は接続法。estudias は直説法なので間違い。estudies が正しい。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "Me trata como si fuera su sirviente, estoy harto 😤",
+            "ja": "まるで召使いみたいに扱ってくる、もううんざり😤",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "como si + 接続法過去の典型的な不満表現。fuera は ser の接続法過去。harto は「うんざりした」。"
+          },
+          {
+            "es": "Te mando la ubicación para que no te pierdas, ¿vale?",
+            "ja": "迷わないように位置情報送るね、いい？",
+            "source": "conversation",
+            "sourceLabel": "友達とのLINE風メッセージ",
+            "noteJa": "para que + 接続法。ubicación は「位置情報」。日常会話で頻出の構文。"
+          },
+          {
+            "es": "No voy a la fiesta a menos que vayas tú también.",
+            "ja": "君も行かない限り、パーティーには行かないよ。",
+            "source": "conversation",
+            "sourceLabel": "友達との会話",
+            "noteJa": "a menos que + 接続法。vayas は ir の接続法。友達同士の交渉でよく使います。"
+          },
+          {
+            "es": "Por más que le digo que no, sigue insistiendo. Qué pesado. 🙄",
+            "ja": "いくらダメって言っても、しつこく言い続ける。うざい。🙄",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "por más que + 直説法（事実を述べている場合は直説法も可）。pesado は「しつこい人」の口語表現。"
+          },
+          {
+            "es": "Te presto el dinero con tal de que me lo devuelvas el viernes.",
+            "ja": "金曜日に返してくれるなら金を貸すよ。",
+            "source": "conversation",
+            "sourceLabel": "友達との会話",
+            "noteJa": "con tal de que + 接続法。devuelvas は devolver の接続法。条件付きの約束。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "Habla como si ___ español nativo. (ser)",
+            "options": [
+              "sea",
+              "fuera",
+              "es",
+              "será"
+            ],
+            "answer": 1,
+            "explanationJa": "como si の後は必ず接続法過去。ser の接続法過去は fuera。直説法や接続法現在は使えません。"
+          },
+          {
+            "prompt": "Te lo digo para que lo ___. (saber, tú)",
+            "options": [
+              "sepas",
+              "sabrás",
+              "sabes",
+              "supieras"
+            ],
+            "answer": 0,
+            "explanationJa": "para que + 接続法現在。saber の接続法現在 tú 形は sepas。主語が異なるので接続法。"
+          },
+          {
+            "prompt": "No te ayudaré a menos que me lo ___. (pedir, tú)",
+            "options": [
+              "pedirás",
+              "pides",
+              "pidieras",
+              "pidas"
+            ],
+            "answer": 3,
+            "explanationJa": "a menos que + 接続法。pedir の接続法 tú 形は pidas。"
+          },
+          {
+            "prompt": "Gasta dinero como si no ___ un mañana. (haber)",
+            "options": [
+              "hay",
+              "hubiera",
+              "habrá",
+              "haya"
+            ],
+            "answer": 1,
+            "explanationJa": "como si + 接続法過去。haber の接続法過去は hubiera。「明日がないかのように」という慣用表現。"
+          },
+          {
+            "prompt": "Por mucho que ___, no conseguirás nada. (quejarse, tú)",
+            "options": [
+              "te quejes",
+              "te quejarás",
+              "te quejaste",
+              "te quejas"
+            ],
+            "answer": 0,
+            "explanationJa": "por mucho que + 接続法。quejarse の接続法 tú 形は te quejes。"
+          },
+          {
+            "prompt": "Puedes quedarte con tal de que ___ las reglas. (respetar, tú)",
+            "options": [
+              "respetarás",
+              "respetas",
+              "respetaras",
+              "respetes"
+            ],
+            "answer": 3,
+            "explanationJa": "con tal de que + 接続法。respetar の接続法 tú 形は respetes。"
+          },
+          {
+            "prompt": "「迷わないように地図をあげる」を正しく訳すと？",
+            "options": [
+              "Te doy el mapa para que no te pierdes.",
+              "Te doy el mapa por que no te pierdas.",
+              "Te doy el mapa para no te pierdas.",
+              "Te doy el mapa para que no te pierdas."
+            ],
+            "answer": 3,
+            "explanationJa": "para que + 接続法。主語が異なる（yo doy / tú te pierdas）ので para que + 接続法が正しい。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Habla como si ___ toda la vida en España. (vivir)",
+            "answer": "hubiera vivido",
+            "options": [
+              "hubiera vivido",
+              "vive",
+              "vivió",
+              "ha vivido"
+            ],
+            "explanationJa": "como si + 接続法大過去。過去の非現実の比較を表す。hubiera vivido が正しい。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Te doy mi número para que me ___ si necesitas algo. (llamar, tú)",
+            "answer": "llames",
+            "options": [
+              "llames",
+              "llamaste",
+              "llamarás",
+              "llamas"
+            ],
+            "explanationJa": "para que + 接続法。主語が異なる（yo doy / tú llames）ので接続法。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "No saldremos a menos que ___ de llover. (dejar)",
+            "answer": "deje",
+            "options": [
+              "dejará",
+              "deja",
+              "deje",
+              "dejó"
+            ],
+            "explanationJa": "a menos que + 接続法。dejar の接続法は deje。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Puedes quedarte con tal de que ___ antes de las 10. (irse, tú)",
+            "answer": "te vayas",
+            "options": [
+              "te vayas",
+              "te vas",
+              "te fuiste",
+              "te irás"
+            ],
+            "explanationJa": "con tal de que + 接続法。irse の接続法 tú 形は te vayas。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Por mucho que ___, no conseguirás convencerme. (intentar, tú)",
+            "answer": "intentes",
+            "options": [
+              "intentaste",
+              "intentes",
+              "intentarás",
+              "intentas"
+            ],
+            "explanationJa": "por mucho que + 接続法。intentar の接続法 tú 形は intentes。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Me miró como si no me ___. (reconocer)",
+            "answer": "reconociera",
+            "options": [
+              "reconociera",
+              "reconoció",
+              "reconocerá",
+              "reconoce"
+            ],
+            "explanationJa": "como si + 接続法過去。reconocer の接続法過去は reconociera。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Cierra la ventana para que no ___ frío. (entrar)",
+            "answer": "entre",
+            "options": [
+              "entró",
+              "entre",
+              "entrará",
+              "entra"
+            ],
+            "explanationJa": "para que + 接続法。「寒さが入らないように」。entrar の接続法は entre。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "No te ayudaré a no ser que me lo ___ por favor. (pedir, tú)",
+            "answer": "pidas",
+            "options": [
+              "pidas",
+              "pediste",
+              "pedirás",
+              "pides"
+            ],
+            "explanationJa": "a no ser que + 接続法。pedir の接続法 tú 形は pidas。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Siempre y cuando ___ las reglas, puedes participar. (seguir, tú)",
+            "answer": "sigas",
+            "options": [
+              "seguirás",
+              "sigues",
+              "sigas",
+              "seguiste"
+            ],
+            "explanationJa": "siempre y cuando + 接続法。seguir の接続法 tú 形は sigas。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Por más que le ___, no cambia de opinión. (explicar, yo)",
+            "answer": "explique",
+            "options": [
+              "explicaré",
+              "explique",
+              "expliqué",
+              "explico"
+            ],
+            "explanationJa": "por más que + 接続法。explicar の接続法 yo 形は explique。仮定・一般論の場合は接続法。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Habla como si es un experto en el tema.",
+            "answer": "Habla como si fuera un experto en el tema.",
+            "explanationJa": "como si の後は必ず接続法過去。es（直説法）→ fuera（接続法過去）に修正。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Te envío el mapa para que no te pierdes.",
+            "answer": "Te envío el mapa para que no te pierdas.",
+            "explanationJa": "para que の後は接続法。pierdes（直説法）→ pierdas（接続法）に修正。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Puedes usar mi coche con tal de que lo cuidas.",
+            "answer": "Puedes usar mi coche con tal de que lo cuides.",
+            "explanationJa": "con tal de que の後は接続法。cuidas（直説法）→ cuides（接続法）に修正。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Estudio para que yo aprenda más vocabulario.",
+            "answer": "Estudio para aprender más vocabulario.",
+            "explanationJa": "主語が同じ（yo estudio / yo aprenda）場合は para + 不定詞を使う。para que + 接続法は主語が異なるときだけ。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "No iré a la fiesta a menos que me invitan.",
+            "answer": "No iré a la fiesta a menos que me inviten.",
+            "explanationJa": "a menos que の後は接続法。invitan（直説法）→ inviten（接続法）に修正。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「まるで何も知らないかのように振る舞う」の正しい訳は？",
+            "options": [
+              "Actúa como si no sabrá nada.",
+              "Actúa como si no sabe nada.",
+              "Actúa como si no sepa nada.",
+              "Actúa como si no supiera nada."
+            ],
+            "answer": 3,
+            "explanationJa": "como si + 接続法過去。supiera は saber の接続法過去。直説法や接続法現在は使えない。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "por mucho que の後に続く正しい動詞の形は？",
+            "options": [
+              "接続法",
+              "不定詞",
+              "直説法現在",
+              "未来形"
+            ],
+            "answer": 0,
+            "explanationJa": "por mucho que の後は接続法を使う。「どんなに〜しても」という譲歩の表現。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次のうち、主語が同じでも接続法を使う接続詞はどれ？",
+            "options": [
+              "a fin de que",
+              "para que",
+              "con tal de que",
+              "como si"
+            ],
+            "answer": 3,
+            "explanationJa": "como si は主語の一致に関係なく常に接続法過去を使う。para que, a fin de que は主語が同じなら不定詞に変わる。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "siempre que が直説法を取るのはどんな場合？",
+            "options": [
+              "「〜する限り」の意味のとき",
+              "過去の話のとき",
+              "「〜するたびに」の意味のとき",
+              "フォーマルな文脈のとき"
+            ],
+            "answer": 2,
+            "explanationJa": "siempre que が「〜するたびに」の意味なら直説法、「〜する限り」の条件の意味なら接続法。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「みんなに聞こえるように大声で話して」の正しい訳は？",
+            "options": [
+              "Habla alto por que todos te oigan.",
+              "Habla alto para que todos te oyen.",
+              "Habla alto para todos te oigan.",
+              "Habla alto para que todos te oigan."
+            ],
+            "answer": 3,
+            "explanationJa": "para que + 接続法。oigan は oír の接続法 ellos 形。前置詞は para que であり por que ではない。"
+          },
+          {
+            "type": "translation",
+            "prompt": "どんなに走っても間に合わないよ。（por más que を使って）",
+            "answer": "Por más que corras, no llegarás a tiempo.",
+            "acceptableAnswers": [
+              "Por más que corras, no vas a llegar a tiempo."
+            ],
+            "explanationJa": "por más que + 接続法（corras）。「いくら走っても」の譲歩表現。"
+          },
+          {
+            "type": "translation",
+            "prompt": "理解してもらうためにゆっくり話す。（para que を使って）",
+            "answer": "Hablo despacio para que entiendas.",
+            "acceptableAnswers": [
+              "Hablo despacio para que me entiendas.",
+              "Hablo lento para que entiendas."
+            ],
+            "explanationJa": "para que + 接続法。主語が異なる（yo hablo / tú entiendas）ので接続法を使う。"
+          },
+          {
+            "type": "translation",
+            "prompt": "招待してくれない限り行かない。（a menos que を使って）",
+            "answer": "No iré a menos que me invites.",
+            "acceptableAnswers": [
+              "No voy a ir a menos que me invites.",
+              "No iré a menos que me inviten."
+            ],
+            "explanationJa": "a menos que + 接続法。invites は invitar の接続法 tú 形。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "Estudio mucho, pero no apruebo.（por más que を使って書き換えなさい）",
+            "answer": "Por más que estudie, no apruebo.",
+            "explanationJa": "por más que + 接続法で「どんなに〜しても」に書き換え。estudie は estudiar の接続法。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "Salgo de casa. Quiero que mi madre no se preocupe.（para que を使って一文にしなさい）",
+            "answer": "Salgo de casa temprano para que mi madre no se preocupe.",
+            "explanationJa": "para que + 接続法で「母が心配しないように」。主語が異なるので接続法を使う。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "como si の後は必ず接続法過去（現在の非現実）または接続法大過去（過去の非現実）",
+      "para que, a fin de que（目的）の後は接続法。ただし主語が同じなら para + 不定詞",
+      "a menos que, a no ser que（〜でない限り）の後は必ず接続法",
+      "con tal de que, siempre y cuando（〜する限り）の後は接続法",
+      "por mucho que, por más que（どんなに〜しても）の後は接続法",
+      "接続詞とセットで覚えるのがC1レベルの接続法マスターへの近道"
+    ]
+  }
+}

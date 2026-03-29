@@ -1,0 +1,669 @@
+{
+  "id": "b1-002",
+  "slug": "preterito-vs-imperfecto",
+  "titleJa": "点過去 vs 線過去の使い分け",
+  "titleEs": "Pretérito indefinido vs imperfecto",
+  "level": "b1",
+  "sortOrder": 2,
+  "hasRegionalVariants": true,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "過去形が2つある！点過去と線過去の違い",
+        "bodyJa": "日本語の「〜した」はスペイン語では2つの過去形に分かれます。\n\n・点過去（Pretérito Indefinido）：完了した動作、1回きりの出来事\n・線過去（Pretérito Imperfecto）：過去の習慣、進行中の状態、背景描写\n\n日本語で考えるなら：\n点過去 ≒「〜した」（完了・一回性）\n線過去 ≒「〜していた」「〜だった」「よく〜したものだ」（継続・習慣・状態）\n\nイメージのコツ：点過去は「写真」（一瞬を切り取る）、線過去は「動画」（流れを描く）と考えましょう。",
+        "bodyEs": "El español tiene dos pasados principales: el pretérito indefinido (acciones completadas, puntuales) y el imperfecto (acciones habituales, estados, descripciones). El indefinido es como una foto; el imperfecto es como un video."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "点過去を使う場面",
+        "bodyJa": "点過去は「完了した具体的な出来事」を表します。\n\n1. 1回きりの出来事：Ayer comí sushi.（昨日寿司を食べた）\n2. 連続する動作：Me levanté, desayuné y salí de casa.（起きて、朝食を食べて、家を出た）\n3. 期間が明確：Viví en España tres años.（スペインに3年住んだ）\n4. 状態の変化：De repente, empezó a llover.（突然、雨が降り始めた）\n\nよく一緒に使う時間表現（点過去のヒント）：\nayer（昨日）、anoche（昨夜）、una vez（一度）、el año pasado（去年）、de repente（突然）、en ese momento（その瞬間）",
+        "bodyEs": "El pretérito indefinido se usa para acciones completadas, eventos puntuales, secuencias de acciones y cambios de estado. Marcadores: ayer, anoche, una vez, de repente."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "線過去を使う場面",
+        "bodyJa": "線過去は「過去の背景・習慣・進行中の状態」を表します。\n\n1. 過去の習慣：Cuando era niño, jugaba en el parque.（子供の頃、公園で遊んでいた）\n2. 進行中の動作：Estaba lloviendo cuando llegué.（着いたとき雨が降っていた）\n3. 状態・描写：La casa era grande y tenía un jardín.（その家は大きくて庭があった）\n4. 時刻・年齢：Eran las tres de la tarde.（午後3時だった）\n5. 感情・体調：Estaba muy cansado.（とても疲れていた）\n\nよく一緒に使う時間表現（線過去のヒント）：\nsiempre（いつも）、a menudo（よく）、todos los días（毎日）、cuando era niño（子供の頃）、mientras（〜している間）、normalmente（普通は）",
+        "bodyEs": "El imperfecto se usa para hábitos pasados, acciones en progreso, descripciones, estados y contextos. Marcadores: siempre, a menudo, todos los días, mientras, normalmente."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "物語の中での使い分け — これが最重要！",
+        "bodyJa": "物語やエピソードを語るとき、線過去と点過去を組み合わせます。\n\n・線過去 → 背景・状況の描写（「動画」が流れている）\n・点過去 → その中で起きた出来事（「動画」の中の決定的瞬間）\n\n例文で確認しましょう：\n\nEstaba lloviendo（線過去：雨が降っていた＝背景）\ncuando llegué a casa.（点過去：家に着いた＝出来事）\n\nMientras estudiaba（線過去：勉強していた＝進行中）,\nsonó el teléfono.（点過去：電話が鳴った＝割り込み）\n\nEra una noche fría（線過去：寒い夜だった＝描写）\ny de repente oí un ruido.（点過去：突然音が聞こえた＝出来事）\n\nパターン：「mientras/cuando + 線過去」の文に「点過去」の動作が割り込む、というのが典型的な構造です。",
+        "bodyEs": "En la narración, el imperfecto describe el fondo (escena, contexto) y el indefinido narra los eventos que ocurren dentro de esa escena. Es la combinación más importante."
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "hablar（話す）",
+        "tense": "Pretérito Imperfecto",
+        "forms": {
+          "yo": "hablaba",
+          "tú": "hablabas",
+          "él/ella/usted": "hablaba",
+          "nosotros/as": "hablábamos",
+          "vosotros/as": "hablabais",
+          "ellos/ellas/ustedes": "hablaban"
+        },
+        "latamNote": "線過去の -ar 動詞は不規則がほとんどなく、覚えやすいです。-aba, -abas, -aba, -ábamos, -abais, -aban。",
+        "spainNote": null
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "comer（食べる）",
+        "tense": "Pretérito Imperfecto",
+        "forms": {
+          "yo": "comía",
+          "tú": "comías",
+          "él/ella/usted": "comía",
+          "nosotros/as": "comíamos",
+          "vosotros/as": "comíais",
+          "ellos/ellas/ustedes": "comían"
+        },
+        "latamNote": "-er/-ir 動詞の線過去は -ía, -ías, -ía, -íamos, -íais, -ían。こちらも不規則がほぼありません。",
+        "spainNote": null
+      },
+      {
+        "type": "explanation",
+        "headingJa": "線過去の不規則動詞はたった3つ！",
+        "bodyJa": "線過去は不規則動詞がほとんどありません。例外はたった3つだけです。\n\n・ser → era, eras, era, éramos, erais, eran\n・ir → iba, ibas, iba, íbamos, ibais, iban\n・ver → veía, veías, veía, veíamos, veíais, veían\n\nser と ir は完全不規則ですが、ver は規則的なパターンに -e- が残るだけです。\n\nこの3つさえ覚えれば、線過去はほぼ完璧です。点過去より圧倒的に楽ですね。",
+        "bodyEs": "Solo hay tres verbos irregulares en imperfecto: ser (era), ir (iba) y ver (veía). Es mucho más fácil que el indefinido."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Ayer comí paella por primera vez.",
+            "ja": "昨日初めてパエリアを食べた。",
+            "noteJa": "完了した1回きりの出来事 → 点過去。ayer がヒント。"
+          },
+          {
+            "es": "Cuando era niño, siempre jugaba en el parque.",
+            "ja": "子供の頃、いつも公園で遊んでいた。",
+            "noteJa": "過去の習慣 → 線過去。cuando era niño と siempre がヒント。"
+          },
+          {
+            "es": "Estaba durmiendo cuando sonó el teléfono.",
+            "ja": "電話が鳴ったとき、寝ていた。",
+            "noteJa": "背景（寝ていた）= 線過去、出来事（電話が鳴った）= 点過去。典型的な組み合わせ。"
+          },
+          {
+            "es": "De repente, se fue la luz.",
+            "ja": "突然、停電した。",
+            "noteJa": "突然の出来事 → 点過去。de repente は点過去のヒント。irse la luz は「停電する」。"
+          },
+          {
+            "es": "Antes vivía en Osaka, pero me mudé a Tokio.",
+            "ja": "前は大阪に住んでいたけど、東京に引っ越した。",
+            "noteJa": "以前の状態（住んでいた）= 線過去、変化（引っ越した）= 点過去。"
+          },
+          {
+            "es": "La fiesta era aburrida, así que me fui temprano.",
+            "ja": "パーティーはつまらなかったので、早く帰った。",
+            "noteJa": "状態の描写（つまらなかった）= 線過去、行動（帰った）= 点過去。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Cuando era niño, un día jugué en el parque todos los días.",
+            "correct": "Cuando era niño, jugaba en el parque todos los días.",
+            "whyJa": "「毎日遊んでいた」は習慣なので線過去。todos los días は線過去のヒント。点過去を使うと「一度だけ遊んだ」のニュアンスになり、todos los días と矛盾します。"
+          },
+          {
+            "wrong": "Mientras estudiaba, el teléfono sonaba.",
+            "correct": "Mientras estudiaba, sonó el teléfono.",
+            "whyJa": "背景の中に割り込む出来事は点過去。電話が鳴ったのは一回きりの出来事なので sonó（点過去）が正しい。sonaba だと「電話がずっと鳴り続けていた」の意味。"
+          },
+          {
+            "wrong": "Ayer llovía mucho.",
+            "correct": "Ayer llovió mucho.",
+            "whyJa": "ayer は完了した時間を指すので点過去。ただし「昨日雨が降っていたとき（背景として）」なら線過去も可能。文脈次第ですが、単独で「昨日たくさん雨が降った」と言うなら点過去。"
+          },
+          {
+            "wrong": "De repente, la puerta se abría.",
+            "correct": "De repente, se abrió la puerta.",
+            "whyJa": "de repente（突然）は点過去の典型的なヒント。突然の出来事は完了した動作なので点過去を使います。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "Estaba viendo Netflix tranquilamente y de repente se cayó el internet 😭",
+            "ja": "のんびりNetflix見てたら突然ネットが落ちた😭",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "背景（Netflix見ていた）= 線過去、出来事（ネット落ちた）= 点過去。日常あるあるな場面。"
+          },
+          {
+            "es": "Cuando era joven, iba a la discoteca todos los fines de semana. Ahora me duermo a las diez.",
+            "ja": "若い頃は毎週末クラブに行ってた。今は10時に寝る。",
+            "source": "conversation",
+            "sourceLabel": "友達との会話",
+            "context": "昔と今を比較して笑い話をしている場面",
+            "noteJa": "過去の習慣（クラブに行っていた）= 線過去。iba は ir の線過去。今の習慣は直説法現在形。",
+            "region": "spain"
+          },
+          {
+            "es": "Ayer conocí a una chava increíble en la fiesta 🥰",
+            "ja": "昨日パーティーですごい子に出会った🥰",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "完了した1回の出来事 → 点過去。conocí は conocer の点過去 yo 形。chava はメキシコのスラングで「女の子」。",
+            "region": "latam"
+          },
+          {
+            "es": "El restaurante era pequeño pero la comida estaba riquísima. Pedimos de todo.",
+            "ja": "そのレストランは小さかったけど料理がめちゃくちゃ美味しかった。全部注文した。",
+            "source": "conversation",
+            "sourceLabel": "旅行の思い出話",
+            "context": "旅行で見つけた良いレストランについて話している場面",
+            "noteJa": "描写（小さかった、美味しかった）= 線過去、行動（注文した）= 点過去。riquísimo は rico の最上級。"
+          },
+          {
+            "es": "Mientras mi mujer dormía, yo preparé el desayuno sorpresa 🍳☕",
+            "ja": "妻が寝てる間にサプライズ朝食を準備した🍳☕",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "背景（妻が寝ていた）= 線過去、出来事（準備した）= 点過去。典型的な mientras の使い方。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "Ayer ___ una película muy buena. (ver, yo)",
+            "options": [
+              "he visto",
+              "vi",
+              "veo",
+              "veía"
+            ],
+            "answer": 1,
+            "explanationJa": "ayer は完了した過去を表すので点過去。ver の点過去 yo 形は vi。"
+          },
+          {
+            "prompt": "Cuando ___ niño, siempre ___ al fútbol. (ser / jugar, yo)",
+            "options": [
+              "era / jugué",
+              "fui / jugaba",
+              "fui / jugué",
+              "era / jugaba"
+            ],
+            "answer": 3,
+            "explanationJa": "「子供の頃」は過去の状態（ser → era、線過去）。「いつもサッカーをしていた」は習慣（jugar → jugaba、線過去）。"
+          },
+          {
+            "prompt": "Mientras ___, ___ el teléfono. (estudiar / sonar, yo / él)",
+            "options": [
+              "estudiaba / sonaba",
+              "estudiaba / sonó",
+              "estudié / sonó",
+              "estudié / sonaba"
+            ],
+            "answer": 1,
+            "explanationJa": "背景（勉強していた）= 線過去、割り込む出来事（電話が鳴った）= 点過去。"
+          },
+          {
+            "prompt": "De repente, ___ a llover. (empezar)",
+            "options": [
+              "empezaba",
+              "empieza",
+              "empezará",
+              "empezó"
+            ],
+            "answer": 3,
+            "explanationJa": "de repente（突然）は点過去のヒント。突然の変化は点過去で表します。"
+          },
+          {
+            "prompt": "Mi abuela ___ muy bien. Siempre ___ pasteles deliciosos. (cocinar / hacer)",
+            "options": [
+              "cocinaba / hizo",
+              "cocinó / hacía",
+              "cocinaba / hacía",
+              "cocinó / hizo"
+            ],
+            "answer": 2,
+            "explanationJa": "おばあちゃんの習慣的な能力を描写しているので両方とも線過去。siempre がヒント。"
+          },
+          {
+            "prompt": "Anoche ___ a las doce. (acostarse, yo)",
+            "options": [
+              "me acostaré",
+              "me acostaba",
+              "me acuesto",
+              "me acosté"
+            ],
+            "answer": 3,
+            "explanationJa": "anoche（昨夜）は完了した時間 → 点過去。acostarse の点過去 yo 形は me acosté。"
+          },
+          {
+            "prompt": "___ las tres de la tarde y ___ mucho calor. (ser / hacer)",
+            "options": [
+              "Fueron / hizo",
+              "Fueron / hacía",
+              "Eran / hacía",
+              "Eran / hizo"
+            ],
+            "answer": 2,
+            "explanationJa": "時刻と天気の描写は線過去。ser → eran、hacer → hacía。背景・状況の描写です。"
+          },
+          {
+            "prompt": "Antes ___ mucho, pero un día ___ de fumar. (fumar / dejar, yo)",
+            "options": [
+              "fumaba / dejé",
+              "fumé / dejaba",
+              "fumaba / dejaba",
+              "fumé / dejé"
+            ],
+            "answer": 0,
+            "explanationJa": "以前の習慣（吸っていた）= 線過去、変化の瞬間（やめた）= 点過去。"
+          },
+          {
+            "prompt": "El hotel ___ bonito y ___ una piscina grande. (ser / tener)",
+            "options": [
+              "era / tuvo",
+              "fue / tenía",
+              "fue / tuvo",
+              "era / tenía"
+            ],
+            "answer": 3,
+            "explanationJa": "ホテルの描写（きれいだった、プールがあった）は状態 → 線過去。"
+          },
+          {
+            "prompt": "Ayer ___ a María y le ___ la verdad. (ver / decir, yo)",
+            "options": [
+              "vi / dije",
+              "veía / decía",
+              "veía / dije",
+              "vi / decía"
+            ],
+            "answer": 0,
+            "explanationJa": "ayer の完了した連続動作 → 両方とも点過去。ver → vi、decir → dije。"
+          },
+          {
+            "prompt": "___ mucho cuando ___ el accidente. (llover / ocurrir)",
+            "options": [
+              "Llovió / ocurrió",
+              "Llovía / ocurría",
+              "Llovía / ocurrió",
+              "Llovió / ocurría"
+            ],
+            "answer": 2,
+            "explanationJa": "背景（雨が降っていた）= 線過去、出来事（事故が起きた）= 点過去。"
+          },
+          {
+            "prompt": "Todos los veranos ___ a la playa con mi familia. (ir, nosotros)",
+            "options": [
+              "iremos",
+              "íbamos",
+              "fuimos",
+              "vamos"
+            ],
+            "answer": 1,
+            "explanationJa": "todos los veranos（毎年夏）は習慣 → 線過去。ir の線過去 nosotros 形は íbamos。"
+          },
+          {
+            "prompt": "Una vez ___ un oso en la montaña. (ver, yo)",
+            "options": [
+              "he visto",
+              "vi",
+              "veía",
+              "veo"
+            ],
+            "answer": 1,
+            "explanationJa": "una vez（一度）は1回きりの出来事 → 点過去。"
+          },
+          {
+            "prompt": "Ella ___ muy contenta cuando le ___ la noticia. (estar / dar, yo)",
+            "options": [
+              "estaba / daba",
+              "estuvo / daba",
+              "estaba / di",
+              "estuvo / di"
+            ],
+            "answer": 2,
+            "explanationJa": "感情の描写（嬉しかった）= 線過去、行動（知らせた）= 点過去。このパターンは少し難しいですが、estaba は「すでに嬉しい状態だった」を描写しています。ただし estuvo / di も文脈によっては正しい場合があります。"
+          },
+          {
+            "prompt": "「彼は毎日6時に起きていた」を正しく訳すと？",
+            "options": [
+              "Se levantó a las seis todos los días.",
+              "Se levantará a las seis todos los días.",
+              "Se levantaba a las seis todos los días.",
+              "Se levanta a las seis todos los días."
+            ],
+            "answer": 2,
+            "explanationJa": "過去の習慣（毎日〜していた）→ 線過去。todos los días がヒント。levantarse の線過去は se levantaba。"
+          },
+          {
+            "prompt": "Mientras yo ___ la cena, mi hija ___ la tarea. (preparar / hacer)",
+            "options": [
+              "preparé / hacía",
+              "preparaba / hacía",
+              "preparaba / hizo",
+              "preparé / hizo"
+            ],
+            "answer": 1,
+            "explanationJa": "mientras で2つの同時進行中の動作を表す → 両方とも線過去。「私が夕食を準備している間、娘は宿題をしていた」。"
+          },
+          {
+            "prompt": "Aquella noche, ___ a casa y ___ directamente. (llegar / dormirse, yo)",
+            "options": [
+              "llegué / me dormí",
+              "llegué / me dormía",
+              "llegaba / me dormía",
+              "llegaba / me dormí"
+            ],
+            "answer": 0,
+            "explanationJa": "連続する完了した動作（帰った→寝た）→ 両方とも点過去。"
+          },
+          {
+            "prompt": "La ciudad ___ muy diferente hace veinte años. No ___ tantos edificios. (ser / haber)",
+            "options": [
+              "era / hubo",
+              "fue / había",
+              "fue / hubo",
+              "era / había"
+            ],
+            "answer": 3,
+            "explanationJa": "過去の状態の描写 → 線過去。「20年前、街はとても違っていた。こんなにビルがなかった。」"
+          },
+          {
+            "prompt": "次の文で線過去と点過去の使い方が正しいのはどれ？",
+            "options": [
+              "Estaba caminando cuando veía a un gato.",
+              "Estuve caminando cuando vi un gato.",
+              "Estuve caminando cuando veía a un gato.",
+              "Estaba caminando cuando vi a un gato."
+            ],
+            "answer": 3,
+            "explanationJa": "背景（歩いていた）= 線過去 estaba caminando、出来事（猫を見た）= 点過去 vi。典型的な cuando の使い方。"
+          },
+          {
+            "prompt": "「突然、ドアが開いた」を正しく訳すと？",
+            "options": [
+              "De repente, se abrirá la puerta.",
+              "De repente, se abre la puerta.",
+              "De repente, se abría la puerta.",
+              "De repente, se abrió la puerta."
+            ],
+            "answer": 3,
+            "explanationJa": "de repente（突然）→ 点過去。突然の出来事は完了した動作として表現します。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Cuando yo ___ pequeño, ___ al parque todos los días. (ser / ir)",
+            "answer": "era / iba",
+            "options": [
+              "fui / iba",
+              "era / fui",
+              "era / iba",
+              "fui / fui"
+            ],
+            "explanationJa": "子供の頃の状態（ser→era）と習慣（ir→iba）はどちらも線過去。todos los días がヒント。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Ayer ___ a un concierto increíble. (ir, yo)",
+            "answer": "fui",
+            "options": [
+              "iba",
+              "he ido",
+              "iría",
+              "fui"
+            ],
+            "explanationJa": "ayer は完了した過去を表すので点過去。ir の点過去 yo 形は fui。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Mientras ___ la televisión, alguien ___ a la puerta. (ver / llamar, yo / alguien)",
+            "answer": "veía / llamó",
+            "options": [
+              "vi / llamó",
+              "veía / llamó",
+              "veía / llamaba",
+              "vi / llamaba"
+            ],
+            "explanationJa": "背景（テレビを見ていた）= 線過去、割り込む出来事（ドアをノックした）= 点過去。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Mi abuela siempre ___ galletas los domingos. (hacer)",
+            "answer": "hacía",
+            "options": [
+              "hace",
+              "hizo",
+              "haría",
+              "hacía"
+            ],
+            "explanationJa": "siempre + los domingos = 過去の習慣 → 線過去。hacía が正しい。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "___ las ocho de la noche cuando por fin ___ a casa. (ser / llegar, yo)",
+            "answer": "Eran / llegué",
+            "options": [
+              "Fueron / llegaba",
+              "Eran / llegaba",
+              "Eran / llegué",
+              "Fueron / llegué"
+            ],
+            "explanationJa": "時刻の描写（8時だった）= 線過去 eran、出来事（帰宅した）= 点過去 llegué。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "El verano pasado ___ dos semanas en Barcelona y ___ mucho. (pasar / divertirse, yo)",
+            "answer": "pasé / me divertí",
+            "options": [
+              "pasé / me divertí",
+              "pasé / me divertía",
+              "pasaba / me divertí",
+              "pasaba / me divertía"
+            ],
+            "explanationJa": "el verano pasado は明確な期間 → 点過去。2週間過ごした・楽しんだは完了した出来事。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Antes ___ en una empresa grande, pero ___ y ahora trabajo por mi cuenta. (trabajar / renunciar, yo)",
+            "answer": "trabajaba / renuncié",
+            "options": [
+              "trabajé / renuncié",
+              "trabajé / renunciaba",
+              "trabajaba / renunciaba",
+              "trabajaba / renuncié"
+            ],
+            "explanationJa": "以前の状態（働いていた）= 線過去、変化の瞬間（辞めた）= 点過去。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "La película ___ aburrida, así que ___ del cine antes de que terminara. (ser / salir, nosotros)",
+            "answer": "era / salimos",
+            "options": [
+              "fue / salíamos",
+              "era / salíamos",
+              "fue / salimos",
+              "era / salimos"
+            ],
+            "explanationJa": "映画の描写（つまらなかった）= 線過去、行動（出た）= 点過去。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "De repente, ___ un ruido muy fuerte. (oír, yo)",
+            "answer": "oí",
+            "options": [
+              "oigo",
+              "oiré",
+              "oía",
+              "oí"
+            ],
+            "explanationJa": "de repente（突然）は点過去の典型的なヒント。突然の出来事 → 点過去。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Cuando ___ joven, ___ tocar la guitarra muy bien. (ser / saber, él)",
+            "answer": "era / sabía",
+            "options": [
+              "era / supo",
+              "fue / supo",
+              "era / sabía",
+              "fue / sabía"
+            ],
+            "explanationJa": "若い頃の状態（ser→era）と能力の描写（saber→sabía）はどちらも線過去。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Cuando era niño, un día jugué en el parque todos los días.",
+            "answer": "Cuando era niño, jugaba en el parque todos los días.",
+            "explanationJa": "todos los días は習慣を表すので線過去 jugaba が正しい。点過去 jugué は1回の出来事を表し、todos los días と矛盾します。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "De repente, la puerta se abría lentamente.",
+            "answer": "De repente, se abrió la puerta.",
+            "explanationJa": "de repente（突然）は点過去のヒント。突然の出来事は点過去 se abrió で表します。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Ayer llovía mucho por la tarde.",
+            "answer": "Ayer llovió mucho por la tarde.",
+            "explanationJa": "ayer は完了した時間を指すので、単独の出来事として述べるなら点過去 llovió。（背景描写ならllovíaも可能だが、単独文では点過去が自然）"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Mientras estudiaba, el teléfono sonaba.",
+            "answer": "Mientras estudiaba, sonó el teléfono.",
+            "explanationJa": "背景（勉強していた）に割り込む出来事（電話が鳴った）は点過去。sonaba だと「ずっと鳴り続けていた」の意味になります。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "El restaurante fue pequeño pero la comida estuvo riquísima. Pedíamos de todo.",
+            "answer": "El restaurante era pequeño pero la comida estaba riquísima. Pedimos de todo.",
+            "explanationJa": "レストランの描写（小さかった、美味しかった）= 線過去。注文する行為は完了した動作 = 点過去。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「子供の頃、毎朝6時に起きていた」を正しく訳すと？",
+            "options": [
+              "Cuando fui niño, me levantaba a las 6 todos los días.",
+              "Cuando fui niño, me levanté a las 6 todos los días.",
+              "Cuando era niño, me levanté a las 6 todos los días.",
+              "Cuando era niño, me levantaba a las 6 todos los días."
+            ],
+            "answer": 3,
+            "explanationJa": "子供の頃の状態 = 線過去（era）、毎日の習慣 = 線過去（me levantaba）。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次の文で点過去と線過去の使い分けが正しいのはどれ？",
+            "options": [
+              "Llovió mucho cuando salí de casa.",
+              "Llovía mucho cuando salí de casa.",
+              "Llovió mucho cuando salía de casa.",
+              "Llovía mucho cuando salía de casa."
+            ],
+            "answer": 1,
+            "explanationJa": "背景（雨が降っていた）= 線過去 llovía、出来事（家を出た）= 点過去 salí。4番目も文法的に可能ですが、典型的なパターンは1番目。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "線過去の不規則動詞は次のうちどれ？",
+            "options": [
+              "ser, ir, ver, tener の4つ",
+              "不規則動詞はない",
+              "ser, ir, ver の3つだけ",
+              "ser, estar, ir の3つ"
+            ],
+            "answer": 2,
+            "explanationJa": "線過去の不規則動詞はたった3つ：ser（era）、ir（iba）、ver（veía）。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "siempre, todos los días, a menudo は通常どちらの過去形と使われる？",
+            "options": [
+              "どちらでも同じ",
+              "現在完了",
+              "点過去（indefinido）",
+              "線過去（imperfecto）"
+            ],
+            "answer": 3,
+            "explanationJa": "これらは習慣を示す時間表現で、線過去のヒントです。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Conocí a María en una fiesta.」の conocí はなぜ点過去？",
+            "options": [
+              "毎日会っていたから",
+              "マリアの描写だから",
+              "会話の背景だから",
+              "初めて会った一回きりの出来事だから"
+            ],
+            "answer": 3,
+            "explanationJa": "conocer の点過去は「出会った」（一回きりの出来事）。線過去の conocía は「知っていた」（状態）。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「突然、停電した」",
+            "answer": "De repente, se fue la luz.",
+            "acceptableAnswers": [
+              "De repente, hubo un apagón.",
+              "De repente se cortó la luz."
+            ],
+            "explanationJa": "突然の出来事 → 点過去。irse la luz = 停電する。de repente は点過去の典型的な共起表現。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「彼女は背が高くて目が大きかった」",
+            "answer": "Ella era alta y tenía los ojos grandes.",
+            "acceptableAnswers": [
+              "Era alta y tenía los ojos grandes.",
+              "Ella era alta y tenía ojos grandes."
+            ],
+            "explanationJa": "人の外見の描写 → 線過去。ser（era）は身体的特徴、tener（tenía）は所有・特徴の描写。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「私たちがレストランで食事をしている間、雨が降り始めた」",
+            "answer": "Mientras comíamos en el restaurante, empezó a llover.",
+            "acceptableAnswers": [
+              "Mientras cenábamos en el restaurante, empezó a llover.",
+              "Mientras estábamos comiendo en el restaurante, empezó a llover."
+            ],
+            "explanationJa": "mientras + 背景（食事していた）= 線過去、割り込む出来事（雨が降り始めた）= 点過去。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "習慣→1回の出来事に変換: Todos los días comía en ese restaurante. → Ayer ___.",
+            "answer": "Ayer comí en ese restaurante.",
+            "explanationJa": "todos los días（習慣）→ 線過去 comía。ayer（一回きり）→ 点過去 comí。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "2つの文を「cuando」で結合: Yo dormía. + El teléfono sonó. → ___.",
+            "answer": "Cuando dormía, sonó el teléfono.",
+            "explanationJa": "背景（寝ていた）= 線過去 dormía、割り込む出来事（電話が鳴った）= 点過去 sonó。cuando で結合。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "点過去は「完了した1回きりの出来事」、線過去は「過去の習慣・進行中の状態・背景描写」",
+      "物語では線過去（背景）+ 点過去（出来事）を組み合わせて使う",
+      "線過去の不規則動詞はたった3つ：ser（era）、ir（iba）、ver（veía）",
+      "時間表現がヒント：ayer/de repente → 点過去、siempre/todos los días → 線過去",
+      "日本語の「〜した」と「〜していた」の感覚に近いが、完全には一致しない",
+      "mientras + 線過去の中に点過去が割り込む、が典型パターン"
+    ]
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "id": "b2-grammar-003",
+  "slug": "oraciones-condicionales",
+  "titleJa": "条件文（Si節）の全体像",
+  "titleEs": "Oraciones Condicionales",
+  "level": "b2",
+  "sortOrder": 3,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "スペイン語の条件文：3つのタイプを整理しよう",
+        "bodyJa": "スペイン語の Si 節（条件文）には3つのタイプがあります。\n\nB1で第1条件文を学びましたが、B2では3つすべてを使いこなす必要があります。\n\n第1条件文（現実的条件）：実現可能\n Si + 直説法現在, + 直説法未来 / 現在 / 命令法\n\n第2条件文（非現実的条件・現在）：起こりにくい\n Si + 接続法過去, + 条件法単純\n\n第3条件文（非現実的条件・過去）：起こらなかった\n Si + 接続法過去完了, + 条件法複合\n\nポイントは「現実からどれだけ離れているか」です。\n第1は現実的、第2は空想的、第3は過去の後悔。\n\nさらに B2 では「混合条件文」も登場します。第2と第3を組み合わせるパターンです。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "第1条件文：「もし〜なら（現実的）」",
+        "bodyJa": "第1条件文は、実際に起こりうる条件を述べます。\n\nSi + 直説法現在, + 直説法未来（または現在・命令法）\n\n例：\nSi llueve mañana, me quedaré en casa.\n（明日雨が降ったら、家にいるよ）\n\nSi tienes hambre, come algo.\n（お腹が空いているなら、何か食べなよ）\n\nSi estudias mucho, apruebas.\n（たくさん勉強すれば、受かるよ）\n\nポイント：Si節の中に未来形は使えません。\n✗ Si lloverá → ✓ Si llueve\n\n日本語では「明日雨が降ったら」と過去形っぽく言いますが、スペイン語では現在形を使います。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "第2条件文：「もし〜だったら（今の空想）」",
+        "bodyJa": "第2条件文は、現在の事実に反する仮定を表します。\n\nSi + 接続法過去, + 条件法単純\n\n例：\nSi tuviera un millón de euros, dejaría mi trabajo.\n（100万ユーロあったら、仕事を辞めるのに）\n\nSi pudiera elegir, viviría en Barcelona.\n（選べるなら、バルセロナに住むのに）\n\nSi fuera más joven, aprendería a surfear.\n（もっと若かったら、サーフィンを覚えるのに）\n\n注意：この条件は「今は実現していない」ことが前提です。\n「お金がある」ことは事実ではない → Si tuviera（接続法過去）"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "第3条件文：「もし〜していたら（過去の後悔）」",
+        "bodyJa": "第3条件文は、過去の事実に反する仮定を表します。もう変えられない「たら・れば」です。\n\nSi + 接続法過去完了, + 条件法複合\n\n例：\nSi hubiera estudiado más, habría aprobado el examen.\n（もっと勉強していたら、試験に受かっていたのに）\n\nSi hubiéramos salido antes, habríamos llegado a tiempo.\n（もっと早く出ていたら、間に合っていたのに）\n\nSi no hubiera llovido, habríamos ido a la playa.\n（雨が降らなかったら、ビーチに行っていたのに）\n\nこの形は後悔を語るときに最も使います。\n「あのときこうしていれば...」という気持ちを表現できます。"
+      },
+      {
+        "type": "explanation",
+        "headingJa": "混合条件文：第2と第3の合わせ技",
+        "bodyJa": "B2で新登場するのが混合条件文です。Si節と帰結節のタイプが異なるパターンです。\n\nパターンA：過去の条件 → 現在の帰結\n Si + 接続法過去完了, + 条件法単純\n\nSi hubiera estudiado medicina, ahora sería médico.\n（医学を勉強していたら、今は医者なのに）\n→ 過去の選択が今に影響\n\nパターンB：現在の条件 → 過去の帰結\n Si + 接続法過去, + 条件法複合\n\nSi fuera más valiente, habría hablado con ella.\n（もっと勇気があれば、彼女に話しかけていたのに）\n→ 性格（現在の事実）が過去の行動に影響\n\n混合条件文はネイティブが日常的に使う自然な表現です。\nDELE B2でも頻出するので、しっかり覚えましょう。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Si tengo tiempo, te llamo esta noche.",
+            "ja": "時間があったら、今晩電話するよ。",
+            "noteJa": "第1条件文。現実的な条件。Si + 現在形 + 現在形（近い未来）。"
+          },
+          {
+            "es": "Si ganara la lotería, me compraría una casa en la playa.",
+            "ja": "宝くじが当たったら、ビーチに家を買うのに。",
+            "noteJa": "第2条件文。Si + 接続法過去 + 条件法。非現実的な空想。"
+          },
+          {
+            "es": "Si hubiera sabido que estabas aquí, habría venido antes.",
+            "ja": "あなたがここにいると知っていたら、もっと早く来ていたのに。",
+            "noteJa": "第3条件文。Si + 接続法過去完了 + 条件法複合。過去の後悔。"
+          },
+          {
+            "es": "Si no hubiera conocido a mi mujer, ahora viviría en otro país.",
+            "ja": "妻に出会っていなかったら、今は別の国に住んでいるだろう。",
+            "noteJa": "混合条件文A。過去の出来事 → 現在の影響。"
+          },
+          {
+            "es": "Si fueras más organizado, no habrías perdido las llaves.",
+            "ja": "もっと整理整頓できる人なら、鍵をなくさなかっただろうに。",
+            "noteJa": "混合条件文B。現在の性質 → 過去の帰結。"
+          },
+          {
+            "es": "Si necesitas algo, dime.",
+            "ja": "何か必要なら、言ってね。",
+            "noteJa": "第1条件文。Si + 現在 + 命令法。日常的な親切の表現。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Si tendría dinero, viajaría.",
+            "correct": "Si tuviera dinero, viajaría.",
+            "whyJa": "Si節に条件法は絶対に入りません。日本語話者は「〜だったら」のニュアンスで条件法を使いたくなりますが、Si節は必ず直説法か接続法です。これはDELEで最もよく出るひっかけです。"
+          },
+          {
+            "wrong": "Si lloverá mañana, me quedo en casa.",
+            "correct": "Si llueve mañana, me quedo en casa.",
+            "whyJa": "第1条件文のSi節に未来形は使えません。「明日雨が降ったら」でも現在形（llueve）を使います。"
+          },
+          {
+            "wrong": "Si habría estudiado, habría aprobado.",
+            "correct": "Si hubiera estudiado, habría aprobado.",
+            "whyJa": "第3条件文でも同じルール。Si節には条件法（habría）を入れず、接続法過去完了（hubiera）を使います。"
+          },
+          {
+            "wrong": "Si tuviera dinero, habría viajado el año pasado.",
+            "correct": "Si hubiera tenido dinero, habría viajado el año pasado.",
+            "whyJa": "「去年旅行していただろう」は過去の話。Si節も過去（接続法過去完了）にします。tuviera は現在の非現実なので、時制がずれてしまいます。（ただし混合条件文では意図的にずらすことがあります）"
+          },
+          {
+            "wrong": "Si estudié más, habría aprobado.",
+            "correct": "Si hubiera estudiado más, habría aprobado.",
+            "whyJa": "点過去（estudié）は事実を述べる直説法。非現実の仮定には接続法過去完了が必要です。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！条件文の日常会話",
+        "items": [
+          {
+            "es": "Si me hubieran dicho esto hace 10 años, no me lo habría creído 😂",
+            "ja": "10年前にこう言われても信じなかっただろうな😂",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "第3条件文。過去の自分を振り返る投稿。SNSの「成長しました」系の定番。"
+          },
+          {
+            "es": "Si pudiera vivir en cualquier país, elegiría Japón sin dudarlo.",
+            "ja": "どこの国でも住めるなら、迷わず日本を選ぶ。",
+            "source": "conversation",
+            "sourceLabel": "友人との会話",
+            "context": "「どこに住みたい？」という話題",
+            "noteJa": "第2条件文。空想的な会話。sin dudarlo = 「迷わずに」。"
+          },
+          {
+            "es": "Si hubiera nacido en España, ahora hablaría español perfecto...",
+            "ja": "スペインで生まれていたら、今頃スペイン語ペラペラなのに...",
+            "source": "sns",
+            "sourceLabel": "語学学習者のSNS投稿",
+            "noteJa": "混合条件文A。過去の条件 + 現在の帰結。語学学習者あるあるです。"
+          },
+          {
+            "es": "Si tienes sed, hay agua en la nevera.",
+            "ja": "喉渇いてるなら、冷蔵庫に水あるよ。",
+            "source": "conversation",
+            "sourceLabel": "家での日常会話",
+            "noteJa": "第1条件文。現実的で日常的な条件。"
+          },
+          {
+            "es": "Si fuera por mí, cancelaría la reunión.",
+            "ja": "私の一存で決められるなら、会議をキャンセルするのに。",
+            "source": "conversation",
+            "sourceLabel": "職場での会話",
+            "context": "面倒な会議について",
+            "noteJa": "第2条件文。si fuera por mí は「私次第なら」の決まり文句。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "Si ___ tiempo, iré al cine. (tener, yo) [第1条件文]",
+            "options": [
+              "hubiera tenido",
+              "tengo",
+              "tendría",
+              "tuviera"
+            ],
+            "answer": 1,
+            "explanationJa": "第1条件文は Si + 直説法現在。実現可能な条件なので tengo。"
+          },
+          {
+            "prompt": "Si ___ rico, viajaría por el mundo. (ser, yo) [第2条件文]",
+            "options": [
+              "fuera",
+              "sería",
+              "soy",
+              "hubiera sido"
+            ],
+            "answer": 0,
+            "explanationJa": "第2条件文は Si + 接続法過去。非現実の条件なので fuera。"
+          },
+          {
+            "prompt": "Si ___ más, habría aprobado. (estudiar, yo) [第3条件文]",
+            "options": [
+              "habría estudiado",
+              "estudiara",
+              "hubiera estudiado",
+              "estudié"
+            ],
+            "answer": 2,
+            "explanationJa": "第3条件文は Si + 接続法過去完了。過去の非現実なので hubiera estudiado。"
+          },
+          {
+            "prompt": "Si hubiera nacido en España, ahora ___ español perfecto. [混合条件文]",
+            "options": [
+              "hable",
+              "hablo",
+              "hablaría",
+              "habría hablado"
+            ],
+            "answer": 2,
+            "explanationJa": "混合条件文A。過去の条件 → 現在の帰結。帰結は条件法単純（hablaría）。"
+          },
+          {
+            "prompt": "Si ___ mañana, nos quedamos en casa. (llover) [第1条件文]",
+            "options": [
+              "llueva",
+              "lloverá",
+              "lloviera",
+              "llueve"
+            ],
+            "answer": 3,
+            "explanationJa": "第1条件文の Si 節に未来形は使えません。現在形の llueve を使います。"
+          },
+          {
+            "prompt": "次の文の条件文タイプはどれ？ 'Si pudiera elegir, viviría en Barcelona.'",
+            "options": [
+              "第3条件文（過去の非現実）",
+              "第2条件文（現在の非現実）",
+              "混合条件文",
+              "第1条件文（現実的）"
+            ],
+            "answer": 1,
+            "explanationJa": "Si + 接続法過去（pudiera）+ 条件法単純（viviría）= 第2条件文。現在の非現実的仮定。"
+          },
+          {
+            "prompt": "Si ___ más valiente, habría hablado con ella. (ser, yo) [混合条件文]",
+            "options": [
+              "hubiera sido",
+              "fuera",
+              "sería",
+              "soy"
+            ],
+            "answer": 1,
+            "explanationJa": "混合条件文B。現在の性質（fuera）→ 過去の帰結（habría hablado）。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Si ___ tiempo mañana, te ayudaré con la mudanza. (tener, yo) [第1]",
+            "answer": "tengo",
+            "options": [
+              "tuviera",
+              "tendría",
+              "tendré",
+              "tengo"
+            ],
+            "explanationJa": "第1条件文。現実的な条件 → si + 現在形 tengo。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si ___ más valiente, le diría la verdad. (ser, yo) [第2]",
+            "answer": "fuera",
+            "options": [
+              "soy",
+              "fuera",
+              "fui",
+              "sería"
+            ],
+            "explanationJa": "第2条件文。現在の非現実 → si + 接続法過去 fuera。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si ___ antes, habríamos conseguido asiento. (llegar, nosotros) [第3]",
+            "answer": "hubiéramos llegado",
+            "options": [
+              "llegamos",
+              "habríamos llegado",
+              "hubiéramos llegado",
+              "llegaríamos"
+            ],
+            "explanationJa": "第3条件文。過去の非現実 → si + 接続法過去完了 hubiéramos llegado。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si hubiera ahorrado más dinero, ahora ___ una casa propia. (tener, yo) [混合A]",
+            "answer": "tendría",
+            "options": [
+              "tengo",
+              "tendría",
+              "habría tenido",
+              "tuviera"
+            ],
+            "explanationJa": "混合条件文A。過去の条件 → 現在の帰結。条件法単純 tendría。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si ___ más organizado, no habrías perdido el pasaporte. (ser, tú) [混合B]",
+            "answer": "fueras",
+            "options": [
+              "fueras",
+              "serías",
+              "eres",
+              "hubieras sido"
+            ],
+            "explanationJa": "混合条件文B。現在の条件（性格）→ 過去の帰結。si + 接続法過去 fueras。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si ___ buen tiempo, iremos de excursión. (hacer) [第1]",
+            "answer": "hace",
+            "options": [
+              "hiciera",
+              "haría",
+              "hace",
+              "hará"
+            ],
+            "explanationJa": "第1条件文。si の後に未来形は使えない。si + 現在形 hace。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si ___ el español, habría trabajado en América Latina. (dominar, yo) [第3]",
+            "answer": "hubiera dominado",
+            "options": [
+              "dominaría",
+              "dominara",
+              "hubiera dominado",
+              "habría dominado"
+            ],
+            "explanationJa": "第3条件文。Si + 接続法過去完了 hubiera dominado。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si ___ dinero, lo prestaré sin problema. (necesitar, tú) [第1]",
+            "answer": "necesitas",
+            "options": [
+              "necesitarías",
+              "necesitaras",
+              "necesitas",
+              "necesitarás"
+            ],
+            "explanationJa": "第1条件文。現実的な条件 → si + 現在形 necesitas。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si hubiera estudiado medicina, ahora ___ muchas vidas. (salvar, yo) [混合A]",
+            "answer": "salvaría",
+            "options": [
+              "salvara",
+              "habría salvado",
+              "salvo",
+              "salvaría"
+            ],
+            "explanationJa": "混合条件文A。過去の条件（医学を勉強していたら）→ 現在の帰結（命を救うのに）。条件法単純。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Si ___ en tu lugar, no habría aceptado esa oferta. (estar, yo) [混合B]",
+            "answer": "estuviera",
+            "options": [
+              "estuviera",
+              "hubiera estado",
+              "estaría",
+              "estoy"
+            ],
+            "explanationJa": "混合条件文B。現在の条件 → 過去の帰結。si + 接続法過去 estuviera。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Si tendría más dinero, compraría un piso más grande.",
+            "answer": "Si tuviera más dinero, compraría un piso más grande.",
+            "explanationJa": "Si節に条件法（tendría）は絶対に入れない。接続法過去 tuviera が正しい。DELEで最も出る間違い。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Si lloverá mañana, nos quedaremos en casa.",
+            "answer": "Si llueve mañana, nos quedaremos en casa.",
+            "explanationJa": "第1条件文のSi節に未来形は使えない。現在形 llueve が正しい。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Si habría sabido, habría ido contigo.",
+            "answer": "Si hubiera sabido, habría ido contigo.",
+            "explanationJa": "第3条件文でも Si節に habría は入れない。接続法過去完了 hubiera sabido。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Si estudié más, habría aprobado el DELE.",
+            "answer": "Si hubiera estudiado más, habría aprobado el DELE.",
+            "explanationJa": "点過去（estudié）は事実を述べる直説法。非現実の仮定には接続法過去完了が必要。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Si tuviera dinero, habré comprado un coche nuevo.",
+            "answer": "Si tuviera dinero, compraría un coche nuevo.",
+            "explanationJa": "第2条件文の帰結は条件法単純。未来完了 habré comprado は不正。tuviera + compraría のセット。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次の文はどの条件文タイプ？ 'Si hubiera nacido en España, ahora hablaría español perfecto.'",
+            "options": [
+              "混合条件文A（過去の条件→現在の帰結）",
+              "第1条件文",
+              "第2条件文",
+              "第3条件文"
+            ],
+            "answer": 0,
+            "explanationJa": "Si + 接続法過去完了（hubiera nacido）+ 条件法単純（hablaría）= 混合A。過去の条件が現在に影響。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "si の後に絶対使えない2つの動詞形はどれ？",
+            "options": [
+              "現在形と接続法過去",
+              "未来形（-rá）と条件法（-ría）",
+              "接続法現在と接続法過去完了",
+              "線過去と点過去"
+            ],
+            "answer": 1,
+            "explanationJa": "Si節に未来形と条件法は絶対に入れない。これはスペイン語の鉄則です。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "第1・第2・第3条件文の違いを一言で言うと？",
+            "options": [
+              "主語の違い：yo→tú→él",
+              "現実性の度合い：現実的→空想的→過去の後悔",
+              "時制の違い：現在→過去→未来",
+              "丁寧さの違い：カジュアル→普通→フォーマル"
+            ],
+            "answer": 1,
+            "explanationJa": "第1=現実的（ありえる）、第2=空想的（今の非現実）、第3=後悔（過去の非現実）。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Si fuera por mí, cancelaría la reunión.」の si fuera por mí はどんな意味？",
+            "options": [
+              "私のせいなら",
+              "私がいなければ",
+              "私のために",
+              "私の一存で決められるなら"
+            ],
+            "answer": 3,
+            "explanationJa": "si fuera por mí = 「私次第なら」「私に決定権があれば」。第2条件文の決まり文句。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "混合条件文Bの構造はどれ？",
+            "options": [
+              "Si + 接続法過去完了 + 条件法単純",
+              "Si + 接続法過去 + 条件法複合",
+              "Si + 直説法現在 + 条件法",
+              "Si + 接続法過去完了 + 条件法複合"
+            ],
+            "answer": 1,
+            "explanationJa": "混合B = 現在の条件（接続法過去）→ 過去の帰結（条件法複合）。性格・性質が過去の行動に影響。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「もっと早く出ていたら、飛行機に間に合っていたのに」",
+            "answer": "Si hubiéramos salido antes, habríamos llegado a tiempo al avión.",
+            "acceptableAnswers": [
+              "Si hubiéramos salido más temprano, habríamos cogido el avión.",
+              "Si hubiésemos salido antes, habríamos llegado a tiempo."
+            ],
+            "explanationJa": "第3条件文。Si + 接続法過去完了 + 条件法複合。過去の後悔。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「もし日本で生まれていたら、今頃日本語がペラペラなのに」",
+            "answer": "Si hubiera nacido en Japón, ahora hablaría japonés perfectamente.",
+            "acceptableAnswers": [
+              "Si hubiese nacido en Japón, ahora hablaría japonés con fluidez."
+            ],
+            "explanationJa": "混合条件文A。過去の条件（hubiera nacido）→ 現在の帰結（hablaría）。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「時間があったら手伝うよ」（現実的な条件）",
+            "answer": "Si tengo tiempo, te ayudo.",
+            "acceptableAnswers": [
+              "Si tengo tiempo, te ayudaré.",
+              "Si tengo tiempo, te echaré una mano."
+            ],
+            "explanationJa": "第1条件文。si + 現在形 + 現在形/未来形。現実的な条件。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "第2→第3に変換: Si tuviera dinero, viajaría. → Si ___ dinero, ___. (過去の文脈)",
+            "answer": "Si hubiera tenido dinero, habría viajado.",
+            "explanationJa": "第2（現在の非現実）→ 第3（過去の非現実）。接続法過去→接続法過去完了、条件法→条件法複合。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "第3→混合Aに変換: Si hubiera estudiado más, habría aprobado. → Si hubiera estudiado más, ahora ___.",
+            "answer": "Si hubiera estudiado más, ahora tendría un mejor trabajo.",
+            "explanationJa": "第3（過去→過去）→ 混合A（過去→現在）。帰結を現在の状況に変える。条件法複合→条件法単純。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "第1条件文（現実的）：Si + 直説法現在, + 未来 / 現在 / 命令法",
+      "第2条件文（現在の非現実）：Si + 接続法過去, + 条件法単純",
+      "第3条件文（過去の非現実）：Si + 接続法過去完了, + 条件法複合",
+      "Si節に条件法（-ría）と未来形（-rá）は絶対に入れない",
+      "混合条件文A：Si + 接続法過去完了, + 条件法単純（過去の条件→現在の帰結）",
+      "混合条件文B：Si + 接続法過去, + 条件法複合（現在の条件→過去の帰結）"
+    ]
+  }
+}

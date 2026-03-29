@@ -1,0 +1,741 @@
+{
+  "id": "a2-003",
+  "slug": "verbos-reflexivos",
+  "titleJa": "再帰動詞",
+  "titleEs": "Verbos reflexivos",
+  "level": "a2",
+  "sortOrder": 3,
+  "hasRegionalVariants": false,
+  "content": {
+    "sections": [
+      {
+        "type": "explanation",
+        "headingJa": "再帰動詞とは？自分自身に対する動作を表す動詞",
+        "bodyJa": "再帰動詞（verbos reflexivos）とは、動作の主語と目的語が同じ人物になる動詞です。つまり「自分自身に対して行う動作」を表します。\n\n日本語で考えるとわかりやすいです。「起きる」「着替える」「シャワーを浴びる」――これらはすべて自分自身に対する動作ですよね。\n\nスペイン語では、こうした動詞を再帰代名詞（me, te, se, nos, os, se）とセットで使います。辞書では語尾に -se がついた形（levantarse, ducharse など）で載っています。\n\n再帰代名詞の一覧：\n・yo → me\n・tú → te\n・él/ella/usted → se\n・nosotros/as → nos\n・vosotros/as → os\n・ellos/ellas/ustedes → se",
+        "bodyEs": "Los verbos reflexivos expresan una acción que el sujeto realiza sobre sí mismo. Se conjugan con pronombres reflexivos: me, te, se, nos, os, se."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "毎日の習慣を表す再帰動詞（日常ルーティン）",
+        "bodyJa": "朝起きてから寝るまでの動作の多くは再帰動詞で表します。\n\n・despertarse（目が覚める）→ Me despierto a las 7.（7時に目が覚めます）\n・levantarse（起き上がる）→ Me levanto enseguida.（すぐに起き上がります）\n・ducharse（シャワーを浴びる）→ Me ducho con agua caliente.（お湯でシャワーを浴びます）\n・lavarse（洗う）→ Me lavo la cara.（顔を洗います）\n・peinarse（髪をとかす）→ Me peino antes de salir.（出かける前に髪をとかします）\n・maquillarse（化粧する）→ Mi hermana se maquilla en 10 minutos.（姉は10分で化粧します）\n・afeitarse（ひげを剃る）→ Mi padre se afeita todas las mañanas.（父は毎朝ひげを剃ります）\n・vestirse（着替える）→ Me visto rápido.（さっと着替えます）\n・acostarse（寝る・横になる）→ Me acuesto a las 11.（11時に寝ます）\n\n注意：despertarse は「目が覚める」、levantarse は「ベッドから起き上がる」です。日本語の「起きる」はどちらにも使えますが、スペイン語では区別します。",
+        "bodyEs": "Muchos verbos reflexivos describen la rutina diaria: despertarse, levantarse, ducharse, lavarse, peinarse, vestirse, acostarse, etc."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "感情・状態を表す再帰動詞",
+        "bodyJa": "自分の感情や状態の変化も再帰動詞で表すことが多いです。\n\n・sentirse（感じる）→ Me siento bien.（気分がいいです）\n・aburrirse（退屈する）→ Me aburro en esta clase.（この授業退屈だ）\n・enfadarse（怒る）→ Se enfada por todo.（彼はなんでも怒る）\n・preocuparse（心配する）→ Me preocupo por mi hijo.（息子のことが心配です）\n・alegrarse（喜ぶ）→ Me alegro de verte.（会えて嬉しい）\n・cansarse（疲れる）→ Se cansa rápido.（彼はすぐ疲れる）\n・enamorarse（恋に落ちる）→ Se enamoró de ella.（彼は彼女に恋をした）\n\n日本語話者へのポイント：日本語では「怒る」「退屈する」「心配する」に「自分自身を」という感覚はないですよね。でもスペイン語では「自分が自分をその感情の状態にする」というニュアンスで再帰動詞を使います。",
+        "bodyEs": "Los verbos reflexivos también expresan emociones y cambios de estado: sentirse, aburrirse, enfadarse, preocuparse, alegrarse, enamorarse, etc."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "相互動作の再帰動詞（お互いに〜する）",
+        "bodyJa": "再帰代名詞 nos, os, se は「お互いに」という相互動作も表します。\n\n・quererse（愛し合う）→ Nos queremos mucho.（私たちはとても愛し合っている）\n・verse（会う）→ Nos vemos mañana.（明日会おうね）\n・escribirse（手紙やメッセージを送り合う）→ Se escriben todos los días.（彼らは毎日メッセージを送り合っている）\n・conocerse（知り合う）→ Se conocieron en la universidad.（彼らは大学で知り合った）\n・llamarse（電話し合う）→ Nos llamamos por la noche.（夜に電話し合う）\n\n「Nos vemos.」は別れ際の超定番フレーズです。「じゃあまたね」のニュアンスで、ネイティブは毎日のように使います。",
+        "bodyEs": "Con sujetos plurales, los pronombres reflexivos pueden expresar reciprocidad: quererse, verse, escribirse, conocerse, etc."
+      },
+      {
+        "type": "explanation",
+        "headingJa": "再帰代名詞の位置ルール",
+        "bodyJa": "再帰代名詞を置ける場所は2パターンあります。\n\n1. 活用した動詞の前に置く（基本パターン）\n→ Me levanto a las 7.（7時に起きます）\n→ No me siento bien.（気分がよくない）\n\n2. 不定詞（-r形）や現在分詞（-ndo形）にくっつける\n→ Voy a levantarme a las 7.（7時に起きるつもりです）\n→ Estoy duchándome.（今シャワーを浴びています）\n\nどちらも意味は同じです。ただし、活用した動詞の後ろにはつけられません。\n× Levántome（間違い！命令形は例外）\n\n不定詞・現在分詞にくっつけるとき、アクセント記号が必要になる場合があります。\n・duchándome（duchando + me → アクセント記号を追加）\n・levantándose（levantando + se → アクセント記号を追加）",
+        "bodyEs": "Los pronombres reflexivos van antes del verbo conjugado o se añaden al final del infinitivo o gerundio. En ambos casos el significado es el mismo."
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "levantarse（起き上がる）",
+        "tense": "Presente de Indicativo",
+        "forms": {
+          "yo": "me levanto",
+          "tú": "te levantas",
+          "él/ella/usted": "se levanta",
+          "nosotros/as": "nos levantamos",
+          "vosotros/as": "os levantáis",
+          "ellos/ellas/ustedes": "se levantan"
+        },
+        "latamNote": null,
+        "spainNote": null
+      },
+      {
+        "type": "conjugation_table",
+        "verb": "sentirse（感じる）※語幹母音変化 e→ie",
+        "tense": "Presente de Indicativo",
+        "forms": {
+          "yo": "me siento",
+          "tú": "te sientes",
+          "él/ella/usted": "se siente",
+          "nosotros/as": "nos sentimos",
+          "vosotros/as": "os sentís",
+          "ellos/ellas/ustedes": "se sienten"
+        },
+        "latamNote": null,
+        "spainNote": null
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "es": "Me despierto a las seis y me levanto a las seis y media.",
+            "ja": "6時に目が覚めて、6時半に起き上がります。",
+            "noteJa": "despertarse（目が覚める）と levantarse（起き上がる）の違い。日本語ではどちらも「起きる」ですが、スペイン語では区別します。"
+          },
+          {
+            "es": "Mi hija se ducha por la mañana, pero yo me ducho por la noche.",
+            "ja": "娘は朝シャワーを浴びるけど、私は夜に浴びる。",
+            "noteJa": "同じ動詞 ducharse が主語によって se ducha / me ducho と変化しています。"
+          },
+          {
+            "es": "¿A qué hora te acuestas normalmente?",
+            "ja": "普段何時に寝るの？",
+            "noteJa": "acostarse は o→ue の語幹母音変化動詞。te acuestas で「君は寝る」。"
+          },
+          {
+            "es": "Me siento un poco nervioso antes del examen.",
+            "ja": "試験の前はちょっと緊張する。",
+            "noteJa": "sentirse + 感情の形容詞 で「〜な気分だ」を表します。nervioso は「緊張した」。"
+          },
+          {
+            "es": "No te preocupes, todo va a salir bien.",
+            "ja": "心配しないで、全部うまくいくよ。",
+            "noteJa": "preocuparse の否定命令形。日常会話で非常によく使うフレーズです。"
+          },
+          {
+            "es": "Nos queremos mucho y nos vemos todos los fines de semana.",
+            "ja": "私たちはとても愛し合っていて、毎週末会っている。",
+            "noteJa": "quererse（愛し合う）と verse（会う）の相互用法。nos が「お互いに」の意味になっています。"
+          },
+          {
+            "es": "Voy a acostarme temprano hoy.",
+            "ja": "今日は早く寝るつもりだ。",
+            "noteJa": "ir a + 不定詞の場合、再帰代名詞は不定詞にくっつけます。Me voy a acostar. と前に置くことも可能です。"
+          },
+          {
+            "es": "Estoy vistiéndome, espera un momento.",
+            "ja": "今着替えてるから、ちょっと待って。",
+            "noteJa": "estar + 現在分詞の進行形。再帰代名詞を現在分詞にくっつけて vistiéndome。Me estoy vistiendo. と前に置くことも可能です。"
+          }
+        ]
+      },
+      {
+        "type": "common_mistakes",
+        "items": [
+          {
+            "wrong": "Yo levanto a las siete.",
+            "correct": "Me levanto a las siete.",
+            "whyJa": "再帰動詞には必ず再帰代名詞が必要です。me を忘れると「（他の誰かを）起こす」という他動詞の意味になってしまいます。levantarse = 自分が起きる、levantar = 他の人やものを起こす・持ち上げる。"
+          },
+          {
+            "wrong": "Ella se maquilla se por la mañana.",
+            "correct": "Ella se maquilla por la mañana.",
+            "whyJa": "再帰代名詞は1回だけです。活用動詞の前に置いたら、それ以上つける必要はありません。"
+          },
+          {
+            "wrong": "Estoy me duchando.",
+            "correct": "Estoy duchándome. / Me estoy duchando.",
+            "whyJa": "再帰代名詞は活用した動詞（estoy）の前か、現在分詞（duchando）の後ろにくっつけるかの2択です。活用した動詞と現在分詞の間には置けません。"
+          },
+          {
+            "wrong": "Voy a me levantar temprano.",
+            "correct": "Voy a levantarme temprano. / Me voy a levantar temprano.",
+            "whyJa": "不定詞の場合も同様です。再帰代名詞は活用した動詞（voy）の前か、不定詞（levantar）の後ろにくっつけるかの2択。a と levantar の間には置けません。"
+          }
+        ]
+      },
+      {
+        "type": "real_examples",
+        "headingJa": "ネイティブはこう使う！",
+        "items": [
+          {
+            "es": "Me despierto, miro el móvil y ya no me levanto en 20 minutos 😅",
+            "ja": "目が覚めて、スマホ見て、そこから20分起き上がれない😅",
+            "source": "sns",
+            "sourceLabel": "X（SNS）投稿風",
+            "noteJa": "despertarse（目が覚める）と levantarse（起き上がる）の違いが日常のリアルなシーンに。スマホのせいで起きられないのは万国共通ですね。"
+          },
+          {
+            "es": "¡Nos vemos mañana! Que descanses.",
+            "ja": "じゃあまた明日！ゆっくり休んでね。",
+            "source": "conversation",
+            "sourceLabel": "友達との会話",
+            "context": "夜の別れ際の定番フレーズ",
+            "noteJa": "「Nos vemos.」はスペイン語圏で毎日使う別れの挨拶。「Que descanses.」は「ゆっくり休んでね」で、夜の別れ際によく言います。"
+          },
+          {
+            "es": "Me enfado cuando alguien llega tarde. Es una falta de respeto.",
+            "ja": "遅刻されると腹が立つ。マナー違反だよ。",
+            "source": "conversation",
+            "sourceLabel": "日常会話",
+            "context": "友達に愚痴を言っている場面",
+            "noteJa": "enfadarse（怒る）は感情の再帰動詞。cuando 以下で怒りの原因を説明する自然なパターンです。"
+          },
+          {
+            "es": "Se conocieron en Tinder y ahora se van a casar. ¡Qué fuerte!",
+            "ja": "Tinderで知り合って、今度結婚するんだって。やばくない？",
+            "source": "conversation",
+            "sourceLabel": "友達同士のゴシップ",
+            "context": "共通の知人の恋愛話",
+            "noteJa": "conocerse（知り合う）の相互用法。「¡Qué fuerte!」は驚きを表すスペインの若者のスラング。"
+          },
+          {
+            "es": "No quiero levantarme... cinco minutitos más...",
+            "ja": "起きたくない…あと5分だけ…",
+            "source": "sns",
+            "sourceLabel": "月曜朝のSNS投稿風",
+            "noteJa": "querer + 不定詞に再帰代名詞をくっつけた形。minutitos は minutos の縮小辞で「ほんのちょっとの分」という甘えたニュアンス。"
+          },
+          {
+            "es": "Me preocupo mucho por mi madre. Vive sola y ya tiene 80 años.",
+            "ja": "母のことがすごく心配。一人暮らしでもう80歳だから。",
+            "source": "conversation",
+            "sourceLabel": "友人との真剣な会話",
+            "context": "家族の話をしている場面",
+            "noteJa": "preocuparse por 〜 で「〜のことを心配する」。por の後に心配の対象がきます。日本語と同じ語順感覚です。"
+          }
+        ]
+      },
+      {
+        "type": "quiz",
+        "questions": [
+          {
+            "prompt": "Yo ___ a las siete de la mañana. (levantarse)",
+            "options": [
+              "me levantas",
+              "me levanto",
+              "se levanto",
+              "te levanto"
+            ],
+            "answer": 1,
+            "explanationJa": "主語が yo なので再帰代名詞は me。levantarse の yo 形は levanto。me levanto が正解です。"
+          },
+          {
+            "prompt": "Mi hermana ___ en cinco minutos. (ducharse)",
+            "options": [
+              "nos duchamos",
+              "me ducho",
+              "te duchas",
+              "se ducha"
+            ],
+            "answer": 3,
+            "explanationJa": "主語が mi hermana（三人称単数）なので再帰代名詞は se。se ducha が正解です。"
+          },
+          {
+            "prompt": "¿A qué hora ___ normalmente? (acostarse, tú)",
+            "options": [
+              "te acostas",
+              "se acuesta",
+              "me acuesto",
+              "te acuestas"
+            ],
+            "answer": 3,
+            "explanationJa": "主語が tú なので再帰代名詞は te。acostarse は o→ue の語幹母音変化があるので te acuestas が正解。te acostas は母音変化を忘れた間違いです。"
+          },
+          {
+            "prompt": "Nosotros ___ la cara antes de desayunar. (lavarse)",
+            "options": [
+              "me lavo",
+              "se lavan",
+              "nos lavamos",
+              "os laváis"
+            ],
+            "answer": 2,
+            "explanationJa": "主語が nosotros なので再帰代名詞は nos。nos lavamos が正解です。"
+          },
+          {
+            "prompt": "Los niños ___ muy rápido por la mañana. (vestirse)",
+            "options": [
+              "se visten",
+              "nos vestimos",
+              "se viste",
+              "me visto"
+            ],
+            "answer": 0,
+            "explanationJa": "主語が los niños（三人称複数）なので再帰代名詞は se。vestirse は e→i の語幹母音変化動詞で、se visten が正解です。"
+          },
+          {
+            "prompt": "Mi padre ___ todas las mañanas. (afeitarse)",
+            "options": [
+              "se afeita",
+              "me afeito",
+              "nos afeitamos",
+              "te afeitas"
+            ],
+            "answer": 0,
+            "explanationJa": "主語が mi padre（三人称単数）なので再帰代名詞は se。se afeita が正解です。"
+          },
+          {
+            "prompt": "¿Tú ___ antes de salir de casa? (peinarse)",
+            "options": [
+              "se peina",
+              "nos peinamos",
+              "me peino",
+              "te peinas"
+            ],
+            "answer": 3,
+            "explanationJa": "主語が tú なので再帰代名詞は te。te peinas が正解です。"
+          },
+          {
+            "prompt": "Ella ___ a las seis, pero no ___ hasta las seis y media. (despertarse / levantarse)",
+            "options": [
+              "me despierto / me levanto",
+              "se desperta / se levanta",
+              "se despierta / se levanto",
+              "se despierta / se levanta"
+            ],
+            "answer": 3,
+            "explanationJa": "主語が ella（三人称単数）なので両方とも se。despertarse は e→ie の語幹母音変化があるので se despierta。levantarse は規則活用で se levanta です。"
+          },
+          {
+            "prompt": "Mi madre ___ en diez minutos. Es muy rápida. (maquillarse)",
+            "options": [
+              "me maquillo",
+              "nos maquillamos",
+              "te maquillas",
+              "se maquilla"
+            ],
+            "answer": 3,
+            "explanationJa": "主語が mi madre（三人称単数）なので再帰代名詞は se。se maquilla が正解です。"
+          },
+          {
+            "prompt": "Yo ___ muy temprano los domingos. (acostarse)",
+            "options": [
+              "se acuesta",
+              "me acuesto",
+              "me acosto",
+              "te acuestas"
+            ],
+            "answer": 1,
+            "explanationJa": "主語が yo なので再帰代名詞は me。acostarse は o→ue の語幹母音変化があるので me acuesto が正解。me acosto は母音変化を忘れた間違いです。"
+          },
+          {
+            "prompt": "Hoy ___ un poco triste. (sentirse, yo)",
+            "options": [
+              "me sento",
+              "se siente",
+              "te sientes",
+              "me siento"
+            ],
+            "answer": 3,
+            "explanationJa": "主語が yo なので再帰代名詞は me。sentirse は e→ie の語幹母音変化があるので me siento が正解です。"
+          },
+          {
+            "prompt": "Ella ___ cuando ve películas tristes. (emocionarse)",
+            "options": [
+              "se emociona",
+              "te emocionas",
+              "nos emocionamos",
+              "me emociono"
+            ],
+            "answer": 0,
+            "explanationJa": "主語が ella なので再帰代名詞は se。emocionarse（感動する）は規則活用で se emociona が正解です。"
+          },
+          {
+            "prompt": "Mis padres ___ mucho por mí. (preocuparse)",
+            "options": [
+              "se preocupan",
+              "nos preocupamos",
+              "me preocupo",
+              "se preocupa"
+            ],
+            "answer": 0,
+            "explanationJa": "主語が mis padres（三人称複数）なので再帰代名詞は se。se preocupan が正解。se preocupa は単数形なので間違いです。"
+          },
+          {
+            "prompt": "Mi jefe ___ por cualquier cosa. (enfadarse)",
+            "options": [
+              "me enfado",
+              "se enfadan",
+              "se enfada",
+              "te enfadas"
+            ],
+            "answer": 2,
+            "explanationJa": "主語が mi jefe（三人称単数）なので再帰代名詞は se。se enfada が正解です。por cualquier cosa は「どんなことでも」。"
+          },
+          {
+            "prompt": "Ellos ___ en la universidad hace diez años. (conocerse)",
+            "options": [
+              "se conoció",
+              "nos conocimos",
+              "se conocieron",
+              "se conocen"
+            ],
+            "answer": 2,
+            "explanationJa": "hace diez años（10年前）があるので過去形。主語が ellos（三人称複数）なので se conocieron が正解。相互用法で「お互いに知り合った」という意味です。"
+          },
+          {
+            "prompt": "Nosotros ___ todos los días por videollamada. (verse)",
+            "options": [
+              "nos vemos",
+              "se ven",
+              "me veo",
+              "os veis"
+            ],
+            "answer": 0,
+            "explanationJa": "主語が nosotros なので再帰代名詞は nos。verse の相互用法で「お互いに会う」。nos vemos が正解です。"
+          },
+          {
+            "prompt": "Mi novia y yo ___ mucho. (quererse)",
+            "options": [
+              "me quiero",
+              "nos queremos",
+              "os queréis",
+              "se quieren"
+            ],
+            "answer": 1,
+            "explanationJa": "「彼女と私」= nosotros なので nos queremos が正解。相互用法で「愛し合っている」という意味です。"
+          },
+          {
+            "prompt": "Ana y María ___ mensajes todos los días. (escribirse)",
+            "options": [
+              "te escribes",
+              "se escriben",
+              "nos escribimos",
+              "se escribe"
+            ],
+            "answer": 1,
+            "explanationJa": "主語が Ana y María（三人称複数）なので再帰代名詞は se。相互用法で「お互いにメッセージを送り合う」。se escriben が正解です。"
+          },
+          {
+            "prompt": "¿Ustedes ___ mucho cuando están lejos? (llamarse)",
+            "options": [
+              "me llamo",
+              "te llamas",
+              "nos llamamos",
+              "se llaman"
+            ],
+            "answer": 3,
+            "explanationJa": "主語が ustedes（三人称複数と同じ活用）なので se llaman。相互用法で「お互いに電話し合う」。llamarse は「名前が〜です」の意味もありますが、ここでは文脈から相互用法です。"
+          },
+          {
+            "prompt": "Me ___ mucho de tu éxito. (alegrarse)",
+            "options": [
+              "alegro",
+              "alegras",
+              "alegran",
+              "alegra"
+            ],
+            "answer": 0,
+            "explanationJa": "再帰代名詞 me があるので主語は yo。alegrarse の yo 形は alegro。alegrarse de 〜 で「〜を喜ぶ」。"
+          },
+          {
+            "prompt": "Quiero _____ temprano mañana. (levantarse, yo)",
+            "options": [
+              "me levantar",
+              "levantarse",
+              "levantarte",
+              "levantarme"
+            ],
+            "answer": 3,
+            "explanationJa": "querer + 不定詞の形で、再帰代名詞は不定詞の後ろにくっつけます。主語が yo なので me をつけて levantarme。levantarse だと三人称の代名詞 se になるので間違いです。"
+          },
+          {
+            "prompt": "Estoy _____ ahora, llamo después. (ducharse, yo)",
+            "options": [
+              "me duchando",
+              "duchándome",
+              "duchándote",
+              "duchándose"
+            ],
+            "answer": 1,
+            "explanationJa": "estar + 現在分詞の進行形。再帰代名詞は現在分詞の後ろにくっつけます。主語が yo なので me をつけて duchándome。アクセント記号を忘れないように注意！"
+          },
+          {
+            "prompt": "Vamos a _____ a las diez. (acostarse, nosotros)",
+            "options": [
+              "acostarse",
+              "acostarme",
+              "acostarnos",
+              "nos acostar"
+            ],
+            "answer": 2,
+            "explanationJa": "ir a + 不定詞の形で、再帰代名詞は不定詞の後ろにくっつけます。主語が nosotros なので nos をつけて acostarnos が正解です。"
+          },
+          {
+            "prompt": "「Se fue sin decir nada.」の意味として正しいのは？（ir と irse の違い）",
+            "options": [
+              "何も言わずに来た",
+              "何も言わずに去った（その場からいなくなった）",
+              "何も言わずに帰ってきた",
+              "何も言わずに行った（どこかへ向かった）"
+            ],
+            "answer": 1,
+            "explanationJa": "ir は「（目的地に）行く」ですが、irse は「（今いる場所から）去る・いなくなる」というニュアンスです。再帰形にすると「立ち去る」の意味が加わります。"
+          },
+          {
+            "prompt": "「El bebé ya se durmió.」と「El bebé ya durmió.」の違いとして正しいのは？",
+            "options": [
+              "意味は全く同じ",
+              "dormirse = 眠りに落ちた（入眠の瞬間）、dormir = 眠った（睡眠の行為全体）",
+              "dormirse = よく眠った、dormir = 少し眠った",
+              "dormirse = 昼寝した、dormir = 夜寝た"
+            ],
+            "answer": 1,
+            "explanationJa": "dormirse は「眠りに落ちる」という状態変化の瞬間にフォーカスします。dormir は「眠る」という行為そのもの。「赤ちゃんがやっと寝た（寝入った）」= se durmió。再帰形にすると状態変化のニュアンスが加わるパターンです。"
+          }
+        ]
+      },
+      {
+        "type": "exercises",
+        "headingJa": "練習問題（25問）",
+        "items": [
+          {
+            "type": "fill_blank",
+            "prompt": "Yo ___ a las siete. (levantarse)",
+            "answer": "me levanto",
+            "options": [
+              "se levanta",
+              "te levantas",
+              "me levanto",
+              "nos levantamos"
+            ],
+            "explanationJa": "yo → 再帰代名詞me。levantarseのyo形はlevanto。me levantoが正解。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Mi hermana ___ en cinco minutos. (ducharse)",
+            "answer": "se ducha",
+            "options": [
+              "nos duchamos",
+              "me ducho",
+              "te duchas",
+              "se ducha"
+            ],
+            "explanationJa": "mi hermana = 三人称単数 → se。duchaは-ar動詞の三人称形。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "¿A qué hora ___ normalmente? (acostarse, tú)",
+            "answer": "te acuestas",
+            "options": [
+              "te acostas",
+              "se acuesta",
+              "me acuesto",
+              "te acuestas"
+            ],
+            "explanationJa": "tú → te。acostarse はo→ueの語幹母音変化。te acuestasが正解。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Los niños ___ muy rápido. (vestirse)",
+            "answer": "se visten",
+            "options": [
+              "me visto",
+              "se viste",
+              "se visten",
+              "nos vestimos"
+            ],
+            "explanationJa": "los niños = 三人称複数 → se。vestirseはe→iの語幹母音変化。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Hoy ___ un poco triste. (sentirse, yo)",
+            "answer": "me siento",
+            "options": [
+              "me sento",
+              "se siente",
+              "te sientes",
+              "me siento"
+            ],
+            "explanationJa": "yo → me。sentirseはe→ieの語幹母音変化。me sientoが正解。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Mi padre ___ todas las mañanas. (afeitarse)",
+            "answer": "se afeita",
+            "options": [
+              "se afeita",
+              "me afeito",
+              "nos afeitamos",
+              "te afeitas"
+            ],
+            "explanationJa": "mi padre = 三人称単数 → se。afeitarseは規則活用。se afeitaが正解。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Nosotros ___ todos los días por videollamada. (verse)",
+            "answer": "nos vemos",
+            "options": [
+              "nos vemos",
+              "se ven",
+              "me veo",
+              "os veis"
+            ],
+            "explanationJa": "nosotros → nos。verse の相互用法で「お互いに会う」。nos vemosが正解。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Mis padres ___ mucho por mí. (preocuparse)",
+            "answer": "se preocupan",
+            "options": [
+              "se preocupan",
+              "nos preocupamos",
+              "me preocupo",
+              "se preocupa"
+            ],
+            "explanationJa": "mis padres = 三人称複数 → se。preocuparseは規則活用。se preocupanが正解。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Ella ___ a las seis pero no ___ hasta las seis y media. (despertarse / levantarse)",
+            "answer": "se despierta / se levanta",
+            "options": [
+              "se despierta / se levanto",
+              "se despierta / se levanta",
+              "se desperta / se levanta",
+              "me despierto / me levanto"
+            ],
+            "explanationJa": "ella → se。despertarseはe→ie変化でse despierta。levantarseは規則活用。"
+          },
+          {
+            "type": "fill_blank",
+            "prompt": "Quiero ___ temprano mañana. (levantarse, yo)",
+            "answer": "levantarme",
+            "options": [
+              "levantarme",
+              "levantarse",
+              "levantarte",
+              "me levantar"
+            ],
+            "explanationJa": "querer + 不定詞の形。再帰代名詞は不定詞の後ろにくっつけます。yo → meでlevantarme。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Yo levanto a las siete.",
+            "answer": "Me levanto a las siete.",
+            "explanationJa": "再帰動詞にはmeが必要。meを忘れると「（他人を）起こす」の意味に。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Estoy me duchando.",
+            "answer": "Estoy duchándome. / Me estoy duchando.",
+            "explanationJa": "再帰代名詞はestoyの前か、duchando の後ろにくっつけるかの2択。間には置けません。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Voy a me levantar temprano.",
+            "answer": "Voy a levantarme temprano. / Me voy a levantar temprano.",
+            "explanationJa": "再帰代名詞はvoyの前か、不定詞の後ろにくっつけるかの2択。aとlevantarの間には置けません。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Ella se maquilla se por la mañana.",
+            "answer": "Ella se maquilla por la mañana.",
+            "explanationJa": "再帰代名詞は1回だけ。活用動詞の前に置いたらそれ以上不要です。"
+          },
+          {
+            "type": "error_correction",
+            "prompt": "Nosotros se levantamos temprano.",
+            "answer": "Nosotros nos levantamos temprano.",
+            "explanationJa": "nosotrosの再帰代名詞はnos。seは三人称用です。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「Nos vemos mañana」の意味は？",
+            "options": [
+              "明日会いましょう",
+              "明日見ます",
+              "明日行きます",
+              "明日起きます"
+            ],
+            "answer": 0,
+            "explanationJa": "verse の相互用法。Nos vemos = お互いに会う = じゃあまた。別れ際の定番フレーズ。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "irseとirの違いは？",
+            "options": [
+              "irse = 去る、ir = 行く",
+              "意味は同じ",
+              "irse = 帰る、ir = 出かける",
+              "irse = 来る、ir = 行く"
+            ],
+            "answer": 0,
+            "explanationJa": "ir =（目的地に）行く。irse = その場から去る・いなくなる。再帰形で意味が変わる例。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "dormirseとdormirの違いは？",
+            "options": [
+              "同じ意味",
+              "dormirse = 眠りに落ちる、dormir = 眠る",
+              "dormirse = よく寝る、dormir = 少し寝る",
+              "dormirse = 昼寝、dormir = 夜寝る"
+            ],
+            "answer": 1,
+            "explanationJa": "dormirse = 眠りに落ちる（入眠の瞬間）。dormir = 眠る（行為全体）。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "次のうち感情を表す再帰動詞でないのは？",
+            "options": [
+              "aburrirse",
+              "ducharse",
+              "preocuparse",
+              "enfadarse"
+            ],
+            "answer": 1,
+            "explanationJa": "ducharse（シャワーを浴びる）は日常動作。他は全て感情の再帰動詞。"
+          },
+          {
+            "type": "multiple_choice",
+            "prompt": "「心配しないで」の正しいスペイン語は？",
+            "options": [
+              "No te preocupas.",
+              "No me preocupo.",
+              "No te preocupes.",
+              "No se preocupa."
+            ],
+            "answer": 2,
+            "explanationJa": "No te preocupes = 心配しないで（否定命令形）。日常会話で超頻出フレーズ。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「7時に目が覚めて、7時半に起き上がります」をスペイン語に訳しなさい。",
+            "answer": "Me despierto a las siete y me levanto a las siete y media.",
+            "acceptableAnswers": [
+              "Me despierto a las siete y me levanto a las siete y media."
+            ],
+            "explanationJa": "despertarse = 目が覚める、levantarse = 起き上がる。スペイン語では区別します。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「今着替えてるから待って」をスペイン語に訳しなさい。",
+            "answer": "Estoy vistiéndome, espera un momento.",
+            "acceptableAnswers": [
+              "Estoy vistiéndome, espera un momento.",
+              "Me estoy vistiendo, espera un momento.",
+              "Estoy vistiéndome, espera."
+            ],
+            "explanationJa": "estar + 現在分詞の進行形。再帰代名詞は前か後ろにつけるかの2択。"
+          },
+          {
+            "type": "translation",
+            "prompt": "「彼らは大学で知り合った」をスペイン語に訳しなさい。",
+            "answer": "Se conocieron en la universidad.",
+            "acceptableAnswers": [
+              "Se conocieron en la universidad.",
+              "Ellos se conocieron en la universidad."
+            ],
+            "explanationJa": "conocerseの相互用法の点過去。「お互いに知り合った」。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文を進行形にしなさい: Me ducho.",
+            "answer": "Estoy duchándome. / Me estoy duchando.",
+            "explanationJa": "estar + 現在分詞で進行形。再帰代名詞の位置は2通り可能です。"
+          },
+          {
+            "type": "sentence_transform",
+            "prompt": "次の文を否定文にしなさい: Me siento bien.",
+            "answer": "No me siento bien.",
+            "explanationJa": "否定のnoは再帰代名詞の前に置きます。No + me + siento + bien。"
+          }
+        ]
+      }
+    ],
+    "keyPointsJa": [
+      "再帰動詞は「自分自身に対する動作」を表し、再帰代名詞（me, te, se, nos, os, se）とセットで使う",
+      "日常ルーティン（起きる・寝る・着替える・シャワーを浴びる）の多くは再帰動詞",
+      "感情や状態の変化（怒る・心配する・退屈する）も再帰動詞で表すことが多い",
+      "複数主語の再帰動詞は「お互いに〜する」という相互動作も表せる（Nos vemos. = また会おうね）",
+      "再帰代名詞の位置は「活用動詞の前」または「不定詞・現在分詞の後ろにくっつける」の2択",
+      "再帰形と非再帰形で意味が変わる動詞がある（ir = 行く / irse = 去る、dormir = 眠る / dormirse = 寝入る）"
+    ]
+  }
+}
