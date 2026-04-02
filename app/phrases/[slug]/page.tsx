@@ -4,11 +4,13 @@ import {
   getAllPhraseData,
   getPhraseData,
   getRelatedArticles,
+  getContextualRelatedArticles,
   getAllArticles,
 } from "@/lib/content";
 import { SITE_URL, CATEGORIES } from "@/lib/constants";
 import Sidebar from "@/components/Sidebar";
 import AppCTA from "@/components/AppCTA";
+import RelatedArticlesInBody from "@/components/RelatedArticlesInBody";
 import { ArticleJsonLd, BreadcrumbJsonLd } from "@/components/JsonLd";
 
 export async function generateStaticParams() {
@@ -70,6 +72,12 @@ export default async function PhrasesArticlePage({
   const relatedArticles = currentArticle
     ? getRelatedArticles(currentArticle, 5)
     : [];
+  const contextualArticles = getContextualRelatedArticles(
+    slug,
+    "phrases",
+    undefined,
+    4
+  );
 
   return (
     <>
@@ -189,6 +197,8 @@ export default async function PhrasesArticlePage({
                 </div>
               </section>
             ))}
+
+            <RelatedArticlesInBody articles={contextualArticles} />
 
             <AppCTA />
           </article>

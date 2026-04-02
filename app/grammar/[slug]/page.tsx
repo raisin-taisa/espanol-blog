@@ -4,6 +4,7 @@ import {
   getAllGrammarLessons,
   getGrammarLesson,
   getRelatedArticles,
+  getContextualRelatedArticles,
   getAllArticles,
 } from "@/lib/content";
 import { SITE_URL, LEVEL_LABELS, CATEGORIES } from "@/lib/constants";
@@ -17,6 +18,7 @@ import type {
 import TableOfContents from "@/components/TableOfContents";
 import Sidebar from "@/components/Sidebar";
 import AppCTA from "@/components/AppCTA";
+import RelatedArticlesInBody from "@/components/RelatedArticlesInBody";
 import { ArticleJsonLd, BreadcrumbJsonLd } from "@/components/JsonLd";
 
 export async function generateStaticParams() {
@@ -87,6 +89,12 @@ export default async function GrammarArticlePage({
   const relatedArticles = currentArticle
     ? getRelatedArticles(currentArticle, 5)
     : [];
+  const contextualArticles = getContextualRelatedArticles(
+    slug,
+    "grammar",
+    lesson.level,
+    4
+  );
 
   return (
     <>
@@ -189,6 +197,8 @@ export default async function GrammarArticlePage({
 
               return null;
             })}
+
+            <RelatedArticlesInBody articles={contextualArticles} />
 
             <AppCTA />
           </article>

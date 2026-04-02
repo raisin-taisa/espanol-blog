@@ -24,6 +24,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: SITE_URL,
   },
+  verification: {
+    google: 'GOOGLE_VERIFICATION_CODE', // placeholder - replace after Search Console setup
+  },
 };
 
 export default function RootLayout({

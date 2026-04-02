@@ -4,11 +4,13 @@ import {
   getAllVocabData,
   getVocabData,
   getRelatedArticles,
+  getContextualRelatedArticles,
   getAllArticles,
 } from "@/lib/content";
 import { SITE_URL, LEVEL_LABELS, CATEGORIES } from "@/lib/constants";
 import Sidebar from "@/components/Sidebar";
 import AppCTA from "@/components/AppCTA";
+import RelatedArticlesInBody from "@/components/RelatedArticlesInBody";
 import { ArticleJsonLd, BreadcrumbJsonLd } from "@/components/JsonLd";
 
 export async function generateStaticParams() {
@@ -66,6 +68,12 @@ export default async function VocabularyArticlePage({
   const relatedArticles = currentArticle
     ? getRelatedArticles(currentArticle, 5)
     : [];
+  const contextualArticles = getContextualRelatedArticles(
+    slug,
+    "vocabulary",
+    vocab.level,
+    4
+  );
 
   return (
     <>
@@ -193,6 +201,8 @@ export default async function VocabularyArticlePage({
                 カテゴリはアプリで学習できます。
               </p>
             )}
+
+            <RelatedArticlesInBody articles={contextualArticles} />
 
             <AppCTA />
           </article>

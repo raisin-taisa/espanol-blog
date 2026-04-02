@@ -4,11 +4,13 @@ import {
   getConstructionsData,
   getConstructionCategory,
   getRelatedArticles,
+  getContextualRelatedArticles,
   getAllArticles,
 } from "@/lib/content";
 import { SITE_URL, LEVEL_LABELS, CATEGORIES } from "@/lib/constants";
 import Sidebar from "@/components/Sidebar";
 import AppCTA from "@/components/AppCTA";
+import RelatedArticlesInBody from "@/components/RelatedArticlesInBody";
 import { ArticleJsonLd, BreadcrumbJsonLd } from "@/components/JsonLd";
 
 export async function generateStaticParams() {
@@ -63,6 +65,12 @@ export default async function ConstructionsArticlePage({
   const relatedArticles = currentArticle
     ? getRelatedArticles(currentArticle, 5)
     : [];
+  const contextualArticles = getContextualRelatedArticles(
+    slug,
+    "constructions",
+    undefined,
+    4
+  );
 
   const tocItems = cat.constructions.map((con, i) => ({
     id: `con-${i}`,
@@ -210,6 +218,8 @@ export default async function ConstructionsArticlePage({
                 </section>
               );
             })}
+
+            <RelatedArticlesInBody articles={contextualArticles} />
 
             <AppCTA />
           </article>

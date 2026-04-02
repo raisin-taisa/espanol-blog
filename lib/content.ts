@@ -222,3 +222,96 @@ export function getRelatedArticles(
   scored.sort((a, b) => b.score - a.score);
   return scored.slice(0, count).map((s) => s.article);
 }
+
+const LEVEL_ORDER = ["a1", "a2", "b1", "b2", "c1", "c2"];
+
+function getAdjacentLevels(level: string): string[] {
+  const idx = LEVEL_ORDER.indexOf(level);
+  if (idx === -1) return [];
+  const adj: string[] = [];
+  if (idx > 0) adj.push(LEVEL_ORDER[idx - 1]);
+  if (idx < LEVEL_ORDER.length - 1) adj.push(LEVEL_ORDER[idx + 1]);
+  return adj;
+}
+
+/**
+ * Cross-category contextual linking for in-body related articles.
+ * Each article type gets links to complementary content types.
+ */
+export function getContextualRelatedArticles(
+  currentSlug: string,
+  category: ArticleMeta["category"],
+  level?: string,
+  count: number = 4
+): ArticleMeta[] {
+  const all = getAllArticles().filter(
+    (a) => !(a.slug === currentSlug && a.category === category)
+  );
+
+  const scored = all.map((a) => {
+    let score = 0;
+
+    switch (category) {
+      case "grammar":
+        // Grammar articles link to: vocab of same level, grammar of adjacent levels, constructions
+        if (a.category === "vocabulary" && a.level && a.level === level) {
+          score += 5; // same-level vocab is highest priority
+        } else if (a.category === "grammar" && a.level && level) {
+          if (getAdjacentLevels(level).includes(a.level)) {
+            score += 4; // adjacent-level grammar
+          } else if (a.level === level) {
+            score += 3; // same-level grammar
+          }
+        } else if (a.category === "constructions") {
+          score += 2; // constructions are complementary
+        }
+        break;
+
+      case "vocabulary":
+        // Vocab articles link to: grammar of same level, grammar of adjacent levels
+        if (a.category === "grammar" && a.level && level) {
+          if (a.level === level) {
+            score += 5;
+          } else if (getAdjacentLevels(level).includes(a.level)) {
+            score += 4;
+          }
+        } else if (a.category === "constructions") {
+          score += 2;
+        } else if (a.category === "phrases") {
+          score += 1;
+        }
+        break;
+
+      case "phrases":
+        // Phrase articles link to: grammar articles and constructions
+        if (a.category === "grammar") {
+          score += 4;
+        } else if (a.category === "constructions") {
+          score += 3;
+        } else if (a.category === "vocabulary") {
+          score += 1;
+        }
+        break;
+
+      case "constructions":
+        // Construction articles link to: grammar articles covering same topics
+        if (a.category === "grammar") {
+          score += 4;
+        } else if (a.category === "phrases") {
+          score += 2;
+        } else if (a.category === "vocabulary") {
+          score += 1;
+        }
+        break;
+    }
+
+    return { article: a, score };
+  });
+
+  // Filter out zero-score articles, sort, and take top N
+  return scored
+    .filter((s) => s.score > 0)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, count)
+    .map((s) => s.article);
+}
