@@ -33,6 +33,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ja">
+      <head>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2373350933367990"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body className="min-h-screen flex flex-col bg-white text-gray-900">
         <header className="sticky top-0 z-50 bg-white border-b border-gray-200">
           <nav className="max-w-5xl mx-auto px-4 h-16 flex items-center justify-between">
